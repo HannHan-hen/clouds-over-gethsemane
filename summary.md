@@ -1,0 +1,16 @@
+# Book 1 Chapter Summaries
+
+## Chapter 1: Things set in motion
+Leo Turner convinces his best friend Ian Hagen to hire Jay Hall as his new assistant, despite Ian's deep mistrust stemming from a past betrayal by a corporate spy posing as his secretary. Jay arrives desperate for a safe workplace after fleeing sexual harassment at his previous job, seeing Ian's legendary coldness toward office romance as protection. While Jay performs excellently and genuinely appreciates the opportunity, Ian remains suspicious, unable to distinguish between Jay's authentic earnestness and potential manipulation.
+
+## Chapter 2: Fitting in
+Jay's solitary weekend routine reveals his disciplined, isolated life as he prepares meticulously for work. He begins joining team lunches despite the financial strain and social exhaustion, struggling to perform normalcy. When Jay makes a spreadsheet error, Ian helps him fix it with unexpected patience, confusing Jay's understanding of their dynamic. Despite Jay's competent work and the team's genuine warmth, Ian's suspicions deepen—seeing Jay's very lack of agenda as potentially the most sophisticated manipulation of all.
+
+## Chapter 3: Establishing himself
+Jay settles into office life, discovering small comforts like a favorite bistro and a pocket park. He contributes valuable insight during a strategy meeting about the Wentworth client, earning Ian's rare praise. After successfully attending Friday drinks and completing his first month, Jay discovers his compensation includes substantial bonuses he hadn't expected. The financial security is overwhelming, but he remains cautious, knowing his three-month probation isn't over. Ian continues to observe him carefully, caught between growing respect for Jay's work and persistent fear of being deceived again.
+
+## Chapter 4: The ripples
+Ian's attraction to and respect for Jay creates dangerous echoes of his past with Sam Connelly. When Jay asks about a previous acquisition, Ian shuts him down harshly, creating painful distance between them. Jay withdraws completely, becoming invisible and resigned. The return of Max, a boisterous senior analyst, shatters Jay's fragile peace when he casually refers to Jay as Leo's "joke hire." Jay discovers online the full story of Ian's scandal and the speculation about his "type" in hiring. Realizing he may be a pawn in Leo's games, Jay feels betrayed but trapped—this exploitative job is still safer than his previous one.
+
+## Chapter 5: Finding his place
+At the lavish quarterly party, Jay feels like an imposter despite his expensive suit, watching Ian's warmth with others while receiving only cold courtesy himself. Ian assigns Jay an important compliance audit, attempting to show his value, but Jay processes it mechanically. During the celebration of the Hartwell acquisition, Max makes an inappropriate comment about Jay's appearance helping win the client. Though Max later apologizes and Jay receives his permanent contract with a raise, he feels nothing. The achievement tastes like ash—he's earned security by staying invisible, trading dignity for safety. Three months in, Jay exists in what he describes as "a comfortable prison," slowly rotting inside a respectable tomb.
