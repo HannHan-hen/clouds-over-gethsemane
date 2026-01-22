@@ -7,7 +7,7 @@
 The narrative explores themes of trust, professional boundaries, class disparity, and the courage required to be vulnerable after betrayal. Set against the backdrop of Turner & Associates, a prestigious investment firm, the story unfolds over the course of a year as both men navigate their growing attraction while grappling with past wounds and power dynamics.
 
 **Genre:** Contemporary Romance, Workplace Romance, Slowburn
-**Status:** Book 1 complete (20 chapters), Book 2 complete, Book 3 in progress (Act 1)
+**Status:** Book 1 complete (20 chapters), Book 2 complete (20 chapters), Book 3 in progress (5 chapters)
 **Setting:** Modern-day financial district in a major city
 
 ---
@@ -46,11 +46,29 @@ The slowburn is characterized by moments of connection followed by retreat, smal
 
 ---
 
+## Book Two Summary
+
+Book Two follows Jay's second year, exploring the deepening intimacy between Ian and Jay through shared traumas, domestic moments, and escalating emotional dependency. Key developments include Leo teasing Ian about his obvious feelings, Jay experiencing his first business trip with Ian's protective care, a disastrous blind date leading to Ian revealing his eight years of poverty after being disowned, and Jay sharing his own sexual harassment trauma. Their relationship evolves through weekend outings (ferry rides, botanical gardens), Christmas spent together baking in matching aprons, and Ian manipulating real estate to place Jay's new apartment near his penthouse.
+
+The year includes a job-search crisis when Jay loses his $10,000 emergency fund and secretly interviews elsewhere before choosing to stay with Ian (who responds with a massive counter-offer). A new hire, Gal, becomes predatory and falsely accuses Jay of sexual harassment—Ian immediately proves Jay's innocence through security footage and has Gal terminated and blacklisted within hours. The book ends with summer approaching and their bond unbreakable despite neither acknowledging its romantic nature.
+
+---
+
+## Book Three Summary (In Progress)
+
+Book Three begins Jay's third year at Turner & Associates. Ian's 40th birthday becomes a central event—Leo plans a spectacular 500-guest gala while Jay anxiously crafts homemade tinctures as his gift. Jay arrives breathtaking in a floral blazer styled by Eli, wishes Ian happy birthday with devastating sincerity, and Ian later treasures Jay's handmade gift above all others (including Leo's hideous antique brooch). They establish new traditions: Tuesday runs, Friday dinners, plans for a November vacation to the Songbird Islands.
+
+The team expands with Ray Shore (brilliant analyst obsessed with hot springs) and Tia Larson. Quarterly reports pass with unprecedented ease. Jay successfully buys his brother Tim a car for his 18th birthday. However, with routines disrupted by winter and reporting season, both men feel desperately lonely despite daily contact.
+
+The hot springs retreat brings devastating developments: Jay nearly freezes hiking without proper gear, they witness aurora borealis from an ocean-edge pool, and at a naked sauna Jay is overwhelmed seeing Ian's body. That night, drunk and clinging to Ian in the cold, Jay begs him to "hold me for the rest of my life." Ian complies, holding Jay as he sleeps while suffering the cruelty of hearing exactly what he wants but can never have. Jay wakes mortified with memory gaps; Ian pretends nothing happened to spare him embarrassment while internally falling apart.
+
+---
+
 ## Main Characters
 
 ### Ian Hagen
 
-**Age:** 35
+**Age:** 38 (turns 40 in Book 3)
 **Position:** Chief Financial Officer at Turner & Associates
 **Background:** Comes from old money and extreme privilege. Attended elite institutions and had access to the best education and resources. His family wealth and status are evident in his effortless sophistication.
 
