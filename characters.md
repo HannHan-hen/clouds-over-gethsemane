@@ -59,7 +59,7 @@
 
 ---
 
-### Max
+### Max Goodwin
 **Age:** Late 30s-40s
 **Position:** Senior Analyst
 **Background:** Boisterous, experienced professional
@@ -72,7 +72,7 @@
 
 ---
 
-### Luc
+### Luc Webb
 **Age:** Late 20s-early 30s
 **Position:** Analyst (formerly Ian's assistant before Jay)
 **Background:** Young professional still figuring out life
@@ -85,7 +85,7 @@
 
 ---
 
-### Amy
+### Amy Evans
 **Age:** 40+
 **Position:** Senior Analyst, runs analytical side of operations
 **Background:** Eight years at Turner & Associates, longest-serving team member
@@ -98,7 +98,7 @@
 
 ---
 
-### Kim
+### Kim Thompson
 **Age:** Late 20s-early 30s
 **Position:** Technical specialist, database management
 
@@ -108,7 +108,7 @@
 
 ---
 
-### Ela
+### Ela Rodriguez
 **Age:** Late 20s-early 30s
 **Position:** Client communications specialist
 
@@ -118,7 +118,7 @@
 
 ---
 
-### Zoe
+### Zoe Jones
 **Age:** Late 20s
 **Position:** Analyst
 **Background:** Certified scuba diving instructor
@@ -218,9 +218,10 @@
 
 ## Extended Family & Personal Connections
 
-### Jay's Mother
+### Ira Carter (née Hall)
 **Age:** Late 40s
-**Background:** Had Jay at 18, unwed teenage mother. Later married and built stable family with three more children.
+**Position:** Jay's mother
+**Background:** Had Jay at 18, unwed teenage mother. Maiden name Hall (Jay's surname). Later married Ted Carter and built stable family with three more children.
 
 **Personality:** Warm, caring, maintains limited but affectionate contact with Jay. Feels guilt about his difficult childhood but has built a better life with second family.
 
@@ -228,7 +229,7 @@
 
 ---
 
-### Ema
+### Ema Carter
 **Age:** 13-14 in Book 1, now mid-teens
 **Position:** Jay's half-sister
 **Background:** Raised in stable household with present father
@@ -252,7 +253,7 @@
 
 ---
 
-### Ari
+### Ari Carter
 **Age:** Early teens
 **Position:** Jay's half-sibling
 **Background:** Raised in stable household
@@ -263,7 +264,7 @@
 
 ---
 
-### Tim
+### Tim Carter
 **Age:** Late teens, turns 18 in Book 3
 **Position:** Jay's half-brother
 **Background:** Raised in stable household with present father
@@ -285,9 +286,10 @@
 
 ---
 
-### Jay's Stepfather
+### Ted Carter
 **Age:** 40s-50s
-**Background:** Married Jay's mother, father to three younger children
+**Position:** Jay's stepfather
+**Background:** Married Ira Hall (now Ira Carter), father to Ema, Ari, and Tim Carter
 
 **Role:** Present and engaged father to Jay's half-siblings, providing the stability they need. Gave them secure household where children weren't accidental burdens. Jay holds no resentment toward him.
 
@@ -316,6 +318,19 @@
 **Key Moment:** Meeting where Ian brings Jay along, driving through affluent neighborhoods. Afterward they share expensive lunch where Ian opens up about his privileged upbringing. The trip creates unexpected intimacy between Ian and Jay.
 
 ---
+
+### Mac Cartwright
+**Age:** 40s
+**Position:** CEO of Garnet Ridge Group (New Continent)
+**Background:** Old friends with Ian from university
+
+**Personality:** Gregarious, friendly, typical New Continent boisterousness. Values personal connections and old friendships.
+
+**Key Moments:** Book 2 Chapter 24 - Hosts Ian and Jay for business trip to New Continent. Greets Ian like long-lost friend, trades university stories over lunch. After his executive Zac sexually harasses Jay at dinner, Mac appears at hotel mortified, fires Zac immediately, and desperately tries to salvage the business relationship. Takes them to tech lab, gives Jay prototype laptop as sincere apology. Represents the more positive side of New Continent business culture compared to Zac's predatory behavior.
+
+---
+
+## Friends
 
 ### Rus
 **Age:** 30s
@@ -364,6 +379,8 @@
 **Key Moments:** Meets Jay when Jay needs outfit help. Provides patient, expert styling advice. Receives invitation to Ian's 40th birthday gala and is awed by the spectacle. Asks Jay about gift ideas for Ian, showing thoughtful approach to attending someone's celebration.
 
 ---
+
+## Professional Contacts
 
 ### Turner Senior (Leo's Father)
 **Position:** Founder/Senior Partner of Turner & Associates
