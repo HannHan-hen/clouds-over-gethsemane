@@ -1,9 +1,9 @@
-# Character Reference - Book One
+# Character Reference - Books 1-3
 
 ## Main Characters
 
 ### Ian Hagen
-**Age:** 35
+**Age:** 38 at series start, turns 40 in Book 3
 **Position:** Chief Financial Officer at Turner & Associates
 **Background:** Old money, elite education, extremely privileged upbringing
 
@@ -17,11 +17,15 @@
 
 **Arc in Book One:** Moves from paranoid suspicion of Jay to reluctant respect, then protective care, and finally acknowledged love. By year's end, admits to himself he's hopelessly in love with Jay but believes his feelings are impossible and unrequited.
 
+**Arc in Book Two:** Deepens emotional intimacy with Jay through shared vulnerability (revealing his eight years of poverty after being disowned) and protective actions (rescuing Jay from blind date, terminating predatory client partnerships, destroying Gal's career for false accusations). Manipulates real estate to place Jay's apartment near his penthouse. Spends Christmas baking with Jay in matching aprons. Offers massive raise and promotion to keep Jay from leaving. His love intensifies but remains unspoken.
+
+**Arc in Book Three:** Establishes new traditions with Jay (Tuesday runs, Friday dinners). Turns 40 with spectacular birthday gala where Jay gives him handmade tinctures he treasures above all other gifts. Plans ten-day November vacation with Jay to Songbird Islands. At hot springs retreat, holds drunk Jay who begs to be held "for the rest of my life"—the most beautiful and devastating thing Ian has ever heard. Pretends nothing happened to spare Jay embarrassment while internally falling apart from the impossibility of their situation.
+
 ---
 
 ### Jay Hall
-**Age:** 29, turns 30 in Chapter 20
-**Position:** Executive Assistant to Ian Hagen
+**Age:** 29 at series start, turns 30 in Book 1 Chapter 20, now 30+
+**Position:** Executive Assistant (later Senior Assistant) to Ian Hagen
 **Background:** Modest upbringing, born to unwed teenage mother, raised by bitter grandmother. Attended third-tier local university on tight budget. Has younger half-siblings from mother's stable second marriage.
 
 **Physical Description:** Strikingly attractive, which has caused problems for him throughout his career. When dressed in quality clothes, he's stunning enough to draw attention at formal events.
@@ -33,6 +37,10 @@
 **Notable Traits:** Exceptionally competent despite self-doubt, financially cautious (aggressively pays off student loans), disciplined (maintains gym schedule, studies regularly), isolated with no real social life outside work, becomes obsessed with trying every soup at Willow & Sage bistro, poor at photography, refuses to take vacation unless Ian does.
 
 **Arc in Book One:** Transforms from scared, broke young man hiding in plain sight to someone who feels genuine happiness and belonging. Moves from viewing Ian with fearful respect to deep admiration, trust, and feelings he can't fully acknowledge. By year's end, confident enough to refuse promotion because being Ian's assistant is what he truly wants—though he doesn't yet understand the romantic nature of his attachment.
+
+**Arc in Book Two:** Grows more confident and comfortable offering care to Ian. Shares his sexual harassment trauma with Ian after Ian reveals his poverty years. Friends diagnose him as "in love" with Ian but Jay refuses to accept it. Loses $10,000 emergency fund and secretly job-hunts but ultimately chooses to stay with Ian despite financial loss. Moves into new apartment near Ian's penthouse, gives Ian spare key. Promoted to Senior Assistant. Survives Gal's false harassment accusation, deepening his dependence on Ian's protection.
+
+**Arc in Book Three:** Anxiously crafts homemade tinctures as Ian's 40th birthday gift, comparing himself to Leo's extravagance. Arrives at gala breathtaking in styled outfit, tells Ian "you matter so much" with devastating sincerity. Buys brother Tim a car for his 18th birthday. Feels desperately lonely when routines (runs, Friday dinners) are disrupted despite seeing Ian daily. At hot springs retreat, gets drunk and begs Ian to "hold me for the rest of my life"—wakes mortified with memory gaps, apologizing profusely, unaware of the devastation his words caused Ian.
 
 ---
 
@@ -47,6 +55,8 @@
 
 **Role:** Ian's best friend who deliberately hires Jay as matchmaking therapy. Creates situations to push Ian and Jay together (arranging room-sharing at retreat, giving Jay company card). Protective of both Ian and Jay. Correctly identifies Ian's attraction to Jay and teases him about it mercilessly.
 
+**Book 2-3 Developments:** Visits Ian to tease him about feelings for Jay, separately corners Jay to warn him about being "gentle with Ian's heart." Arranges expensive tailored suits for Jay through condescending tailor (Jay feels humiliated). Plans Ian's 40th birthday—promises "small gathering" but creates 500-guest spectacular gala with fireworks, vaudeville star, orchestra. Arranges everything for Ema and Lam's gala attendance (car, dresses, makeup, hair). Gives Ian hideous antique brooch as birthday gift after hunting across multiple countries—Jay laughs with relief that his homemade tinctures compare favorably. Creates elaborate errands to delay Jay's arrival at party so he makes dramatic entrance. Helps Ema choose botanical garden tickets as gift, engineering spring weekend for Ian and Jay. Pays for their November Songbird Islands vacation through company funds.
+
 ---
 
 ### Max
@@ -57,6 +67,8 @@
 **Personality:** Loud, friendly, sometimes inappropriate but fundamentally good-hearted. Has a tendency to speak before thinking. Family man with wife and children. Takes eccentric vacations to unpopular destinations.
 
 **Key Moments:** Casually refers to Jay as Leo's "joke hire" early on, shattering Jay's confidence. Later apologizes sincerely. Makes inappropriate comment about Jay's appearance helping win Hartwell client but genuinely regrets it.
+
+**Book 2-3 Developments:** Wife wears loads of jewelry to Ian's 40th birthday gala, laughs as loudly as Max does. At hot springs retreat, drinks ice-cold vodka with Luc and Tia despite Ela's warnings about tomorrow's regret. Declares "no work talk" at retreat when Amy and Liv discuss process improvements. Continues being boisterous, good-hearted presence on team.
 
 ---
 
@@ -69,6 +81,8 @@
 
 **Key Moments:** Consistently invites Jay to Friday drinks despite repeated refusals. Takes Jay for hot chocolate with rum after Jay's filing mistake, sharing his own early mistake story to help Jay recover confidence. Shares doubts about his relationship and life direction with Jay.
 
+**Book 2-3 Developments:** Breaks up with Cam after eight years in Book 2 Chapter 23—leads to emotional sleepover at Jay's cramped studio where they bond over shared heartbreak and terrible scrambled eggs. Pressures Jay into disastrous blind date with arrogant Yan who mocks Jay and spills wine on him. Organizes laser tag outing that leaves Jay muddy and miserable. At Ian's 40th birthday gala, dances appropriately with Ema, making her feel special. Drinks heavily with Max and Tia at hot springs retreat. Continues being Jay's primary workplace friend and confidant.
+
 ---
 
 ### Amy
@@ -79,6 +93,8 @@
 **Personality:** Sharp intelligence that intimidates most people in the office. Competent, maternal in a professional way, perceptive about office dynamics. Ian trusts her judgment completely. Married with two teenage daughters (15 and 13).
 
 **Role:** Provides institutional knowledge and analytical expertise. Mother figure to younger team members. Declares she no longer acknowledges birthdays after turning forty. Balances demanding career with family obligations.
+
+**Book 2-3 Developments:** Husband looks serious and vaguely unhappy at Ian's 40th birthday gala. At hot springs retreat, discusses process improvements with Liv (Max objects to work talk). Continues being steady, competent presence providing analytical leadership to team.
 
 ---
 
@@ -107,9 +123,55 @@
 **Position:** Analyst
 **Background:** Certified scuba diving instructor
 
-**Personality:** Shy, practically invisible at the office despite being competent. Sweet, quiet, doesn't attend Friday drinks. Passionate about scuba diving.
+**Personality:** Shy, practically invisible at the office despite being competent. Sweet, quiet, doesn't attend Friday drinks. Passionate about scuba diving and hiking.
 
-**Key Moments:** Helps lead scuba diving at company retreat, where Jay has his first dive experience. Takes a two-week scuba diving vacation and encourages Jay to try beginner classes after seeing him enjoy the retreat dive.
+**Key Moments:** Helps lead scuba diving at company retreat, where Jay has his first dive experience. Takes a two-week scuba diving vacation and encourages Jay to try beginner classes after seeing him enjoy the retreat dive. At Book 3 hot springs retreat, enthusiastically leads hiking expeditions with detailed route planning.
+
+---
+
+### Ray Shore
+**Age:** Late 20s-early 30s
+**Position:** Analyst (joins in Book 2 Chapter 36)
+**Background:** Brilliant analyst with mysterious personality
+
+**Personality:** Taciturn, emotionally flat, brilliant at work. Produces virtually flawless work at incredible speed—works like a machine. Rarely speaks or shows expression. However, passionately enthusiastic about hot springs. Never attends social events until Leo somehow forces/threatens him. Rooms with Rin who finds him fascinating.
+
+**Key Traits:** Makes quarterly reports pass with unprecedented ease thanks to his efficiency. Claims to "love hot springs" (delivered so flatly no one can tell if serious). At Book 3 hot springs retreat, strips down and plunges into wild sulphur pools without hesitation, looking genuinely happy. Knows detailed information about mineral content and water temperatures. Actively demands sauna time after hiking—most enthusiasm anyone has seen from him.
+
+**Development:** Initially disrupts office dynamic when hired. Trains with Jay. Rin develops fixation on him, copying his actions and trying to befriend him like "befriending a particularly taciturn cat." Ray tolerates Rin's attention with surprising patience at hot springs retreat.
+
+---
+
+### Tia Larson
+**Age:** 30s
+**Position:** Analyst (joins in Book 3 Chapter 42)
+**Background:** Military veteran
+
+**Personality:** Competent, professional, adapts quickly to office culture. Slightly awkward at large social events until connected with other military veterans. Bonds immediately with Rus and Van over shared service background, trading stories about bases and deployments.
+
+**Key Moments:** First major party is Ian's massive 40th birthday gala—handles it well after initial awkwardness. At hot springs retreat, prefers pampering activities over extreme hiking, having had enough physical discomfort during military years.
+
+---
+
+### Liv
+**Age:** Late 30s-40s
+**Position:** Senior team member
+**Background:** Long-term employee, married
+
+**Personality:** Competent, professional. Married to husband with long hair, multiple piercings, and air of mild boredom who attends company events. Part of the senior staff alongside Max and Amy.
+
+**Key Traits:** Works efficiently with Ray during quarterly reports, forming unstoppable machine-like team. Their combined efficiency makes reporting season pass with unprecedented ease, finishing tasks days ahead of schedule with no overtime.
+
+---
+
+### Rin
+**Age:** 20s
+**Position:** Junior team member
+**Background:** Newer hire
+
+**Personality:** Sweet, enthusiastic, develops immediate fixation on Ray Shore. Clings to Luc at large parties when overwhelmed by crowds. Finds Ray fascinating and attempts to befriend him despite Ray's emotional flatness.
+
+**Key Moments:** Rooms with Ray at hot springs retreat, visibly delighted by the pairing. Copies Ray's actions at hot springs (applying clay, entering pools), which Ray tolerates. Helps during quarterly reports by running files between desks and double-checking calculations. Absolutely thrilled when Ray shows enthusiasm for wild hot spring pools.
 
 ---
 
@@ -139,6 +201,21 @@
 
 ---
 
+### Gal
+**Age:** Late 20s-30s
+**Position:** Senior Analyst (Book 2, terminated)
+**Background:** New hire in Book 2 Chapter 38
+
+**Personality:** Charismatic, manipulative, predatory. Presents as friendly and helpful while secretly calculating. Monopolizes Jay's time with constant questions and requests for help, becoming clingy and possessive of Jay's attention.
+
+**Key Actions:** Spends weeks ingratiating himself to Jay, who is too kind to refuse help requests. Ian watches with growing frustration and poorly concealed jealousy. In Book 2 Chapter 40, Gal accuses Jay of sexual harassment in calculated move to eliminate competition for promotion—orchestrates situations to create false evidence.
+
+**Resolution:** Ian immediately reviews security footage proving Jay's innocence and showing Gal's deliberate manipulation. Ian terminates Gal's employment within hours and ensures he's blacklisted from the industry. The accusation devastates Jay, triggering his previous job trauma, but Ian's swift protective action resolves it decisively.
+
+**Impact:** Forces both Ian and Jay to acknowledge depth of their connection. Jay realizes how much he depends on Ian's protection. Ian's response demonstrates the lengths he'll go to protect Jay.
+
+---
+
 ## Extended Family & Personal Connections
 
 ### Jay's Mother
@@ -152,13 +229,26 @@
 ---
 
 ### Ema
-**Age:** 13-14, middle schooler
+**Age:** 13-14 in Book 1, now mid-teens
 **Position:** Jay's half-sister
 **Background:** Raised in stable household with present father
 
 **Personality:** Enthusiastic, proud of her "investment banker brother," social media savvy, cheerleader. Unabashedly shows off Jay to friends. Thinks Jay's life is glamorous and wants to share it with her peer group.
 
-**Key Moments:** Middle school graduation that Jay attends using company limousine, creating huge impression. Demands office photos and insists Jay get social media. Her friends swarm the luxury car and Jay ends up driving them around town shopping. Represents the uncomplicated sibling affection Jay didn't have growing up.
+**Key Moments:** Middle school graduation that Jay attends using company limousine, creating huge impression. Demands office photos and insists Jay get social media. Her friends swarm the luxury car and Jay ends up driving them around town shopping.
+
+**Book 3 Development:** Desperately begs to attend Ian's 40th birthday gala, leading to tense negotiations with protective mother. Leo arranges everything—car pickup, overnight stay with Jay, shopping trip for dresses. Attends gala with friend Lam in dramatic Victorian gowns (deep blue with black lace, perfectly modest despite theatrical style). Supervised by Rus and Van all evening. Has "best night of her life"—dances, talks makeup with flamboyant theater people, feels like princess. With Lam, gives Ian botanical garden night tickets as birthday gift (Leo's idea), creating excuse for Ian and Jay to take spring weekend trip together. Represents the uncomplicated sibling affection Jay didn't have growing up.
+
+---
+
+### Lam
+**Age:** Mid-teens
+**Position:** Ema's best friend
+**Background:** Never been to the city before Ian's gala
+
+**Personality:** Quieter than Ema but equally excited about experiences. Wide-eyed at city's size and glamour.
+
+**Key Moments:** Attends Ian's 40th birthday gala with Ema as Leo's guest. Stays overnight at Jay's apartment with Ema—giggling, music playing, suitcases exploding everywhere. Wears rose-colored Victorian gown with velvet accents to gala. Supervised by Rus and Van all evening. Entertained by Mic on dance floor (appropriately). With Ema, gives Ian botanical garden tickets as birthday gift. Represents Ema's stable, normal teenage friendship.
 
 ---
 
@@ -174,13 +264,15 @@
 ---
 
 ### Tim
-**Age:** Late teens, considering college applications
+**Age:** Late teens, turns 18 in Book 3
 **Position:** Jay's half-brother
-**Background:** Raised in stable household
+**Background:** Raised in stable household with present father
 
-**Personality:** Already taller than Jay despite being younger. Quieter, lurks in background of family photos.
+**Personality:** Already taller than Jay despite being younger. Quieter than siblings, lurks in background of family photos. Wants a car that "doesn't look like it belongs to someone's grandfather."
 
 **Role:** Youngest of Jay's half-siblings, represents the complete family unit Jay observes from distance.
+
+**Book 3 Development:** Jay buys him a reliable dark blue sedan for his 18th birthday, working with car salesman (Ian's contact) for weeks to find the right vehicle. Birthday party held at small-town venue with family and friends. When Jay reveals the car, Tim is overwhelmed with joy—half-laughing, half-shouting, throwing arms around Jay, running to examine the car with shaking hands. The gift represents Jay's success and his care for his siblings despite the distance of their childhoods.
 
 ---
 
@@ -228,11 +320,48 @@
 ### Rus
 **Age:** 30s
 **Position:** Personal trainer at Jay's gym
-**Background:** Professional trainer
+**Background:** Professional trainer, military veteran
 
-**Personality:** Pleasant, easygoing, accustomed to guiding beginners. Patient and encouraging without being condescending. Advocates for work-life balance.
+**Personality:** Pleasant, easygoing, accustomed to guiding beginners. Patient and encouraging without being condescending. Advocates for work-life balance. Protective of those under his care. Has military background—bonds immediately with Tia Larson and Van over shared service experience.
 
-**Role:** Trains Jay starting in spring, manages his pace expertly. Gives Jay "birthday special" punishing workout on his 30th. Provides simple at-home exercise plan. Gently suggests Jay join group fitness classes to meet people and improve work-life balance, though Jay declines. Knows Jay's birthday from membership records.
+**Role:** Trains Jay starting in Book 1, manages his pace expertly. Gives Jay "birthday special" punishing workout on his 30th. Provides simple at-home exercise plan.
+
+**Book 2-3 Developments:** Jay organizes fencing night for Luc's benefit, recruiting Rus and gym friends for team competition. Invited to Ian's 40th birthday gala along with entire gym group—Leo arranges tailored outfits for all of them. At gala, stands guard over Jay's sister Ema and her friend Lam "like a wolfhound guarding a princess." Gives Ian birthday gift: gym hoodie and two-person sauna package voucher with note to "take your assistant to sauna and show him how it's done properly." Teases Jay mercilessly about being in love with his boss. Bonds with Tia at gala over military experiences.
+
+---
+
+### Van
+**Age:** 30s-40s
+**Position:** Gym member, Jay's friend
+**Background:** Military veteran
+
+**Personality:** Intimidating physical presence—described as "gothic gargoyle carved from stone and suspicion." Protective, serious, quiet. Bonds with Rus and Tia over shared military service.
+
+**Role:** Part of Jay's gym friend group. Attends fencing night. At Ian's 40th birthday gala, stands guard over Ema and Lam alongside Rus, ensuring no one approaches the young girls inappropriately. His imposing presence provides effective protection.
+
+---
+
+### Mic
+**Age:** 20s-30s
+**Position:** Gym member, Jay's friend
+**Background:** Has reputation as bit of a menace
+
+**Personality:** Friendly, entertaining, playful. Despite reputation, maintains appropriate boundaries. Gestures wildly when entertaining people.
+
+**Role:** Part of Jay's gym friend group. At Ian's 40th birthday gala, entertains Jay's sister's friend Lam nearby on dance floor, making her giggle, but Rus confirms "he wouldn't go after little girls"—maintains respectful distance despite his playful reputation.
+
+---
+
+### Eli
+**Age:** Late 20s-early 30s
+**Position:** Sales associate/stylist at Hathaway's boutique
+**Background:** Works at upscale menswear boutique across from Northlight Financial Center
+
+**Personality:** Professional, kind, genuinely helpful without being condescending or pushy. Perceptive about style and presentation. Four years at Hathaway's, enjoys customer interaction. Patient with Jay's styling anxiety.
+
+**Role:** Helps Jay with outfit choices on multiple occasions. Jay invites him to Ian's 40th birthday gala as thank-you for his help. Eli styles Jay's breathtaking look for the party—floral blazer, open-collar shirt, deliberately tousled hair. At gala, slightly starstruck meeting Ian, offers future styling services. Ian becomes quietly jealous when Jay mentions inviting "an acquaintance" not realizing it's innocent gratitude to helpful stylist.
+
+**Key Moments:** Meets Jay when Jay needs outfit help. Provides patient, expert styling advice. Receives invitation to Ian's 40th birthday gala and is awed by the spectacle. Asks Jay about gift ideas for Ian, showing thoughtful approach to attending someone's celebration.
 
 ---
 
@@ -265,7 +394,13 @@ Acknowledge Jay with friendly waves. Part of the building community that Jay mak
 Best friends since childhood, both from privileged backgrounds. Leo saved Ian's career after scandal. Their friendship is characterized by Leo's interventionist manipulation (always for Ian's benefit) and Ian's exasperated tolerance. Leo correctly reads Ian's feelings and pushes him toward happiness despite Ian's resistance.
 
 ### Ian & Jay
-Boss/assistant with massive power imbalance, but evolving into something neither can name. Built on slow trust-building, quiet intimacy through long evenings working together, small thoughtful gestures, and mutual protection. By year's end: Ian acknowledges he's in love but believes it's hopeless; Jay has deep feelings he interprets as admiration and loyalty rather than romance.
+Boss/assistant with massive power imbalance, but evolving into something neither can name. Built on slow trust-building, quiet intimacy through long evenings working together, small thoughtful gestures, and mutual protection.
+
+**Book 1:** Ian acknowledges he's in love but believes it's hopeless; Jay has deep feelings he interprets as admiration and loyalty rather than romance.
+
+**Book 2:** Deepen through shared vulnerability (Ian reveals poverty years, Jay shares harassment trauma), domestic moments (Christmas baking in matching aprons), and Ian's protective actions (destroying Gal's career, terminating predatory clients). Ian manipulates Jay's apartment location to be near his penthouse. Both are increasingly dependent on each other emotionally while maintaining professional facade.
+
+**Book 3:** Establish traditions (Tuesday runs, Friday dinners), plan vacation together. Ian treasures Jay's handmade birthday gift. When routines are disrupted, both feel desperately lonely despite daily contact. At hot springs retreat, drunk Jay begs Ian to "hold me for the rest of my life"—Ian complies while suffering devastation. Jay wakes mortified with memory gaps; Ian pretends nothing happened. Both are trapped in impossible love neither can acknowledge.
 
 ### Jay & Luc
 Workplace friendship, with Luc serving as Jay's primary social connection. Luc is perceptive about when Jay needs support and provides it without judgment. They confide in each other about personal struggles.
