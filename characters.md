@@ -153,10 +153,10 @@
 
 ---
 
-### Liv
+### Liv Moreau
 **Age:** Late 30s-40s
-**Position:** Senior team member
-**Background:** Long-term employee, married
+**Position:** Senior Analyst (joins in Book 2 Chapter 38)
+**Background:** Married
 
 **Personality:** Competent, professional. Married to husband with long hair, multiple piercings, and air of mild boredom who attends company events. Part of the senior staff alongside Max and Amy.
 
@@ -164,10 +164,10 @@
 
 ---
 
-### Rin
+### Rin Harris
 **Age:** 20s
-**Position:** Junior team member
-**Background:** Newer hire
+**Position:** Junior Analyst (joins in Book 2 Chapter 38)
+**Background:** Newer hire, male
 
 **Personality:** Sweet, enthusiastic, develops immediate fixation on Ray Shore. Clings to Luc at large parties when overwhelmed by crowds. Finds Ray fascinating and attempts to befriend him despite Ray's emotional flatness.
 
@@ -201,16 +201,16 @@
 
 ---
 
-### Gal
+### Gal Gray
 **Age:** Late 20s-30s
-**Position:** Senior Analyst (Book 2, terminated)
+**Position:** Junior Analyst (Book 2, terminated)
 **Background:** New hire in Book 2 Chapter 38
 
 **Personality:** Charismatic, manipulative, predatory. Presents as friendly and helpful while secretly calculating. Monopolizes Jay's time with constant questions and requests for help, becoming clingy and possessive of Jay's attention.
 
-**Key Actions:** Spends weeks ingratiating himself to Jay, who is too kind to refuse help requests. Ian watches with growing frustration and poorly concealed jealousy. In Book 2 Chapter 40, Gal accuses Jay of sexual harassment in calculated move to eliminate competition for promotion—orchestrates situations to create false evidence.
+**Key Actions:** Spends weeks ingratiating herself to Jay, who is too kind to refuse help requests. Ian watches with growing frustration and poorly concealed jealousy. In Book 2 Chapter 40, Gal corners Jay in the archive room and files a false assault claim when rebuffed—surveillance footage proves Jay's innocence and she's terminated immediately.
 
-**Resolution:** Ian immediately reviews security footage proving Jay's innocence and showing Gal's deliberate manipulation. Ian terminates Gal's employment within hours and ensures he's blacklisted from the industry. The accusation devastates Jay, triggering his previous job trauma, but Ian's swift protective action resolves it decisively.
+**Resolution:** Ian immediately reviews security footage proving Jay's innocence and showing Gal's deliberate manipulation. Ian terminates Gal's employment within hours and ensures she's blacklisted from the industry. The accusation devastates Jay, triggering his previous job trauma, but Ian's swift protective action resolves it decisively.
 
 **Impact:** Forces both Ian and Jay to acknowledge depth of their connection. Jay realizes how much he depends on Ian's protection. Ian's response demonstrates the lengths he'll go to protect Jay.
 
