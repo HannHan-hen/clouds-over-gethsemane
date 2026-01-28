@@ -5,33 +5,33 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ---
 
-## Chapter 21: Summer Heat
+## Chapter 21: Summer heat
 
-### Scene 1: August in the city
+### Scene 1: Vigilance
 - **Duration:** 1 day
 - **Date:** Monday, August 6, 2018
 - **Day of Week:** Monday
 - **Summary:** Ian acknowledges to himself his growing feelings for Jay while watching him in the summer heat. He privately admits he's fallen in love with his assistant but vows never to act on it.
 
-### Scene 2: Diving lessons
+### Scene 2: Planned departures
 - **Duration:** 2 days
 - **Date:** Tuesday, August 7, 2018
 - **Day of Week:** Tuesday
 - **Summary:** Jay begins taking scuba diving lessons at a local pool facility on Tuesday evenings. Ian reflects on how diving was something they'd shared at the resort and how Jay is pursuing it independently.
 
-### Scene 3: Mentorship
+### Scene 3: Diving lesson
 - **Duration:** 1 day
 - **Date:** Wednesday, August 8, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Zoe approaches Jay about his career development, becoming an informal mentor. She notices his potential and offers guidance on navigating the corporate world.
 
-### Scene 4: Impossible to forget
+### Scene 4: Sunset brooding
 - **Duration:** 1 day
 - **Date:** Friday, August 10, 2018
 - **Day of Week:** Friday
 - **Summary:** Jay finds himself unable to stop thinking about Ian despite trying to focus on work. The team discusses upcoming projects while Jay struggles with his growing attachment.
 
-### Scene 5: Swimming
+### Scene 5: Weekend exploration
 - **Duration:** 1 day
 - **Date:** Saturday, August 11, 2018
 - **Day of Week:** Saturday
@@ -41,31 +41,31 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 22: Schemer and imp
 
-### Scene 1: Business trip preparations
+### Scene 1: Travel anxiety
 - **Duration:** 1 day
 - **Date:** Monday, August 20, 2018
 - **Day of Week:** Monday
 - **Summary:** Leo announces an upcoming business trip to the New Continent for meeting Garnet Ridge partners. Jay learns he'll accompany Ian on this international journey.
 
-### Scene 2: Tailor appointment
+### Scene 2: Wishful thinking
 - **Duration:** 1 day
 - **Date:** Tuesday, August 21, 2018
 - **Day of Week:** Tuesday
 - **Summary:** Leo arranges for Jay to visit an exclusive tailor for suits appropriate for the business trip. Jay is uncomfortable with the extravagance but accepts the necessity.
 
-### Scene 3: Leo's manipulation
+### Scene 3: Meddling
 - **Duration:** 1 day
 - **Date:** Wednesday, August 22, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Leo's scheming nature becomes apparent as he orchestrates situations to bring Jay and Ian closer. Jay remains oblivious to Leo's matchmaking attempts.
 
-### Scene 4: Preparations
+### Scene 4: Tailor
 - **Duration:** 1 day
 - **Date:** Thursday, August 23, 2018
 - **Day of Week:** Thursday
 - **Summary:** Jay prepares documents and materials for the upcoming trip. Ian briefs him on the Garnet Ridge partnership and what to expect during the meetings.
 
-### Scene 5: Dinner discussions
+### Scene 5: End of August
 - **Duration:** 1 day
 - **Date:** Friday, August 24, 2018
 - **Day of Week:** Friday
@@ -81,25 +81,25 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 - **Day of Week:** Monday
 - **Summary:** Jay makes a minor error in a report and takes it harder than necessary. His perfectionism and fear of failure create unnecessary stress over small mistakes.
 
-### Scene 2: Luc's return
+### Scene 2: Confusion
 - **Duration:** 1 day
 - **Date:** Tuesday, September 4, 2018
 - **Day of Week:** Tuesday
 - **Summary:** Luc returns from vacation with stories of his travels. His relationship with his girlfriend is showing strain, though he tries to hide it from the team.
 
-### Scene 3: Relationship troubles
+### Scene 3: Unspoken things
 - **Duration:** 1 day
 - **Date:** Wednesday, September 5, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Luc confides in Jay about his relationship problems. His girlfriend wants more commitment while Luc feels trapped by expectations.
 
-### Scene 4: Late nights
+### Scene 4: Sleepover
 - **Duration:** 2 days
 - **Date:** Thursday, September 6, 2018
 - **Day of Week:** Thursday
 - **Summary:** The team works late preparing for the business trip. Jay and Ian share quiet moments in the empty office, their conversations becoming more personal.
 
-### Scene 5: Vulnerability
+### Scene 5: Getting ready
 - **Duration:** 1 day
 - **Date:** Saturday, September 8, 2018
 - **Day of Week:** Saturday
@@ -116,25 +116,25 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 - **Summary:** Jay and Ian depart for the New Continent. The long flight gives them extended time together, and Jay struggles to maintain professional distance.
 - **Milestone:** Jay's first international business trip
 
-### Scene 2: Foreign shores
+### Scene 2: Plane flight
 - **Duration:** 1 day
 - **Date:** Tuesday, September 11, 2018
 - **Day of Week:** Tuesday
 - **Summary:** They arrive at the Garnet Ridge headquarters. Jay is overwhelmed by the scale and sophistication of the operation but maintains composure during initial meetings.
 
-### Scene 3: Partnership meetings
+### Scene 3: Business meetings and late night drinks
 - **Duration:** 1 day
 - **Date:** Wednesday, September 12, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Intensive meetings with Garnet Ridge executives fill the day. Jay takes meticulous notes and proves his value as Ian's assistant in high-stakes negotiations.
 
-### Scene 4: Evening together
+### Scene 4: Apologies
 - **Duration:** 1 day
 - **Date:** Wednesday, September 12, 2018
 - **Day of Week:** Wednesday
 - **Summary:** After the meetings, Ian takes Jay to dinner at an elegant restaurant. Their conversation ventures beyond work into personal territory.
 
-### Scene 5: Return journey
+### Scene 5: Journey Home
 - **Duration:** 1 day (travel)
 - **Date:** Thursday, September 13, 2018
 - **Day of Week:** Thursday
@@ -144,32 +144,32 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 25: Tropical heat
 
-### Scene 1: Quarterly reports begin
+### Scene 1: Reset
 - **Duration:** 1 week
 - **Date:** Monday, September 24, 2018
 - **Day of Week:** Monday
 - **Summary:** The quarterly reporting season begins with its usual intensity. The team settles into long hours and focused work.
 
-### Scene 2: Workload mounting
+### Scene 2: Souvenirs
 - **Duration:** 1 week
 - **Date:** Monday, October 1, 2018
 - **Day of Week:** Monday
 - **Summary:** The reporting workload intensifies as deadlines approach. Everyone works overtime, stress levels rising throughout the office.
 
-### Scene 3: Jay's solo diving vacation
+### Scene 3: The grind
 - **Duration:** 5 days
 - **Date:** Saturday, October 13, 2018
 - **Day of Week:** Saturday
 - **Summary:** After quarterly reports conclude, Jay takes a solo diving vacation to a tropical destination. He's finally certified and eager to dive in open water.
 - **Milestone:** Jay's first solo vacation, diving certification completed
 
-### Scene 4: Underwater world
+### Scene 4: Recovery and preparation
 - **Duration:** 3 days
 - **Date:** Monday, October 15, 2018
 - **Day of Week:** Monday
 - **Summary:** Jay dives multiple times during his vacation, discovering a profound peace underwater. He thinks about how different his life has become.
 
-### Scene 5: Return home
+### Scene 5: Vacation
 - **Duration:** 1 day
 - **Date:** Thursday, October 18, 2018
 - **Day of Week:** Thursday
@@ -179,32 +179,32 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 26: Uncharted territories
 
-### Scene 1: Back to work
+### Scene 1: Return
 - **Duration:** 1 day
 - **Date:** Monday, October 22, 2018
 - **Day of Week:** Monday
 - **Summary:** Jay returns to the office after his vacation. Ian notices he seems more settled, more confident in himself.
 
-### Scene 2: Fencing adventure
+### Scene 2: Evening chat
 - **Duration:** 1 day
 - **Date:** Tuesday, October 23, 2018
 - **Day of Week:** Tuesday
 - **Summary:** Luc invites Jay to try fencing at a local club. The experience is awkward but entertaining, and Jay appreciates Luc's efforts to include him.
 
-### Scene 3: Apartment hunting begins
+### Scene 3: Planning activities
 - **Duration:** 1 day
 - **Date:** Wednesday, October 24, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Jay begins seriously looking at apartments to purchase. His studio feels increasingly inadequate for the life he's building.
 - **Milestone:** Jay begins apartment hunting
 
-### Scene 4: Property viewings
+### Scene 4: Melee combat
 - **Duration:** 2 days
 - **Date:** Saturday, October 27, 2018
 - **Day of Week:** Saturday
 - **Summary:** Jay views several properties over the weekend. Most are either too expensive or don't feel right. He struggles to envision himself in any of them.
 
-### Scene 5: Real estate considerations
+### Scene 5: House hunting
 - **Duration:** 1 day
 - **Date:** Monday, October 29, 2018
 - **Day of Week:** Monday
@@ -214,31 +214,31 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 27: Shared traumas
 
-### Scene 1: Blind date disaster
+### Scene 1: Blind date
 - **Duration:** 1 day
 - **Date:** Friday, November 2, 2018
 - **Day of Week:** Friday
 - **Summary:** Luc's flatmate Gav sets Jay up on a blind date that goes terribly wrong. Jay ends up stranded and uncomfortable, the date a complete failure.
 
-### Scene 2: Ian to the rescue
+### Scene 2: Rescue
 - **Duration:** 1 day
 - **Date:** Friday, November 2, 2018
 - **Day of Week:** Friday
 - **Summary:** Ian receives Jay's distress call and comes to pick him up. Jay is shaken by the experience, and Ian provides calm support.
 
-### Scene 3: Shared vulnerability
+### Scene 3: Accepting help
 - **Duration:** 1 day
 - **Date:** Friday, November 2, 2018
 - **Day of Week:** Friday
 - **Summary:** At Ian's apartment, they share drinks and conversation. Ian reveals more about his past, and they bond over shared experiences of being hurt.
 
-### Scene 4: Morning after
+### Scene 4: Deepening bonds
 - **Duration:** 1 day
 - **Date:** Saturday, November 3, 2018
 - **Day of Week:** Saturday
 - **Summary:** Jay wakes up at Ian's apartment after falling asleep on the couch. The domestic intimacy of the morning feels significant despite being innocent.
 
-### Scene 5: Processing
+### Scene 5: Weekend plans
 - **Duration:** 1 day
 - **Date:** Sunday, November 4, 2018
 - **Day of Week:** Sunday
@@ -248,31 +248,31 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 28: Unusually warm autumn
 
-### Scene 1: Weekend together
+### Scene 1: Practical considerations
 - **Duration:** 1 day
 - **Date:** Saturday, November 10, 2018
 - **Day of Week:** Saturday
 - **Summary:** Ian invites Jay over for a weekend afternoon together. They work side by side on personal projects, the domestic scene feeling natural.
 
-### Scene 2: Deepening bond
+### Scene 2: Great social transgression
 - **Duration:** 1 day
 - **Date:** Saturday, November 10, 2018
 - **Day of Week:** Saturday
 - **Summary:** Their conversations become more personal as they spend the day together. Both are aware of the growing intimacy but neither addresses it directly.
 
-### Scene 3: Sunday outing
+### Scene 3: Weekend work
 - **Duration:** 1 day
 - **Date:** Sunday, November 11, 2018
 - **Day of Week:** Sunday
 - **Summary:** They spend Sunday exploring the city together—a museum, lunch, walking through parks. It feels like a date neither is willing to name.
 
-### Scene 4: Post-weekend gloom
+### Scene 4: Sunday date
 - **Duration:** 1 day
 - **Date:** Monday, November 12, 2018
 - **Day of Week:** Monday
 - **Summary:** Returning to work after such intimate weekends feels jarring. Jay struggles with the contrast between their personal and professional dynamics.
 
-### Scene 5: Complications
+### Scene 5: Gloom
 - **Duration:** 1 day
 - **Date:** Tuesday, November 13, 2018
 - **Day of Week:** Tuesday
@@ -282,32 +282,32 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 29: Choices
 
-### Scene 1: Perfect apartment offer
+### Scene 1: The perfect apartment
 - **Duration:** 1 day
 - **Date:** Monday, November 19, 2018
 - **Day of Week:** Monday
 - **Summary:** A real estate agent contacts Jay about a recently listed apartment that seems perfect. It's in a prime location, within walking distance of Ian's building.
 
-### Scene 2: Viewing the dream apartment
+### Scene 2: Manipulation
 - **Duration:** 1 day
 - **Date:** Tuesday, November 20, 2018
 - **Day of Week:** Tuesday
 - **Summary:** Jay views the apartment and is immediately smitten. River views, modern amenities, clever storage—everything he didn't know he wanted.
 - **Milestone:** Jay finds his dream apartment
 
-### Scene 3: Manipulation concerns
+### Scene 3: Adventures with friends
 - **Duration:** 1 day
 - **Date:** Wednesday, November 21, 2018
 - **Day of Week:** Wednesday
 - **Summary:** Jay suspects Leo's involvement in the perfect apartment appearing. The price and terms seem too good to be coincidental.
 
-### Scene 4: Financial considerations
+### Scene 4: Indecision
 - **Duration:** 2 days
 - **Date:** Thursday, November 22, 2018
 - **Day of Week:** Thursday
 - **Summary:** Jay crunches numbers and realizes the apartment is within reach if he commits. The decision feels monumental, a permanent tie to his new life.
 
-### Scene 5: Christmas plans forming
+### Scene 5: Christmas trees
 - **Duration:** 1 day
 - **Date:** Monday, November 26, 2018
 - **Day of Week:** Monday
@@ -317,33 +317,33 @@ Book 2 begins in August 2018, shortly after Jay's one-year anniversary at Turner
 
 ## Chapter 30: Winter lights
 
-### Scene 1: Christmas together
+### Scene 1: Anticipation
 - **Duration:** 3 days
 - **Date:** Saturday, December 22, 2018
 - **Day of Week:** Saturday
 - **Summary:** Jay and Ian spend Christmas together at Ian's apartment. They cook, exchange gifts, and share intimate moments by the fire.
 - **Milestone:** First Christmas spent together
 
-### Scene 2: Gift exchange
+### Scene 2: Christmas Day
 - **Duration:** 1 day
 - **Date:** Monday, December 24, 2018
 - **Day of Week:** Monday
 - **Summary:** They exchange meaningful gifts. Ian gives Jay an expensive watch; Jay gives Ian a lighter with an engraved message: "You've got this."
 
-### Scene 3: Annual reports preparation
+### Scene 3: After Christmas
 - **Duration:** 2 weeks
 - **Date:** Wednesday, December 26, 2018
 - **Day of Week:** Wednesday
 - **Summary:** The team returns to work for the annual reporting crunch. The workload is intense but everyone is in good spirits after the holiday.
 
-### Scene 4: New Year and Gala
+### Scene 4: The annual storm
 - **Duration:** 2 days
 - **Date:** Monday, December 31, 2018
 - **Day of Week:** Monday
 - **Summary:** The company gala takes place. Ian makes a slip, calling Jay "beautiful," which leaves Jay flustered and Ian worried about overstepping.
 - **Milestone:** Company gala, Ian calls Jay beautiful
 
-### Scene 5: Apartment decision
+### Scene 5: Moving forward
 - **Duration:** 1 day
 - **Date:** Friday, January 4, 2019
 - **Day of Week:** Friday
