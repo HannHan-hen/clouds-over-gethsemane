@@ -103,15 +103,12 @@ The hot springs retreat brings devastating developments: Jay nearly freezes hiki
 **Trauma:** Fled his previous job due to sexual harassment. The experience at the gala with Cruver reopens these wounds. Has deep-seated insecurity about being valued only for appearance rather than competence. Carries shame about his background and education.
 
 **Key Traits:**
-- Exceptionally competent despite his self-doubt
+- Competent despite his self-doubt
 - Financially cautious (aggressively pays off student loans)
 - Disciplined—maintains gym schedule, studies regularly
 - Values safety and stability above advancement
 - Isolated—has no real social life outside work
-- Developing confidence in his abilities but still anxious about credentials
-- Becomes obsessed with trying every soup at his favorite bistro (Willow & Sage)
-- Poor at photography (unlike Ian's natural skill)
-- Refuses to take vacation unless Ian does
+- Anxious about credentials
 
 **Character Arc:** Jay transforms from a scared, broke young man hiding in plain sight to someone who feels genuine happiness and belonging. He moves from viewing Ian with fearful respect to deep admiration, then trust, and finally feelings he can't fully acknowledge. His journey is about recognizing his own worth and learning that he deserves the good things happening to him. By the end of Book One, he's confident enough to refuse promotion because being Ian's assistant is what he truly wants—though he doesn't yet understand the romantic nature of his attachment.
 
@@ -124,7 +121,7 @@ Ian and Jay's relationship is characterized by:
 - **Power imbalance:** Boss/assistant, wealthy/struggling, privileged/modest background
 - **Mutual protection:** Each tries to shield the other (Ian from predatory clients, Jay from overwork)
 - **Slow recognition:** Both are in denial about romantic feelings, interpreting them as professional respect/admiration
-- **Quiet intimacy:** Long evenings working together, small thoughtful gestures, comfortable silences
+- **Tender intimacy:** Long evenings working together, thoughtful gestures
 - **Class awareness:** Jay is constantly aware of the gap between them; Ian increasingly blind to it
 - **Trust building:** Every crisis that Ian handles with care erodes Jay's fear and builds his trust
 - **Parallel isolation:** Both are fundamentally alone—Ian by choice, Jay by circumstance
