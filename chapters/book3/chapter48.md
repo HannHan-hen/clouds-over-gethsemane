@@ -352,7 +352,7 @@ The small matter took eleven minutes on Saturday morning, seven of which were Ja
 The afternoon assembled itself the way their best afternoons always had. They argued about films for ten minutes as a formality and then watched an old mountaineering documentary that Ian narrated with quiet expert corrections, followed by a heist film that Jay had seen four times and defended like family. The wine was open by three. The rain worked the windows. Jay had a blanket he didn't remember acquiring and the deep, specific comfort of being in exactly the right place, and to his enormous quiet relief, the improper things stayed asleep all day. This was the old warmth, the original kind, sofa and wine and Ian's dry commentary, and Jay rested inside it like a man given a day's parole.
 Toward evening he stood at the window with his glass and looked down at the wet street.
 "They were hanging the Christmas lights on the avenue this morning. In the rain. I watched a man wrestle a glowing star onto a lamppost for ten minutes, and I felt nothing. It looked like drowned tinsel. I don't feel festive at all this year," Jay said.
-"It's the third week of November. Festivity has a long runway. There's still time," Ian said.
+"It's the end of November. Festivity has a long runway. There's still time," Ian said.
 "We'll have to figure out Christmas at some point. What we're doing. Eventually," Jay said.
 "At some point. Not today," Ian said.
 "Not today," Jay said.
