@@ -10,7 +10,7 @@ By the time Jay knocked on the glass for the morning briefing at nine, papers we
 "Do that. I also want the client schedule reviewed for December. If there are standing meetings that will fall in the window of our absence, we need to either reschedule or delegate now, not on the day."
 "I'll start with legal and the handover structure."
 "Good."
-The briefing lasted twelve minutes. Jay returned to his desk and worked. There was enough to do that he could keep the other thoughts at a distance—a chain of calls about the paperwork, an hour lost to a problem with the client schedule that turned out to be a calendar error on the other firm's side. Ian worked with the same dedication, and the few times Jay went into his office he found him producing decisions at a pace that made the workload feel less demoralizing. It helped. It was easier, with Ian like that, to believe the trip had done nothing permanent to them.
+The briefing lasted twelve minutes. Jay went back to his desk and worked. There was enough to do that he could keep the other thoughts at a distance—a chain of calls about the paperwork, an hour lost to a problem with the client schedule that turned out to be a calendar error on the other firm's side. Ian worked with the same dedication, and the few times Jay went into his office he found him producing decisions at a pace that made the workload feel less demoralizing. It helped. It was easier, with Ian like that, to believe the trip had done nothing permanent to them.
 But the unease didn't disappear. Jay returned to it sometimes, at the coffee machine, staring at a spreadsheet. He though that Ian was fine*,* but Ian had also spent the last morning of the trip watching the sea with an expression Jay hadn't been able to read. 
 He went home that day tired.
 Ian set a relentless pace but a fair one, and Jay met it without incident. Jay suspected at some points that Ian was generating tasks deliberately, inventing urgencies to keep both of them occupied, but he also knew that wasn't fair. They did need to clear everything before leaving, and Ian was meticulous about that at the best of times. The workload left no room to think, which was probably for the best.
@@ -184,7 +184,7 @@ Ian closed his laptop and looked up. "What happened?"
 "You don't have to rescue me every time. I'm working on it."
 "I know you are. But I'm here, so."
 "You always know what to say."
-Ian didn't respond. He opened his laptop again and returned to his emails, though his focus was shot. Across the room, Jay picked up his book and started reading. Ian worked through the afternoon, and Jay sat three metres away and made his feelings about this known through sustained and pointed silence.
+Ian didn't respond. He opened his laptop again and turned back to his emails, though his focus was shot. Across the room, Jay picked up his book and started reading. Ian worked through the afternoon, and Jay sat three metres away and made his feelings about this known through sustained and pointed silence.
 At one point Jay turned a page loudly enough to constitute a comment. At another he looked up from his book and sighed. Ian deflected all of it.
 "Two hours," he said around four. "I'll be done before dinner."
 "You said that an hour ago."
@@ -286,7 +286,7 @@ They returned to the hotel for lunch, and afterwards Ian sat at his laptop to wo
 "We're missing everything fun because of your stubbornness."
 "You're free to go without me."
 "That's not the point."
-But Jay didn't push further. He returned to his book, and Ian continued working.
+But Jay didn't push further. He picked his book back up, and Ian continued working.
 The evenings were better. Ian closed the laptop at six without exception, and they spent them at whatever restaurant had caught Jay's attention, picking a different one each time. The food was excellent, the wine flowed freely, and they returned to the hotel late, tipsy and in great moods.
 On the fourth evening, they chose a beach restaurant a short walk from the hotel. The meal was casual and afterwards they wandered back to the hotel bar.
 "I'll get drinks," Ian said.
