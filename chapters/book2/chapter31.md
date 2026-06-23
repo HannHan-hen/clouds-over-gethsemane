@@ -268,7 +268,7 @@ Ian tried to intervene several times. Brief conversations in his office, diploma
 "Just focused on work. There's a lot to do."
 "If you need anything—"
 "I know where to find you. Thank you."
-Ian sat alone in his office late one evening after Jay had left, the lighter Jay gave him for Christmas resting in his palm. The engraved message mocked him: "You've got this."
+Ian sat alone in his office late one evening after Jay had left, the lighter Jay gave him for Christmas resting in his palm. The engraved message mocked him: "*You've got this."*
 Did he? Because it didn't feel like he had anything under control. Jay was slipping away, and Ian couldn't stop it.
 They'd been so close already. Moments when Ian had felt truly connected to him. And now it felt like they'd taken five steps back—back to when Jay first started, when he'd learned about being a joke hire and closed himself off completely.
 Ian turned the lighter over in his fingers. What could he do to solve this? Jay had seemed to have complete faith in him once. But now that faith seemed insufficient to keep him here.

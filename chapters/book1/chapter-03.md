@@ -2,11 +2,11 @@
 
 ## Scene 1: Small comforts
 
-Jay woke up happy on Monday morning. He'd spent the past two days much as he always did, finding comfort in tasks at home. He didn't mind the end of the weekend, quite the opposite, he was content with the prospect of going to work. He arrived at the office thirty minutes before the official start of business. The security guard offered his customary wave, the elevator brought him smoothly to the thirty-second floor, and his desk welcomed him with the stack of materials he'd organized Friday evening.
+Jay woke up happy on Monday morning. He'd spent the past two days much as he always did, finding comfort in tasks at home. He didn't mind the end of the weekend, quite the opposite, he was content with the prospect of going to work. He arrived at the office thirty minutes before the official start of business. The security guard waved, the elevator brought him smoothly to the thirty-second floor, and his desk welcomed him with the stack of materials he'd organized Friday evening.
 
 The investment portfolio he'd been analyzing required final adjustments before submission to the client. Jay worked through the calculations, double-checking his conclusions with the source documents. The spreadsheet error from the previous week had taught him valuable lessons about verification.
 
-Ian arrived at eight, offering his customary greeting before disappearing into his office. Jay had grown accustomed to Ian's courtesy, though he felt an obvious distance in their interactions. Ian was fair and supportive when Jay needed guidance, but his manner indicated he was monitoring not just Jay's performance but his overall conduct in the office.
+Ian arrived at eight and greeted Jay before disappearing into his office. Jay had grown accustomed to Ian's courtesy, though he felt an obvious distance in their interactions. Ian was fair and supportive when Jay needed guidance, but his manner indicated he was monitoring not just Jay's performance but his overall conduct in the office.
 
 Jay didn't mind the scrutiny. He'd expected it, given his modest credentials. Earning Ian's complete trust would take time, and Jay was prepared to demonstrate his reliability through consistent competence.
 
@@ -18,9 +18,9 @@ Jay ordered a sandwich made with herb-crusted bread and filled with vegetables h
 
 "It's been here for about a year," Amy explained. "The owner used to work at some fancy place downtown before opening this spot."
 
-Jay took another bite, savouring the complex flavours and textures. The herb bread was dense but not heavy, offering a complexity that worked in harmony with the filling instead of overshadowing it. "It's really good. I might have to come back here on my own sometime."
+Jay took another bite, savouring the complex flavours and textures. The herb bread was dense but not heavy, having a complexity that worked in harmony with the filling instead of overshadowing it. "It's really good. I might have to come back here on my own sometime."
 
-His enthusiasm seemed to resonate with the group. Luc smiled approvingly, and even Kim looked up from his phone to agree that the food was good. Jay realized he'd found something valuable—a lunch spot that felt relaxing. Having a place in the neighbourhood that felt welcoming would make the daily lunch outings less stressful.
+His enthusiasm seemed to resonate with the group. Luc smiled approvingly, and even Kim, who wasn't easily impressed, had to agree that the food was good. Jay realized he'd found something valuable—a lunch spot that felt relaxing. Having a place in the neighbourhood that felt welcoming would make the daily lunch outings less stressful.
 
 Thursday afternoon, Jay decided to explore the area around Northlight Financial Center more thoroughly. He'd been working there for almost three weeks but had seen little beyond the direct route between the office and various restaurants. The financial district revealed itself to be more varied than he'd initially realized, with small parks tucked between the imposing towers.
 
@@ -52,7 +52,7 @@ The answer clearly surprised the group. Luc's eyebrows rose slightly, and Amy lo
 
 "We can't wait," Ela added. "It'll be fun to get to know you outside of work mode."
 
-Jay managed what he hoped was an enthusiastic smile. "I'm looking forward to it."
+Jay tried for an enthusiastic smile, but what came out was mostly awkward. "I'm looking forward to it."
 
 The commitment felt both necessary and terrifying. Jay understood that continued refusal to participate in social activities would eventually mark him as uninterested in building relationships with his colleagues. But the prospect of spending an evening in a crowded bar created anxiety that he'd need an additional time to process.
 
@@ -60,17 +60,17 @@ Still, it was a manageable concession. One Friday evening every now and then see
 
 ## Scene 2: Offering input
 
-Three weeks at Turner & Associates had taught Jay the patterns that governed office life. Mondays were focused, as if everyone was calibrating their approach to the week ahead. By Tuesday, the pace would intensify. Wednesday brought the week's heaviest workload. Thursday was for refinement and preparation. Friday offered the gentle deceleration toward weekend freedom.
+Three weeks at Turner & Associates had taught Jay the rules that governed office life. Mondays were focused, as if everyone was calibrating their approach to the week ahead. By Tuesday, the pace would intensify. Wednesday brought the week's heaviest workload. Thursday was for refinement and preparation. Friday decelerated toward weekend freedom.
 
-As he started his fourth week, Jay had learned to match these rhythms, adjusting his own schedule to complement the team's collective momentum. He submitted reports early in the week when Ian had time for detailed review. He saved less important correspondence for Thursday afternoons when the office atmosphere was more relaxed. He prepared materials for the following week on Friday mornings.
+As he started his fourth week, Jay had learned to match the pace, adjusting his own schedule to complement the team's collective momentum. He submitted reports early in the week when Ian had time for detailed review. He saved less important correspondence for Thursday afternoons when the office atmosphere was more relaxed. He prepared materials for the following week on Friday mornings.
 
 The company structure also became clearer with each passing day. With just under a hundred employees total, the organization felt almost intimate. Jay's team held the central position, managing relationships with the firm's crown jewel accounts while three smaller teams handled the bread-and-butter contracts. Jay had already committed every client name to memory—a manageable feat given the list contained fewer than twenty entries. The top four clients received treatment bordering on reverence, and Jay had taken to studying their profiles each evening at his kitchen table, their key details arranged on his refrigerator like a shrine.
 
-Ian remained distant but fair. He never asked anything of Jay that wasn't strictly work related. Jay didn't make his coffee or sort out any personal affairs. Their daily interactions followed predictable patterns—brief meetings to review assignments, quick consultations about client requirements, occasional corrections.
+Ian remained distant. He never asked anything of Jay that wasn't strictly work related. Jay didn't make his coffee or sort out any personal affairs. Their daily interactions were predictable—brief meetings to review assignments, quick consultations about client requirements, occasional corrections.
 
-Jay kept observing Ian, how he handled client calls with unfailing composure, the way he managed tight deadlines with a calmness that never put undue pressure on the team. Everything about Ian demonstrated excellence Jay had only imagined possible. His previous bosses had been either erratic and demanding or inappropriate. Ian was everything these men weren't: competent, respectful, skilled at his work.
+Jay kept observing Ian, how he handled client calls, how he managed tight deadlines with a calmness that never put undue pressure on the team. Everything about Ian demonstrated excellence Jay had only imagined possible. His previous bosses had been either erratic and demanding or inappropriate. Ian was everything these men weren't: composed, respectful, skilled at his work.
 
-The admiration felt dangerous somehow, too intense for a workplace relationship. Jay worked to keep his composure when Ian explained financial strategies, fought to suppress the eager questions that bubbled up during their meetings. He told himself this was simple respect, nothing more complicated than recognizing superior competence. But he knew it was more than that. It was happiness at being mentored by someone of Ian's caliber. He felt lucky to have been given this opportunity.
+The admiration felt dangerous somehow, too intense for a workplace relationship. Jay fought to suppress the eager questions that bubbled up during their meetings. He told himself this was simple respect, nothing more complicated than recognizing superior competence, but he knew it was more than that. It was happiness at being mentored by someone of Ian's caliber. He felt lucky to have been given this opportunity.
 
 On Thursday morning Ian appeared at Jay's desk with Amy, the senior analyst whose sharp intelligence intimidated most people in the office.
 
@@ -118,7 +118,7 @@ Ian made a note on his pad. "That's useful insight. Amy, what do you think about
 
 "It makes sense. Less disruptive, and it builds the relationship and doesn't look like we made mistakes initially."
 
-They spent another twenty minutes developing a response strategy. Jay contributed when asked but mostly listened, absorbing how they analyzed problems from multiple angles, how they balanced client psychology with financial logic.
+They spent another twenty minutes developing a response strategy. Jay listened, absorbing how they analyzed problems from multiple angles, how they balanced client psychology with financial logic.
 
 When the meeting ended, Ian gathered his papers. "Good observation, Jay. Sometimes the obvious solution isn't the right one."
 
@@ -136,11 +136,11 @@ On Friday afternoon, talk of weekend plans filled the office. Jay had promised L
 
 But Luc had been persistent, and Amy had mentioned that the Friday tradition helped new employees feel included. Jay had finally agreed, but the commitment sat uneasily with him all week—he'd even spent some time Thursday evening practicing conversation topics in his bathroom mirror, then felt ridiculous about it.
 
-The bar they chose throbbed with music and conversation. Exposed brick walls absorbed none of the sound, and the crowd pressed close around high tables. Jay arrived ten minutes late, hoping the others would already be deep in conversation and his entrance would go unnoticed.
+The bar they chose throbbed with music. Exposed brick walls absorbed none of the sound, and the crowd pressed close around high tables. Jay arrived ten minutes late, hoping the others would already be deep in conversation and his entrance would go unnoticed.
 
 "There he is!" Kim called out, raising a beer bottle. "We were starting to think you'd chickened out."
 
-"Just had trouble finding the place," Jay said, which was partially true. He'd circled the building twice, gathering courage.
+"Just had trouble finding the place," Jay said. He'd circled the building twice, gathering courage.
 
 Kim pushed a beer toward him. "First round's on the company account."
 
@@ -154,9 +154,9 @@ Jay accepted the bottle gratefully. Something to do with his hands. The beer was
 
 Kim raised his glass. "To Amy, who makes the rest of us look competent."
 
-The conversation flowed around him like water around a stone. Ela told stories about difficult clients who called at impossible hours. Amy shared gossip about acquisitions in their sector. Kim complained about outdated computer systems. Jay listened, laughed when appropriate, asked occasional questions.
+Ela told stories about difficult clients who called at impossible hours. Amy shared gossip about acquisitions in their sector. Jay laughed and asked occasional questions.
 
-"What about you, Jay?" Amy asked during a brief pause. "What did you do before Turner & Associates?"
+"What about you, Jay?" Amy asked. "What did you do before Turner & Associates?"
 
 "Administrative work. Nothing interesting."
 
@@ -166,7 +166,7 @@ The conversation flowed around him like water around a stone. Ela told stories a
 
 Jay took another sip of his beer, hoping they'd move on. They did, but he caught Luc watching him.
 
-The evening progressed casually. Sometimes the group clustered together, trading inside jokes and references Jay didn't understand. Other times conversations split into pairs, and Jay talked with whoever happened to be nearest. The music made everything feel slightly surreal, like watching a movie of normal people having normal fun.
+The evening was casual. Sometimes the group clustered together, trading inside jokes and references Jay didn't understand. Other times conversations split into pairs, and Jay talked with whoever happened to be nearest. The music made everything feel slightly surreal, like watching a movie of normal people having normal fun.
 
 "You know who never comes to these things?" Ela said, sittling back on her chair after returning from the bar. "Zoe. Sweet girl, but she's practically invisible at the office."
 
@@ -192,9 +192,9 @@ Kim and Luc exchanged a quick look that Jay missed entirely. "Nope. Not his styl
 
 "He's married to the job," Kim added. "Which works out great for the rest of us since he's basically perfect at it."
 
-Jay nodded, filing away this information. It seemed sad somehow, that someone as competent and respected as Ian would isolate himself so completely. Maybe success required that kind of sacrifice.
+Jay nodded. It seemed sad that someone as competent and respected as Ian would isolate himself so completely. Maybe success required that kind of sacrifice.
 
-By nine-thirty, the noise and crowd had worn Jay down to exhaustion. His beer had grown warm and his social energy felt completely depleted. He waited for a natural break in conversation.
+By nine-thirty, the noise and crowd had worn Jay down to exhaustion. His beer had grown warm and his social battery felt completely depleted. He waited for a break in conversation.
 
 "I should probably head home," he said, standing and reaching for his jacket. "Early morning tomorrow."
 
@@ -230,9 +230,7 @@ They reached the metro entrance. "Thanks for the company," Jay said. "And for al
 
 "No problem. We all need guidance starting out."
 
-They parted ways at the turnstiles, Luc heading north while Jay descended to the southbound platform. The train was nearly empty, the Friday night crowd having dispersed to their various destinations.
-
-Jay found a seat and closed his eyes, letting the gentle rocking of the car ease the tension in his shoulders. The evening had been more draining than he'd expected, but not unpleasant. He'd learned things about his colleagues that would make Monday morning conversations easier. They'd accepted his early departure without making him feel guilty or antisocial.
+They parted ways at the turnstiles, Luc heading north while Jay descended to the southbound platform. The train was nearly empty. Jay found a seat and closed his eyes, letting the gentle rocking of the car ease the tension in his shoulders. The evening had been more draining than he'd expected, but not unpleasant. He'd learned things about his colleagues that would make Monday morning conversations easier. They'd accepted his early departure without making him feel guilty.
 
 Most importantly, he'd demonstrated that he could handle these situations. He didn't have to be the most social person in the room or the most entertaining conversationalist. He just had to show up, participate honestly, and be himself.
 
@@ -260,13 +258,11 @@ Jay looked up, startled by the unexpected praise. "I just tried to read what the
 
 "Exactly. That kind of analysis is valuable. The client responded very positively to our revised approach."
 
-"Thank you," Jay managed, feeling heat rise in his face.
+"Thank you," Jay said, feeling heat rise in his face.
 
-Throughout the day, Ian made similar rounds. He paused at Amy's desk to acknowledge her risk assessment insights. He thanked Kim for resolving a technical issue ahead of schedule. He complimented Ela on her handling of a difficult client.
+Throughout the day, Ian made similar rounds. He paused at Amy's desk to acknowledge her risk assessment insights. He thanked Kim for resolving a technical issue ahead of schedule. He complimented Ela on her handling of a difficult client. It revealed something Jay hadn't fully appreciated before. Ian didn't just manage through assignments and deadlines. He noticed good work and took time to recognize it. The praise wasn't dramatic, but it was honest.
 
-The pattern revealed something Jay hadn't fully appreciated before. Ian didn't just manage through assignments and deadlines. He noticed good work and took time to recognize it. The praise wasn't dramatic, but it was honest.
-
-Jay watched these interactions with growing admiration. Ian's leadership style created an atmosphere where people wanted to excel, not because they feared criticism but because they valued his respect. The office culture that had impressed Jay from his first day stemmed largely from Ian's approach. This was true leadership, the kind Jay had read about but never experienced. Ian had built a team that functioned at the highest level.
+Jay watched these interactions with admiration. Ian's leadership style created an atmosphere where people wanted to excel, not because they feared criticism but because they valued his respect. The office culture that had impressed Jay from his first day stemmed largely from Ian's approach. This was true leadership, the kind Jay had read about but never experienced. Ian had built a team that functioned at the highest level.
 
 The warm feeling persisted throughout the afternoon. The praise felt less personal now, but just as meaningful. Jay had been specifically noticed for quality he took pride in. His work met Ian's exacting standards. The clear expectations and recognition felt like paradise.
 
@@ -286,7 +282,7 @@ Jay felt another flutter of excitement. Ian had discussed his performance with L
 
 "I think so. Still learning, but yes."
 
-Leo chatted for a few more minutes about Jay's workload and comfort level, then wandered off toward Ian's office. After Leo departed, Jay realized he rarely saw him in the office during regular hours. Leo's appearances seemed sporadic, almost social. The contrast with everyone else's structured schedules struck him as odd.
+Leo chatted for a few more minutes about Jay's workload and comfort level, then wandered off toward Ian's office. After Leo departed, Jay realized he rarely saw him in the office during regular hours. Leo's appearances seemed sporadic, almost social. The contrast with everyone else's schedules struck him as odd.
 
 When Luc passed by later, Jay seized the opportunity for clarification. "Can I ask you about Leo?"
 
@@ -304,7 +300,7 @@ Luc glanced around to ensure privacy, then lowered his tone. "Leo's situation is
 
 "Absolutely. Ian respects his judgment, and ultimately Leo has his father's ear on major decisions."
 
-Jay thought about Leo's relaxed demeanor, his friendly check-ins, the way he'd casually offered Jay this position. The equality Jay had assumed between them was an illusion. Leo was essentially a king in this environment, choosing to be approachable.
+Jay thought about Leo's relaxed demeanor, his friendly check-ins, the way he'd casually given Jay this position. The equality Jay had assumed between them was an illusion. Leo was a king in this environment, choosing to be approachable.
 
 "Thanks for explaining that."
 
@@ -320,13 +316,15 @@ His admiration for Ian had only deepened with this understanding. Creating and m
 
 ## Scene 5: Compensation
 
+Expand savings fragment
+
 Jay was reviewing the day's schedule when his phone buzzed with a bank notification. Monthly salary transfer complete. He glanced at the screen, then stared at the direct deposit notification, certain he was misreading the numbers. He opened his banking app to confirm the amount, then closed it and opened it again. The figure remained unchanged.
 
 The base salary was exactly what his contract had specified—nearly double his previous income. But the total deposit was almost triple his old paycheck. A bonus had been added to his monthly pay, far exceeding the modest additional compensation he'd half-expected.
 
 He found Luc in the break room, refilling his coffee cup.
 
-"Can I ask you something?" Jay kept his tone low. "About the paycheck structure?"
+"Can I ask you something?" Jay kept his tone low. "About the paycheck?"
 
 "Sure. What's up?"
 
@@ -342,11 +340,11 @@ Luc smiled. "First month, right? Yeah, we get monthly bonuses as standard. Then 
 
 "Welcome to working somewhere that values talent properly." Luc raised his coffee cup in a mock toast. "Beats scrambling for overtime pay, doesn't it?"
 
-During lunch, he excused himself early from the restaurant. "Need to handle some personal business," he explained, which was technically true. He spent the rest of his lunch break running calculations on his phone. Rent, utilities, groceries, transportation, expenses that had consumed his previous salary, now represented a fraction of his income. His old job had required budgeting for every purchase. This paycheck eliminated financial anxiety entirely.
+During lunch, he excused himself early from the restaurant. "Need to handle some personal business," he explained. He spent the rest of his lunch break running calculations on his phone. Rent, utilities, groceries, transportation, expenses that had consumed his previous salary, now represented a fraction of his income. His old job had required budgeting for every purchase. This paycheck eliminated financial anxiety entirely.
 
 He could afford to indulge without calculating the weekly impact. The artisanal sandwiches, the sushi place around the corner, the Mediterranean restaurant the team frequented—all of these became reasonable options.
 
-That afternoon, Jay walked to Café Lemon, a fancy coffee shop close to his apartment. He'd discovered it during his first month of living in the area, drawn by the rich aroma of their house-roasted beans and the warm atmosphere created by mismatched vintage furniture. For years, he'd allowed himself at most two cappuccinos per month, savoring it like a small celebration.
+That afternoon, Jay walked to Café Lemon, a fancy coffee shop close to his apartment. He'd discovered it during his first month of living in the area, drawn by the rich aroma of their house-roasted beans and the atmosphere created by mismatched vintage furniture. For years, he'd allowed himself at most two cappuccinos per month, savoring it like a small celebration.
 
 He'd stopped coming a month ago when work lunches began consuming too much of his budget. The barista recognized him despite his absence.
 
@@ -378,6 +376,6 @@ One month complete. Two months remaining in his trial period.
 
 He'd shown he could handle the daily responsibilities. Now he needed to demonstrate that his value to the company extended beyond basic competence. The generous compensation wasn't charity—it was an investment that expected returns.
 
-Jay closed the laptop and prepared for bed, his mind already focused on tomorrow's assignments. The financial security was wonderful, but it was also a reminder of what he stood to lose if he became complacent.
+Jay closed the laptop and prepared for bed, his mind focused on tomorrow's assignments. The financial security was wonderful, but it was also a reminder of what he stood to lose if he became complacent.
 
 He'd worked too hard to reach this point to risk it through overconfidence or relaxation of standards. The second month would be about building on the foundation he'd established, about proving that his first month's performance wasn't a temporary surge but a sustainable level of contribution.

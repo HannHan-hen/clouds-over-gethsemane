@@ -2,7 +2,9 @@
 
 ## Scene 1: Optimism
 
-The next morning, the office had the worn-out yet relieved atmosphere that follows a crisis handled well. The Fairfield Industries presentation had gone flawlessly, and by noon, word spread that the client had approved the portfolio recommendations without a single revision.
+Expand mother's call about birthdays?
+
+The office had the worn-out yet relieved atmosphere that follows a crisis handled well. The Fairfield Industries presentation had gone flawlessly, and by noon, word spread that the client had approved the portfolio recommendations without a single revision.
 
 Amy came in beaming. "No revisions. Not a single one," she announced, holding up her phone for emphasis.
 
@@ -12,23 +14,23 @@ Ian appeared in the middle of the open space at one-thirty, addressing the offic
 
 The announcement sparked a ripple of surprised murmurs. Jay watched his colleagues gather their things with the bemused smiles of people granted an unexpected gift. Within twenty minutes, the office had emptied except for Ian, who remained at his desk, apparently immune to his own directive.
 
-Jay packed his laptop and left as well. Outside, the afternoon sun felt warmer than expected for late autumn. He walked to the metro, arriving at his apartment at two o'clock to find himself in the unusual position of having nothing urgent to accomplish. He changed into casual clothes and considered his options. The thought of spending the afternoon indoors felt wasteful. He stood in the hallway for a moment, unsure of what to do with himself, until his eyes landed on a book he'd bought long ago and never opened. It felt like the right time. He slipped it into his bag and made his way to Café Lemon.
+Jay packed his laptop and left as well. The afternoon sun felt warmer than expected for late autumn. He walked to the metro, arriving at his apartment at two o'clock to find himself in the unusual position of having nothing urgent to accomplish. He changed into casual clothes and considered his options. The thought of spending the afternoon indoors felt wasteful. He stood in the hallway for a moment, unsure of what to do with himself, until his eyes landed on a book he'd bought long ago and never opened. It felt like the right time. He slipped it into his bag and made his way to Café Lemon.
 
 Since it was still early, the café wasn't very busy. Only a few patrons occupied the tables, creating a homely atmosphere. He ordered a cardamom latte and an almond croissant, sitting at his preferred table near the window. The barista delivered his order with a friendly nod.
 
-Jay opened his book to the first page and began to read. The afternoon passed in a manner he'd almost forgotten was possible. The novel occupied his attention, the coffee remained warm in his hands, and the street outside provided a gentle backdrop of activity. Jay felt no need to monitor his surroundings. He simply existed in the moment, reading about space travels and sipping his drink.
+Jay opened his book to the first page and began to read. The afternoon passed in a manner he'd almost forgotten was possible. The novel occupied his attention, the coffee remained warm in his hands, and the street outside provided a gentle backdrop of activity. Jay felt no need to monitor his surroundings. He simply existed in the moment, reading about space travels.
 
-Somewhere between the second and third chapters, his thoughts drifted to the previous evening. The crisis had revealed things Ian he always knew to be true but had never thought much about—competence under pressure and reliability.
+Somewhere between the second and third chapters, his thoughts drifted to the previous evening. The crisis had revealed things about Ian he always knew to be true but had never thought much about—competence under pressure and reliability.
 
-When Jay had needed help, Ian had provided it. It had been given freely, without making Jay feel diminished for asking. Jay realized he'd maintained a defensive posture for so long that he'd forgotten what it felt like to simply trust someone's consistency. Ian might be overbearing at times, but he was also fundamentally dependable. When he said he would do something, he did it. When he offered guidance, he meant it. The reliability felt almost foreign after years of dealing with workplace environments built on hidden agendas.
+When Jay had needed help, Ian had provided it. It had been given freely, without making Jay feel diminished for asking. Jay realized he'd maintained a defensive posture for so long that he'd forgotten what it felt like to simply trust someone's consistency. Ian might be overbearing at times, but he was also fundamentally dependable. When he said he would do something, he did it. The reliability felt almost foreign after years of dealing with workplace environments built on hidden agendas.
 
-The recognition required swallowing some wounded pride. Jay had spent weeks interpreting Ian's reserve as judgement. But perhaps the distance had been maintained not out of disdain but out of prudent management. Looking back, Jay couldn't identify a single instance where Ian had been unfair or unkind. Strict, certainly. Demanding, without question. But never cruel.
+The recognition required swallowing some wounded pride. Jay had spent weeks interpreting Ian's reserve as judgement. But perhaps the distance had been maintained not out of disdain but out of prudent management. Looking back, Jay couldn't identify a single instance where Ian had been unfair or unkind.
 
 Despite everything that had happened—the circumstances of his hiring, the awkward early weeks, his own defensive reactions—it felt remarkable to work for someone he could actually rely on.
 
-Jay finished the croissant and ordered another latte, returning to his book, considering the afternoon well spent. The clientele changed from temperate coffee drinkers to a chattier evening crowd. He read three more chapters before the light began to fade, feeling peaceful.
+Jay finished the croissant and ordered another latte, returning to his book, considering the afternoon well spent. The clientele changed from temperate coffee drinkers to a chattier evening crowd. He read three more chapters before the light began to fade.
 
-Jay returned home that evening refreshed, and when Saturday morning came, he decided to tackle the overdue obligation he'd been avoiding for weeks. He made coffee in his small kitchen and dialed his mother's number. The conversation he'd been postponing felt necessary now, grounded in a reality that finally seemed stable enough to share.
+He returned home that evening refreshed, and when Saturday morning came, he decided to tackle the overdue obligation he'd been avoiding for weeks. He made coffee in his small kitchen and dialed his mother's number. The conversation he'd been postponing felt necessary now, grounded in a reality that finally seemed stable enough to share.
 
 "Jay! I was wondering when you'd call. How are you managing in the city?"
 
@@ -36,21 +38,21 @@ Jay returned home that evening refreshed, and when Saturday morning came, he dec
 
 "What kind of work?"
 
-"Administrative assistant at an investment firm. It's more prestigious than my last position, better environment." Jay kept the details deliberately vague, unwilling to explain the complications of his hiring or the background of Turner & Associates. His mother wouldn't understand the significance, and the phone call felt inappropriate for complex explanations.
+"Administrative assistant at an investment firm. It's more prestigious than my last position, better environment." Jay kept the details deliberately vague, unwilling to explain the background of Turner & Associates. His mother wouldn't understand the significance, and the phone call felt inappropriate for complex explanations.
 
 "That sounds promising. Are you earning enough to manage your expenses?"
 
 "Yes, the salary is fair. I'm adjusting well."
 
-They talked for another ten minutes about practical matters—his health, the weather, his mother's work. Jay answered her questions without elaborating, providing just enough information to satisfy her concern without inviting deeper inquiry. When she mentioned his stepfather's promotion and his half-sister's school achievements, he offered congratulations and asked polite follow-up questions.
+They talked for another ten minutes about practical matters. Jay answered her questions without elaborating, providing just enough information to satisfy her concern. When she mentioned his stepfather's promotion and his half-sister's school achievements, he asked polite follow-up questions.
 
 The conversation ended with the same reserve that had marked their relationship ever since he'd moved to the city. Not cold, but not intimate either. They still cared about each other's well-being, but no longer confided in one another, content to exchange only the necessary pleasantries.
 
-Jay's mother had given birth to him when she was barely eighteen, and she never spoke about his father. When Jay was ten, she married his stepfather and two years later, his stepbrother was born. In the years that followed, she had two more children—a daughter and another son, the youngest sixteen years younger than Jay. He had never been close with any of them. By the time his siblings were born, he was already a teenager, and he always felt set apart from his mother's new family. They never treated him unkindly, but he stood out—more guest than true member. As soon as he finished high school, Jay moved away for college and never returned, his visits home growing less frequent with each passing year. Now, he rarely visited more than once a year.
+Jay's mother had given birth to him when she was barely eighteen, and she never spoke about his father. When Jay was ten, she married his stepfather and two years later, his stepbrother was born. In the years that followed, she had two more children—a daughter and another son, the youngest sixteen years younger than Jay. He had never been close with any of them. By the time his siblings were born, he was already a teenager, and he always felt set apart from his mother's new family. They never treated him badly, but he stood out—more guest than true member. As soon as he finished high school, Jay moved away for college and never returned, his visits home growing less frequent with each passing year. Now, he rarely visited more than once a year.
 
 After hanging up, Jay realized why he'd delayed the call for so long. The situation at Turner & Associates had felt too uncertain, too fragile to treat as real. But his perspective had changed recently. The job felt solid now. Maybe not entirely comfortable, but secure.
 
-He spent the rest of Saturday reading, cleaning his apartment, and preparing for the week ahead. By Sunday evening, he managed to finish the book he'd started on Friday, feeling quite happy with the small achievement. The weekend passed leisurely, giving him time to clear his head and look at his life with a fresh perspective. The prospect of returning to work on Monday seemed almost welcoming. Not exciting, but no longer grim. He had a place there, earned through his own efforts and maintained by his own reliability. The cautious optimism that had emerged over the past week remained, tempered by experience, but genuine.
+He spent the rest of Saturday reading, cleaning his apartment, and preparing for the week ahead. By Sunday evening, he managed to finish the book he'd started on Friday, feeling quite happy with the small achievement. The leisurely weekend gave him time to clear his head and look at his life with a fresh perspective. The prospect of returning to work on Monday seemed almost welcoming. Not exciting, but no longer grim. He had a place there, earned through his own efforts and maintained by his own reliability.
 
 ## Scene 2: Invitation
 
@@ -58,17 +60,17 @@ At nine o'clock on Monday, Jay's computer chimed with an email that disrupted th
 
 Jay opened the message to find a formal invitation to Friday evening's dinner at The Palladium, an upscale restaurant he'd heard mentioned in conversations. The email explained that the Hartwell contract represented the largest single acquisition in Turner & Associates' recent history, warranting celebration with both company leadership and the entire team. Both Mr. Turner Senior and Leo would attend, along with all staff members who had contributed to the success.
 
-Jay read the invitation twice, feeling the tightness in his stomach that always accompanied high-stakes social situations. He'd attended one company function since joining Turner & Associates—a quarterly gathering that had left him acutely aware of his position at the bottom of the office hierarchy. The prospect of another formal event, with senior leadership present, felt equally daunting.
+Jay read the invitation, feeling the tightness in his stomach that always accompanied high-stakes social situations. He'd attended one company function since joining Turner & Associates—a quarterly gathering that had left him acutely aware of his position at the bottom of the office hierarchy. The prospect of another formal event, with senior leadership present, felt equally daunting.
 
 He minimized the email and opened a new browser tab, searching for information about The Palladium. The restaurant's website featured elegant photographs of crystal glassware and artfully arranged plates. The dress code was listed as "business formal," which at least provided clear guidance. He thought of the blue suit hanging in his closet—purchased specifically for the last company function and worn only once. At least he wouldn't feel completely out of place.
 
-The morning passed on mundane tasks, but Jay periodically returned to the dinner invitation. Around him, his colleagues discussed the upcoming event with evident enthusiasm. Amy mentioned making reservations at a nearby salon for Friday afternoon. Kim wondered aloud whether the wine selection would justify the evening's inevitable length.
+Jay periodically returned to the dinner invitation thought the morning. His colleagues discussed the upcoming event with evident enthusiasm. Amy mentioned making reservations at a nearby salon for Friday afternoon.
 
-At lunch, the team gathered at Captain's Table, a seafood restaurant close the office that was Ela's favourite. Jay ordered something simple, contributing minimally to the conversation.
+At lunch, the team gathered at Captain's Table, a seafood restaurant close the office that was Ela's favourite.
 
-"Has everyone seen the dinner invitation?" Amy asked, cutting into her salmon. "The Palladium is supposed to be exceptional."
+"Has everyone seen the dinner invitation?" Amy asked. "The Palladium is supposed to be exceptional."
 
-"I've eaten there twice," Max said. "The food is remarkable, but the atmosphere is rather stuffy. All white tablecloths and hushed conversations."
+"I've eaten there twice," Max said. "The food is remarkable, but the atmosphere is rather stuffy."
 
 "Perfect for impressing the senior Turner," Ela added.
 
@@ -82,7 +84,7 @@ The admission drew understanding nods from several colleagues. Luc grinned and p
 
 Max waved dismissively. "That was a legitimate question."
 
-Even Jay laughed at the exchange. In hindsight, Max's blunt remarks about his appearance seemed less mortifying than he'd remembered—more a product of Max's lack of tact than anything personal. Max never singled anyone out, his offhanded comments were just part of how he handled social situations, careless but never truly mean-spirited.
+Even Jay laughed at the exchange. In hindsight, Max's blunt remarks about his appearance seemed less mortifying than he'd remembered—more a product of Max's lack of tact than anything personal.
 
 "See?" Luc said, nodding toward Jay's smile. "With Max around, all you have to do is stand behind him and let him soak up the attention. No one's going to notice you with him in the room."
 
@@ -92,49 +94,45 @@ The conversation drifted into stories of awkward company dinners, and Ela immedi
 
 Kim snorted. "How could I forget? He was three glasses in and started ranting about corporate culture—right in front of Ian."
 
-Ela grinned. "Didn't he call Ian 'the most uptight man in a fifty-kilometre radius'?"
+"Didn't he call Ian 'the most uptight man in a fifty-kilometre radius'?"
 
-Kim mimicked the voice: "'If you ever want to learn how to strangle the joy out of a room, just watch Ian at a social event.'" Kim shook his head, still amused. "The whole table went silent. I thought Ian was going to snap."
+Kim mimicked the voice: "If you ever want to learn how to strangle the joy out of a room, just watch Ian at a social event. The whole table went silent. I thought Ian was going to snap."
 
 Jay glanced at them, interested. "What did Ian do?"
 
-Ela's grin widened. "He just looked at Allen and said, dead serious, 'My radius is at least a hundred kilometres.'"
+"He just looked at Allen and said, dead serious, 'My radius is at least a hundred kilometres.'"
 
 Kim broke in, laughing. "Everyone lost it. Allen couldn't even come up with a comeback. I think that's when their feud started."
 
-Ela rolled her eyes. "Yeah, and then Allen went to work for the competition six months later."
+"Yeah, and then Allen went to work for the competition six months later."
 
-Jay listened, surprised. He hadn't known that side of Ian existed. For a moment, he tried to picture it—the unflappable boss making a perfectly-timed joke. The image seemed almost alien.
+Jay was surprised. He hadn't known that side of Ian existed. For a moment, he tried to picture it—the unflappable boss making a dry joke.
 
-The relaxed atmosphere around the table reflected their recent success—everyone, even Jay, seemed pleased with their work and comfortable with the recognition it had earned.
-
-When they returned to the office, Jay felt some of his anxiety diminish. The dinner remained intimidating, but it no longer felt like a solitary ordeal. He would be surrounded by colleagues he'd grown to understand, attending an event that celebrated work he'd actually contributed to completing.
+When they returned to the office, Jay felt some of his anxiety diminish. The dinner remained intimidating, but it no longer felt like a solitary ordeal. He would be surrounded by colleagues he'd grown to understand.
 
 That evening, Jay sat in his apartment, considering his wardrobe. He checked his good suit and polished his shoes, then sorted through his shirts and ties, trying to decide which combination looked most suitable for the occasion. He hesitated over each choice, wondering if they were good enough.
 
 For a moment, he wondered if he should buy another suit. He could afford it now, at least. But after a moment's thought, he decided against it. The one he had was more than fine and perfectly adequate for the venue. He wasn't trying to impress anyone—just get through the evening. He set everything in order and tried to put the dinner out of his mind.
 
-The nervousness remained, but it felt manageable now. He'd attended similar events before. The dinner wasn't a test of his worthiness. It was just another obligation, made slightly more bearable by the knowledge that his colleagues would be equally uncomfortable with the formal atmosphere. Max would indeed make inappropriate comments, Amy would handle the social dynamics with ease, and Jay would simply need to dress appropriately and avoid drawing attention to himself.
-
 ## Scene 3: Dinner
 
-The following week was more frantic than usual. The Hartwell contract was finalized, injecting new momentum into every project. The new client required immediate attention, and Ian competently coordinated the expanded workload.
+The following week was frantic. The Hartwell contract was finalized, injecting new momentum into every project. The new client required immediate attention, and Ian coordinated the expanded workload.
 
 The first formal briefing concerning Hartwell happened on Tuesday morning. Ian stood at the head of the conference table, outlining the portfolio requirements.
 
-"The integration timeline is aggressive," Ian said, consulting his notes. "Amy, I need the full market analysis completed by Thursday. Max, handle the domestic projections. Kim, your systems integration assessment is due Wednesday afternoon."
+"The integration timeline is aggressive. Amy, I need the full market analysis completed by Thursday. Max, handle the domestic projections. Kim, your systems integration assessment is due Wednesday afternoon."
 
-He continued down the list, assigning tasks to the whole team. When Ian reached his name, Jay felt a flutter of nervousness.
+He continued down the list, assigning tasks to the whole team.
 
 "Jay, coordinate the documentation review with Amy and ensure all materials are properly formatted for client delivery. Questions?"
 
-Jay shook his head. Around the table, his colleagues asked practical questions about deadlines. The meeting concluded with the workload divided among the team members, while Ian remained at the helm of the project, personally handling the most crucial aspects.
+Jay shook his head. His colleagues asked about deadlines. The meeting concluded with the workload divided among the team members, while Ian remained at the helm of the project, personally handling the most crucial aspects.
 
-As the week progressed, conversation increasingly turned to Friday's dinner. The women in the office engaged in animated discussions about attire, makeup and hair styling. Jay listened to these conversations with growing unease, acutely aware of his inexperience with formal dining protocols.
+Conversation increasingly turned to Friday's dinner. The women in the office engaged in animated discussions about attire, makeup and hair styling. Jay listened with growing unease, acutely aware of his inexperience with formal dining protocols.
 
-Thursday afternoon, as Jay struggled to concentrate over routine paperwork, Luc appeared at his desk
+Thursday afternoon, as Jay struggled to concentrate over paperwork, Luc came over for a chat.
 
-"You look like you're contemplating a difficult mathematical problem," Luc observed.
+"You look like you're contemplating a difficult mathematical problem."
 
 "I'm trying to figure out how to avoid embarrassing myself tomorrow night. I've never eaten at a place like The Palladium before. I keep imagining myself knocking over wine glasses."
 
@@ -142,39 +140,39 @@ Thursday afternoon, as Jay struggled to concentrate over routine paperwork, Luc 
 
 "All of it, honestly. I don't want to do something obviously wrong in front of Turner Senior."
 
-"Here's the secret," Luc said, lowering his voice conspiratorially. "Nobody actually cares about the rules as much as you think they do. Just follow what everyone else does. Don't drink from the finger bowl. If someone offers wine, say yes and take small sips. If you're uncertain about anything, watch Ian—he handles these situations flawlessly."
+"Here's the secret. Nobody actually cares about the rules as much as you think they do. Just follow what everyone else does. Don't drink from the finger bowl. If someone offers wine, say yes and take small sips. If you're uncertain about anything, watch Ian—he handles these situations flawlessly."
 
-"What about conversation? I never know what to say at these things."
+"I never know what to say at these things."
 
 "Ask questions about other people's work. Everyone enjoys talking about their expertise, and it keeps the focus off you."
 
-Jay laughed despite his anxiety. "You make it sound almost manageable."
+"You make it sound almost manageable."
 
-"That's because it is. Remember, Turner Senior is intimidating but predictable. He'll spend most of the evening discussing market conditions. Just nod thoughtfully, don't get drunk, and you'll be fine. The worst that can happen is you accidentally use the salad fork for the main course, and honestly, Max will probably do something far more embarrassing within the first hour."
+"That's because it is. Remember, Turner Senior is boring. He'll spend most of the evening discussing market conditions. Just nod, don't get drunk, and you'll be fine. The worst that can happen is you accidentally use the salad fork for the main course, and honestly, Max will probably do something far more embarrassing within the first hour."
 
 "I appreciate the reassurance. Even if it comes at Max's expense."
 
 "Max can handle it. Besides, he'd probably be offended if we didn't expect him to provide entertainment."
 
-The practical advice helped more than Jay expected. As Thursday evening approached, he felt his preparation was as complete as it could be. The suit was pristine, his shoes polished, and Luc's guidance had provided a basic framework for managing the evening's social requirements.
+The practical advice helped more than Jay expected. As evening approached, he felt his preparation was as complete as it could be. The suit was pristine, the shoes polished.
 
-Friday evening was unseasonably warm for late autumn. Jay took a taxi to The Palladium, arriving precisely at the designated time. The restaurant exceeded his expectations in elegance. Instead of the vast, impersonal space he'd imagined, it featured a series of smaller dining rooms.
+Friday evening was unseasonably warm for late autumn. Jay took a taxi to The Palladium, arriving at the designated time. The restaurant exceeded his expectations in elegance. Instead of the vast, impersonal space he'd imagined, it featured a series of smaller dining rooms.
 
-Their party had been seated in a private room that felt more like an exclusive club than a public restaurant. Jay counted twelve people: the seven regular team members, Ian, Leo, Turner Senior, and two senior partners he recognized but had never spoken to.
+Their party had been seated in a private room that felt more like an exclusive club than a public restaurant. Jay counted twelve people: the six regular team members, Ian, Leo, Turner Senior, and two senior partners he had never spoken to.
 
-Turner Senior commanded attention without effort—a man in his seventies who dominated the room despite his modest stature. Jay had seen him perhaps three times in the office corridors, always at a distance, always surrounded by an aura of authority.
+Turner Senior commanded attention—a man in his seventies who dominated the room despite his modest stature. Jay had seen him perhaps three times in the office corridors, always at a distance, always surrounded by an aura of authority.
 
 "Jay, you're here," Ian said, rising briefly as Jay approached. "Take the seat between Luc and Kim."
 
-Luc gave a thumbs-up, and Jay took his designated chair, relieved to be positioned between his colleagues. Everyone looked glamorous—women in smart dresses, men in well-fitted designer suits. Jay felt distinctly under-dressed by comparison, acutely aware of the ordinary cut of his jacket. It didn't help that he caught Ian's eyes on him more than once, though he couldn't read anything in Ian's expression. Meanwhile Kim launched into a commentary about the wine list.
+Luc gave a thumbs-up, and Jay took his designated chair, relieved to be positioned between his colleagues. Everyone looked glamorous—women in smart dresses, men in well-fitted suits. Jay felt distinctly under-dressed by comparison. It didn't help that he caught Ian's eyes on him more than once, though he couldn't read anything in Ian's expression. Meanwhile Kim launched into a commentary about the wine list.
 
-"Look at these prices," Kim muttered, showing Jay the leather-bound menu. "Forty dollars for a glass of wine that probably costs them eight."
+"Look at these prices," Kim muttered, showing Jay the leather-bound menu.
 
 "Value assessment again?" Luc asked with a grin.
 
 "Market analysis," Kim corrected. "I'm curious about markup strategies."
 
-The meal began with cocktails and appetizers. Jay sampled the wine selection with appreciation, thankful for Luc's earlier advice about following Ian's lead. The conversation around the table flowed with ease.
+The meal began with cocktails and appetizers. Jay sampled the wine selection, thankful for Luc's earlier advice about following Ian's lead.
 
 "The scallops are amazing," Amy commented.
 
@@ -184,9 +182,9 @@ Turner Senior seemed interested in the team's work on the Hartwell contract. Ian
 
 "The documentation process was rigorous," Ian said, addressing Turner Senior's inquiry about quality control. "Jay coordinated the review process and ensured all materials met client specifications."
 
-Jay felt a moment of panic as Turner Senior's attention moved to him, but Ian smoothly transitioned to discussing Amy's market analysis, drawing focus away before Jay needed to respond. The conversation moved past Jay, but he felt the warmth of being acknowledged. Ian had included him naturally, without putting him on the spot.
+Jay felt a moment of panic as Turner Senior's attention moved to him, but Ian smoothly transitioned to discussing Amy's market analysis, drawing focus away before Jay needed to respond. The conversation moved past Jay, but he felt the warmth of being acknowledged. Ian had included him without putting him on the spot.
 
-The pattern continued throughout the evening. When Turner Senior asked pointed questions about project timelines, Ian provided comprehensive answers. When the conversation veered toward office politics or personnel decisions, Ian redirected toward technical achievements. When Turner Senior began discussing regulatory changes, Ian guided the conversation to include everyone's perspective.
+When Turner Senior asked pointed questions about project timelines, Ian provided comprehensive answers. When the conversation veered toward office politics or personnel decisions, Ian redirected toward technical achievements. When Turner Senior began discussing regulatory changes, Ian guided the conversation to include everyone's perspective.
 
 "The new compliance requirements will affect our entire client base," Turner Senior said, his tone growing more serious. "Particularly the smaller portfolios that lack dedicated legal resources."
 
@@ -204,31 +202,29 @@ As the main course arrived, Jay realized he enjoyed the evening more than he'd e
 
 "Intimidating how?" Ela asked.
 
-"Stuffy waiters and complicated etiquette. This feels almost... comfortable."
+"Stuck-up waiters and complicated etiquette."
 
-As the evening progressed, the conversation ranged from work achievements to harmless gossip about competing firms. Jay contributed occasional comments—nothing profound, but small observations that earned nods of agreement from his colleagues.
-
-"The international markets have been particularly volatile," Amy was saying, addressing a question from one of the senior partners. "Our projections account for the uncertainty, and client confidence remains strong."
+"The international markets have been particularly volatile," Amy changed the subject, addressing a question from one of the senior partners. "Our projections account for the uncertainty, and client confidence remains strong."
 
 "That's partly due to the presentation quality," Leo added, raising his glass slightly. "This team knows how to make complex data accessible to decision-makers."
 
-Jay sipped his wine and listened to the discussion. The atmosphere was more relaxed than he'd anticipated. Jay realized he hadn't felt excluded or out of place since arriving. Ian's management of the conversation had been masterful. The team dynamic worked even in this setting, with light jokes that spoke to real camaraderie.
+The atmosphere was more relaxed than Jay had anticipated. He realized he hadn't felt excluded or out of place since arriving. Ian's management of the conversation had been masterful. The team dynamic worked even in this setting, with light jokes that spoke to real camaraderie.
 
 "I have to say," Turner Senior announced as dessert arrived, "this acquisition represents strategic thinking that built this company. Well done, all of you."
 
-The acknowledgement sparked a round of pleased murmurs and raised glasses. As the evening wound down and colleagues began gathering their coats, Jay marveled at how different the night had been from his expectations. The formal setting had been intimidating, but the people had remained friendly, and Ian's leadership had created a protective atmosphere that allowed everyone to have a good time.
+The acknowledgement sparked a round of pleased murmurs and raised glasses. Jay marveled at how different the night had been from his expectations. The formal setting had been intimidating, but the people had remained friendly, and Ian's leadership had created a protective atmosphere that allowed everyone to have a good time.
 
 "Good evening, everyone," Ian said as they prepared to leave. "Excellent work, as always."
 
-Jay collected his coat and followed his colleagues toward the exit, feeling the satisfaction of a successful evening. The anxiety that had plagued him for days had proven largely unfounded.
+Jay collected his coat and followed his colleagues toward the exit. He'd spent days worrying, but most of it had been for nothing.
 
 ## Scene 4: Planning
 
 Jay approached the office with a different perspective on Monday morning. The weekend had provided time to process Friday's dinner, and he'd returned to work with something he hadn't expected: confidence in his place at Turner & Associates.
 
-The standard start of the week briefing convened at nine-thirty in the the local conference room. Jay took a seat and opened his notebook, but noticed he no longer felt the tension that had characterized these meetings for months.
+The standard start of the week briefing convened at nine-thirty in the the local conference room. Jay took a seat and opened his notebook, but noticed he no longer felt so tense.
 
-"The Hartwell integration is proceeding on schedule," Ian began, consulting his notes. "Ela, how are the international market adjustments progressing?"
+"The Hartwell integration is proceeding on schedule," Ian began. "Ela, how are the international market adjustments progressing?"
 
 "Ahead of timeline," Ela replied. "Clients had been responsive to our recommendations."
 
@@ -240,13 +236,13 @@ Ian nodded and continued through the agenda. When he reached Jay's assignments, 
 
 "Good."
 
-The meeting continued, but Jay noticed Ian's attention during the exchange. Not scrutiny, exactly, but a kind of evaluating awareness. The attention didn't feel intrusive or suspicious—more like a manager monitoring an employee's development.
+The meeting continued, but Jay noticed Ian's attention during the exchange. Not scrutiny, but evaluating awareness. The attention didn't feel intrusive or suspicious—more like a manager monitoring an employee's development.
 
 After the meeting, Jay returned to his desk with a clearer understanding of something that had been developing over the past weeks. Ian's leadership style wasn't about friendship or personal warmth. It was about creating an environment where everyone could perform their best work. The correction Jay had received months ago—the one that had felt so devastating at the time—had simply been feedback delivered without unnecessary cushioning.
 
 Jay had interpreted Ian's directness as personal rejection because he'd been hypersensitive to any sign of disapproval. In those first weeks, Ian's distance had seemed deliberate and unyielding. Looking back now, Jay realized it was simply the natural lack of rapport between a manager and an unfamiliar employee. Ian treated everyone with the same standard—he didn't coddle anyone, but he also didn't single anyone out. It was foolish, Jay thought, to have read so much into it.
 
-"You look thoughtful," Luc observed, appearing at Jay's desk with a cup of coffee. "Deep philosophical contemplation or just Monday morning confusion?"
+"You look thoughtful," Luc observed over coffee. "Deep philosophical contemplation or just Monday morning confusion?"
 
 "A bit of both, probably. I was just thinking about management styles."
 
@@ -260,7 +256,7 @@ Jay had noticed, though he hadn't fully appreciated the skill involved. "He made
 
 "That's what good management looks like. You don't always see it happening, but you benefit from it constantly."
 
-The conversation was interrupted by Kim's arrival, holding a stack of documents and wearing an expression of mild exasperation.
+The conversation was interrupted by Kim's arrival, wearing an expression of mild exasperation.
 
 "Have you received the holiday party emails? Christmas party on December fifteenth, end-of-year gala on January twenty-third. My social calendar is now completely full."
 
@@ -268,9 +264,7 @@ The conversation was interrupted by Kim's arrival, holding a stack of documents 
 
 "What's the difference between the Christmas party and the gala?" Jay asked.
 
-"The Christmas party is for staff," Ela explained, appearing with her own coffee. "More casual, though still formal dress. The gala includes major clients and industry contacts. It's the most important networking event of the year."
-
-"And the food is amazing," Max added, joining the conversation circle that had formed around Jay's desk. "The gala budget is apparently out of this world."
+"The Christmas party is for staff," Ela explained, appearing with her mug right after Kim. "More casual, though still formal dress. The gala includes major clients and industry contacts. It's the most important networking event of the year. And the food is amazing. The gala budget is apparently out of this world."
 
 "Are you planning to attend both events?" Amy asked Jay directly.
 
@@ -278,7 +272,7 @@ The conversation was interrupted by Kim's arrival, holding a stack of documents 
 
 "Last time was just formal—this one is strictly black tie," Luc said. "And if you survived The Palladium, you can handle anything the gala throws at you."
 
-The group continued discussing holiday plans, and Jay contributed to the conversation without the self-monitoring that had characterized the previous weeks. When Kim made a sarcastic comment about mandatory fun, Jay laughed. When Ela asked about his Christmas plans, he admitted he hadn't decided yet.
+The group continued discussing holidays. When Ela asked Jay about his Christmas plans, he admitted he hadn't decided yet.
 
 "I'm considering whether to visit my family," Jay said. "Last year was somewhat difficult, and I'm not sure I want to repeat the experience."
 
@@ -290,19 +284,17 @@ The group continued discussing holiday plans, and Jay contributed to the convers
 
 "Honestly? I'm not sure. Part of me thinks spending Christmas alone would be depressing, but another part thinks it might be peaceful."
 
-"There's no shame in choosing peace," Max said. "Family dynamics don't improve just because it's Christmas."
+"There's no shame in choosing peace," Luc said. "Family dynamics don't improve just because it's Christmas."
 
 The conversation continued for another few minutes before everyone dispersed to their respective tasks. Jay returned to his work with the pleasant awareness that he'd participated in normal office small talk without self-consciousness.
 
-As the day progressed, Jay thought about the holiday invitations. The Christmas party and gala didn't seemed intimidating. He understood the office dynamics well enough to handle future events with confidence. More importantly, he felt more like a legitimate member of the team, no longer being an outsider struggling to fit in.
+Jay thought about the holiday invitations. The Christmas party and gala didn't seemed intimidating. He understood the office dynamics well enough to handle future events with confidence. More importantly, he felt more like a legitimate member of the team, no longer being an outsider struggling to fit in.
 
-The question of Christmas remained unresolved, but even that decision felt less fraught than in previous years. He knew he now had a valid excuse to skip the trip if he really didn't feel up to it, and that possibility gave him a measure of peace. The pressure to choose between family obligation and his own comfort had eased, replaced by the reassurance that he wasn't trapped by expectation.
-
-From his office, Ian observed the gathering around Jay's. The laughter indicated that the damage from the earlier misunderstandings had been largely repaired. Jay's integration into the team had been slower than Ian had hoped, but it appeared to be genuine now. The distance he'd maintained had been a necessary protection, but it had also caused unintended harm. Jay's gradual recovery suggested resilience, and Ian found comfort in that.
+The question of Christmas remained unresolved, but even that decision felt less fraught than in previous years. He knew he now had a valid excuse to skip the trip if he really didn't feel up to it, and that possibility gave him a measure of peace. The pressure to choose between family obligation and his own comfort had eased.
 
 ## Scene 5: Exhaustion
 
-The last two weeks of November blurred into one unending stretch of work. Ian arrived before most of the team and left after midnight more than once, spreadsheets glowing against the dark glass of his office windows. The Hartwell integration demanded more oversight than any project in recent memory, but Ian welcomed the pressure. It was a relief to drown out unwanted thoughts with impossible deadlines and numbers that didn't care about human failings.
+The last two weeks of November were filled with unending work. Ian arrived before most of the team and left after midnight more than once, spreadsheets glowing against the dark glass of his office windows. The Hartwell integration demanded more oversight than any project in recent memory, but Ian welcomed the pressure. It was a relief to drown out unwanted thoughts with impossible deadlines and numbers that didn't care about human failings.
 
 The acquisition had been Ian's initiative, a decision that surprised even Leo when Ian presented the proposal during their weekly leadership meeting. Most new client acquisitions came through established networks or referrals, but Ian had identified Hartwell as a strategic opportunity and pursued them directly.
 

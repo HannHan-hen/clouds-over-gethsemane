@@ -22,7 +22,7 @@ Leo stepped into the office and closed the door behind him. "I've found you an a
 
 "You're never going to stop punishing me for the Connelly incident, are you?"
 
-"This isn't punishment. This is therapy. You work sixteen-hour days, handle correspondence that should be delegated, and haven't had a proper conversation with an attractive man in months. Jay Hall could be good for you."
+"This isn't punishment. This is therapy. You work sixteen-hour days and haven't had a proper conversation with an attractive man in months. Jay Hall could be good for you."
 
 "Or he could be another corporate spy looking to pilfer our client list."
 
@@ -88,7 +88,7 @@ Ian pushed away thoughts of Monday morning and the man who would soon occupy the
 
 ## Scene 2: Arrival
 
-The following Monday morning, Jay Hall arrived at the gleaming chrome-and-glass entrance of Northlight Financial Center a full twenty minutes early. He'd picked out his suit days ago, the best one he owned, a sober grey that still felt a little stiff. Even though it was already in perfect condition, he still spent half an hour inspecting every detail, and another fifteen minutes trying to force his black hair into something resembling style. He clutched his satchel, his heart thumping a nervous but excited rhythm against his ribs. This was it. A real chance.
+The following Monday morning, Jay Hall arrived at the gleaming chrome-and-glass entrance of Northlight Financial Center a full twenty minutes early. He'd picked out his suit days ago, the best one he owned, a sober grey that still felt a little stiff. Even though it was already in pristine condition, he still spent half an hour inspecting every detail, and another fifteen minutes trying to force his black hair into something resembling style. He clutched his satchel, his heart thumping nervously against his ribs. This was it. A real chance.
 
 He announced himself to the receptionist, a poised woman who gave him a polite, appraising smile before directing him to a comfortable waiting area. Jay sat on the edge of an expensive leather armchair, trying not to look as awestruck as he felt by the opulence of the lobby.
 
@@ -96,7 +96,7 @@ A few minutes later, a door opened and Leo Turner emerged, as confident and easy
 
 "Jay Hall! Right on time. No, a bit early, even better! Enthusiasm, I like it." Leo extended a hand, offering a firm handshake. "Welcome to the company."
 
-Jay scrambled to his feet, nearly dropping his satchel. "Mr. Turner, thank you. It's an honour to be here. Really." His voice was a little breathier than he intended, but his smile was sincere. He hoped he wasn't coming across as too desperate, but frankly, he was desperate—for a good, stable, uncomplicated job.
+Jay scrambled to his feet, nearly dropping his satchel. "Mr. Turner, thank you. It's an honour to be here. Really." His voice was a little breathier than he intended, but his smile was sincere. He hoped he wasn't coming across as too desperate, but frankly, he was desperate for a good, stable, uncomplicated job.
 
 "Please, call me Leo. We're not overly formal here… well, some of us aren't." Leo winked, a quick, conspiratorial gesture that Jay didn't quite know how to interpret, so he just nodded. "Come on, let me show you around the immediate vicinity, get you set up."
 
@@ -110,7 +110,7 @@ Jay's heart gave a little leap at the mention of Ian. Demanding, expects the bes
 
 "Oh, I don't think disappoint will be the word, Jay. Not at all." Leo stopped outside a closed door. "This will be Ian's den. He's in a meeting right now, but you'll meet him later. Your workstation is just here." He indicated a neat, well-equipped desk in a small alcove just outside Ian's office, shared with one other, currently empty, assistant's desk. "You'll be handling a lot of his reports, due diligence groundwork, keeping his schedule from imploding, the fun stuff. Back-office heroics, basically."
 
-"It sounds great," Jay breathed, his eyes shining as he took in the desk, the powerful computer, the view of the city skyline from a nearby window. The salary was more than he'd ever earned, the company was prestigious, and his boss was famously, wonderfully cynical about workplace flirtations. He couldn't have engineered a better situation if he'd tried.
+"It sounds great," Jay said, his eyes shining as he took in the desk, the computer, the view of the city skyline from a nearby window. The salary was more than he'd ever earned, the company was prestigious, and his boss was famously, wonderfully cynical about workplace flirtations. He couldn't have engineered a better situation if he'd tried.
 
 "Glad you think so," Leo said, his eyes crinkling at the corners with amusement. He clapped Jay on the shoulder. "Alright, HR will be by in a bit with the mountain of paperwork. Get comfortable, get your logins. And Jay?"
 
@@ -186,13 +186,11 @@ Ian returned to his office, leaving Jay to finish his paperwork. Through his gla
 
 Everything about Jay Hall appeared authentic. Which was exactly what made Ian most suspicious.
 
-For his part, Jay felt as if he had stumbled into a dream. The office was everything he had imagined when Leo Turner had called with the offer—sleek, sophisticated, populated by people who clearly took their work seriously. And Ian Hagen was exactly what Jay had hoped for in a superior. Formal without being dismissive or condescending. The way Ian handled introductions made it clear he cared about his staff's integration and didn't simply dump new hires into the workplace without support.
+For his part, Jay felt as if he had stumbled into a dream. The office was everything he had imagined—sleek, sophisticated, populated by people who clearly took their work seriously. And Ian Hagen was exactly what Jay had hoped for in a superior. Formal without being dismissive or condescending. The way Ian handled introductions made it clear he cared about his staff's integration and didn't simply dump new hires into the workplace without support.
 
 Jay had been prepared for arrogance, for casual cruelty that successful men sometimes displayed toward those they perceived as beneath them. Instead, Ian had treated him with courtesy, explaining duties without talking down to him, introducing him as a colleague and not simply "the help."
 
-There was no denying the man's magnetism. Tall, blonde and impeccably dressed, with refined features that belonged in boardrooms and exclusive restaurants. But there was something else, a quality Jay couldn't quite identify. A watchfulness, as if he was always assessing the room.
-
-Whatever it was, it made Jay more determined to prove himself worthy of this opportunity. He had been honest about his modest qualifications, but he hadn't mentioned his hunger for something better than the dead-end position he had left behind, or his excitement at the chance to work somewhere that mattered.
+It made Jay more determined to prove himself worthy of this opportunity. He had been honest about his modest qualifications, but he hadn't mentioned his hunger for something better than the dead-end position he had left behind, or his excitement at the chance to work somewhere that mattered.
 
 This was his opportunity to build something meaningful, to work alongside people who were truly accomplished. He wouldn't waste it.
 
@@ -200,7 +198,7 @@ As he completed the final form and reached for his phone to handle his first off
 
 This was going to work out perfectly.
 
-Jay spent the rest of his first day drowning in manuals, company policies and client protocols. Ian had provided him with a stack of materials thick enough to serve as a doorstop and a brief explanation of procedures before disappearing back into his office. Not long after, Kim appeared with his new equipment: a laptop, tablet and phone so high-end and pristine they belonged in a different league from anything he'd owned before, all already set up and ready to use, along with login credentials for various systems.
+Jay spent the rest of his first day drowning in manuals, company policies and client protocols. Ian had provided him with a stack of materials thick enough to serve as a doorstop and a brief explanation of procedures before disappearing back into his office. Not long after, Kim appeared with his new equipment: a laptop, tablet and phone so high-end they belonged in a different league from anything he'd owned before, all already set up and ready to use, along with login credentials for various systems.
 
 The work itself was straightforward enough. What overwhelmed Jay was everything else. The office building's amenities read like an exclusive hotel brochure. The kitchen and lounge area near their department featured a gleaming espresso machine that looked unnecessarily complex, a refrigerator stocked with organic beverages he'd only seen in upscale grocery stores, and an endless supply of artisanal snacks arranged in glass containers.
 
@@ -220,9 +218,9 @@ Jay gathered his belongings, feeling mildly dismissed but appreciating the clear
 
 His stomach growled as he dropped his bag by the door, but Jay first removed his suit jacket and hung it properly in the closet, then changed his shirt and trousers for loose sweatpants and an old t-shirt. Only then did he head for the kitchen. He pulled out the sandwich he'd packed that morning and unwrapped it while reheating leftovers from the night before. The combination was hardly gourmet, but he was too hungry to care.
 
-As he ate, Jay's mind kept returning to Ian Hagen. He was so handsome that it seemed almost unfair—like he had stepped out of a period drama where everyone spoke in perfect sentences and walked with innate grace. His posture was flawless, his manner of speaking inspiring. Even his hands were remarkable, appearing simultaneously strong and elegant. Jay had never met anyone who seemed so perfectly put together in every conceivable way.
+As he ate, Jay's mind kept returning to Ian Hagen. He was so handsome that it seemed almost unfair—tall and blonde, with refined features that looked like he had stepped out of a period drama where everyone walked with innate grace. His posture was flawless, his manner of speaking inspiring. Even his hands were remarkable, appearing simultaneously strong and elegant. Jay had never met anyone who seemed so put together in every conceivable way.
 
-The office itself had been impressive enough—the sweeping views, the expensive furniture, the sense of operating at the highest levels of finance. But Ian elevated it all. Jay could imagine learning enormous amounts just by observing how he conducted meetings, how he analyzed problems, how he made decisions.
+The office had been impressive—the sweeping views, the expensive furniture, the sense of operating at the highest levels of finance, but Ian elevated it all. Jay could imagine learning enormous amounts just by observing how he conducted meetings, how he analyzed problems, how he made decisions.
 
 This was exactly the opportunity Jay had dreamed of when he moved to the city. A chance to work alongside someone truly exceptional. The thought filled him with renewed determination.
 
@@ -234,11 +232,11 @@ Afterwards he laid out his suit and inspected every detail. A small thread hung 
 
 First impressions mattered, but second impressions mattered too.
 
-By eleven, Jay was in bed with his alarm set for six-thirty. Plenty of time to arrive early and establish himself as reliable.
+By eleven, Jay was in bed with his alarm set for six. Plenty of time to arrive early and establish himself as reliable.
 
 ## Scene 4: Settling in
 
-The next morning, Jay arrived at eight o'clock to find Ian already at his desk, coffee in hand, reviewing overnight market reports. Jay hesitated outside his own workspace, uncertain whether he should interrupt. The older man looked completely absorbed in his work, and Jay had no idea what the appropriate protocol might be for morning greetings.
+The next morning, Jay arrived at eight o'clock to find Ian already at his desk, reviewing overnight market reports. Jay hesitated outside his own workspace, uncertain whether he should interrupt. The older man looked completely absorbed in his work, and Jay had no idea what the appropriate protocol might be for morning greetings.
 
 He sat behind his desk and tried to look busy organizing papers that were already perfectly organized. Ten minutes later, Ian emerged from his office with a stack of files.
 
@@ -246,7 +244,7 @@ He sat behind his desk and tried to look busy organizing papers that were alread
 
 "Ian." The correction was mild but definite. "Everyone here uses first names. We're colleagues, not a nineteenth-century law firm."
 
-"Ian." Jay tested the name, as if it might break. "Good morning."
+"Ian. Good morning."
 
 "Good morning. These are client profiles for this week's meetings. I'll need summaries of their current portfolio positions by Thursday." Ian handed over the files.
 
@@ -256,7 +254,7 @@ He sat behind his desk and tried to look busy organizing papers that were alread
 
 After Ian returned to his office, Jay made his way to the kitchen area, hoping to figure out the espresso machine without embarrassing himself. The device looked like it belonged on a spaceship.
 
-"First time with the beast?" Luc appeared beside him, coffee mug in hand. He was perhaps a few years older than Jay, with a friendly smile and a relaxed demeanour.
+"First time with the beast?" Luc appeared beside him. He was perhaps a few years older than Jay, with a friendly smile and a relaxed demeanour.
 
 "Is it that obvious?"
 
@@ -266,13 +264,13 @@ Jay watched as Luc demonstrated each step, expecting an impatient instruction he
 
 "Thanks. I appreciate the patience."
 
-"No problem. We've all been the new person." Luc prepared his own coffee with ease. "Fair warning—Ian's particular about his coffee. Single origin, no sugar, no milk. He's got his own supply in his office, but if you ever need to make him one, the good beans are in the sealed container on the top shelf."
+"No problem. We've all been the new person. Fair warning—Ian's particular about his coffee. Single origin, no sugar, no milk. He's got his own supply in his office, but if you ever need to make him one, the good beans are in the sealed container on the top shelf."
 
 Jay filed away this information along with everything else he was learning about his new workplace. The coffee he eventually produced was better than anything he'd ever made for himself, rich and complex, justifying the expensive equipment.
 
-Back at his desk with his perfect coffee and the stack of client files, Jay felt a surge of contentment. This was exactly what he'd hoped for—meaningful work, capable colleagues, an environment where competence was valued and supported. He opened the first file and began reading, determined to prove himself worthy of the opportunity.
+Back at his desk with his perfect coffee and the stack of client files, Jay felt a surge of contentment. This was exactly what he'd hoped for—meaningful work, capable colleagues, an environment where competence was valued and supported. He opened the first file and began reading.
 
-From his office, Ian observed Jay's movements, the way the younger man handled the client files with reverence, the attention he gave to each document. The enthusiasm was unmistakable. Jay approached even simple tasks as if they were important work.
+From his office, Ian observed Jay's movements, the way the younger man handled the client files with reverence. The enthusiasm was unmistakable. Jay approached even simple tasks as if they were important work.
 
 It was exactly the behaviour that had charmed Ian thirteen years ago. Sam Connelly had shown the same eagerness, the same gratitude for opportunities. The way Jay had looked at him that morning—like Christmas had arrived early—was particularly unsettling. That combination of respect and personal interest that could as well be innocent or entirely calculated.
 
@@ -282,7 +280,7 @@ Whether Jay's enthusiasm was real or performed would become clear soon enough. U
 
 The next day, Jay arrived at the office twenty minutes early. The elevator ride felt less intimidating than Monday's first ascent, though his stomach still fluttered when the doors opened to reveal Turner & Associates' marble lobby.
 
-The receptionist offered him a friendly smile as he passed, and Jay said a quiet "Good morning" in return. His desk appeared exactly as he'd left it on Tuesday—organized and equipped with the sleek laptop that still felt too expensive for his hands.
+The receptionist gave him a friendly smile as he passed, and Jay said "Good morning" in return. His desk appeared exactly as he'd left it on Tuesday—organized and equipped with the sleek laptop that still felt too expensive for his hands.
 
 Ian's office door were closed, but Jay could see the faint glow of his computer screen through the glass. According to the calendar, Ian had an early morning call with overseas investors, which meant Jay had time to review his client summaries one final time before the morning rush began.
 
@@ -312,7 +310,7 @@ Jay looked up from his computer screen, automatically saving his work. "Mr. Turn
 
 "Office equipment upgrade," Leo said, placing the bag on Jay's desk. "Standard issue for all our assistants."
 
-The messenger bag was beautiful—supple brown leather with brass fittings, clearly expensive. Jay examined the craftsmanship, the multiple compartments and padding designed specifically for electronics. His current laptop bag, purchased during his university years, bore multiple patches and a broken zipper.
+The messenger bag was beautiful—supple brown leather with brass fittings, clearly expensive. Jay examined the craftsmanship, the multiple compartments and padding designed specifically for electronics. His current bag, purchased during his university years, bore multiple patches and a broken zipper.
 
 "Thank you. This will be very useful."
 
@@ -334,7 +332,7 @@ Twenty minutes later, the office door opened. Ian emerged, straightening his tie
 
 "Good morning, Jay. How are the summaries progressing?"
 
-"Nearly complete," Jay replied, minimizing the document window. "I should have them ready for your review by this afternoon."
+"Nearly complete. I should have them ready for your review by this afternoon."
 
 "Excellent. When you have a moment, I have another task." Ian placed a folder on Jay's desk. "These are draft documents for a new client proposal. I need them proofread for accuracy and consistency. Nothing urgent—Friday afternoon will be sufficient."
 
@@ -362,7 +360,7 @@ After a week of learning the ropes, Ian gave him access to his email and calenda
 
 The work itself was more engaging than anything Jay had done before. Instead of processing invoices for an accounting firm that served local businesses, he was now supporting investment decisions that involved millions and international markets. Even the simplest tasks felt important when they contributed to something larger than himself.
 
-What made the week perfect, however, was the complete absence of unwanted attention. Jay had spent his last weeks at his previous job avoiding his senior's colleague advances. The relief of working with people who presented no obvious red flags was almost overwhelming.
+What made the week great, however, was the complete absence of unwanted attention. Jay had spent his last weeks at his previous job avoiding his senior's colleague advances. Working with people who presented no obvious red flags was a relief.
 
 Ian treated him exactly as Jay had always hoped to be treated in a workplace—with respect and zero personal interest. Their interactions were courteous but formal, focused entirely on work objectives. When Ian needed to review documents at Jay's desk, he maintained physical distance. When Jay had questions, Ian answered them without turning them into unnecessary conversation.
 
@@ -370,7 +368,7 @@ It was paradise. Jay knew his enthusiasm was probably obvious, but he couldn't b
 
 Ian, observing Jay's barely concealed delight with every mundane task, felt his suspicions crystallize into near certainty. The younger man's performance was competent enough, but it was his obvious pleasure in their interactions that raised the alarm.
 
-Jay's face lit up whenever Ian approached his desk. He absorbed feedback as if he was memorizing scripture. Most tellingly, he seemed to find excuses to extend their interactions, asking follow-up questions that weren't strictly necessary or offering observations about clients that went beyond his assigned research scope.
+Jay's face lit up whenever Ian approached his desk. He absorbed feedback as if he was memorizing scripture. Most tellingly, he seemed to find excuses to extend their interactions, asking follow-up questions that weren't strictly necessary or observations about clients that went beyond his assigned research scope.
 
 The behaviour was subtle enough to maintain plausible deniability, but Ian recognized the pattern. Sam Connelly had done exactly the same thing—positioning himself as eager to learn and appreciating any attention from his successful supervisor. The gradual escalation from mild interest to personal devotion had been so subtly orchestrated that Ian hadn't recognized it until far too late.
 
@@ -414,7 +412,7 @@ Jay looked up with an expression of contentment so glaring that Ian felt his sus
 
 "You've done competent work. Keep it up."
 
-The praise was minimal, but Jay received it as if Ian had offered him a promotion. The younger man's delight with such modest acknowledgement was either heartbreakingly innocent or calculatedly manipulative. Ian chose to assume the latter.
+The praise was minimal, but Jay received it as if Ian had given him a promotion. The younger man's delight with such modest acknowledgement was either heartbreakingly innocent or calculatedly manipulative. Ian chose to assume the latter.
 
 Jay gathered his belongings and headed for the elevator, wishing everyone a pleasant weekend.
 

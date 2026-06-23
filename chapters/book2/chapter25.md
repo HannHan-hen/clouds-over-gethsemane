@@ -304,4 +304,3 @@ This vacation had been good for him. But he was glad to be returning home.
 Jay got back to his apartment on Saturday evening, and spent Sunday unpacking, sorting clothes for laundry and redistributing items among his collection of suitcases. The tropical warmth was already a memory as chilly November air crept through his windows. Halloween had passed entirely unnoticed while he was away, and evening was falling with the early darkness of approaching winter.
 None of the seasonal transition bothered him. The overcast skies and cooling temperatures felt refreshing. He was back in the city that had become his own, in the life he had built for himself. 
 Jay finished his unpacking, already looking forward to Monday morning. He was home. Or rather, he would be home tomorrow, right where he belonged: in front of Ian's office, ready to resume their shared work.
-Security

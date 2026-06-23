@@ -7,7 +7,7 @@
 The narrative explores themes of trust, professional boundaries, class disparity, and the courage required to be vulnerable after betrayal. Set against the backdrop of Turner & Associates, a prestigious investment firm, the story unfolds over the course of a year as both men navigate their growing attraction while grappling with past wounds and power dynamics.
 
 **Genre:** Contemporary Romance, Workplace Romance, Slowburn
-**Status:** Book 1 complete (20 chapters), Book 2 complete (20 chapters), Book 3 in progress (5 chapters)
+**Status:** Book 1 complete (20 chapters), Book 2 complete (20 chapters), Book 3 in progress (7 chapters)
 **Setting:** Modern-day financial district in a major city
 
 ---
@@ -61,6 +61,8 @@ Book Three begins Jay's third year at Turner & Associates. Ian's 40th birthday b
 The team expands with Ray Shore (brilliant analyst obsessed with hot springs) and Tia Larson. Quarterly reports pass with unprecedented ease. Jay successfully buys his brother Tim a car for his 18th birthday. However, with routines disrupted by winter and reporting season, both men feel desperately lonely despite daily contact.
 
 The hot springs retreat brings devastating developments: Jay nearly freezes hiking without proper gear, they witness aurora borealis from an ocean-edge pool, and at a naked sauna Jay is overwhelmed seeing Ian's body. That night, drunk and clinging to Ian in the cold, Jay begs him to "hold me for the rest of my life." Ian complies, holding Jay as he sleeps while suffering the cruelty of hearing exactly what he wants but can never have. Jay wakes mortified with memory gaps; Ian pretends nothing happened to spare him embarrassment while internally falling apart.
+
+The book's most recent arc is the long-planned ten-day vacation, just the two of them, at a palatial resort in the Songbird Islands. Ian clears Jay's lingering shame over the hot springs by telling him plainly that he enjoys his company and that their friendship isn't something Jay has to keep earning back. On the islands, repeated unwanted advances toward Jay prompt Ian to play the protective partner—and the two begin leaning into a "fake couple" pretense to deter admirers. Over candlelit dinners they finally trade their full romantic histories: Ian's conditional father, his university relationships, the years he spent using people as managed distractions, and Sam Connelly; Jay's own sparse, painful record. Jealousy over an admirer drives Ian to drink himself into a silent shutdown one night, and Jay tenderly nurses him through the hangover—a rare reversal where Ian is the one rescued. The pretense escalates past pretending: a theatrical kiss to Jay's knuckles at breakfast that lands like a first kiss for both, hand-holding, a slow dance that becomes a real embrace, a storm-bound evening of domestic talk about rugs and mortgages and future work trips, and a charged near-kiss in the suite doorway. By the arc's end both men are deeper in love than ever and the line between the game and the truth has all but dissolved, yet neither has openly confessed.
 
 ---
 

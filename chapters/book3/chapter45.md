@@ -58,8 +58,6 @@ Jay splashed around for a few minutes, feeling the hot water immediately relax m
 Finally, he found a spot near Ian, who had chosen a stone seat along the pool's side. Jay sank down beside him, the water deep enough to cover their shoulders. It felt blissful.
 They reclined against the smooth stone, the water lapping gently around them, steam rising into the cold air above. Ian's eyes were closed, his expression peaceful.
 The heat melted away everything—the missed Friday dinners, the stress of the quarter, the constant low-level anxiety. Here, in the steaming water with the cold air on his face and Ian beside him, none of it mattered. He could stay like this for hours.
-
-
 Scene 2
 Aurora
 They soaked for about two hours, taking short breaks to step out into the chilly air for water and to cool down before plunging back into the heat. The heat worked its way deep into Jay's bones, leaving him loose and heavy in the best way. Around him, the team had spread out across the pool, some chatting, others floating in silence.
@@ -302,7 +300,6 @@ Ian opened his eyes again, banishing the thoughts. Tomorrow Jay would wake up em
 In the darkness of this room with Jay sleeping peacefully nearby, Ian let himself feel the full weight of what he wanted and couldn't have, the love he'd been suppressing for so long, the hope he kept trying to suffocate.
 Hold me for the rest of my life.
 "I would," Ian whispered into the darkness. "God help me, I would."
-
 Scene 5
 Cruel joke
 Jay woke with a faint headache and the vague sense that he had done something terrible.
@@ -357,4 +354,4 @@ It would have been easier if Jay had been indifferent. Cold, even. But Jay's swe
 It had taken every ounce of Ian's control to sit on that freezing balcony and not show what he was feeling. To reassure Jay that nothing had happened, that everything was fine. It had taken even more control to maintain that facade through the day, to act normal when his heart felt like it was tearing itself apart.
 He'd almost broken in the car. The way Jay had looked at him with those wide gray eyes, worried and apologetic—Ian had wanted to pull him back, to tell him the truth. That the night before had been the most painful experience of Ian's life. That Jay had said exactly what Ian had been desperate to hear, and that was the cruellest part of all.
 He needed to pull himself together. This weakness was unacceptable. He'd weathered worse than this—betrayal, scandal, exile from his own family. He could handle impossible love. He'd been handling it just fine. He just needed time to steel his heart again. 
-A day or two. That's what he'd told Jay, and he'd make it true. By Monday he'd be fine. Everything would return to normal. He was good at controlling himself. Excellent at it, even. But for now, alone in his apartment, he let himself fall apart completely.
+A day or two. That's what he'd told Jay, and he'd make it true. By Monday he'd be fine. Everything would return to normal. He was good at controlling himself. Excellent at it. But for now, alone in his apartment, he let himself fall apart completely.

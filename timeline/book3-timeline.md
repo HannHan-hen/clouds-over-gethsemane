@@ -190,6 +190,76 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 
 ---
 
+## Chapter 46: Paradise found
+
+### Scene 1: Dispelling doubts
+- **Duration:** ~1 week (work week + Saturday)
+- **Date:** Monday, November 4 -- Saturday, November 9, 2019
+- **Day of Week:** Monday through Saturday
+- **Summary:** Haunted by his half-remembered hot springs plea, Jay throws himself into work while Ian sets a relentless pace to clear everything before their vacation. Over a Saturday lunch Ian addresses it directly, telling Jay he enjoys his company and won't have their friendship treated as something Jay must keep earning back. They shop for beach clothing, sunscreen, and a sun hat.
+- **Milestone:** Ian explicitly reassures Jay; the hot springs shame is dispelled
+
+### Scene 2: Encounters
+- **Duration:** 1 day (travel + first evening)
+- **Date:** Monday, November 11, 2019
+- **Day of Week:** Monday
+- **Summary:** The two fly to a palatial resort in the Songbird Islands and share a two-bedroom ocean-view suite. That evening at the hotel bar a woman flirts persistently with Jay; Ian deflects her with an invented dinner reservation and a hand on Jay's shoulder. Over a seafood dinner they discuss Jay's difficulty handling unwanted attention.
+- **Milestone:** Vacation begins; Ian first plays the protective partner
+
+### Scene 3: Nuisance
+- **Duration:** 1 day
+- **Date:** Tuesday, November 12, 2019
+- **Day of Week:** Tuesday
+- **Summary:** Morning coffee on the terrace, Ian swimming disciplined laps, beach time where Jay struggles not to stare at Ian's physique. A pushy man corners Jay by the pool; Jay extracts himself and retreats to the suite. Ian works through the afternoon while Jay protests with pointed silence.
+
+### Scene 4: Past relationships
+- **Duration:** 1 evening
+- **Date:** Tuesday, November 12, 2019
+- **Day of Week:** Tuesday
+- **Summary:** At the resort's most exclusive, candlelit restaurant Ian recounts his full romantic history -- realizing at fifteen he was attracted to men, his father's conditional approval, volatile and emotionally absent university relationships, his mid-twenties spent using people as managed distractions, and the Sam Connelly betrayal he blames only on himself (seven years celibate since). Jay shares his own sparse, painful record in return.
+- **Milestone:** Ian and Jay trade their complete romantic histories
+
+### Scene 5: Breaking point
+- **Duration:** ~2 days
+- **Date:** Friday, November 15 -- Saturday, November 16, 2019
+- **Day of Week:** Friday into Saturday
+- **Summary:** The persistent man returns; Ian declares Jay "not available" and, alone with Jay after, says it's because Jay is "so beautiful." Jealous and overwhelmed, Ian drinks himself into a silent, complete shutdown. Jay gets him safely to bed and nurses him through the hangover the next day -- the first reversal of their dynamic. Disarmed, Ian agrees to the sunset cruise Jay has wanted.
+- **Milestone:** Ian's drunken shutdown; Jay cares for Ian (roles reversed)
+
+---
+
+## Chapter 47: Bliss
+
+### Scene 1: The game
+- **Duration:** 1 day (into evening)
+- **Date:** Sunday, November 17, 2019
+- **Day of Week:** Sunday
+- **Summary:** Recovered, Ian proposes a classical concert and suggests they openly lean into the assumption that they're a couple to deter Jay's admirer. At breakfast Ian lifts Jay's hand and presses a deliberate, theatrical kiss to his knuckles -- meant as performance, but it lands like a first kiss for both. Touches accrue all day. At the concert Ian apologizes for a past awkward concert (it had reminded him of Sam) and promises to play violin for Jay at home.
+- **Milestone:** The "fake couple" pretense begins; the breakfast knuckle-kiss
+
+### Scene 2: The cruise
+- **Duration:** 2 days
+- **Date:** Monday, November 18 -- Tuesday, November 19, 2019
+- **Day of Week:** Monday into Tuesday
+- **Summary:** On a sunset cruise -- Jay delighted, Ian disdainful of the kitsch -- they talk through Ian's fear of becoming his cold father and Jay's story of his absent biological father. A slow dance stops being a performance and becomes a real embrace. No promised bioluminescence or dolphins materialize.
+- **Milestone:** The slow dance that becomes a genuine embrace
+
+### Scene 3: The storm
+- **Duration:** 1 day
+- **Date:** Wednesday, November 20, 2019
+- **Day of Week:** Wednesday
+- **Summary:** A storm confines them to the suite for a day of domestic conversation -- a green rug for Jay's flat, his mortgage, future work trips to Brussels and Geneva. Ian insists plainly the trip is no obligation: he wanted ten days with Jay, not ten days Jay happened to be present for. Jay admits he doesn't want it to end.
+- **Milestone:** Ian's plain declaration that he wants to be there, with Jay
+
+### Scene 4: Doing nothing
+- **Duration:** 1 day (into evening)
+- **Date:** Thursday, November 21, 2019
+- **Day of Week:** Thursday
+- **Summary:** A museum visit is cut short. In the suite doorway the two share a charged near-kiss before stepping into the day holding hands -- nominally the pretense, but no longer that at all. They spend the day doing nothing together: the pool, a barefoot walk along the beach, the sunset from the balcony. Jay, happier than he has ever been, pulls on Ian's cologne-scented sweater against the night chill.
+- **Milestone:** The doorway near-kiss; open hand-holding; the borrowed sweater
+
+---
+
 ## Major Milestones Summary
 
 | Date | Milestone |
@@ -210,3 +280,10 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 | October 25, 2019 | Hot springs trip begins; aurora borealis viewing |
 | October 26, 2019 | Jay's drunken confession: "hold me for the rest of my life" |
 | October 27, 2019 | Ian privately devastated by feelings he can't act on |
+| November 9, 2019 | Ian dispels Jay's shame; reassures him before vacation |
+| November 11, 2019 | Songbird Islands vacation begins (ten days, just the two of them) |
+| November 12, 2019 | Ian and Jay trade their full romantic histories |
+| November 15, 2019 | Ian's jealous drunken shutdown; Jay nurses him (roles reversed) |
+| November 17, 2019 | "Fake couple" pretense begins; the breakfast knuckle-kiss |
+| November 18, 2019 | The sunset-cruise slow dance becomes a real embrace |
+| November 21, 2019 | Doorway near-kiss; open hand-holding; the borrowed sweater |

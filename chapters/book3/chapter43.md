@@ -100,11 +100,11 @@ He definitely wanted too much.
 Scene 2
 Incandescent
 It was raining on Tuesday. Not the gentle autumn drizzle that made everything seem romantic, but a relentless downpour that turned the streets into rivers.
-At six, Ian appeared at Jay's desk. "Ready to go?"
+Ian came to fetch Jay at six. "Ready to go?"
 "Yeah."
-They drove through the rain in silence. Jay watched the water run down the window and felt an odd weight in his chest.
-"We have to  cancel the run," Ian said.
-"I was looking forward to it," Jay replied. He was unreasonably disappointed. Now the evening stretched ahead, empty.
+As they drove through the rain, Jay watched the water run down the window and felt a weight in his chest.
+"We have to cancel the run," Ian said.
+"I was looking forward to it," Jay replied. He was unreasonably disappointed. Now the evening ahead was empty.
 "So was I."
 "Next week."
 "Yes. Next week."
@@ -125,7 +125,7 @@ Jay stared at him. "Leo, that's too much—"
 "The dresses need to be conservative. Age-appropriate."
 Leo's smile was cherubic and utterly untrustworthy. "Of course."
 "Leo."
-"I promise. Nothing scandalous. They'll look elegant and appropriate."
+"I promise. Nothing scandalous. They'll look elegant and proper."
 Jay didn't believe him for a second, but arguing was pointless. Leo had already set everything in motion, and reversing it would cause more chaos than letting it proceed.
 Wednesday evening, Jay called his mother.
 "Everything's arranged. Leo's sending a car to pick them up Friday evening. They'll stay with me, then get taken care of on Saturday. Dresses, hair, makeup. Everything."
@@ -164,11 +164,11 @@ Two hours felt excessive. He sat in the chair and let Eli's team take over.
 They started with his hair—washing, cutting, styling until it looked deliberately tousled but somehow elegant. Then the outfit. Jay changed into the floral blazer, the open-collar shirt, the perfectly fitted trousers. Eli adjusted the fit, made minute changes until everything sat exactly right.
 "Perfect," Eli said finally, stepping back. "You look incredible."
 "You're sure about the open collar?"
-"I'm certain. It's sophisticated, not sloppy. Trust the vision. Ian Hagen is going to forget how to speak."
+"I'm certain. It's sophisticated. Trust the vision. Ian Hagen is going to forget how to speak."
 "That's not the goal."
 "Then what is the goal?"
 "To look... appropriate. Not like I'm trying too hard."
-"You don't look like you're trying too hard. You look like you succeeded without trying at all. There's a difference." Eli handed him a small tube. "Lip balm. Use it before you leave tonight. Trust me."
+"You don't look like you're trying too hard. You look like you succeeded without trying at all." Eli handed him a small tube. "Lip balm. Use it before you leave tonight. Trust me."
 "Thank you. For all of this."
 "My pleasure. This is what I do. See you at the party?"
 "See you there."
@@ -185,11 +185,11 @@ Jay crossed the room, weaving through the crowd, and stopped in front of Ian.
 "Happy birthday," Jay said.
 Ian stared at him, seemingly unable to speak.
 "I know I'm late. Leo's errands. I'm sorry."
-"You're—" Ian stopped, cleared his throat. "You look—"
+"You're—You look—"
 "Ridiculous?"
 "No. Not ridiculous."
 The guests around them had diplomatically moved away, giving them space. Jay barely noticed.
-"I hope you're enjoying the party. I know you didn't want this. But everyone here cares about you. They want to celebrate you. I wanted you to have a night where people remind you how much you matter. Because you do. You matter so much."
+"I hope you're enjoying the party. I know you didn't want this, but everyone here cares about you. They want to celebrate you. I wanted you to have a night where people remind you how much you matter. Because you do. You matter so much."
 He hadn't meant to say it like that. Hadn't meant to be so earnest, so open. But the words were already out, and Ian was looking at him like Jay had just said something devastating.
 "Thank you," Ian said.
 Jay wanted to say more—to explain how important Ian had become, how much these two years had meant—but the words wouldn't come.
@@ -350,13 +350,13 @@ Jay had kept coming back to him, checking on him, seeking him out even in the cr
 Ian dropped his keys on the counter and looked around his living room.
 The gifts were already there, arranged by the staff Leo had hired to handle the logistics. Elegant boxes, wrapped packages, things chosen by assistants or purchased out of obligation. Ian ignored all of them and went straight to the one that mattered. The silver-and-gold package with the red ribbon. Jay's gift. The ribbons Jay had chosen made it distinctive among the more elaborate presentations. Ian took it to his kitchen table and sat, just looking at it for a long moment.
 Then he unwrapped it, preserving the ribbons, revealing a beautiful wooden box beneath. He opened it to find three crystal bottles and a handwritten note. Ian picked it up and read.
-Ian,
-I made these for you. Each one for a different moment:
-The first—citrus, ginger, cardamom. For cold evenings when you need warmth.
-The second—alpine herbs, gentian, chamomile. For when you're tired and need clarity.
-The third—red currant, cinnamon, honey. This one reminded me of my childhood. My grandfather made something similar. I hope it brings you comfort. 
-Happy birthday. You deserve every good thing.
-—Jay
+*Ian,*
+*I made these for you. Each one for a different moment:*
+*The first—citrus, ginger, cardamom. For cold evenings when you need warmth.*
+*The second—alpine herbs, gentian, chamomile. For when you're tired and need clarity.*
+*The third—red currant, cinnamon, honey. This one reminded me of my childhood. My grandfather made something similar. I hope it brings you comfort.* 
+*Happy birthday. You deserve every good thing.*
+*—Jay*
 Ian read it twice, then a third time, tracing the handwriting with his eyes.
 Each one tailored to him. Each one infused with meaning. He picked up the bottle of red currant tincture and opened it. He poured a small amount into a glass and took a sip.
 It was sweet and warm, just like Jay. Rich with spice and fruit, smooth on the tongue.
