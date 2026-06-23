@@ -77,8 +77,8 @@ Jay turned his cup slowly on its saucer. "Did it help?" he asked.
 "I would have named the fern and grieved when I killed it. This was the better plan," Jay said.
 They stepped out through the iron gate at nine. The cold met them at once, sharp after two hours of summer, and frost already silvered the parked cars under the streetlamp. Jay shivered and pulled his coat closed, and he was smiling while he did it.
 "Back to winter," Jay said.
-"Tomorrow is Friday. Dinner at mine. I'm cooking, so adjust your expectations," Ian said.
-"Expectations adjusted upward," Jay said.
+"Tomorrow is Friday. Dinner's my choice this time, and I intend to overdo it," Ian said.
+"Overdoing it. I'm fully on board," Jay said.
 The walk to the car was short and the air was bitter, and for the first time all week the cold had no weight to it at all.
 Scene 2
 Friday, Restored
