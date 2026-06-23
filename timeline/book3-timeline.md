@@ -260,6 +260,43 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 
 ---
 
+## Chapter 48: Borrowed reality *(draft — unfinished)*
+
+### Scene 1: The last afternoon
+- **Duration:** 1 afternoon
+- **Date:** Thursday, November 21, 2019
+- **Day of Week:** Thursday
+- **Summary:** A final walk along the shore as the light fades. Jay silently catalogues everything that won't survive the flight home and grieves the "borrowed reality" they built. Ian notices his quiet but doesn't press.
+
+### Scene 2: Not everything
+- **Duration:** 1 evening
+- **Date:** Thursday, November 21, 2019
+- **Day of Week:** Thursday
+- **Summary:** Over a last room-service dinner on the balcony, Jay admits he doesn't want the trip to end. Ian reassures him: the scenery changes but they don't; daily contact remains and they live two streets apart. Jay agrees to try to believe him.
+- **Milestone:** Ian's promise that the closeness won't disappear back home
+
+### Scene 3: Sugar and laughter
+- **Duration:** 1 night
+- **Date:** Thursday, November 21, 2019
+- **Day of Week:** Thursday
+- **Summary:** They stay up late feeding each other strange resort snacks, Ian needling Jay to try a dried fruit that "looks like a mummified insect." Easy, unguarded humor—the thing Jay knows he'll miss most.
+
+### Scene 4: The flight home
+- **Duration:** 1 morning (travel)
+- **Date:** Friday, November 22, 2019
+- **Day of Week:** Friday
+- **Summary:** An early checkout and a near-silent drive to the airport. On the plane Ian proposes a quiet dinner "next weekend," turning the bond into a concrete promise that survives the trip's end.
+- **Milestone:** The "next weekend" dinner plan—proof the bond outlasts the island
+
+### Scene 5: The cold apartment
+- **Duration:** 1 afternoon/evening
+- **Date:** Friday, November 22, 2019
+- **Day of Week:** Friday
+- **Summary:** They land in a gray, cold Maincross. Ian drops Jay off first. Alone in his quiet apartment, Jay sinks to the floor against the doorframe and sits in the grief of already missing Ian, trying and failing to believe that "next weekend" will be enough.
+- **Milestone:** Homecoming; the vacation illusion ends, the wanting does not
+
+---
+
 ## Major Milestones Summary
 
 | Date | Milestone |
@@ -287,3 +324,6 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 | November 17, 2019 | "Fake couple" pretense begins; the breakfast knuckle-kiss |
 | November 18, 2019 | The sunset-cruise slow dance becomes a real embrace |
 | November 21, 2019 | Doorway near-kiss; open hand-holding; the borrowed sweater |
+| November 21, 2019 | Last vacation evening; Ian promises the closeness won't disappear |
+| November 22, 2019 | Flight home; "next weekend" dinner plan made |
+| November 22, 2019 | Homecoming to Maincross; Jay grieves on his apartment floor (draft) |
