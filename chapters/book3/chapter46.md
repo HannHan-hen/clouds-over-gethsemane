@@ -65,7 +65,7 @@ The flight was not long. They were served a meal and somewhere over open water J
 The transfer to the resort took forty minutes through landscape that Jay watched out the window: dense vegetation close to the road, glimpses of water through the trees, the occasional village of white-painted buildings.
 The resort appeared at the end of a long private road. Jay saw it through the windscreen and it was completely magnificent. It had been built to look like a palace—wide colonnaded terraces, buildings arranged around a  lush central garden, and beyond everything, at the end of a path that vanished into palms, a blue-green coastline.
 Their suite was on the upper level, facing the water. Two bedrooms arranged around a shared living area, wide windows, a terrace with two chairs, and the light coming off the ocean made everything in the room luminous. It was the most beautiful place Jay had ever been asked to stay in.
-He unpacked quickly and came back into the living area to find Ian on the terrace. Jay went to stand beside him. The ocean stretched away from them in every direction. A long way below, at the base of the resort's terraced gardens, waves came in against pale rock in a continuous motion.
+He unpacked quickly and came back into the living area to find Ian on the terrace. Jay went to stand beside him. The ocean spread away from them in every direction. A long way below, at the base of the resort's terraced gardens, waves came in against pale rock in a continuous motion.
 After a moment Ian said, "We're a long way from the office."
 "Yes," Jay said.
 They were ten days away from the task lists and the handover documents. The trip could be magical or catastrophic, but standing here now with the warm wind and Ian beside him, Jay found the catastrophic option had become essentially impossible to imagine.
@@ -81,11 +81,11 @@ Jay opened his eyes. A woman stood beside the table, smiling warmly.
 "Are you here on vacation?"
 "Yes. Just arrived today."
 "Well, you're in for a treat. The islands are incredible. If you'd like, I could show you around sometime. There are some spots the tourists never find. Are you here alone?"
-"No," Jay said, which he thought should have been sufficient, but she was not leaving. She was friendly, charming even, and the interest in her voice was unmistakable. He searched for a polite way to deflect.
+"No," Jay said, which he thought should have been sufficient, but she was not leaving. She was friendly, charming even, and her interest was unmistakable. He searched for a polite way to deflect.
 "I'm here with a group. We've been on the island two weeks already—I know it quite well by now. There are wonderful spots the resort doesn't put in the brochures. The real coastline. If you'd like to see it, I'd be happy to show you."
 "That's very kind," Jay said, and knew immediately it was the wrong thing, heard it land as encouragement the instant it left him. He tried to adjust. "I'm here with someone, we have—"
 "Just a suggestion," she responded.
-"Here we are," Ian's voice cut in smoothly. He appeared at Jay's side, setting a colourful drink in front of him and a glass of whisky for himself. His hand came to rest lightly on Jay's shoulder. "Sorry for the wait. We have dinner reservations at eight. I'm not sure we have time for a long drink."
+"Here we are," Ian cut in smoothly. He appeared at Jay's side, setting a colourful drink in front of him and a glass of whisky for himself. His hand came to rest lightly on Jay's shoulder. "Sorry for the wait. We have dinner reservations at eight. I'm not sure we have time for a long drink."
 She read the situation correctly this time. "Of course. Enjoy your stay."
 She left, and Ian sat down across from Jay, lifting his whisky as if nothing had happened.
 "Thank you. Do we actually have reservations?"
@@ -107,7 +107,7 @@ They finished their drinks and headed to the restaurant. The menu was seafood-he
 "It's learnable. You need to be less warm. You decide you're not going to be accessible and then you're not."
 "You make it sound easy, but that look you give people when they're wasting your time, where you're not unfriendly but there's clearly a wall, I could never pull that off. I think I'm stuck being rescued."
 Ian didn't mind that at all, though he kept the thought to himself. "You'll manage."
-They lingered over dinner, ordering more cocktails. Ian told Jay about the time he'd scared off a persistent investor with nothing more than a prolonged stare, and Jay laughed so hard he nearly knocked over his glass.
+They took their time over dinner, ordering more cocktails. Ian told Jay about the time he'd scared off a persistent investor with nothing more than a prolonged stare, and Jay laughed so hard he nearly knocked over his glass.
 "You didn't," Jay said.
 "I did. He left the meeting early."
 "That's terrifying."
@@ -137,13 +137,13 @@ They finished their coffee and headed down to the restaurant. They chose a seclu
 After breakfast, they went back to the suite to change. Jay put on his swim trunks, then followed Ian down to the pool. It was large and pristine, with lounge chairs arranged around the perimeter and a view of the ocean beyond.
 Ian set his towel on a chair and dove in. Jay watched as he began to swim using powerful strokes. He was fast. Jay stood at the edge for a moment, considering joining him then concluded that he had absolutely no interest in being lapped continuously by his boss for the next hour.
 He got into the open section at the shallow end. The water was warm from the previous day's sun. He did a few lazy lengths of breaststroke, then floated aimlessly. He got out after twenty minutes and found a lounger and lay in the sun. He applied the factor fifty Ian had insisted on. 
-Ian continued his relentless laps at the far end as though performing a demonstration of the difference between them. When he finally stopped, he was properly winded, which was the first time Jay had ever seen him winded. He stood at the pool's edge for a moment with one hand on the rail, catching his breath, then he grabbed his towel and came to sit on the chair beside Jay.
+Ian continued his relentless laps at the far end as though performing a demonstration of the difference between them. When he finally stopped, he was properly winded, which was the first time Jay had ever seen him winded. He stood at the pool's edge for a moment with one hand on the rail, recovering, then he grabbed his towel and came to sit on the chair beside Jay.
 "Satisfied?" Jay asked.
 "Yes. You did—what, fifteen minutes? You're slacking."
 Jay opened one eye. "I'm on holiday."
 "For eleven of those fifteen minutes, you were lying on your back."
 "It's called floating. It's restful. I intend to not keep my routine whatsoever."
-Ian pressed a hand to his chest in mock despair. "That's tragic. You should at least try to do some proper laps."
+Ian feigned despair. "That's tragic. You should at least try to do some proper laps."
 "No, thank you. I prefer to relax."
 "You'll regret it when you return to the gym and Rus makes you pay for slacking."
 "I'll deal with that when it happens."
@@ -296,12 +296,12 @@ The man from earlier was standing beside the table. He was smiling, holding a dr
 "Hi," Jay said cautiously.
 "Mind if I sit?"
 "Actually, I'm waiting for someone."
-"Your friend, right? The serious one. He seems to keep you on a tight schedule."
+"Your friend, right? The serious one. He seems to keep you on a strict schedule."
 "He'll be back any moment."
 "Then I'll make this quick. There's a party tonight at one of the villas. You should come. Bring your friend if you want, but I'd rather it be just you."
 "I'm not interested."
 "Come on. Don't be like that."
-Ian's voice cut through the conversation. "He said he's not interested."
+Ian cut through the conversation. "He said he's not interested."
 "I was just offering an invitation."
 "That's kind of you, but Jay is not available."
 "Oh. I didn't realize you two were together."
@@ -334,7 +334,7 @@ Ian turned his head. He was properly drunk. Not loose and affectionate the way J
 "I know. Come on."
 Ian didn't protest. He stood when Jay guided him up, followed when Jay led him toward the exit. He was obedient but utterly silent. Jay got him to the suite, unlocked the door, and steered Ian toward his bedroom. Ian sat on the edge of the bed, and Jay crouched to remove his shoes.
 "Lie down," Jay said.
-Ian obeyed, lowering himself onto the bed. Jay pulled the blanket over him, set a glass of water on the nightstand, and sat beside him, uncertain what to do. Eventually Ian's eyes closed and his breathing evened out.
+Ian obeyed, lowering himself onto the bed. Jay pulled the blanket over him, set a glass of water on the nightstand, and sat beside him, uncertain what to do. Eventually Ian's eyes closed and he drifted off.
 Jay retreated to his own room, leaving both doors open. He sat on the edge of his bed, worried and confused. Ian had drunk far too much, but there had been no buildup, no sign of distress. Just a sudden, complete shutdown. Jay lay down but didn't sleep. He listened for any sound from the other room, but there was only silence.
 The next morning, Jay woke early. He went to the restaurant for the breakfast buffet, selecting with some care: plain toast, two kinds of fruit, a glass of cold water, black tea. He put together a cold compress from a face cloth and the ice bucket by the bar, found painkillers in his travel bag, and brought everything to Ian's room on a tray.
 Ian was awake, sitting up in bed with his head in his hands. He looked authentically wretched.
@@ -344,7 +344,7 @@ Ian was awake, sitting up in bed with his head in his hands. He looked authentic
 "The painkillers work better on a small amount of food. The toast is plain. The fruit is mild."
 Ian tried to wave him off, but Jay ignored the gesture entirely. "You told me once that resisting help is unwise and that letting someone do something for you doesn't make you a burden. I have a very good memory."
 Ian relented. He took the painkillers and drank the water, wincing with every swallow. Jay adjusted the curtains, dimming the light, then sat in the chair by the window with his book. "We were supposed to go diving today, but I cancelled."
-Ian leaned back against the pillows, closing his eyes. "I'm sorry."
+Ian sank back against the pillows, closing his eyes. "I'm sorry."
 "For what?"
 "For last night. I lost control."
 "You didn't say anything. You just stopped reacting to anything. It was unsettling, but you didn't do anything wrong."
@@ -356,7 +356,7 @@ By evening, Ian was functional again. They shared dinner in the suite, room serv
 "I'm just glad you're back to yourself."
 "I'm sorry about the diving. I know you were looking forward to it."
 "It's fine. It doesn't matter. I can always go diving another time. But the opportunity to take care of you is precious. I wouldn't miss it for the world."
-Ian stared at him, disarmed. The eagerness in Jay's voice, the sincerity in his eyes—it was too much. Ian felt his defences crumble, just a little. He couldn't have much. He couldn't have what he truly wanted. But this—this tenderness, this closeness—he was allowed to have. And he would take as much of it as he could.
+Ian stared at him, disarmed. Jay's eagerness, the sincerity in his eyes—it was too much. Ian felt his defences crumble, just a little. He couldn't have much. He couldn't have what he truly wanted. But this—this tenderness, this closeness—he was allowed to have. And he would take as much of it as he could.
 "I'll make it up to you," Ian said. "That cruise you mentioned last night. That's the last thing I remember before things went dark. We'll go."
 Jay's face lit up. "Really?"
 "Yes. I don't enjoy cruises as a rule, but if you want to go, we should book before the spaces fill. You said it was a sunset tour?"
