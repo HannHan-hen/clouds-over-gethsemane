@@ -15,4 +15,5 @@
 - Don't use "neutral" to describe expressions or demeanor (e.g., "his expression was carefully neutral")
 - Never use vague phrasing with "sound" to describe sounds, like "a small sound of surprise" or "noncommittal sound" - either use the proper word like "yelped" or "groaned" or omit it altogether
 - Avoid these words and their variations: gaze, smirk, chuckle, breathe, exhale, churn, tight, voice, chest, jaw, stretch, gnaw, shrug, nod, precision, settle, lean, linger, flicker
+- See `ai-tics-watchlist.md` for the fuller, living list of AI-tic words and phrases to flag during editing (graded annoyance / minor annoyance / suspect / trigram)
 
