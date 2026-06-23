@@ -103,13 +103,34 @@ expanding, so treat it as living.
 - steady (steadily)
 - substantial (substantially)
 
-## Trigram — recurring phrase patterns (5)
+## Trigram — recurring phrase patterns (blanket)
 
-- at his desk (to his desk)
+A catch-all for recurring multi-word constructions. Parenthesized forms are
+variant fills surfaced by the skip-gram pass (`tools/scan_text.py`); the
+slot varies but the frame is the tic. Whole-book counts in brackets.
+
+- at his desk (to his desk, at Jay's desk) [126]
 - quiet for a
-- returned to his
-- stared at the
-- thank you for
+- returned to his (returned to the, returned to his desk) [110]
+- stared at the (stared out the) [44]
+- thank you for [81]
+- felt like a — simile crutch [54]
+- for a moment (for another moment, for that moment) [89]
+- the rest of (the rest of the) [110]
+- in the office (to the office, from his office, in his office) [office-move cluster]
+- through the glass (the glass wall) [40]
+- on the couch [41]
+- he had never (he wanted to, he couldn't) — filler-verb run-up
+- walked to / through / toward the [63]
+- stood in / at / near the [59]
+- sat on / in / at the [86]
+- in the morning (on Monday/Saturday morning) — timestamp opener
+- made him feel (made Jay feel) [40]
+- you don't have to / you don't need to [whole-book 25 / 22]
+
+> Separate tic, handled as its own guideline, NOT here: sentences opening
+> with "Jay" (2,660 = 8.1% of all sentences) plus "He" openers (7.7%). See
+> the MC-subject-cadence note in `guidelines.md`.
 
 ## Whole-book scan candidates (unconfirmed — 48-chapter n-gram pass, 2026-06)
 

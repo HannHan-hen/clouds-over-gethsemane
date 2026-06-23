@@ -2,6 +2,17 @@
 
 - Use clear language with natural flow, full sentence length and straightforward sentence structure
 - Avoid overly choppy or minimalist sentence fragments
+- Vary sentence openings; don't make the MC the subject-initial word too often.
+  "Jay" opens 8% of all sentences and "He" another 8% — a drumbeat. The cause
+  is usually pronoun-avoidance (Jay vs Ian, both "he"). Fixes, in order:
+  (1) In a Jay-anchored paragraph, "he" defaults to Jay — name Ian explicitly
+  and use "he" for Jay freely; reserve the name "Jay" for re-establishing POV
+  after a scene break or after Ian was the recent subject.
+  (2) Don't open more than ~2 sentences in a row with the same subject first.
+  (3) Front something other than the subject — the object perceived, place,
+  time, or a short action — rather than a participial clause ("Crossing the
+  floor, he…"), which is its own tic if overused.
+  (4) Merge subject-led runs: "Jay did X. Jay did Y." → "Jay did X, then Y."
 - Show interactions through dialogue and action rather than describing that they happened
 - Write in active voice
 - Avoid literary flourishes
