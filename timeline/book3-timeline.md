@@ -267,6 +267,45 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 
 ---
 
+## Chapter 48: Undertow
+
+### Scene 1: The Palm House
+- **Duration:** ~1 work week (Mon–Thu)
+- **Date:** Late November 2019
+- **Day of Week:** Monday through Thursday
+- **Summary:** First week back. Jay returns tan but hollow; the office feels like a sentence after the islands, and he runs on the minimum. Ian notices, and on Thursday closes his laptop at six—unheard of in two years—to take Jay to the Palm House, a hidden Victorian glasshouse, where Jay thaws among the palms over café dinner.
+- **Milestone:** Ian breaks his own routine to pull Jay out of the gloom (the Palm House)
+
+### Scene 2: Friday, Restored
+- **Duration:** 1 day (into evening)
+- **Date:** Late November 2019
+- **Day of Week:** Friday
+- **Summary:** Luc's artisan fruit crate prompts Jay's first real complaining since the trip—a sign he's himself again. Over a lavish Friday dinner Jay confesses, wine-loosened, that the island's ease ruined ordinary life for him; Ian reframes grief as the correct response to good things ending and promises that some of the warmth travels home.
+- **Milestone:** Friday dinners resume; Ian's "it's an engineering problem, not a moral failing"
+
+### Scene 3: Climate Adjustment
+- **Duration:** 2 days (Sat–Sun)
+- **Date:** Late November 2019
+- **Day of Week:** Saturday into Sunday
+- **Summary:** Lunch at Ian's, where he presents the trip's photographs printed and bound in duplicate, then finally plays the violin he promised on the island. When Jay's mood dips again, Ian books a spontaneous overnight at a glass-roofed riverside hotel—a "temporary climate adjustment"—where Jay spends a day happily prosecuting every flaw against the island.
+- **Milestone:** The printed photo albums; Ian plays violin for Jay; the riverside-hotel weekend
+
+### Scene 4: Heat
+- **Duration:** ~3 days (Mon–Wed)
+- **Date:** Late November / early December 2019
+- **Day of Week:** Monday through Wednesday
+- **Summary:** Ian offers his home gym to replace the dead winter running route. A Tuesday session of hands-on form corrections, then the offer of a private two-person sauna, tips Jay over an edge: at the sauna the devotion he's named for two years reveals an older word beneath it. That night he has an explicit dream and wakes mortified; the next day he fakes a "cold" to explain his flushing.
+- **Milestone:** Jay's desire surfaces undeniably (the home gym and private sauna); the dream
+
+### Scene 5: Still Time
+- **Duration:** ~3 days (Thu–Sat)
+- **Date:** Late November / early December 2019
+- **Day of Week:** Thursday through Saturday
+- **Summary:** Ian makes a morning house call with soup and a medical-grade thermometer over the fictional cold, his caretaking now carrying an undertow Jay can barely survive. A Friday dinner and an easy Saturday at Ian's restore the old warmth, and Christmas first enters the room as a distant pressure. Walking home, Jay stops denying the desire: the questions have turned specific, and he's too tired to keep pretending the thing has no teeth.
+- **Milestone:** Christmas first raised; Jay fully admits his desire to himself
+
+---
+
 ## Major Milestones Summary
 
 | Date | Milestone |
@@ -297,3 +336,8 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 | November 21, 2019 | Last vacation evening; Ian promises the closeness won't disappear |
 | November 22, 2019 | Flight home; "next weekend" dinner plan made |
 | November 22, 2019 | Homecoming; Jay grieves the vacation's end in his cold apartment |
+| Late November 2019 | Ian breaks routine to take Jay to the Palm House |
+| Late November 2019 | Friday dinners resume; riverside-hotel "climate adjustment" weekend |
+| Late November 2019 | Ian prints/binds the trip photo albums; plays violin for Jay |
+| Late Nov / early Dec 2019 | Home gym and private sauna; Jay's desire surfaces undeniably |
+| Late Nov / early Dec 2019 | Christmas first raised; Jay fully admits his desire to himself |
