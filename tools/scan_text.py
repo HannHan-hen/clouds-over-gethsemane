@@ -34,72 +34,13 @@ from __future__ import annotations
 import argparse
 import glob
 import os
-import re
 import sys
 from collections import Counter, defaultdict
 
-# --- Closed-class / function words. Content words get blanked in frame mode,
-#     and a phrase made *entirely* of these is too generic to flag. ---
-STOPWORDS = {
-    "a", "an", "the", "and", "but", "or", "nor", "for", "so", "yet",
-    "as", "at", "by", "in", "into", "of", "off", "on", "onto", "out",
-    "over", "to", "up", "with", "from", "about", "after", "before",
-    "between", "through", "under", "until", "while", "during", "against",
-    "i", "you", "he", "she", "it", "we", "they", "me", "him", "her",
-    "us", "them", "my", "your", "his", "its", "our", "their", "mine",
-    "this", "that", "these", "those", "who", "whom", "whose", "which",
-    "what", "when", "where", "why", "how", "there", "here", "then",
-    "is", "am", "are", "was", "were", "be", "been", "being", "do",
-    "does", "did", "have", "has", "had", "will", "would", "shall",
-    "should", "can", "could", "may", "might", "must", "not", "no",
-    "if", "than", "too", "very", "just", "only", "own", "same", "such",
-    "more", "most", "some", "any", "all", "both", "each", "few", "other",
-    "again", "once", "now", "still",
-}
-
-WORD_RE = re.compile(r"[a-z0-9']+")
-CHAP_RE = re.compile(r"^Chapter\s+(\d+)\s*:", re.IGNORECASE)
-SENT_SPLIT_RE = re.compile(r"[.!?]+[\"')\s]")
-WILDCARD = "<>"
-
-
-# --------------------------------------------------------------------------- #
-# Loading & tokenizing
-# --------------------------------------------------------------------------- #
-def load_chapters(paths):
-    """Return list of (label, [tokens], raw_text). One entry per chapter."""
-    chapters = []
-    for path in paths:
-        book = os.path.splitext(os.path.basename(path))[0]
-        cur_label, cur_words, cur_text = None, [], []
-        with open(path, encoding="utf-8") as fh:
-            for line in fh:
-                m = CHAP_RE.match(line.strip())
-                if m:
-                    if cur_label is not None:
-                        chapters.append((cur_label, cur_words, " ".join(cur_text)))
-                    cur_label = f"{book} ch{int(m.group(1)):02d}"
-                    cur_words, cur_text = [], []
-                    continue
-                if line.strip().lower().startswith("scene"):
-                    continue
-                if cur_label is None:
-                    continue
-                cur_words.extend(WORD_RE.findall(line.lower()))
-                cur_text.append(line.strip())
-        if cur_label is not None:
-            chapters.append((cur_label, cur_words, " ".join(cur_text)))
-    return chapters
-
-
-def sentence_openers(raw_text, depths=(1, 2, 3)):
-    """Yield (depth, opener_key) for the leading tokens of each sentence."""
-    for sent in SENT_SPLIT_RE.split(raw_text):
-        # Strip leading quotes / dashes / whitespace before the first word.
-        toks = WORD_RE.findall(sent.lstrip(" \"'—–-").lower())
-        for d in depths:
-            if len(toks) >= d:
-                yield d, " ".join(toks[:d])
+from textlib import (
+    WILDCARD, STOPWORDS, load_chapters, sentence_openers,
+    deviation_of_proportions,
+)
 
 
 # --------------------------------------------------------------------------- #
@@ -118,22 +59,6 @@ def templated_ngrams(tokens, n):
             filler = window[slot]
             key = " ".join(WILDCARD if j == slot else w for j, w in enumerate(window))
             yield key, filler
-
-
-# --------------------------------------------------------------------------- #
-# Dispersion (Gries' Deviation of Proportions)
-# --------------------------------------------------------------------------- #
-def deviation_of_proportions(chap_counts, chap_sizes, total):
-    """DP in [0,1]: 0 = perfectly even across chapters, ~1 = all in one."""
-    if total == 0:
-        return 0.0
-    corpus = sum(chap_sizes) or 1
-    dp = 0.0
-    for idx, size in enumerate(chap_sizes):
-        expected = size / corpus
-        observed = chap_counts.get(idx, 0) / total
-        dp += abs(expected - observed)
-    return 0.5 * dp
 
 
 # --------------------------------------------------------------------------- #
@@ -166,13 +91,14 @@ def is_known(key, known):
 # Main scan
 # --------------------------------------------------------------------------- #
 def run(chapters, mode, ngram_sizes, min_count, min_fillers, max_fillers, top):
-    chap_sizes = [len(w) for _, w, _ in chapters]
+    chap_sizes = [len(c.tokens) for c in chapters]
 
     totals = Counter()
     fillers = defaultdict(Counter)  # key -> {fill word: count} (for examples)
     per_chap = defaultdict(Counter)  # key -> {chap_idx: count}
 
-    for idx, (_, tokens, raw) in enumerate(chapters):
+    for idx, ch in enumerate(chapters):
+        tokens, raw = ch.tokens, ch.text
         if mode == "opener":
             for _depth, key in sentence_openers(raw, ngram_sizes):
                 totals[key] += 1
@@ -263,7 +189,7 @@ def main(argv=None):
     if not chapters:
         ap.error("no chapters parsed; check the 'Chapter N:' markers")
     known = load_watchlist(args.watchlist)
-    total_words = sum(len(w) for _, w, _ in chapters)
+    total_words = sum(len(c.tokens) for c in chapters)
 
     out = []
     out.append("# Text-scan candidates (auto-generated)")
