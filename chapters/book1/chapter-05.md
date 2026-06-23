@@ -28,7 +28,7 @@ Jay struggled with the small talk that flowed around him. The conversation jumpe
 
 "A toast," Amy announced, lifting her champagne flute. "To another successful quarter."
 
-Everyone raised their glasses. Jay fumbled slightly with his, nearly spilling champagne on his expensive suit. "To success," he managed, his voice barely audible above the ambient noise.
+Everyone raised their glasses. Jay fumbled slightly with his, nearly spilling champagne on his expensive suit. "To success," he mumbled.
 
 As the evening progressed, the formal atmosphere gave way to mingling and networking. Jay watched his colleagues scatter throughout the room, seamlessly joining conversations with senior staff, and occasional clients and partners from other firms. The ease with which they moved through this social landscape highlighted his own awkwardness.
 
@@ -46,9 +46,9 @@ Jay turned to find Ian approaching, champagne glass in hand.
 
 "Yes." Ian glanced toward a group of senior staff who were clearly expecting his return. "Enjoy the rest of the evening."
 
-The exchange lasted perhaps fifteen seconds. Courtesy without a trace of warmth. Jay watched Ian walk away, joining a cluster of senior executives who welcomed him with obvious respect.
+The exchange lasted perhaps fifteen seconds. Courtesy without a trace of warmth. Jay watched Ian walk away, joining a cluster of executives who welcomed him with obvious respect.
 
-Throughout the evening, Jay observed Ian's interactions with others. He saw him laugh at something Leo said, offer congratulations to Amy on a recent project, engage in a long conversation with Ela. The contrast with their brief, formal exchange was unmistakable.
+Throughout the evening, Jay observed Ian's interactions with others. He saw him laugh at something Luc said, congratulate Amy on a recent project, engage in a long conversation with Ela. The contrast with their brief, formal exchange was unmistakable.
 
 Jay told himself this was appropriate. Ian was treating him exactly as he should treat a junior employee at a company function. The distance was proof of Ian's integrity, not a personal slight. But the rationalization couldn't eliminate the sting.
 
@@ -64,7 +64,7 @@ Jay managed a smile. "That's reassuring."
 
 Jay nodded, but privately doubted the claim. He didn't belong in this rarefied environment, among people who moved through high society as if they'd been born to it.
 
-After the night had stretched far enough, Jay made his escape as early as politeness allowed. He thanked the appropriate people, made the necessary excuses about early morning commitments, and slipped away before anyone could propose extending the festivities.
+After the night had stretched far enough, Jay made his escape as early as politeness allowed. He thanked his teammates, made the excuses about early morning commitments, and slipped away before anyone could propose extending the festivities.
 
 In the elevator descending to street level, Jay caught his reflection in the polished steel doors. The suit looked good on him—he could admit that much. But the man wearing it still looked like he was playing dress-up.
 
@@ -82,13 +82,13 @@ Meanwhile, back at the celebration, Leo cornered Ian near the bar. "Jay looked g
 
 "No, of course not. But if you're going to fumble this badly, someone else is going to step in. The boy's got that lost romantic hero thing going on. Very appealing to a certain type."
 
-Ian finished his champagne and set the glass on the bar. "There's nothing to fumble. He's an employee, nothing more."
+"There's nothing to fumble. He's an employee, nothing more."
 
 "Right. And that's why you've been watching him all evening while pretending not to."
 
-Ian had been watching, despite himself. He'd noticed Jay's obvious discomfort, the way he'd stood apart from groups, the politeness that couldn't mask his anxiety. The young man had looked beautiful in the midnight blue suit, his pale complexion and dark hair creating a striking contrast against the elegant fabric. He'd also looked completely out of his depth, like someone playing a role he'd never auditioned for.
+Ian had been watching, despite himself. He'd noticed Jay's obvious discomfort, how he'd stood apart from groups, the politeness that couldn't mask his anxiety. The young man had looked beautiful in the midnight blue suit, his pale complexion and dark hair creating a striking contrast against the elegant fabric. He'd also looked completely out of his depth, like someone playing a role he'd never auditioned for.
 
-The protective instinct that arose from that observation was dangerous. Ian recognized it as the same impulse that had blinded him to Sam's true nature—the desire to shelter someone who appeared vulnerable, to offer guidance and support to someone who seemed to need it.
+The protective instinct that arose from that observation was dangerous. Ian recognized it as the same impulse that had blinded him to Sam's true nature—the desire to shelter someone who appeared vulnerable, to support someone who seemed to need it.
 
 "He's managing fine on his own," Ian said.
 
@@ -98,15 +98,15 @@ The protective instinct that arose from that observation was dangerous. Ian reco
 
 "Maybe not. But it could be your opportunity."
 
-Ian walked away without responding, forcing himself to hold back. He refused to let himself be swayed by how fragile Jay looked, or by the hurt in his expression. Whatever Jay was going through, Ian needed to guard his own heart more than he needed to offer help.
+Ian walked away without responding. He refused to let himself be swayed by how fragile Jay looked, or by the hurt in his expression. Whatever Jay was going through, Ian needed to guard his own heart more than he needed to offer help.
 
 ## Scene 2: Pity
 
-Ian had prided himself on his powers of observation. Years of analysing market trends, reading client temperaments, and managing corporate politics had honed his ability to notice subtle changes in behaviour. But he had never applied that scrutiny to his own staff with quite the intensity he now directed toward Jay Hall.
+Ian had prided himself on his powers of observation. Years of analysing market trends and managing corporate politics had honed his ability to notice subtle changes in behaviour. But he had never applied that scrutiny to his own staff with quite the intensity he now directed toward Jay Hall.
 
 The change had been immediate and unmistakable. Where Jay had once been quiet but engaged, he now seemed to exist in a state of cultivated invisibility. His work arrived earlier than before, so carefully executed it was clear he was desperate to avoid any criticism. During team meetings, Jay positioned himself at the edges, contributing only when directly asked.
 
-Most telling was his posture. Jay moved through the office like someone expecting punishment, shoulders slightly hunched, eyes fixed on whatever task occupied his immediate attention. He no longer smiled or asked tentative questions that had once punctuated their interactions. Instead, he responded to Ian's instructions with politeness that felt rehearsed.
+Most telling was his posture. Jay moved through the office like someone expecting punishment, shoulders slightly hunched, eyes fixed on whatever task occupied his immediate attention. He no longer smiled or asked questions that had once punctuated their interactions. Instead, he responded to Ian's instructions with politeness that felt rehearsed.
 
 Ian watched this change from behind his glass office walls, disturbed by how closely he was monitoring someone he had resolved to keep at a distance. The irony wasn't lost on him—in his determination to avoid the mistakes of his past, he had become hyper-aware of Jay's every movement.
 
@@ -132,9 +132,9 @@ He watched Jay's face as he explained the scope of the work. The project was imp
 
 Jay accepted the folder. "When do you need this completed?"
 
-"End of next week. And Jay? If you have questions about the protocols or need clarification on any of the documentation, don't hesitate to ask. This isn't a project you should struggle through alone."
+"End of next week. And Jay? If you have questions about the protocols or need clarification on any of the documentation, don't hesitate to ask. This isn't a project you should struggle through alone.
 
-Jay simply nodded. "I understand. Thank you for trusting me with this."
+"I understand. Thank you for trusting me with this."
 
 The idea of trust stopped Ian cold. He had to remind himself he wasn't that naive. Still, his doubts wouldn't cloud the fairness he aimed to show.
 
@@ -146,7 +146,7 @@ Jay's fingers tightened slightly on the folder. "I'll make sure it's done proper
 
 After Jay left his office, Ian stared at the door that closed after him. The interaction had felt different—less guarded on his part, though he couldn't say why. Perhaps because Jay's resignation had been so complete, so lacking in any agenda beyond basic survival, that it had disarmed Ian's suspicions.
 
-Over the following days, Ian glanced toward Jay's desk more frequently than work-related curiosity warranted. Jay worked through the documentation with the same diligence he brought to everything else, but there was something almost meditative about his focus. He spread the papers across his desk in categories, made notes in margins with beautiful handwriting, and periodically consulted the compliance manual Ian had provided.
+Over the following days, Ian glanced toward Jay's desk more frequently than work-related curiosity warranted. Jay worked through the documentation with the same diligence he brought to everything else, but there was something almost meditative about his focus. He spread the papers across his desk in categories and periodically consulted the compliance manual Ian had provided.
 
 Twice, Jay approached Ian's office with questions about the finer points of the assignment—technical details he couldn't deduce on his own, despite having reviewed the materials multiple times. Each time, he paused at the door, bracing himself for the possibility of a rebuke, even though his questions were perfectly reasonable. Instead, Ian always took the time to answer in full, going beyond a simple explanation of the rules to share the rationale behind each protocol. Jay listened with full attention, though some part of him stayed wary, half-expecting a reprimand.
 
@@ -154,7 +154,7 @@ Twice, Jay approached Ian's office with questions about the finer points of the 
 
 "Most people assume compliance work is just bureaucratic box-checking. But done properly, it's about balancing competing interests—transparency, privacy, legal obligations, business relationships."
 
-Jay nodded thoughtfully. "I can see how easy it would be to miss something important if you approached it too perfunctorily."
+"I can see how easy it would be to miss something important if you approached it too perfunctorily."
 
 When Jay submitted the completed audit the following Thursday, Ian set aside his other work to review it immediately. The analysis was well-organized, with clear explanations of methodology and detailed documentation of findings. Jay had identified three minor compliance gaps and his recommendations for addressing them were both practical and legally sound.
 
@@ -166,11 +166,11 @@ Reality was more unsettling than either possibility. He was looking for clues ab
 
 Ian closed the folder and leaned back in his chair. He had given Jay an important assignment and received exceptional work in return. The gesture had been intended as a signal, recognition of value, an indication that Jay's contributions were noticed and appreciated. Whether Jay understood the message was another matter entirely.
 
-Through his office wall, Ian could see Jay at his desk, working through the afternoon's tasks with the focus that had become his trademark. There was no indication that the special project had affected his mood or his perspective on his role. If anything, he seemed more withdrawn than before, as if success had only reinforced his determination to remain invisible.
+Through his office wall, Ian could see Jay at his desk, working through the afternoon's tasks. There was no indication that the special project had affected his mood or his perspective on his role. If anything, he seemed more withdrawn than before, as if success had only reinforced his determination to remain invisible.
 
 Ian had offered what he could within the confines he had established for himself—meaningful work, respectful treatment. But watching Jay's solitary figure bent over his keyboard, Ian wondered if it was enough, or if some wounds ran too deep for such subtle gestures to heal.
 
-The thought troubled him more than it should have. Jay Hall was an employee, nothing more. His emotional state was relevant only insofar as it affected his work performance. Ian had learned that lesson the hard way, and he had no intention of forgetting it again.
+The thought troubled him. Jay Hall was an employee, nothing more. His emotional state was relevant only insofar as it affected his work performance.
 
 But the hollow look in Jay's eyes haunted him, and Ian hoped that somewhere beneath the resignation, some small part of Jay understood that he was valued for more than his appearance, more than whatever ploy had brought him to Turner & Associates in the first place.
 
@@ -184,9 +184,9 @@ Jay's collegues consumed client research over lunches, and turned the office int
 
 Once, midway through the afternoon, Ian passed him on the way to the conference room and a faint smell of cigarettes followed him. It startled Jay, reminding him that even Ian was showing strain.
 
-The day the representatives arrived, the office atmosphere was tense, like the air before a storm. Jay had been asked to stay close, mostly to fetch files or bring in whatever documents Ian might need on short notice. He kept to the side of the conference room, trying not to draw attention. The conversation itself stayed mostly over his head, but even he could sense the undercurrents—moments when Ian's tone cooled just enough to signal a line being drawn. When the meeting finally ended, the room emptied in silence. Jay hadn't said a word the entire time. It felt as though he'd witnessed an invisible tug-of-war that left everyone a little drained.
+The day the representatives arrived, the office atmosphere was tense, like the air before a storm. Jay had been asked to stay close, mostly to fetch files or bring in whatever documents Ian might need on short notice. He kept to the side of the conference room, trying not to draw attention. The conversation itself stayed mostly over his head, but even he could sense the undercurrents—moments when Ian's tone cooled just enough to signal a line being drawn. When the meeting finally ended, the room emptied in silence. Jay hadn't said a word the entire time. It felt as though he'd witnessed an invisible tug-of-war that left everyone completely drained.
 
-Finally, on a Friday afternoon, the confirmation email arrived: Hartwell would sign with Turner & Associates. The office erupted in a spontaneous celebration. Amy applauded when Ian announced the news. Kim, who had spent a week troubleshooting client database integrations, grinned from ear to ear. Even Zoe emerged from her corner to join the impromptu gathering around Ian's office.
+Finally, on a Friday afternoon, the confirmation email arrived: Hartwell would sign with Turner & Associates. The office erupted in a spontaneous celebration. Amy applauded when Ian announced the news. Kim, who had spent a week troubleshooting client database integrations, grinned from ear to ear.
 
 "Conference room in ten minutes," Ian announced. "I want to debrief while everything's fresh."
 
@@ -196,7 +196,7 @@ Jay had attended similar meetings before, taking notes and managing logistics wh
 
 Max leaned back in his chair leisurely. "It was a beautiful pitch. Though I have to say, Jay's pretty face didn't hurt our cause. Hartwell's senior staff definitely perked up when he walked into that presentation room."
 
-The comment landed heavily. A few people laughed an awkward, uncertain laughter that fills uncomfortable spaces. Jay kept his eyes fixed on his notepad, his pen moving in meaningless loops across the paper.
+The comment landed heavily. A few people laughed an awkward, uncertain laughter. Jay kept his eyes fixed on his notepad, his pen moving in meaningless loops across the paper.
 
 "Jay did excellent work on this project," Luc said firmly. "Those client briefing materials were flawless."
 
@@ -206,7 +206,7 @@ Jay felt warmth spread through his chest despite himself. These comments felt di
 
 "Jay's contribution has been invaluable. This project required coordination across multiple departments, and nothing fell through the cracks," Ian said.
 
-The praise should have felt unambiguously good. Jay had worked hard, contributed meaningfully, and received recognition from people whose opinions he respected. But Max's comment echoed in his mind, poisoning it with doubt. Was the praise honest, or were his colleagues simply being kind? Did they see him as a valuable team member, or as someone who needed protection from jokes?
+The praise should have felt unambiguously good. Jay had worked hard and received recognition from people whose opinions he respected. But Max's comment echoed in his mind, poisoning it with doubt. Was the praise honest, or were his colleagues simply being kind? Did they see him as a valuable team member, or as someone who needed protection from jokes?
 
 The meeting continued with technical debriefs and process improvements, but Jay couldn't concentrate. His thoughts oscillated between pride and suspicion, between the warm acknowledgement of his contributions and the cold reality of how others might perceive him. When the meeting concluded, people dispersed cheerfully. Jay packed his notes and prepared to return to his desk, but Luc caught his arm in the hallway.
 
@@ -220,7 +220,7 @@ The rest of the afternoon went by with regular work—filing documents from the 
 
 When five arrived, Jay gathered his belongings and joined the evening exodus. The metro ride home gave him time to process the day's events, but instead of clarity, he found only deeper confusion. Had he truly contributed something valuable, or were his colleagues being diplomatic? Was recognition possible for someone in his position, or would everything he accomplished be filtered through the lens of his appearance?
 
-Jay arrived at his apartment more unsettled than ever. After dinner, he stood before the bathroom mirror, studying his reflection. The face that looked back at him was unremarkable enough—pale skin, gray eyes, features that might charitably be called pleasant. But somehow this ordinary appearance had become the defining factor in how others perceived him, the lens through which all his interactions were interpreted. If he had been born with different features—plainer, more forgettable, less likely to inspire commentary—would his life have followed a different path? Would his first boss have seen him as a capable employee instead of prey? Would Leo Turner have hired him for his skills and not for whatever entertainment value he provided? Would Max see him as a colleague?
+Jay arrived at his apartment more unsettled than ever. After dinner, he stood before the bathroom mirror, watching his reflection. The face that looked back at him was unremarkable enough—pale skin, gray eyes, features that might charitably be called pleasant. But somehow this ordinary appearance had become the defining factor in how others perceived him. If he had been born with different features—plainer, more forgettable, less likely to inspire commentary—would his life have followed a different path? Would his first boss have seen him as a capable employee instead of prey? Would Leo Turner have hired him for his skills and not for whatever entertainment value he provided? Would Max see him as a colleague?
 
 Jay touched his reflection, his fingertips meeting cold glass. These features had never brought him anything but trouble. In school, they had made him a target for bullies. In his previous jobs, they had attracted unwanted attention that ultimately destroyed his sense of safety. Now they served as the foundation for jokes and speculation that undermined his every achievement.
 
@@ -254,7 +254,7 @@ Max fidgeted awkwardly, hands shoved deep in his pockets. "Look, about that whol
 
 Jay's hands stilled on the papers. "It's fine. Really."
 
-"No, it's not fine. I made you feel like crap, and that wasn't my intention. Luc was in the same situation when he started—Leo brought him in for ridiculous reasons—and look at him now. He's one of our most valued team members. What matters is the work you do, and honestly? You're doing great work, man."
+"No, it's not fine. I made you feel like crap, and that wasn't my intention. Luc was in the same situation when he started—Leo brought him in for ridiculous reasons—and look at him now. He's one of our most valued team members. What matters is the work you do. You're doing great work, man."
 
 Jay forced himself to meet Max's eyes, manufacturing a smile. "I appreciate that. But really, no worries. It's all good."
 
@@ -268,7 +268,7 @@ Max reached out and touched his shoulder briefly, the gesture surprisingly gentl
 
 Max lingered for another moment, clearly wanting to say more, then seemed to recognize that he had done what he could. He squeezed Jay's shoulder once and walked away, leaving Jay alone with the copy machine and the weight of good intentions.
 
-At lunch, Jay joined the team at their usual table in the nearby bistro. The invitation had become automatic, and his acceptance equally routine, but the dynamic felt different from his early weeks. He sat at the edge of the conversation, eating his sandwich while others discussed weekend plans.
+At lunch, Jay joined the team at their usual table in the nearby bistro. The invitation had become automatic, but the dynamic felt different from his early weeks. He sat at the edge, eating his sandwich while others discussed weekend plans.
 
 "Did you see the email about the Marburg account restructuring?" Amy asked the table generally.
 
@@ -284,11 +284,11 @@ That evening, Jay sat in his apartment at his small dining table with a bowl of 
 
 But subjective experience told a different story. The ease he had felt during his first month—the sense of belonging somewhere, of building something meaningful—had been replaced by a performance. He played the role of competent administrative support, pleasant colleague, reliable team member. But underneath the facade, he felt like a fool.
 
-His probation period would end in a week. The thought of getting a permanent position should have been elating. It would mean job security and validation of his capabilities. Instead, Jay hoped the decision might be taken out of his hands. If Turner & Associates decided not to offer him a contract, he would have an honorable exit from a situation that had become increasingly uncomfortable.
+His probation period would end in a week. The thought of getting a permanent position should have been elating. It would mean job security and validation of his capabilities. Instead, Jay hoped the decision might be taken out of his hands. If Turner & Associates decided not to extend his contract, he would have an honorable exit from a situation that had become increasingly uncomfortable.
 
-The thought surprised him with its appeal. To leave with his dignity intact, his work record unblemished, his relationships with colleagues cordial if distant. To escape the constant question of whether he was valued for his contributions or tolerated for reasons he couldn't control.
+The thought surprised him with its appeal. To leave with his dignity intact, his work record unblemished, his relationships with colleagues cordial. To escape the constant question of whether he was valued for his contributions or tolerated for reasons he couldn't control.
 
-But even as the fantasy offered temporary comfort, practical reality intruded. Where would he go? Back to the job market that had already proven so hostile? Back to searching for opportunities while wondering which employers might have the wrong motivations for hiring him?
+But even as the fantasy brought temporary comfort, practical reality intruded. Where would he go? Back to the job market that had already proven so hostile? Back to searching for opportunities while wondering which employers might have the wrong motivations for hiring him?
 
 Jay cleared away his dinner dishes and prepared for bed. He was tired—not physically, but spiritually. Tired of wondering about motivations, tired of second-guessing every interaction, tired of the constant vigilance required to protect himself from disappointment.
 
@@ -298,33 +298,33 @@ Whatever decision awaited him, Jay would accept it with the same resignation he 
 
 The calendar reminder appeared on Jay's screen at nine-fifteen Monday morning: "Performance Review - I. Hagen - 2:00 PM." Three months had passed since his first day at Turner & Associates, making him eligible for the standard probationary evaluation that would determine his permanent status with the company.
 
-Jay stared at the notification with the same detachement he brought to most aspects of his work life these days. The review would ultimately be completely irrelevant to his sense of self-worth. He would receive feedback, accept whatever decision Ian made, and either leave or continue performing his duties.
+Jay felt nothing as he stared at the notification. The review would ultimately be completely irrelevant to his sense of self-worth. He would receive feedback, accept whatever decision Ian made, and either leave or continue performing his duties.
 
-At two o'clock precisely, Jay knocked on Ian's office door and entered when summoned. Ian sat behind his desk with a folder open before him—Jay's personnel file, presumably, containing documentation of his performance over the past three months.
+At two o'clock, Jay knocked on Ian's office door and entered when summoned. Ian sat behind his desk with a folder open before him—Jay's personnel file, presumably, containing documentation of his performance over the past three months.
 
-"Please, sit," Ian said, gesturing to the chair across from his desk. His tone had none of the cool formality that usually characterized their interactions. Instead, he sounded almost... careful.
+"Please, sit," Ian said.
 
 Jay sat on the chair, notepad ready though he doubted he would need it. Performance reviews were typically one-way communications.
 
-"I want to begin by acknowledging the quality of your work," Ian started, consulting the papers before him. "Your performance has been consistently excellent. The compliance audit you completed exceeded expectations, and your coordination work on the Hartwell acquisition was integral to our success."
+"I want to begin by acknowledging the quality of your work. Your performance has been consistently excellent. The compliance audit you completed exceeded expectations, and your coordination work on the Hartwell acquisition was integral to our success."
 
 Jay nodded politely. "Thank you."
 
-"Your colleagues have provided uniformly positive feedback. Amy specifically mentioned your reliability under pressure. Luc praised your analytical thinking. Even Kim, who rarely comments on administrative work, noted your technical accuracy."
+"Your colleagues have provided uniformly positive feedback. Amy specifically mentioned your reliability under pressure. Luc praised your analytical thinking."
 
 The praise should have felt meaningful, but it seemed to reach Jay through layers of cotton wool. He heard the words, understood their positive intent, but felt no corresponding emotional response.
 
-"That's very kind of them," Jay replied.
+"That's very kind of them," he replied.
 
-Ian paused, watching Jay's face with an intensity that made him uncomfortable. "Jay, I want to address something directly. I know the transition to this office hasn't been entirely smooth. The... commentary from some team members about your hiring may have been difficult."
+"Jay, I want to address something directly. I know the transition to this office hasn't been entirely smooth. The... commentary from some team members about your hiring may have been difficult."
 
 The phrasing told Jay that Ian knew exactly what Max had said, understood the implications, and was attempting to address the damage without explicitly acknowledging it. A diplomatic approach that protected everyone's dignity while solving nothing.
 
-"I appreciate your concern, but I understand my role here. I'm grateful for the opportunity."
+"I appreciate your concern, but I understand my role here. I'm thankful for the opportunity."
 
 "Jay, I want to be clear about something. You were hired because we needed competent administrative support. Your performance has exceeded those initial requirements. The work you've produced would be impressive from someone with twice your experience."
 
-Jay met Ian's eyes briefly before looking away. "I try to do my best."
+"I try to do my best."
 
 "You succeed. Consistently. Which brings me to the formal outcome of this review. I'm recommending you for permanent employment with Turner & Associates. The position comes with a ten percent salary increase, a standard three year contract and full benefits eligibility."
 
@@ -338,28 +338,24 @@ Ian frowned at the flat response. "Jay, you've earned this position. This isn't 
 
 "I..." Ian hesitated, seeming to wrestle with something. "I realize I may have been overly formal in our previous interactions. If that contributed to any sense that your contributions weren't valued, I regret that impression."
 
-The words came as close to an apology as Ian was likely capable of offering. Jay recognized the gesture for what it was—an acknowledgment that Ian's coldness had been noticed and regretted. But knowing that Ian felt bad didn't make him feel better.
+The words came as close to an apology as Ian was likely capable of giving. Jay recognized the gesture for what it was—an acknowledgment that Ian's coldness had been regretted. But knowing that Ian felt bad didn't make him feel better.
 
 "You've always been professional," Jay replied diplomatically. "I never expected anything else."
 
 Ian's expression indicated he understood exactly what Jay wasn't saying. The conversation concluded with details about the contract, effective dates, and paperwork that needed completion. Throughout the discussion, Ian's tone remained warm, as if he were trying to compensate for months of deliberate distance.
 
-When Jay returned to his desk, the news spread quickly through the office's informal communication network. Amy appeared first, offering congratulations and a brief hug that Jay accepted with appropriate gratitude. Luc followed, grinning broadly and promising that drinks were mandatory on Friday to celebrate the promotion.
+When Jay returned to his desk, the news spread quickly through the office's informal communication network. Amy appeared first with congratulations and a brief hug. Luc followed, grinning broadly and promising that drinks were mandatory on Friday to celebrate the promotion.
 
 "Turner & Associates permanent status," Ela announced dramatically. "You're officially one of us now. No escaping."
 
-Kim offered a smile and a brief "Good work" as he passed Jay's desk. Max, thankfully, was in meetings for most of the afternoon and missed the impromptu celebration that developed around the coffee station.
+Kim smiled and said "Good work" as he passed Jay's desk. Max, thankfully, was in meetings for most of the afternoon and missed the impromptu celebration that developed around the coffee station.
 
-"Friday drinks are non-negotiable," Luc insisted as the workday wound down. "Murphy's, six-thirty. We have traditions to maintain."
+"Friday drinks are non-negotiable," Luc insisted. "Murphy's, six-thirty. We have traditions to maintain."
 
 "Of course," Jay agreed. "I'll be there."
 
-But as his colleagues dispersed to their end-of-day activities, Jay felt no anticipation for the celebration. The permanent position was a practical victory, everything he should want, everything he had wanted just a few months ago.
+But as his colleagues dispersed to their end-of-day activities, Jay felt no anticipation for the celebration. He felt even more tired. The achievement was accepted with gratitude he didn't feel. Jay glanced toward Ian's office, where he was reviewing documents. The performance review had been fair, even generous. The awkward attempt at apology had been genuine, if limited by Ian's own emotional constraints.
 
-Instead, he felt tired. The achievement was accepted with gratitude he didn't feel. Jay glanced toward Ian's office, where he was reviewing documents. The performance review had been fair, even generous. The awkward attempt at apology had been genuine, if limited by Ian's own emotional constraints.
-
-Jay understood, intellectually, that he was valued for his contributions. His colleagues respected his work, Ian appreciated his competence, and the company wanted to retain his services. By any reasonable measure, he had succeeded in his goals.
+Jay understood, intellectually, that his colleagues respected his work, Ian appreciated his competence, and the company wanted to retain his services. By any reasonable measure, he had succeeded in his goals.
 
 But success felt indistinguishable from survival. He had earned his place by keeping his head down and performing his duties without complaint. The eager hope that had carried him through his first weeks had been systematically crushed, replaced by a resignation that protected him from further disappointment.
-
-Three months ago, permanent status at Turner & Associates would have felt like the beginning of a career, a foundation for growth and advancement. Now it seemed more like a comfortable prison. The contract would be signed, the salary increase would take effect, and Friday's celebration would be attended. Jay would continue to excel at his job, to exist in the space he had carved out for himself. Even if it felt like slowly rotting inside a respectable tomb.

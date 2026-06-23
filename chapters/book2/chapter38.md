@@ -552,5 +552,3 @@ Jay took the elevator up to his apartment. He dropped his bag by the door and we
 But as he lay in bed staring at the ceiling, all he could think about was Ian's profile in the car, streetlights  illuminating his face. The comfort of sitting beside him.
 Jay closed his eyes.
 He was in trouble. Deep, hopeless trouble. But there was nothing he could do about it. So he'd do what he always did—push it down, ignore it, focus on work. It had worked so far.
-
-

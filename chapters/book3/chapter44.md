@@ -211,7 +211,7 @@ Ian and Jay almost didn't know what to do with themselves. That evening, they or
 Jay clicked through options. Ian made suggestions, pointing out features he liked—private beaches, good restaurants, proximity to activities.
 "This seems expensive," Jay said, hesitating over one particular resort.
 "Cost doesn't matter. Leo pays, and you're going as my assistant to coordinate activities. It shouldn't even count as vacation."
-Jay couldn't really argue with that. It had been his suggestion, after all. "Alright. I'll look at the top-tier options."
+Jay couldn't really argue with that. This was exactly how he framed the suggestion, after all. "Alright. I'll look at the top-tier options."
 The reports continued their unprecedented smooth progress. Tasks that required weekend work were finished by Friday afternoon. Ray left each day at four, having bludgeoned through enormous portions of work, leaving everyone staring after him in disbelief.
 Friday, Ian had an urgent regulatory matter that kept him late. Jay stayed until eight, helping where he could, but eventually had to leave Ian buried in legal documents he couldn't assist with.  At eight, Jay packed his things. He stopped by Ian's office.
 "I'm heading out."
@@ -236,9 +236,9 @@ When Rus finally caught his breath, he wiped his eyes. "I'm glad work is less st
 "Good. You deserve a break."
 Jay nodded, but the gloom lingered. Work was easier, but that didn't fix the disappointment of the missed Friday dinner.
 The following week was equally easy. All emergencies were handled as they appeared, everything proceeding at express speed. The team even resumed their lunch outings—there was no reason not to, given they were on track to finish a day before deadline with no overtime whatsoever.
-Jay didn't need to stay late either, but he did. Because evenings had become holiday planning time.
+Jay didn't need to stay late either, but he did. Evenings had become holiday planning time.
 On Tuesday, they finalized the details. The Songbird Islands, first half of November. A royal suite in a cliff-side five-star hotel, with a view of the ocean and access to private beaches.
-"This is it. Ten days. First half of November," Jay said. 
+"This is it. Ten days," Jay said. 
 "Book it."
 Jay pulled out the company card, looking at it like it might bite him. "Aren't we technically defrauding company funds?"
 "Leo will survive. He spent millions on that ridiculous brooch. He can endure a couple thousand more for a decent hotel."
@@ -384,4 +384,4 @@ She bumped her shoulder against his. "Anytime."
 Sunday afternoon, Jay took the train back to the city. He hadn't traveled by train in years, not since he'd started working with Ian. Before that, trains had been his primary method of getting anywhere. The process felt nostalgic if slightly uncomfortable, requiring him to change trains twice, first in the nearby city, then in a bigger hub along the way. Each transfer meant waiting on platforms, watching the crowds, hauling his bag from one train to another. It was tedious, much longer than driving would have been, but he'd left the car with Tim.
 He sat by the window and watched small towns give way to suburbs, then to the outskirts of the city. By the time he reached his stop, evening was falling. He took a taxi to his building, and when he reached his apartment, he pulled out his phone and sent a text to Ian. "Everything went great. Home safe."
 Ian's reply came within minutes: "I'm glad. Get some rest. See you tomorrow."
-Ian read Jay's text and set his phone down on the coffee table. Home safe. Good. He opened the wooden box again and poured another small measure of the red currant tincture. Just a small amount, like medicine. Medicine for pining. 
+Ian read Jay's text and set his phone down on the coffee table. Home safe. Good. He opened the wooden box again and poured another small measure of the red currant tincture. Just a small amount, like medicine. Medicine for pining.

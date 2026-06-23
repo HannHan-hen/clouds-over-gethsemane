@@ -10,7 +10,7 @@ His awkwardness was obvious but harmless. He stumbled over words during meetings
 
 Distance was exactly what he'd intended to maintain. Jay had accepted the dynamic without question and even seemed content with their formal interactions. He made no attempts at personal conversation. Ian should have found this reassuring.
 
-Instead, this very compliance unsettled Ian more than overt advances would have. He knew manipulation came in many forms. Patience could be strategy. The most effective predators understood the value of establishing trust before striking.
+Instead, this very compliance unsettled Ian more than overt advances would have. He knew manipulation came in many forms. Patience could be strategy. The most effective predators established trust before striking.
 
 Ian was honest enough with himself to acknowledge the deeper problem: his attraction to Jay was undeniable. Those enormous gray eyes that looked at him with such obvious admiration triggered responses he'd spent years learning to suppress.
 
@@ -26,7 +26,7 @@ Ian straightened in his chair as Leo appeared in his doorway.
 
 "Don't you have actual work to do?"
 
-"I'm conducting important morale assessments." Leo's grin was unrepentant. "Speaking of which, how's the new assistant working out?"
+"I'm conducting important morale assessments. Speaking of which, how's the new assistant working out?"
 
 "Adequately."
 
@@ -46,7 +46,7 @@ Ian didn't respond to the observation. Leo pulled a folder from his briefcase an
 
 Ian opened the file and scanned the contents. Education records, employment history, credit report, criminal background check—all exactly as Jay had represented during his interview. No red flags, no inconsistencies, no cause for concern.
 
-"Clean as a whistle," Leo said. "Everything checks out. Grew up in a small town, attended state university, worked for a consulting firm until recently. No financial problems, no legal issues, no questionable associations."
+"Clean as a whistle," Leo said. "Everything checks out. Grew up in a small town, worked for a consulting firm until recently. No financial problems, no legal issues, no questionable associations."
 
 "Background checks only reveal documented problems."
 
@@ -74,7 +74,7 @@ Ian opened his calendar and noted the date. Jay's three-month probationary perio
 
 ## Scene 2: Misstep
 
-Jay knocked on Ian's office door with a finished report folder in his hands. He'd spent two full afternoons at home researching the comparative analysis Ian had requested, determined to make sure everything was perfect. The work had been challenging, more complex than his standard assignments, but he'd felt engaged with the material.
+Jay knocked on Ian's office door with a finished report folder in his hands. He'd spent two full afternoons at home researching the comparative analysis Ian had requested, determined to make sure everything was perfect. The work had been challenging, more complex than his standard assignments.
 
 "Come in."
 
@@ -84,29 +84,29 @@ Ian looked up from his computer as Jay approached the desk. "The Greenwell Indus
 
 Ian opened the folder and scanned the first page. His expression remained unreadable as he flipped through the documentation. "This looks comprehensive. Walk me through your methodology for the valuation adjustments."
 
-Jay explained his approach, referencing specific sections of the report. Ian asked clarifying questions, probed his reasoning on certain calculations, tested his understanding of the underlying principles. The discussion felt productive, a substantive work conversation Jay had hoped to have more often.
+Jay explained his approach, referencing specific sections of the report. Ian probed his reasoning on certain calculations and tested his understanding of the underlying principles. The discussion felt productive, a work conversation Jay had hoped to have more often.
 
 Encouraged by Ian's engagement with his analysis, Jay ventured beyond the immediate assignment. "I noticed the Greenwell situation has similarities to the Falconridge Enterprises acquisition you handled in the past. The debt restructuring approach was very bold—was that driven primarily by regulatory considerations, or were there strategic advantages I'm not seeing?"
 
-Ian's demeanour changed instantly. His posture stiffened and his eyes grew cold. The temperature in the room seemed to drop ten degrees.
+Ian's demeanour changed instantly. His posture stiffened, and he fixed Jay with a hard stare. The temperature in the room seemed to drop ten degrees.
 
-"That's outside your current scope," Ian said, his tone sharp enough to cut. "Focus on your assigned projects."
+"That's outside your current scope. Focus on your assigned projects."
 
 Jay felt heat flood his face. "Of course. I apologize."
 
 "The report is acceptable. You can go."
 
-Jay retreated from the office, his heart hammering with embarrassment. He'd overstepped badly, had presumed an intimacy with Ian's work that clearly didn't exist. The dismissal had been outwardly polite, but curt enough to make the message absolutely clear. Outside your current scope. Focus on your assigned projects.
+Jay retreated from the office, his heart hammering with embarrassment. He'd overstepped badly, mistaken a moment of interest for permission to ask questions he had no right to ask. The dismissal had been outwardly polite, but curt enough to make the message absolutely clear. Outside your current scope. Focus on your assigned projects.
 
 A thinly veiled way of telling someone to stay in their lane and not presume to understand work beyond their level. Jay had allowed the supportive office atmosphere to make him forget the fundamental reality of his situation.
 
-At his desk, Jay tried to return to his tasks, but concentrating was impossible. He replayed the conversation obsessively. The moment when interest had turnef into ice-cold rejection played on repeat in his mind.
+At his desk, Jay tried to return to his tasks, but concentrating was impossible. He replayed the conversation obsessively. The moment when interest had turned into ice-cold rejection played on repeat in his mind.
 
-He'd grown overconfident. The team's inclusiveness and Ian's recent acknowledgement of his good work had created a false sense of his position in the hierarchy. He was an assistant, barely a month into his probationary period, and he'd had the audacity to question strategic decisions made at levels far above his clearance.
+He'd grown overconfident. The team's inclusiveness and Ian's recent acknowledgement of his good work had created a false sense of his position in the hierarchy. He was an assistant, barely a month into his probationary period, and he'd had the audacity to question strategic decisions made at the highest levels.
 
 The rest of the afternoon crawled by. When colleagues stopped by his desk for casual conversation, he kept his responses brief and work-focused. The camaraderie he'd begun to enjoy suddenly felt dangerous.
 
-The next morning brought renewed determination to avoid similar mistakes. Jay arrived early and threw himself into assigned tasks. When Ian requested revisions to a client summary, Jay completed them without asking for clarification on borderline issues. When Amy mentioned a complex derivatives transaction, Jay listened politely but asked no follow-up questions.
+The next morning brought renewed determination to avoid similar mistakes. Jay arrived early and threw himself into assigned tasks. When Ian requested revisions to a client summary, Jay completed them without asking for clarification on borderline issues.
 
 During their morning briefing, Ian's manner seemed overly formal. His feedback on the due diligence report was delivered perfunctorily. Jay accepted each suggestion, avoiding any response that might seem presumptuous.
 
@@ -118,9 +118,9 @@ Jay had several questions about the reasoning behind certain adjustments, but he
 
 The conversation ended there. Ian returned to his computer, and Jay understood the dismissal.
 
-Over the following days, Jay noticed Ian's behaviour had become even less available. Their interactions, always formal, turned positively glacial. Ian's responses to Jay's questions were curt, his acknowledgements of completed work cursory. The courtesy remained, but any hint of warmth had vanished.
+Over the following days, Jay noticed Ian's behaviour had become even less available. Their interactions, always formal, turned positively glacial. Ian's responses to Jay's questions were short, his acknowledgements of completed work cursory. The courtesy remained, but any hint of warmth had vanished.
 
-Jay watched Ian's interactions with other team members, searching for signs that the change was general. But Ian's manner with Amy, Luc, and the others remained unchanged. He still paused to praise good work, still engaged in brief strategic discussions during team meetings. The difference was reserved for Jay alone.
+Jay watched Ian's interactions with other team members, searching for signs that the change was general, but Ian's manner with Amy, Luc, and the others remained unchanged. He still paused to praise good work, still engaged in brief strategic discussions during team meetings. The difference was reserved for Jay alone.
 
 Jay began second-guessing every word before he spoke. He prepared extensive notes for their brief meetings, rehearsing his comments to ensure he didn't overstep. He stopped asking follow-up questions, even when confusion arose. Better to research answers independently than risk another humiliating rebuke.
 
@@ -142,17 +142,17 @@ Jay nodded, but privately wondered if he'd damaged something that couldn't be re
 
 In the evenings, Jay sat in his apartment reviewing the day's interactions, searching for any sign that his probationary status might be in jeopardy. Ian's coldness could be temporary—a way of reinforcing the lines between them, and not a prelude to termination. But Jay couldn't be certain, and uncertainty felt corrosive.
 
-He resolved to be more aware of his limitations. The work itself was still the best he ever had. He'd focus on those positives and remember his place. Ian was his supervisor, not his mentor. The sooner Jay internalized that distinction, the better their working relationship would be.
+He resolved to be more aware of his limitations. The work itself was still the best he ever had. He'd focus on those positives. Ian was his supervisor, not his mentor. The sooner Jay internalized that distinction, the better their working relationship would be.
 
-Meanwhile, in his office, Ian reviewed Jay's personnel file for the third time that week. The young man's question about the Falconridge Enterprises acquisition had been innocent enough on the surface—a logical connection based on legitimate business similarities. But it had probed into sensitive territory, into decisions that involved confidential client information and strategic considerations well above Jay's clearance level.
+Meanwhile, in his office, Ian reviewed Jay's personnel file for the third time that week. The young man's question about the Falconridge Enterprises acquisition had been innocent enough on the surface—a logical connection based on legitimate business similarities. But it had probed into sensitive territory, into decisions that involved confidential client information and strategic considerations.
 
-Sam had begun the same way. Casual curiosity about cases outside his purview. Ian had dismissed the pattern then as natural intellectual growth. He wouldn't make that mistake again.
+Sam had begun the same way. Casual curiosity about cases outside his purview. Ian had dismissed it then as natural intellectual growth. He wouldn't make that mistake again.
 
 Jay's recent withdrawal might be appropriate response to correction, or it might be calculated recalibration. Time would reveal which interpretation was accurate.
 
 ## Scene 3: Accepting his fate
 
-The following week passed quietly. Jay arrived at his desk each morning in the same manner he had cultivated during his first month, but where once he had participated in the casual conversations that drifted between cubicles, now he offered only polite acknowledgements. When Luc made jokes during the lunch hour, Jay smiled but contributed nothing. When Ela shared newest gossip, he listened without comment.
+Jay arrived at his desk each morning in the same manner he had cultivated during his first month, but where once he had participated in the casual conversations that drifted between cubicles, now he made only polite acknowledgements.
 
 "You've gone monastery on us," Kim observed on Wednesday, swiveling his chair to face Jay's workstation. "What happened to all those questions you used to ask?"
 
@@ -160,11 +160,11 @@ The following week passed quietly. Jay arrived at his desk each morning in the s
 
 Kim waited for elaboration that never came, then returned to his monitors with a slight frown.
 
-Jay had decided that his previous enthusiasm had been misplaced. The questions, the eagerness to understand complex strategies, the hopeful glances toward Ian's office—all of it had been inappropriate. He was administrative support, not an analyst. His role was to facilitate the work of others, not to insert himself into discussions that belonged to people with actual expertise. He had been playing a part he wasn't qualified for, and everyone had been too polite to correct him directly.
+Jay had decided that his previous enthusiasm had been misplaced. The questions, the eagerness to understand complex strategies, the hopeful glances toward Ian's office—all of it had been inappropriate. He was administrative support, not an analyst. His role was to facilitate the work of others, not to insert himself into discussions that belonged to people with expertise. He had been playing a part he wasn't qualified for, and everyone had been too polite to correct him directly.
 
-Ian's increasing coldness made perfect sense now. Of course the CFO had no interest in explaining acquisition strategies to someone hired to manage calendars and proofread documents.
+Ian's increasing coldness made sense now. Of course the CFO had no interest in explaining acquisition strategies to someone hired to manage calendars and proofread documents.
 
-On Thursday afternoon, Amy approached his desk with her laptop clutched against her chest. Dark circles shadowed her eyes, and her perfect posture had developed a slight slump.
+On Thursday afternoon, Amy approached his desk with her laptop clutched against her chest. Dark circles shadowed her eyes, and her posture had developed a slight slump.
 
 "Jay, I need a huge favour," she said, dropping her laptop beside his keyboard. "This reconciliation report has to be perfect by tomorrow morning, but the numbers aren't adding up. I've been staring at it for hours and I can't find where the error is."
 
@@ -172,7 +172,7 @@ Jay examined the spreadsheet. Rows of figures stretched across dozens of pages, 
 
 "I can take a look. How urgent is it?"
 
-"Emergency urgent. The client presentation is first thing Friday, and if these numbers are wrong..." Amy rubbed her temples. "Max would normally handle this, but he's still out, and I'm drowning in the portfolio analyses."
+"Emergency urgent. The client presentation is first thing Friday, and if these numbers are wrong... Max would normally handle this, but he's still out, and I'm drowning in the portfolio analyses."
 
 "I'll find the problem," Jay promised.
 
@@ -190,13 +190,13 @@ Jay began working through the spreadsheet systematically, checking each calculat
 
 Luc hesitated, then collected his jacket and left. By seven o'clock, only Jay and Ian remained on the floor. Jay could see Ian through the glass walls of his office, still working at his computer, but they didn't acknowledge each other beyond the brief nods they had exchanged earlier.
 
-At nine-thirty, he found it, buried in a column of seemingly identical entries. A decimal point had been moved, creating a cascade of incorrect calculations throughout the dependent formulas. Jay corrected the cell and watched as the spreadsheet recalculated itself, numbers shifting into alignment. He ran the reconciliation again, checking and double-checking his work until he was certain the errors had been eliminated. Then he compiled a clean version of the report and sent it to the team with a brief note explaining what he had found and how he had fixed it.
+At nine-thirty, he found it, buried in a column of seemingly identical entries. A decimal point had been moved, creating incorrect calculations throughout the dependent formulas. Jay corrected the cell and watched as the spreadsheet recalculated itself. He ran the reconciliation again, checking and double-checking his work until he was certain the errors had been eliminated. Then he compiled a clean version of the report and sent it to the team with a brief note explaining what he had found and how he had fixed it.
 
-The office was empty by the time he finished. Ian had left about an hour earlier, offering only a perfunctory farewell and no comment on Jay staying late. Jay gathered his things and walked to the elevator. He had done exactly what was asked of him, nothing more and nothing less. Tomorrow, the client would receive accurate data, and the firm would maintain its reputation for reliability.
+The office was empty by the time he finished. Ian had left about an hour earlier, saying a perfunctory farewell and no comment on Jay staying late. Jay gathered his things and walked to the elevator. He had done exactly what was asked of him, nothing more and nothing less. Tomorrow, the client would receive accurate data, and the firm would maintain its reputation for reliability.
 
-The next morning Amy sent a brief email to the entire team: "Thanks to Jay Hall for staying late to fix the reconciliation report and catching the error that would have caused serious problems with the Broadmarsh account. Good work."
+The next morning Amy sent an email to the entire team: "Thanks to Jay Hall for staying late to fix the reconciliation report and catching the error that would have caused serious problems with the Broadmarsh account. Good work."
 
-Jay read the message twice, warmth spreading through his stomach. Recognition felt good, even for work he considered basic responsibility. But the satisfaction faded quickly, replaced by self-doubt. Had he really done something noteworthy, or was Amy simply being kind? The error had been obvious once he found it. Anyone with basic spreadsheet skills could have made the same corrections.
+When Jay read the message, warmth spread through his stomach. Recognition felt good, even for work he considered basic responsibility. But the satisfaction faded quickly, replaced by self-doubt. Had he really done something noteworthy, or was Amy simply being kind? The error had been obvious once he found it. Anyone with basic spreadsheet skills could have made the same corrections.
 
 He glanced toward Ian's office. He was deep in conversation with someone on the phone, his back turned to the main floor. Jay wondered if Ian had seen Amy's email, if he disapproved of Jay staying late without authorization.
 
@@ -204,25 +204,25 @@ He glanced toward Ian's office. He was deep in conversation with someone on the 
 
 "It wasn't difficult. Just time-consuming."
 
-"Still. Not everyone would have stayed that late for someone else's project."
+"Not everyone would have stayed that late for someone else's project."
 
 Jay forced a smile. "Happy to help."
 
-The praise continued throughout the morning. Luc mentioned the email during lunch, Kim nodded approvingly when he passed Jay's desk, even Zoe offered a compliment. Each acknowledgement should have felt validating, but instead Jay grew more uncomfortable. The attention felt undeserved. He had simply done what anyone in his position should do—support the people doing the real work.
+The praise continued throughout the morning. Each acknowledgement should have felt validating, but instead Jay grew more uncomfortable. The attention felt undeserved. He had simply done what anyone in his position should do—support the people doing the real work.
 
-He spent the rest of the day organizing filing systems and updating contact databases. Work that required no expertise and created no opportunities for overreach. When someone needed documents copied, he volunteered immediately. When the printer jammed, he fixed it without being asked. When the conference room needed cleaning between client meetings, he handled it.
+He spent the rest of the day updating contact databases. Work that required no expertise and created no opportunities for overreach. When someone needed documents copied, he volunteered immediately. When the printer jammed, he fixed it without being asked. When the conference room needed cleaning between client meetings, he handled it.
 
 This was his proper role. Not the eager participant he had tried to be during his first weeks, not the aspiring analyst who asked too many questions. Just the person who made sure everything ran smoothly so others could focus on important work.
 
 Ian had given him this opportunity–protection from the chaos and predatory behaviour that had defined his previous jobs, a chance to exist without fear. That was already more generosity than Jay had any right to expect. To want more, to hope for mentorship or advancement or even basic collegiality, would be presumptuous and ungrateful.
 
-He glanced once more toward Ian's office. Ian's distant professionalism wasn't disapproval, Jay told himself. It was appropriate. A kindness, really. Ian understood that Jay belonged in the background, and he respected that reality instead of offering false encouragement.
+He glanced once more toward Ian's office. Ian's distant professionalism wasn't disapproval, Jay told himself. It was appropriate. A kindness, really. Ian understood that Jay belonged in the background, and he respected that reality instead of giving false encouragement.
 
-Jay returned to his filing with renewed determination. He would prove himself worthy of this gift by asking for nothing more than what he had already received. In a world where powerful people routinely abused their positions, Ian had created a space where Jay could work safely and contribute meaningfully, even if that contribution remained largely invisible.
+Jay returned to his filing. He would ask for nothing more than what he had already received. In a world where powerful people routinely abused their positions, Ian had created a space where Jay could work safely and contribute meaningfully, even if that contribution remained largely invisible.
 
 ## Scene 4: Painful returns
 
-There was a noticeable change in the office that Monday in late September, a liveliness that set it apart from most mornings. The elevator buzzed with conversation, colleagues clustered around the coffee station longer than usual.
+There was a noticeable change in the office one Monday in late September, a liveliness that set it apart from most mornings. The corridors buzzed with conversation, colleagues clustered around the coffee station longer than usual.
 
 "Max is back," Ela announced as she hung her jacket in the small closet. "Finally. I thought we were going to collapse under the workload."
 
@@ -246,7 +246,7 @@ Jay watched from his desk as Max worked his way through the team, dispensing hug
 
 "The office hasn't been the same," Ian replied.
 
-Max's attention eventually turned to the periphery, where Jay sat quietly organizing the morning's correspondence. "Hold on. Who's this?"
+Max's attention eventually turned to the periphery, where Jay sat organizing the morning's correspondence. "Hold on. Who's this?"
 
 Jay's fingers stilled on his keyboard. Every head in the office turned toward him, and he felt his face begin to burn.
 
@@ -254,19 +254,19 @@ Jay's fingers stilled on his keyboard. Every head in the office turned toward hi
 
 Max strode over, his hand already extended. "Jay Hall! So you're Leo's new joke hire! Welcome to the team!"
 
-The words hit Jay like cold water. The office fell silent—not the comfortable quiet of people returning to work, but the sharp silence of witnesses to something awkward. Jay shook Max's offered hand while his mind reeled.
+The words hit Jay like cold water. The office fell silent—the sharp silence of witnesses to something awkward. Jay shook Max's hand while his mind reeled.
 
-"Thank you," he managed, his voice barely audible.
+"Thank you," he said.
 
 Max seemed oblivious to the tension he had created. "Leo's got a type, I'll give him that. But don't worry—if you've lasted this long, you must be doing something right. Most of his joke hires don't make it past the first month."
 
-Jay's smile felt like it might crack his face. Around him, he could sense his colleagues' discomfort—Kim studying his computer screen intently, Ela suddenly finding her coffee fascinating, Amy's face tight with something that might have been sympathy or embarrassment.
+Jay's smile felt like it might crack his face. Around him, he could sense his colleagues' discomfort.
 
 "I should get back to work," Jay said, sinking into his chair.
 
 "Of course, of course. We'll catch up properly later." Max clapped him on the shoulder with enough force to make Jay wince, then moved on to demand updates on the quarterly projections.
 
-The rest of the morning passed in a haze. Jay processed emails, answered phone calls, and maintained a helpful demeanour, but Max's words echoed in his mind. Joke hire.
+The rest of the morning Jay processed emails, answered phone calls, and maintained a helpful demeanour, but Max's words echoed in his mind. Joke hire.
 
 What did that mean? And why did everyone seem to know something he didn't?
 
@@ -302,7 +302,7 @@ The apartment felt too small, the walls pressing in on him. Jay walked to his wi
 
 But even as the betrayal cut through him, one thing remained stubbornly clear. Ian had never made him feel uncomfortable. Even at his coldest, Ian had treated Jay with respect and professionalism.
 
-Jay returned to his laptop and read the articles again, more carefully this time. The scandal had been devastating. If Ian was now wary of relationships with subordinates, if he maintained distance from his staff, that made sense. It was self-protection.
+Jay returned to his laptop and read the articles again. The scandal had been devastating. If Ian was now wary of relationships with subordinates, if he maintained distance from his staff, that made sense. It was self-protection.
 
 And if Leo Turner was playing some kind of game with people's lives, using Jay as a pawn in whatever twisted dynamic he shared with Ian, then Jay was caught in the middle of something he didn't understand and couldn't control. But what could he do? Quit? Confront Leo? Demand answers from Ian?
 
@@ -310,23 +310,23 @@ Jay closed the laptop and sat in darkness. The safe harbour he thought he had fo
 
 He thought about Amy's smile when he had fixed her spreadsheet. Luc's friendship. Whatever games were being played at higher levels, his relationships with his colleagues felt real.
 
-And Ian had given him something Jay had never experienced before: the feeling of safety, a workplace free from harassment, an environment where he could focus on work instead of fending off unwanted attention.
+And Ian had given him something Jay had never experienced before: the feeling of safety.
 
 Even if it was all a lie, even if he was nothing more than entertainment for people who saw him as disposable, Jay wasn't sure he could give up the only security he had ever known.
 
 ## Scene 5: Resignation
 
-Tuesday morning was gray and unremarkable. Jay sat at his desk by seven-thirty, way before anyone else typically appeared. The office held a cathedral quiet that he had come to prefer—no conversations, no comments that might hold hidden meanings.
+Tuesday morning was gray and unremarkable. Jay sat at his desk by seven-thirty, way before anyone else typically appeared. The office held a cathedral atmosphere that he had come to prefer—no conversations, no comments that might hold hidden meanings.
 
 He opened the email and began sorting through the messages. Client requests, meeting confirmations, document revisions. Each task received the same attention, processed and completed without flourish or delay. The work filled the space where thoughts might otherwise intrude.
 
-When his colleagues began filtering in around eight, Jay acknowledged their greetings with polite nods but offered nothing more. The morning pleasantries that had once felt welcoming now seemed like potential traps. Every interaction held the possibility of revealing how much he knew, how deeply the truth had cut.
+When his colleagues began filtering in around eight, Jay acknowledged their greetings with polite nods. The morning pleasantries that had once felt welcoming now seemed like potential traps. Every interaction held the possibility of revealing how much he knew, how deeply the truth had cut.
 
 "Morning, Jay. How was your evening?" Amy said.
 
 "Fine, thank you."
 
-She waited for elaboration that never came, then turned to her computer with a slight frown. Jay had noticed the pattern developing over the past week—people expected more from him, seemed surprised by his brevity, but no one pressed for details.
+She waited for elaboration that never came, then turned to her computer. Jay had noticed the pattern developing over the past week—people expected more from him, seemed surprised by his brevity, but no one pressed for details.
 
 Max's booming laughter echoed from the conference room where he was catching up with Ian on the projects that had accumulated during his absence. The sound made Jay's shoulders tighten. He focused harder on the spreadsheet in front of him, double-checking figures that were already correct.
 
@@ -346,7 +346,7 @@ Why had Leo Turner hired him? What entertainment value did Jay provide for peopl
 
 The questions led nowhere productive, so Jay pushed them aside and focused on collating pages in the correct order. This was what mattered—the immediate task, the concrete requirement, the measurable result. Everything else was speculation and self-pity.
 
-When he returned to his desk, Kim was troubleshooting a network connection issue that had affected three workstations. Jay set the bound documents on Luc's desk and returned to his own work without offering assistance. He had learned to recognize which problems required his help and which were beyond his capabilities. Network issues belonged to Kim's expertise.
+When he returned to his desk, Kim was troubleshooting a network connection issue that had affected three workstations. Jay set the bound documents on Luc's desk and returned to his own work without trying to help. He had learned to recognize which problems required his assistance and which were beyond his capabilities. Network issues belonged to Kim's expertise.
 
 Jay joined the team for lunch, slipping into the background. Back at his desk, he focused on reviewing the afternoon's calendar, noting which meetings would require conference room setup, which clients needed specific documentation prepared, which deadlines loomed closest. The mundane nature of the planning soothed him. No ambiguity, no hidden agendas, no need to guess at motivations.
 
@@ -364,7 +364,7 @@ The afternoon crawled by. Documents were proofread, phone calls logged, appointm
 
 At five o'clock, most of the team began gathering their things and shutting down computers. As they prepared to leave, there was grumbling about the looming quarterly reports and talk of going to bed early to catch up on sleep before the workload peaked.
 
-Jay remained at his desk, finishing a client database update that could easily wait until tomorrow. The extra work served no purpose beyond keeping him occupied, preventing the moment when he would have to return to his apartment and sit alone with his thoughts.
+Jay remained at his desk, finishing a client database update that could wait until tomorrow. The extra work served no purpose beyond keeping him occupied, preventing the moment when he would have to return to his apartment and sit alone with his thoughts.
 
 "You don't have to stay late," Amy said, gathering her purse and jacket. "The work will still be here tomorrow."
 
@@ -378,9 +378,9 @@ Amy looked at him for a moment, then nodded. "Have a good evening."
 
 Jay waited until the office emptied before finally shutting down his computer. The elevator ride to the ground floor felt longer than usual, the mirrored walls reflecting his image from multiple angles. He avoided looking directly at his reflection, keeping his eyes fixed on the floor numbers as they descended.
 
-The evening commute passed quickly. Jay found a seat by the window, letting the motion and noise wash over him without really registering either. His mind felt deliberately blank, a defense mechanism he had cultivated over the past week.
+On the train Jay found a seat by the window, letting the motion and noise wash over him without really registering either. His mind felt deliberately blank, a defense mechanism he had cultivated over the past week.
 
-His apartment met him with silence, the kind that seemed to press in on him. Jay reheated dinner, ate it at the table, then sat at his couch with a stack of bills that needed organizing. The mundane task filled another hour, another stretch of time that didn't require self-reflection. He moved through the rest of his evening without thinking and went to bed early.
+His apartment met him with silence. Jay reheated dinner, ate it at the table, then sat at his couch with a stack of bills that needed organizing. The mundane task filled another hour, another stretch of time that didn't require self-reflection. He moved through the rest of his evening without thinking and went to bed early.
 
 The next day, he returned to an office as tense as he felt. With September ending, the quarterly reports had begun, when everyone seemed to live in the office on takeout. Not much was expected of him beyond his duties, and he was at least relieved that, in the chaos, no one seemed to pay him any particular attention.
 

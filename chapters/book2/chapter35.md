@@ -475,4 +475,3 @@ They chatted while working out. Rus brought up Jay's coworkers.
 For the rest of the week, Ian was away in the afternoons holding interviews with candidates for senior analysts. Jay left at five since there was nothing urgent to do. Staying in an empty office to tackle less urgent tasks held no appeal.
 Instead, he explored his new neighbourhood. He walked through parks. He cooked dinner in his new kitchen, experimenting with recipes he'd never had space to try before. He sat on the balcony with warm milk and honey and spices, watching the river and the sky.
 This was so much better than his old place. Better than anything he'd imagined having. He kept expecting to wake up and find it was all a dream. But each morning he woke up in his new bed, in his new apartment, and it was still real.
-Clarity

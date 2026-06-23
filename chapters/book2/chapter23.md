@@ -46,8 +46,8 @@ Luc's absence caused an unexpected disruption. His desk remained empty as the te
 "Is he alright? He looked pretty rough last week," Amy asked.
 "The request was brief. We should respect his privacy while ensuring his responsibilities are covered," Ian replied.
 Jay felt a twist of worry in his stomach. Luc had been subdued since his return from holiday, deflecting personal questions. The curt dismissals, the hollow smiles—Jay recognized the signs that he was struggling beneath the surface.
-During his lunch break, Jay sent a text: "Hope you're feeling better soon. Let me know if there's anything I can do to help."
-The reply came back within minutes: "Fine. Just need rest. Thanks."
+During his lunch break, Jay sent a text: "*Hope you're feeling better soon. Let me know if there's anything I can do to help."*
+The reply came back within minutes: "*Fine. Just need rest. Thanks."*
 The brevity felt like a door slamming shut, but Jay couldn't shake his concern.
 "I can stay late to handle Luc's backlog," Jay offered during the afternoon team meeting. "Most of his projects overlap with things I've worked on before."
 "That's not necessary. You've already covered more than your share during the summer months. I can manage the overflow," Ian said, but his expression was complicated.
@@ -56,7 +56,7 @@ The brevity felt like a door slamming shut, but Jay couldn't shake his concern.
 "I'm certain."
 That evening, Jay was back at working late alongside Ian. But something felt different—a tension in the air that hadn't existed during their summer overtime sessions. Ian seemed more closed off, the comfort of their shared work replaced by polite formality.
 Jay tried to dismiss it as his own changed perspective. Perhaps he'd been reading too much into their previous interactions, imagining intimacy where only courtesy existed. But when he glanced down at the watch on his wrist, the weight of it felt real and meaningful. Too expensive, too personal to be a mere gesture.
-On Tuesday, Luc gave another curt reply when Jay checked in again: "Still resting. Don't need anything."
+On Tuesday, Luc gave another curt reply when Jay checked in again: "*Still resting. Don't need anything."*
 The dismissal stung a bit. Jay went to the gym that evening, pushing himself through an aggressive workout that left him exhausted but no less worried about his colleague.
 "You're distracted tonight," Rus observed as Jay nearly dropped a weight. "Work problems?"
 "Colleague problems. Someone's going through a rough patch and won't accept help."
@@ -224,4 +224,4 @@ The phone rang almost immediately and Ema's excited voice practically vibrated t
 "The Ian you never talk about but clearly worship? This is so exciting! You're living like a proper businessman now!"
 Jay laughed despite his mixed feelings about that description. "I should go. Need to finish packing."
 "Take pictures of everything! The plane, the hotel, the food, the meeting—I want to live vicariously through your glamorous life!"
-By eleven, he was ready—suitcase packed, documents organized, appearance immaculate. Soon Ian would arrive in the company car to collect him, and they'd begin this journey together—their first extended period alone together. Jay was as prepared as he could possibly be. 
+By eleven, he was ready—suitcase packed, documents organized, appearance immaculate. Soon Ian would arrive in the company car to collect him, and they'd begin this journey together—their first extended period alone together. Jay was as prepared as he could possibly be.

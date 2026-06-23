@@ -353,4 +353,3 @@ He ended the month with a heavy heart. Everything—well, almost everything—wa
 For now, January was ending, and the continued demands of the first quarter lay ahead. Strategy season loomed like a dark cloud on the horizon. He'd have to grit his teeth and endure.
 At least he had the memories. The ferry ride and autumn gardens. Christmas in Ian's apartment, decorating the tree together, Ian in that cream sweater looking softer than Jay had imagined possible. The late evenings in the office kitchen, Ian leaning against the wall, talking about nothing and everything.
 He clung to those moments as February approached, promising himself that eventually, things would ease. He just had to survive until then.
-Choice

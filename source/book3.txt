@@ -1028,11 +1028,11 @@ He definitely wanted too much.
 Scene 2
 Incandescent
 It was raining on Tuesday. Not the gentle autumn drizzle that made everything seem romantic, but a relentless downpour that turned the streets into rivers.
-At six, Ian appeared at Jay's desk. "Ready to go?"
+Ian came to fetch Jay at six. "Ready to go?"
 "Yeah."
-They drove through the rain in silence. Jay watched the water run down the window and felt an odd weight in his chest.
-"We have to  cancel the run," Ian said.
-"I was looking forward to it," Jay replied. He was unreasonably disappointed. Now the evening stretched ahead, empty.
+As they drove through the rain, Jay watched the water run down the window and felt a weight in his chest.
+"We have to cancel the run," Ian said.
+"I was looking forward to it," Jay replied. He was unreasonably disappointed. Now the evening ahead was empty.
 "So was I."
 "Next week."
 "Yes. Next week."
@@ -1053,7 +1053,7 @@ Jay stared at him. "Leo, that's too much—"
 "The dresses need to be conservative. Age-appropriate."
 Leo's smile was cherubic and utterly untrustworthy. "Of course."
 "Leo."
-"I promise. Nothing scandalous. They'll look elegant and appropriate."
+"I promise. Nothing scandalous. They'll look elegant and proper."
 Jay didn't believe him for a second, but arguing was pointless. Leo had already set everything in motion, and reversing it would cause more chaos than letting it proceed.
 Wednesday evening, Jay called his mother.
 "Everything's arranged. Leo's sending a car to pick them up Friday evening. They'll stay with me, then get taken care of on Saturday. Dresses, hair, makeup. Everything."
@@ -1092,11 +1092,11 @@ Two hours felt excessive. He sat in the chair and let Eli's team take over.
 They started with his hair—washing, cutting, styling until it looked deliberately tousled but somehow elegant. Then the outfit. Jay changed into the floral blazer, the open-collar shirt, the perfectly fitted trousers. Eli adjusted the fit, made minute changes until everything sat exactly right.
 "Perfect," Eli said finally, stepping back. "You look incredible."
 "You're sure about the open collar?"
-"I'm certain. It's sophisticated, not sloppy. Trust the vision. Ian Hagen is going to forget how to speak."
+"I'm certain. It's sophisticated. Trust the vision. Ian Hagen is going to forget how to speak."
 "That's not the goal."
 "Then what is the goal?"
 "To look... appropriate. Not like I'm trying too hard."
-"You don't look like you're trying too hard. You look like you succeeded without trying at all. There's a difference." Eli handed him a small tube. "Lip balm. Use it before you leave tonight. Trust me."
+"You don't look like you're trying too hard. You look like you succeeded without trying at all." Eli handed him a small tube. "Lip balm. Use it before you leave tonight. Trust me."
 "Thank you. For all of this."
 "My pleasure. This is what I do. See you at the party?"
 "See you there."
@@ -1113,11 +1113,11 @@ Jay crossed the room, weaving through the crowd, and stopped in front of Ian.
 "Happy birthday," Jay said.
 Ian stared at him, seemingly unable to speak.
 "I know I'm late. Leo's errands. I'm sorry."
-"You're—" Ian stopped, cleared his throat. "You look—"
+"You're—You look—"
 "Ridiculous?"
 "No. Not ridiculous."
 The guests around them had diplomatically moved away, giving them space. Jay barely noticed.
-"I hope you're enjoying the party. I know you didn't want this. But everyone here cares about you. They want to celebrate you. I wanted you to have a night where people remind you how much you matter. Because you do. You matter so much."
+"I hope you're enjoying the party. I know you didn't want this, but everyone here cares about you. They want to celebrate you. I wanted you to have a night where people remind you how much you matter. Because you do. You matter so much."
 He hadn't meant to say it like that. Hadn't meant to be so earnest, so open. But the words were already out, and Ian was looking at him like Jay had just said something devastating.
 "Thank you," Ian said.
 Jay wanted to say more—to explain how important Ian had become, how much these two years had meant—but the words wouldn't come.
@@ -1278,13 +1278,13 @@ Jay had kept coming back to him, checking on him, seeking him out even in the cr
 Ian dropped his keys on the counter and looked around his living room.
 The gifts were already there, arranged by the staff Leo had hired to handle the logistics. Elegant boxes, wrapped packages, things chosen by assistants or purchased out of obligation. Ian ignored all of them and went straight to the one that mattered. The silver-and-gold package with the red ribbon. Jay's gift. The ribbons Jay had chosen made it distinctive among the more elaborate presentations. Ian took it to his kitchen table and sat, just looking at it for a long moment.
 Then he unwrapped it, preserving the ribbons, revealing a beautiful wooden box beneath. He opened it to find three crystal bottles and a handwritten note. Ian picked it up and read.
-Ian,
-I made these for you. Each one for a different moment:
-The first—citrus, ginger, cardamom. For cold evenings when you need warmth.
-The second—alpine herbs, gentian, chamomile. For when you're tired and need clarity.
-The third—red currant, cinnamon, honey. This one reminded me of my childhood. My grandfather made something similar. I hope it brings you comfort. 
-Happy birthday. You deserve every good thing.
-—Jay
+*Ian,*
+*I made these for you. Each one for a different moment:*
+*The first—citrus, ginger, cardamom. For cold evenings when you need warmth.*
+*The second—alpine herbs, gentian, chamomile. For when you're tired and need clarity.*
+*The third—red currant, cinnamon, honey. This one reminded me of my childhood. My grandfather made something similar. I hope it brings you comfort.* 
+*Happy birthday. You deserve every good thing.*
+*—Jay*
 Ian read it twice, then a third time, tracing the handwriting with his eyes.
 Each one tailored to him. Each one infused with meaning. He picked up the bottle of red currant tincture and opened it. He poured a small amount into a glass and took a sip.
 It was sweet and warm, just like Jay. Rich with spice and fruit, smooth on the tongue.
@@ -1555,7 +1555,7 @@ Ian and Jay almost didn't know what to do with themselves. That evening, they or
 Jay clicked through options. Ian made suggestions, pointing out features he liked—private beaches, good restaurants, proximity to activities.
 "This seems expensive," Jay said, hesitating over one particular resort.
 "Cost doesn't matter. Leo pays, and you're going as my assistant to coordinate activities. It shouldn't even count as vacation."
-Jay couldn't really argue with that. It had been his suggestion, after all. "Alright. I'll look at the top-tier options."
+Jay couldn't really argue with that. This was exactly how he framed the suggestion, after all. "Alright. I'll look at the top-tier options."
 The reports continued their unprecedented smooth progress. Tasks that required weekend work were finished by Friday afternoon. Ray left each day at four, having bludgeoned through enormous portions of work, leaving everyone staring after him in disbelief.
 Friday, Ian had an urgent regulatory matter that kept him late. Jay stayed until eight, helping where he could, but eventually had to leave Ian buried in legal documents he couldn't assist with.  At eight, Jay packed his things. He stopped by Ian's office.
 "I'm heading out."
@@ -1580,9 +1580,9 @@ When Rus finally caught his breath, he wiped his eyes. "I'm glad work is less st
 "Good. You deserve a break."
 Jay nodded, but the gloom lingered. Work was easier, but that didn't fix the disappointment of the missed Friday dinner.
 The following week was equally easy. All emergencies were handled as they appeared, everything proceeding at express speed. The team even resumed their lunch outings—there was no reason not to, given they were on track to finish a day before deadline with no overtime whatsoever.
-Jay didn't need to stay late either, but he did. Because evenings had become holiday planning time.
+Jay didn't need to stay late either, but he did. Evenings had become holiday planning time.
 On Tuesday, they finalized the details. The Songbird Islands, first half of November. A royal suite in a cliff-side five-star hotel, with a view of the ocean and access to private beaches.
-"This is it. Ten days. First half of November," Jay said. 
+"This is it. Ten days," Jay said. 
 "Book it."
 Jay pulled out the company card, looking at it like it might bite him. "Aren't we technically defrauding company funds?"
 "Leo will survive. He spent millions on that ridiculous brooch. He can endure a couple thousand more for a decent hotel."
@@ -1728,7 +1728,7 @@ She bumped her shoulder against his. "Anytime."
 Sunday afternoon, Jay took the train back to the city. He hadn't traveled by train in years, not since he'd started working with Ian. Before that, trains had been his primary method of getting anywhere. The process felt nostalgic if slightly uncomfortable, requiring him to change trains twice, first in the nearby city, then in a bigger hub along the way. Each transfer meant waiting on platforms, watching the crowds, hauling his bag from one train to another. It was tedious, much longer than driving would have been, but he'd left the car with Tim.
 He sat by the window and watched small towns give way to suburbs, then to the outskirts of the city. By the time he reached his stop, evening was falling. He took a taxi to his building, and when he reached his apartment, he pulled out his phone and sent a text to Ian. "Everything went great. Home safe."
 Ian's reply came within minutes: "I'm glad. Get some rest. See you tomorrow."
-Ian read Jay's text and set his phone down on the coffee table. Home safe. Good. He opened the wooden box again and poured another small measure of the red currant tincture. Just a small amount, like medicine. Medicine for pining. 
+Ian read Jay's text and set his phone down on the coffee table. Home safe. Good. He opened the wooden box again and poured another small measure of the red currant tincture. Just a small amount, like medicine. Medicine for pining.
 Chapter 45: Steam and stars
 Scene 1
 Salt-ocean smell
@@ -1789,8 +1789,6 @@ Jay splashed around for a few minutes, feeling the hot water immediately relax m
 Finally, he found a spot near Ian, who had chosen a stone seat along the pool's side. Jay sank down beside him, the water deep enough to cover their shoulders. It felt blissful.
 They reclined against the smooth stone, the water lapping gently around them, steam rising into the cold air above. Ian's eyes were closed, his expression peaceful.
 The heat melted away everything—the missed Friday dinners, the stress of the quarter, the constant low-level anxiety. Here, in the steaming water with the cold air on his face and Ian beside him, none of it mattered. He could stay like this for hours.
-
-
 Scene 2
 Aurora
 They soaked for about two hours, taking short breaks to step out into the chilly air for water and to cool down before plunging back into the heat. The heat worked its way deep into Jay's bones, leaving him loose and heavy in the best way. Around him, the team had spread out across the pool, some chatting, others floating in silence.
@@ -2033,7 +2031,6 @@ Ian opened his eyes again, banishing the thoughts. Tomorrow Jay would wake up em
 In the darkness of this room with Jay sleeping peacefully nearby, Ian let himself feel the full weight of what he wanted and couldn't have, the love he'd been suppressing for so long, the hope he kept trying to suffocate.
 Hold me for the rest of my life.
 "I would," Ian whispered into the darkness. "God help me, I would."
-
 Scene 5
 Cruel joke
 Jay woke with a faint headache and the vague sense that he had done something terrible.
@@ -2088,4 +2085,1094 @@ It would have been easier if Jay had been indifferent. Cold, even. But Jay's swe
 It had taken every ounce of Ian's control to sit on that freezing balcony and not show what he was feeling. To reassure Jay that nothing had happened, that everything was fine. It had taken even more control to maintain that facade through the day, to act normal when his heart felt like it was tearing itself apart.
 He'd almost broken in the car. The way Jay had looked at him with those wide gray eyes, worried and apologetic—Ian had wanted to pull him back, to tell him the truth. That the night before had been the most painful experience of Ian's life. That Jay had said exactly what Ian had been desperate to hear, and that was the cruellest part of all.
 He needed to pull himself together. This weakness was unacceptable. He'd weathered worse than this—betrayal, scandal, exile from his own family. He could handle impossible love. He'd been handling it just fine. He just needed time to steel his heart again. 
-A day or two. That's what he'd told Jay, and he'd make it true. By Monday he'd be fine. Everything would return to normal. He was good at controlling himself. Excellent at it, even. But for now, alone in his apartment, he let himself fall apart completely.
+A day or two. That's what he'd told Jay, and he'd make it true. By Monday he'd be fine. Everything would return to normal. He was good at controlling himself. Excellent at it. But for now, alone in his apartment, he let himself fall apart completely.
+Irresistable
+Chapter 46: Paradise found
+Scene 1
+Dispelling doubts
+Jay slept badly on Sunday night. He kept dreaming about falling, of reaching for something solid and finding nothing. He woke twice in the dark and lay staring at the ceiling, and both times his mind went straight back to the hot springs resort, to Ian's arm around him, to the persistent sense that he had said something he should not have said. He couldn't remember clearly, that was the worst part. He had the general idea that it was something that crossed a line, but whenever he tried to pull the details into focus they disappear and left only the goosebumps behind.
+By the time he got out of bed on Monday morning he had managed to reframe it as a lapse, a stupid slip of the tongue from someone who'd had too much wine, a thing reasonable adults forgot about and moved past.
+He arrived at the office early, made coffee, opened the task log, and told himself he was fine. When Ian walked in at exactly eight, Jay's hands went still on the keyboard. Ian said good morning without pausing on the threshold and was inside his office before Jay had finished parsing the tone of it. Normal. Slightly clipped, but normal. 
+By the time Jay knocked on the glass for the morning briefing at nine, papers were stacked in front of Ian and he was signing his way through them without looking up.
+"The Falconridge filing needs to go out by Wednesday," Ian said. "The review is Thursday afternoon. Before we leave I want the Halborne rebalancing memo drafted and a full handover document prepared for Amy and Ray. The Broadmarsh compliance query—has legal responded?"
+"Not yet. I'll follow up this morning."
+"Do that. I also want the client schedule reviewed for December. If there are standing meetings that will fall in the window of our absence, we need to either reschedule or delegate now, not on the day."
+"I'll start with legal and the handover structure."
+"Good."
+The briefing lasted twelve minutes. Jay went back to work. There was enough to do that he could keep the other thoughts at a distance—a chain of calls about the paperwork, an hour lost to a problem with the client schedule that turned out to be a calendar error on the other firm's side. Ian worked with the same dedication, and the few times Jay went into his office he found him producing decisions at a pace that made the workload feel less demoralizing. It helped. It was easier, with Ian like that, to believe the trip had done nothing permanent to them.
+But the unease didn't disappear. Jay returned to it sometimes, at the coffee machine, staring at a spreadsheet. He though that Ian was fine*,* but Ian had also spent the last morning of the trip watching the sea with an expression Jay hadn't been able to read. 
+He went home that day tired.
+Ian set a relentless pace but a fair one, and Jay met it without incident. Jay suspected at some points that Ian was generating tasks deliberately, inventing urgencies to keep both of them occupied, but he also knew that wasn't fair. They did need to clear everything before leaving, and Ian was meticulous about that at the best of times. The workload left no room to think, which was probably for the best.
+On Friday morning Jay drank too much coffee and worked through a backlog of correspondence. Luc stopped by to drop off a file and gave Jay a long look.
+"You alright?" Luc asked.
+"Fine. Just a lot to finish before we're both out next week."
+"Ian's been running you hard this week."
+"It's necessary. Things need to be sorted before vacation."
+Everyone knew Jay had strong-armed Ian into finally taking time off, and it made sense that the days before would be hectic. What nobody knew was where Jay would actually be spending that time, or with whom. He and Ian hadn't discussed it with anyone, and the secrecy only added to the unease Jay already felt.
+That afternoon, Ian called him in and told him he'd be working late.
+"I had hoped to have the regulatory submission done before the end of the day, but the timeline is unrealistic."
+"Do you need me to stay?"
+"No. It's not something that benefits from an extra set of hands at this stage. Which means dinner this evening won't work. I'm sorry."
+"That's fine. Another time."
+"I thought, if you're free tomorrow afternoon, we could have lunch and get the shopping done. You'll want beach clothing, suitable footwear, sunscreen, anything else you might need. I assumed you haven't had time this week."
+"I haven't," Jay admitted.
+"Then let's take care of it tomorrow. Say, two o'clock?"
+"Yes. That's fine."
+"Good. I'll come pick you up."
+Jay returned home that evening in a complicated mood, still uneasy, still half-braced for something, but lighter than it had been that morning. At least they were meeting tomorrow. Whatever he had said or done at the hot springs, Ian was still proposing lunch and an afternoon of shopping, which was not how you treated someone who had made themselves unwelcome. It would be fine.
+Ian arrived at two on the dot on Saturday. Jay was waiting at the entrance to his building and got in immediately. They went to a place near the shopping district that Jay hadn't been to before. It was comfortable and the food came quickly.
+Ian waited until they were midway through the meal, then he put down his fork and said, "You're still thinking about the trip."
+"I've been meaning to bring it up."
+"So bring it up."
+"I don't entirely remember what I said, but I know it was too much. And I know the morning after wasn't—I was clearly making you uncomfortable, and I'm sorry for that."
+"You weren't making me uncomfortable."
+"You looked uncomfortable."
+"I was tired and I was thinking. Those are not the same thing."
+"Ian—"
+"I wasn't bothered by what you said. You had too much to drink and you said something sentimental. That is not a catastrophe. It doesn't require an apology."
+"I know, but—"
+"I didn't mind looking after you. And more than that, I've been looking forward to this trip since we planned it. I enjoy spending time with you, Jay. I thought you knew that by now. But if you didn't, I'm telling you plainly. I would rather you stop treating our friendship as something you need to earn back every time you make a human mistake."
+"Okay. Okay, I'll stop," Jay said. He couldn't decide if it was a scolding or a confession, and he was not going to think too carefully about what Ian meant. He was going to accept it as he was told to, as the ordinary statement of a person who enjoyed his company, and not attach any weight to it that wasn't meant to be there. That was what reasonable adults did.
+After lunch they drove to a shopping district ten minutes away. Ian knew where he was going, which didn't surprise Jay. He probably knew the locations of all the useful shops in the vicinity.
+They entered a travel and outdoor clothing shop with a good selection of lightweight linen shirts.
+"Do you have proper sunscreen?" Ian asked.
+"I have some, I think. From last year."
+"How old?"
+"I don't know. A year?"
+"We're buying new sunscreen. Factor fifty, at minimum. You'll burn."
+"I don't burn that easily."
+"You have a pale complexion and we'll be at a latitude that will be more direct than you're used to. Factor fifty."
+Jay picked up the factor fifty. Ian pointed out a pair of sunglasses, and Jay added a hat to the pile. By the time they left the store, both of them were carrying bags and the tension that had weighed on Jay was gone. Whatever had been wrong—and something had been wrong, he hadn't imagined it—was better now. 
+When Jay returned home, he packed with care. He folded the clothes, layered in the sunscreen and the hat, and added the travel guides. Monday felt both too far away and too close. Jay sat on the couch with the packed suitcase in front of him, trying to decide if he was thrilled or terrified. A vacation together. Just the two of them. It was either going to be magical, or it was going to be the worst experience of his life.
+Scene 2
+Encounters
+The departure day came quickly. Jay stood in his kitchen at half past five on Monday and felt nervous, excited, slightly disbelieving. He had checked the packing list twice, then again, then decided that was enough and made himself sit down.
+Ian picked him up at six fifteen. He looked at Jay's suitcase and said, "Good," which meant Jay had packed an appropriate amount, and Jay felt an absurd relief at this.
+The airport was quiet at that hour. Ian handled the check-in, managing their boarding passes and the luggage. They cleared security and found their gate. 
+On the plane, Jay opened his travel guides. He had bought two, plus downloaded several articles, and had a list of things he wanted to do organized by day and type of activity with a buffer built in for rest and flexibility. Ian read through the list, made two changes with a pen, and handed it back. Then he opened his own book.
+The flight was not long. They were served a meal and somewhere over open water Jay fell asleep briefly against the headrest and woke when the captain came on to announce the descent.
+The transfer to the resort took forty minutes through landscape that Jay watched out the window: dense vegetation close to the road, glimpses of water through the trees, the occasional village of white-painted buildings.
+The resort appeared at the end of a long private road. Jay saw it through the windscreen and it was completely magnificent. It had been built to look like a palace—wide colonnaded terraces, buildings arranged around a  lush central garden, and beyond everything, at the end of a path that vanished into palms, a blue-green coastline.
+Their suite was on the upper level, facing the water. Two bedrooms arranged around a shared living area, wide windows, a terrace with two chairs, and the light coming off the ocean made everything in the room luminous. It was the most beautiful place Jay had ever been asked to stay in.
+He unpacked quickly and came back into the living area to find Ian on the terrace. Jay went to stand beside him. The ocean spread away from them in every direction. A long way below, at the base of the resort's terraced gardens, waves came in against pale rock in a continuous motion.
+After a moment Ian said, "We're a long way from the office."
+"Yes," Jay said.
+They were ten days away from the task lists and the handover documents. The trip could be magical or catastrophic, but standing here now with the warm wind and Ian beside him, Jay found the catastrophic option had become essentially impossible to imagine.
+They left the suite shortly after sunset, wandering through the resort gardens until they found the hotel bar. 
+"I'll get us drinks," Ian said. "What would you like?"
+"Whatever you recommend."
+Ian disappeared toward the bar, and Jay dropped into one of the cushioned chairs. He tipped his head back and closed his eyes, listening to the ocean and feeling the breeze on his face. This was exactly what he needed.
+"Excuse me?"
+Jay opened his eyes. A woman stood beside the table, smiling warmly.
+"Yes?" Jay said.
+"I'm sorry to bother you. I just had to tell you—you have the most striking eyes. Gray, aren't they? They're beautiful."
+"Oh. Thank you."
+"Are you here on vacation?"
+"Yes. Just arrived today."
+"Well, you're in for a treat. The islands are incredible. If you'd like, I could show you around sometime. There are some spots the tourists never find. Are you here alone?"
+"No," Jay said, which he thought should have been sufficient, but she was not leaving. She was friendly, charming even, and her interest was unmistakable. He searched for a polite way to deflect.
+"I'm here with a group. We've been on the island two weeks already—I know it quite well by now. There are wonderful spots the resort doesn't put in the brochures. The real coastline. If you'd like to see it, I'd be happy to show you."
+"That's very kind," Jay said, and knew immediately it was the wrong thing, heard it land as encouragement the instant it left him. He tried to adjust. "I'm here with someone, we have—"
+"Just a suggestion," she responded.
+"Here we are," Ian cut in smoothly. He appeared at Jay's side, setting a colourful drink in front of him and a glass of whisky for himself. His hand came to rest lightly on Jay's shoulder. "Sorry for the wait. We have dinner reservations at eight. I'm not sure we have time for a long drink."
+She read the situation correctly this time. "Of course. Enjoy your stay."
+She left, and Ian sat down across from Jay, lifting his whisky as if nothing had happened.
+"Thank you. Do we actually have reservations?"
+"We do now."
+Jay picked up the cocktail Ian had brought him. It was bright orange, garnished with a slice of pineapple and a tiny umbrella. It was sweet and fruity, with just enough bite to keep it from being cloying.
+"This is amazing," Jay said.
+"I thought you'd like it."
+"Better than straight whisky, that's for sure. I don't know how you drink that stuff."
+"Practice."
+Ian had been moderately displeased watching the woman approach Jay, but the gratitude in Jay's eyes now made the disturbance feel less unpleasant in retrospect.
+They finished their drinks and headed to the restaurant. The menu was seafood-heavy, and both ordered grilled fish and a bottle of white wine. The food was beautifully plated and tasted even better than it looked. Jay ate with obvious enjoyment, pausing between bites to comment on the flavours.
+"I really am terrible at handling unwanted attention," Jay said after a while. "I either freeze completely or accidentally encourage it by being too polite. I keep saying the wrong things."
+"You say polite things. That isn't wrong. It just doesn't always work."
+"It definitely didn't work."
+"Some people treat politeness as an opening. You're fine, Jay. But even so, you could practice being less immediately inviting."
+"I don't know how to be less immediately inviting. It would feel rude. You've clearly never worried about seeming rude."
+"I worried about it, then I stopped. It gets easier."
+"I don't think I could do that. My face is completely sincere at all times. My face is a liability."
+"It's learnable. You need to be less warm. You decide you're not going to be accessible and then you're not."
+"You make it sound easy, but that look you give people when they're wasting your time, where you're not unfriendly but there's clearly a wall, I could never pull that off. I think I'm stuck being rescued."
+Ian didn't mind that at all, though he kept the thought to himself. "You'll manage."
+They took their time over dinner, ordering more cocktails. Ian told Jay about the time he'd scared off a persistent investor with nothing more than a prolonged stare, and Jay laughed so hard he nearly knocked over his glass.
+"You didn't," Jay said.
+"I did. He left the meeting early."
+"That's terrifying."
+By the time they returned to the suite, it was late. They stood in the living room for a moment, neither of them moving toward their respective bedrooms.
+"I had a good time tonight," Jay said.
+"So did I."
+"I mean it. This is— This is really great."
+Ian looked at him, standing there with his hair slightly mussed and his eyes bright from the cocktails, and forced himself to take a step back.
+"We should get some rest," Ian said. "Tomorrow, there's no plan. Not unless you want one."
+"No plan," Jay said immediately. "Definitely no plan."
+"Right. Goodnight, Jay."
+"Goodnight."
+Jay disappeared into his room, and Ian stood in the living area for a moment longer, staring at the closed door. Jay, meanwhile, was in his own bed, grinning like an idiot. The evening had been perfect. Ian had come to his rescue, soothed him afterwards, and spent the entire dinner making him feel at ease. This trip was unfolding to be great after all.
+Scene 3
+Nuisance
+Jay woke to the sound of the ocean. For a moment, he didn't know where he was. Then the previous day came back to him, and he sat up. He got out of bed, pulled on a shirt and shorts, and walked into the living area. The terrace door was open, and Ian was sitting outside with a cup of coffee, watching the sunrise.
+"Morning," Jay said.
+"Morning. I made coffee."
+Jay poured himself a cup and joined Ian on the terrace. The sky was painted in shades of pink and orange, the ocean calm and glittering. They sat drinking their coffee and watching the light change. It was comfortable. There was nothing urgent to do, no plans to occupy their minds, and Jay felt the last of his tension dissolve.
+"We should go down for breakfast soon," Ian said eventually.
+"Whenever you're ready."
+They finished their coffee and headed down to the restaurant. They chose a secluded alcove near the railing, away from the other guests. 
+"I'm going to swim laps after this," Ian said.
+"In the pool?"
+"Yes. You're welcome to join me."
+"I might."
+After breakfast, they went back to the suite to change. Jay put on his swim trunks, then followed Ian down to the pool. It was large and pristine, with lounge chairs arranged around the perimeter and a view of the ocean beyond.
+Ian set his towel on a chair and dove in. Jay watched as he began to swim using powerful strokes. He was fast. Jay stood at the edge for a moment, considering joining him then concluded that he had absolutely no interest in being lapped continuously by his boss for the next hour.
+He got into the open section at the shallow end. The water was warm from the previous day's sun. He did a few lazy lengths of breaststroke, then floated aimlessly. He got out after twenty minutes and found a lounger and lay in the sun. He applied the factor fifty Ian had insisted on. 
+Ian continued his relentless laps at the far end as though performing a demonstration of the difference between them. When he finally stopped, he was properly winded, which was the first time Jay had ever seen him winded. He stood at the pool's edge for a moment with one hand on the rail, recovering, then he grabbed his towel and came to sit on the chair beside Jay.
+"Satisfied?" Jay asked.
+"Yes. You did—what, fifteen minutes? You're slacking."
+Jay opened one eye. "I'm on holiday."
+"For eleven of those fifteen minutes, you were lying on your back."
+"It's called floating. It's restful. I intend to not keep my routine whatsoever."
+Ian feigned despair. "That's tragic. You should at least try to do some proper laps."
+"No, thank you. I prefer to relax."
+"You'll regret it when you return to the gym and Rus makes you pay for slacking."
+"I'll deal with that when it happens."
+The banter felt natural. Jay closed his eyes again, smiling. After a few minutes, Ian proposed they head to the beach. They walked down the stone path that led to the shore.
+The beach was beautiful, the sand white and soft, the water turquoise. They found a spot near the water and spread out their towels. Ian sat with his knees drawn up, looking out at the horizon, and Jay tried very hard not to stare.
+In the full light of day, wearing only swim trunks, Ian looked impossibly fit. He was forty years old and in better condition than most people half his age. Jay was not someone who had spent a great deal of time in his life being impressed by the male form, but Ian was such an exquisite specimen that it was impossible not to be awestruck.
+Jay looked at the ocean instead.
+They stayed on the beach for a while, soaking in the sun and the sound of the waves. Eventually, they returned to the hotel for lunch, choosing a secluded spot. After lunch, Ian excused himself. "I need to check emails."
+"You're working?"
+"Just for an hour. I need to make sure nothing's urgent."
+"Fine. I'll be by the pool."
+Ian returned to the suite, and Jay went back to his lounge chair, flopping down with a sigh. He was disappointed, but not surprised. His boss had no respect for his free time.
+He was reading his book when someone approached.
+"Mind if I sit here?"
+Jay looked up. It was a man, older than him, with a confident smile and an expensive watch. He was already pulling out the chair beside Jay before Jay could answer.
+"Uh, sure," Jay said, sitting up.
+"Beautiful day, isn't it?"
+"Yes."
+"You here alone?"
+"No. I'm here with a friend."
+"Lucky friend. You've got great bone structure. Are you a model?"
+"No."
+"You should be. That face is wasted in an office."
+"I'm not really—"
+"Let me buy you a drink. What are you having?"
+Jay thought of Ian's advice and tried to locate the expression it required—flat, brief, conclusive. What came out instead was a version of that, filtered through his actual face, which softened things he was trying not to soften.
+"I'm fine, thank you."
+"Come on. Just one drink."
+"I appreciate it, but I'm going to say no. I actually need to get back to my room. Excuse me."
+Jay got up and left before the man could respond, walking quickly back to the suite. When he opened the door, Ian was sitting on the couch with his laptop, frowning at the screen.
+"Back already?" Ian asked.
+"Yeah. Someone approached me again."
+Ian closed his laptop and looked up. "What happened?"
+"Nothing, really. Just—They were pushy. Sat down without asking, made some comments. I left."
+"Are you alright?"
+"I'm fine. Just annoyed. I tried what you said, but it's harder than it seems."
+"I know I keep suggesting you project more coldness. I want to be clear—that isn't a criticism of how you are. You have an approachable demeanour. People mistake that for permission to keep trying. It isn't something you're doing wrong. It's simply something you have to bear, and it isn't fair that you have to."
+"You don't have to rescue me every time. I'm working on it."
+"I know you are. But I'm here, so."
+"You always know what to say."
+Ian didn't respond. He opened his laptop again and turned back to his emails, though his focus was shot. Across the room, Jay picked up his book and started reading. Ian worked through the afternoon, and Jay sat three metres away and made his feelings about this known through sustained and pointed silence.
+At one point Jay turned a page loudly enough to constitute a comment. At another he looked up from his book and sighed. Ian deflected all of it.
+"Two hours," he said around four. "I'll be done before dinner."
+"You said that an hour ago."
+"I said three hours an hour ago. This is updated information."
+Jay looked at the sky. "We're on an island."
+"I'm aware."
+"There is an ocean within walking distance."
+"I can see it from here."
+Jay turned another page. He did not sigh again. Ian was a workaholic and always had been, and the fact that he had spent the morning at the pool and the beach at all was a minor miracle that Jay was not going to take for granted by complaining too loudly about the afternoon. He was allowed his email. Jay would read his book and wait.
+At six Ian closed the laptop and looked up at the position of the sun. "Dinner at seven. I reserved the table this morning."
+"When this morning?"
+"Before breakfast. I thought we'd want it."
+They went back to their rooms to change.
+Scene 4
+Past relationships
+The restaurant was the most exclusive one at the resort. The tables had candles in small glass holders and fresh flowers, white cloth and low music, and the light inside was gold against the dark blue of the sky outside. The atmosphere was undeniably romantic.
+Jay looked around. At the table to their left a couple shared something from the same plate. At the table across the room two women sat close enough that their heads were nearly touching. A man near the entrance held his companion's hand across the tablecloth.
+"This is a place where you should bring a lover, not a coworker," Jay said.
+"You're not just a coworker."
+"You know what I mean."
+"Do I?"
+"My presence here represents a profound failure on the part of the universe to arrange your life more sensibly. It's depressing that it took a trajectory where the person who accompanies you to a place like this is your secretary."
+"I'm exactly where I want to be."
+Jay didn't know how to respond to that. He looked down, feeling heat creep up his neck. "When did you last actually bring someone somewhere like this?" he asked.
+"Some years ago. It didn't end well."
+"Tell me about it. If you want to."
+"From the beginning?"
+"From wherever you like."
+"The beginning is not especially dramatic. I knew by the time I was fifteen that I was attracted to men. It wasn't a revelation—it was more like a gradual recognition. I didn't hide it from myself. I hid it from everyone else."
+"You accepted it quickly," Jay said.
+"I didn't see why not. It was true. Arguing with what's true has always struck me as a waste of effort. I was also aware that it complicated other things. My father had a specific idea of the trajectory my life was meant to follow. I was old enough to understand what it would mean if he found out, so I kept it to myself until I went to university. Then I stopped keeping it to myself."
+"How did your father take it?"
+"He didn't say anything explicit. He didn't need to. His approval was conditional. It meant there was no room for mistakes. I was the heir, but suddenly I was also a disappointment, which explains why there was no forgiveness later. I was already unwelcome."
+"And your mother?"
+"My mother managed it the way she managed most things in our house. She saw what she chose to see. At university, there was a fling in my first year. It ended with rather more anger than I'd known what to do with at the time. He was volatile, and I probably contributed to that. I was not an easy person to be close to. Then my first serious relationship, also in university. That one ended because I had difficulty being present in anything. My partner eventually gave up waiting for me to let my guard down.  He told me at the end that he'd spent the entire time waiting for me to arrive, and that he was tired of waiting."
+"How long was it?"
+"Around a year. Long enough that he had reasonable grounds to expect more. He wasn't wrong. There isn't much to say about it. Very little of it has stayed with me."
+"And after that?"
+"In my mid-twenties, I stopped trying to have relationships and had company instead. People I didn't expect anything from. It's not a period I look back on fondly, but I'm not going to pretend it didn't happen."
+"It's not a crime."
+"No. But it wasn't kind, either. I was working very hard during those years and I was using people the way I used other things I didn't want to care about. As a managed distraction."
+Jay said nothing. He was not judging and Ian could probably tell.
+"Then Sam. I don't need to retell the whole of it. You know the story," Ian continued.
+"Tell me what you want to tell me."
+"I've made what peace there is to be made with it. Sam Connelly was someone I worked with, which was the first mistake. He was charming and seemed trustworthy, which was the second mistake. I believed things I should have scrutinized, and the result was that I handed someone a very effective instrument for destroying my position, and he used it."
+"Do you still love him?" Jay asked. He hadn't planned to ask it. It came out from somewhere beneath the level of strategic thought and landed before he could revise it.
+"No. That was the first thing to go. I don't hold any feeling toward him now. Not anger, not anything. He made a calculation, it worked, and he left. I was a fool for making it possible. The person I blame for it is myself. I had sufficient information to know better and I chose what I chose."
+There were several things Jay could have said, but none of them would have changed Ian's assessment, so he chose to stay silent.
+"After that, I tried again. For a period. Badly, and with the wrong intentions—I was trying to prove to myself that it hadn't broken something permanently, and that's not a good reason to see people. It became clear rather quickly that I was right back where I'd started, offering nothing and knowing it. And then I stopped seeing people at all, which is where we are."
+"How long ago?" Jay said.
+"Seven years, approximately."
+Jay wanted to reassure him, to tell him there was still love out there waiting for him, but he realized he was in no position to preach. His own romantic history was even worse.
+"You're looking at me like you pity me," Ian said.
+"I don't."
+"Then what?"
+"I'm just thinking that my own history is even more pathetic."
+"I doubt that."
+"It is. Trust me."
+"Tell me."
+"My track record is catastrophic, though with a lower body count, so the statistics look different. Do you really want to hear it? It's quite grim."
+"I just spent twenty minutes recounting my most uncomfortable history to you. Tell me."
+"Right. So. The full accounting. You should know that my entire romantic history can be summarized in approximately four incidents and two of them barely count."
+"Go on."
+"End of secondary school. There was a girl—older than me, very confident. She was interested and I was nineteen and had absolutely no idea what I was doing, which evidently didn't bother her much. It lasted one evening. I don't know her surname."
+"One evening?"
+"One evening. She was not looking for anything further and I was technically no longer a virgin and that was the whole transaction. She had moved on before I'd finished processing what had just happened. I did not pursue her. I also did not mourn her. I mainly just felt confused for a while and then got on with things."
+Ian was looking at him with an expression that was trying very hard to be sympathetic. It was not entirely succeeding.
+"Then university," Jay said. "An actual relationship that lasted nearly two months. She eventually ended it by telling me I wasn't interesting enough."
+"That's—"
+"It was a polite way of saying I was a dreadful lover. Which was also true. The whole thing was just profoundly mediocre and eventually she found someone with more to offer." 
+"That's not your fault."
+"Isn't it? I always felt like I'd missed some lesson. Like everyone else attended a class on how to do this and I was absent that day and nobody sent me the notes."
+"There's no lesson. Most people are performing confidence they don't have."
+"You're being kind. Other people figured it out eventually. I seem to have not done that."
+"I'm being accurate. You're honest to a degree that's unusual. The right person would find that appealing."
+Jay looked at him for a moment and then looked at his wine, which was safer. "Then my first job," he said. "Which we've talked about. I don't need to—"
+"No. You don't."
+"After that I just—stopped being interested. People generally wanted things I couldn't give them or didn't want to. I believed it was better to avoid it altogether."
+"And now?"
+"Now I still believe that."
+The waiter took their plates. They ordered more wine and sat with it until the restaurant began to thin out and the candles had burned lower in their glass holders.
+They walked back through the garden path in the dark. At the suite door Ian said, "I'm glad we talked about it. I'm glad you don't think less of me."
+"Why would I think less of you?"
+"For the choices I made. The things I did."
+"You didn't do anything wrong. I mean it. You never did anything wrong at all."
+"Thank you. Goodnight, Jay."
+"Goodnight."
+Jay went inside and closed his bedroom door and lay down in the dark. He thought about the look on Ian's face when Jay had told him he hadn't done anything wrong. He thought about how much he had wanted to say something else—something that would have changed everything, for better or worse.
+Scene 5
+Breaking point
+Ian swam his laps every morning, moving through the water with fierce discipline while Jay splashed around in the shallow end before retreating to a lounge chair, and spent the remainder of the time horizontal  with his face in the sun. Later they walked along the beach or ventured into town, seeing the sights without any particular agenda. 
+They returned to the hotel for lunch, and afterwards Ian sat at his laptop to work. The only concession he made was joining Jay on the balcony instead of staying inside. Jay sat with his book while Ian worked, occasionally giving scalding commentary about how many fun activities they were missing due to his stubbornness.
+"There is apparently an underwater cave system accessible from the south beach. Twenty metres down. Formations that took forty thousand years to develop."
+"Mm," Ian said.
+"We are not seeing it because you are reading a derivatives compliance report."
+"It's a regulatory summary. The caves will still be there."
+"They've been there forty thousand years, so presumably. There's also a cruise that goes to the outer islands at sunset. It says here the bioluminescence is visible in the water after dark."
+"I'm not a fan of cruises."
+"We're missing everything fun because of your stubbornness."
+"You're free to go without me."
+"That's not the point."
+But Jay didn't push further. He picked his book back up, and Ian continued working.
+The evenings were better. Ian closed the laptop at six without exception, and they spent them at whatever restaurant had caught Jay's attention, picking a different one each time. The food was excellent, the wine flowed freely, and they returned to the hotel late, tipsy and in great moods.
+On the fourth evening, they chose a beach restaurant a short walk from the hotel. The meal was casual and afterwards they wandered back to the hotel bar.
+"I'll get drinks," Ian said.
+Jay dropped into a chair and was looking out at the ocean when someone approached.
+"We meet again."
+The man from earlier was standing beside the table. He was smiling, holding a drink, looking entirely too comfortable.
+"Hi," Jay said cautiously.
+"Mind if I sit?"
+"Actually, I'm waiting for someone."
+"Your friend, right? The serious one. He seems to keep you on a strict schedule."
+"He'll be back any moment."
+"Then I'll make this quick. There's a party tonight at one of the villas. You should come. Bring your friend if you want, but I'd rather it be just you."
+"I'm not interested."
+"Come on. Don't be like that."
+Ian cut through the conversation. "He said he's not interested."
+"I was just offering an invitation."
+"That's kind of you, but Jay is not available."
+"Oh. I didn't realize you two were together."
+"Now you do."
+"My mistake. Enjoy your evening."
+He left quickly. Ian sat down across from Jay, sliding one of the drinks toward him. 
+"That's the same person from before," Jay said.
+"He's persistent."
+"Too persistent."
+"Maybe if people think we're together, you'll finally be left alone."
+Jay laughed nervously. "That is—you're probably right, but that's—I apologize. I don't understand why this keeps happening. At home this never—people don't just sit down—"
+"It's because you're so beautiful."
+Jay froze. Heat rushed to his face, and he ducked behind his drink, unable to meet Ian's eyes. It was the second time Ian had called him that. The first had been a long time ago, so long that he had almost convinced himself he had remembered it wrong, and it had left him flustered for days. This was even worse. It was unbearable, being complimented this way by a man he secretly longed for. 
+"Right. Obviously."
+"Should we move inside? It's getting cold."
+It was not getting cold. Jay looked at Ian, who was already standing, and decided not to point this out. At the bar, Ian ordered a whisky and drank half of it immediately. Jay recovered slowly, trying to sound casual. "There's a cruise in a couple of days. A sunset tour around the islands. It sounds amazing. We should go."
+"Maybe," Ian said. He ordered another drink. 
+Jay was surprised, but didn't comment. He watched and told himself Ian would slow down and that he was an adult who knew his limits and that people were allowed to drink on holiday.
+What Jay didn't understand was that Ian had reached a wall. The whole holiday had built toward it: Jay fussing over him, Jay laughing at his jokes, Jay keeping him company at every hour of the day, and then some man dropping into the seat beside Jay and trying his luck, because Jay was the most beautiful person in any room and the only one who didn't know it. Ian had played the part to send the man away. And now the act was over and he was just Ian again, a friend on holiday, permitted to sit beside this man but not to touch him, not to claim any of what he'd just pretended to have, and the only move available to him was another drink.
+So he ordered another drink, then another. Jay kept talking, overcompensating for his earlier embarrassment with overt enthusiasm. He described the cruise in detail, the itinerary, the stops, the promise of dolphins.
+Ian listened in silence, or seemed to. His responses grew shorter, then stopped altogether. By the time Jay noticed, Ian had gone completely still.
+"Ian?" Jay said.
+No response. Ian sat rigidly over his glass, his hand wrapped around it but not lifting it. His eyes were unfocused.
+"Ian," Jay said again.
+Ian raised the glass slightly, attempting to drink, but his coordination was off and he set it down again. Jay's alarm spiked. 
+"Ian. Look at me."
+Ian turned his head. He was properly drunk. Not loose and affectionate the way Jay got. Ian had gone in the opposite direction, pulled everything in, locked it down, until he was essentially absent.
+"I think we should go back," Jay said.
+"I'm fine."
+"I know. Come on."
+Ian didn't protest. He stood when Jay guided him up, followed when Jay led him toward the exit. He was obedient but utterly silent. Jay got him to the suite, unlocked the door, and steered Ian toward his bedroom. Ian sat on the edge of the bed, and Jay crouched to remove his shoes.
+"Lie down," Jay said.
+Ian obeyed, lowering himself onto the bed. Jay pulled the blanket over him, set a glass of water on the nightstand, and sat beside him, uncertain what to do. Eventually Ian's eyes closed and he drifted off.
+Jay retreated to his own room, leaving both doors open. He sat on the edge of his bed, worried and confused. Ian had drunk far too much, but there had been no buildup, no sign of distress. Just a sudden, complete shutdown. Jay lay down but didn't sleep. He listened for any sound from the other room, but there was only silence.
+The next morning, Jay woke early. He went to the restaurant for the breakfast buffet, selecting with some care: plain toast, two kinds of fruit, a glass of cold water, black tea. He put together a cold compress from a face cloth and the ice bucket by the bar, found painkillers in his travel bag, and brought everything to Ian's room on a tray.
+Ian was awake, sitting up in bed with his head in his hands. He looked authentically wretched.
+"I'm fine," Ian said.
+"Of course you are."
+"You don't need to—"
+"The painkillers work better on a small amount of food. The toast is plain. The fruit is mild."
+Ian tried to wave him off, but Jay ignored the gesture entirely. "You told me once that resisting help is unwise and that letting someone do something for you doesn't make you a burden. I have a very good memory."
+Ian relented. He took the painkillers and drank the water, wincing with every swallow. Jay adjusted the curtains, dimming the light, then sat in the chair by the window with his book. "We were supposed to go diving today, but I cancelled."
+Ian sank back against the pillows, closing his eyes. "I'm sorry."
+"For what?"
+"For last night. I lost control."
+"You didn't say anything. You just stopped reacting to anything. It was unsettling, but you didn't do anything wrong."
+"I rarely lose control when drinking. I suppose the holiday atmosphere finally got to me."
+"You're allowed to overdo it once in a while. You're human."
+Jay brought more water, changed the compress, sat nearby without hovering. He was tender and attentive without being overbearing, and Ian allowed himself to be taken care of completely.
+By evening, Ian was functional again. They shared dinner in the suite, room service delivered on covered trays.
+"For once I'm the one who needed rescuing," Ian said. "Finally there's some symmetry to our relationship."
+"I'm just glad you're back to yourself."
+"I'm sorry about the diving. I know you were looking forward to it."
+"It's fine. It doesn't matter. I can always go diving another time. But the opportunity to take care of you is precious. I wouldn't miss it for the world."
+Ian stared at him, disarmed. Jay's eagerness, the sincerity in his eyes—it was too much. Ian felt his defences crumble, just a little. He couldn't have much. He couldn't have what he truly wanted. But this—this tenderness, this closeness—he was allowed to have. And he would take as much of it as he could.
+"I'll make it up to you," Ian said. "That cruise you mentioned last night. That's the last thing I remember before things went dark. We'll go."
+Jay's face lit up. "Really?"
+"Yes. I don't enjoy cruises as a rule, but if you want to go, we should book before the spaces fill. You said it was a sunset tour?"
+"Yes. Around the islands. They promised dolphins."
+"Then we'll do it."
+Chapter 47: Bliss
+Scene 1
+The game
+Ian was fully recovered in the morning. They woke early again, meeting on the terrace with coffee as the sun rose. The mood was leisurely and uncomplicated, the tension from two nights ago completely gone.
+"I booked the cruise. Tomorrow afternoon. Sunset departure," Jay said.
+"Good."
+"And you promised to dial down on the working today."
+"I did. Which is why I'm proposing a concert this evening. There's a classical performance at a venue nearby. Chamber music, mostly strings, the programme looked accessible. If you're interested."
+"I am."
+"Then it's decided."
+Eventually, the conversation turned back to the persistent guest who had bothered Jay at the bar.
+"He's relentless," Jay said. "I don't think he's going to give up."
+"Then we play into the assumption."
+"What assumption?"
+"That we're a couple. If everyone already thinks so, why not play along? It might finally discourage unwanted attention."
+Jay laughed, though his heart was beating faster. "You think that'll work?"
+"It's worth trying."
+"Alright. Why not?"
+They'd been closer than ever these past few days. The idea seemed reckless, dangerously so, but also irresistible. A chance to taste the sweetness of how it could have been if the situation were different.
+They headed down to breakfast later than usual. The restaurant was already quite full, the terrace crowded with guests. Their favourite alcove was occupied. They found a table near the centre instead and sat facing the garden.
+Halfway through the meal, Jay glanced up and froze. The same guest was watching him from across the terrace.
+"He's here," Jay said.
+"Where?"
+"Across the terrace. Don't look directly."
+Ian didn't turn his head. "Does he know you've noticed him?"
+"I don't know. But I don't think our cover story is convincing."
+"Then we'll make it convincing."
+Ian reached across the table and took Jay's hand. He did it slowly. His fingers closed around Jay's and he lifted it, turned it, and pressed his lips to Jay's knuckles—a deliberate, theatrical kiss. He held it there for a moment. Then he looked up and met Jay's eyes across the table and said, in a completely level tone, "This should do it."
+Jay's heart stopped. The gesture was performative, meant to be seen, but it didn't feel like a performance. It felt intimate. He couldn't speak. His pulse was racing, and it took everything in him to smile and play along as if it were just a funny joke.
+Ian released his hand and resumed his breakfast. Jay picked up his fork with trembling fingers, trying to focus on his food. Neither of them acknowledged the moment aloud, but neither took it lightly either. It felt like a first kiss to both of them.
+From that point forward, they committed to the pretence shamelessly. Ian put his hand on Jay's back as they left the restaurant. Both of them knew they were crossing lines, but the cover story provided just enough plausible deniability to continue.
+They spent the morning leisurely—at the pool, at the beach, briefly, until the sun was too direct; then they drifted into the garden and to the town, and had coffee at a place near the water.
+The touches accrued throughout the day. Ian's hand at Jay's arm when a cyclist came close on the narrow street, sitting together on the low wall outside the café, closer than the available space required. 
+Ian kept his promise and didn't open his laptop once.
+At five, they changed into formal clothes and took a taxi to the venue, a historic building near the town centre. They arrived early, and the usher led them to seats near the front. Jay looked around with interest.
+"I'm glad you brought me here," Jay said.
+"There's something I need to say first. The last concert we attended together. The one that turned awkward. It wasn't because of you."
+"What do you mean?"
+"It reminded me of Sam. Not specifically, it was more the circumstance. I was making comparisons I had no business making, and they coloured the whole evening. That was unfair to you."
+"You don't need to apologize for that."
+"I do. You deserved better."
+"It's understandable, Ian. You can't control what memories surface."
+Ian turned back to the stage. "Thank you."
+The lights dimmed, and the musicians took their positions. The performance began, and Jay listened to the music with interest. It was approachable enough that even he, with his lack of refinement, could appreciate the beauty of it.
+When the concert ended, they left in high spirits. The taxi ride back to the hotel was filled with Jay's enthusiastic commentary.
+"That was incredible," Jay said. "I didn't expect to enjoy it that much. You're going to make me cultured at this rate."
+Ian smiled. "I doubt that."
+"I'm serious. I could actually follow what they were doing. The way the instruments layered—it was amazing."
+"I'm glad you're starting to enjoy it. When we return home, I'll play for you."
+"What? Really?"
+"Yes. I haven't played for anyone in some years, but if you'd like to hear it, I'll play for you."
+"I'd love that."
+The taxi pulled up to the hotel, and they got out. As they walked through the lobby, Ian rested his hand at Jay's neck. Jay looked up at him and grinned, as if it were the funniest joke.
+He was giving in to the touch, the warmth, the closeness. He craved more. He wanted Ian to take it further, but he'd never admit it.
+They took the elevator up to their suite, neither of them hurrying, but eventually they stepped inside, and the door closed behind them.
+They stood in the living room for a moment, looking at each other. Both of them were smiling, stupidly and without reason.
+"Today was good," Jay said.
+"It was," Ian agreed.
+"Really good."
+"Yes."
+"Goodnight, Ian."
+"Goodnight."
+Jay turned toward his room, then paused at the door. He looked back, and Ian was still standing there, watching him.
+"Sleep well," Jay said.
+"You too."
+Jay disappeared into his room, and Ian stood in the living area for a moment longer. Then he went to his own room, closed the door, and pressed back against it, closing his eyes.
+The day had been unreasonably good. All of it. The breakfast, the pretence, the concert, the taxi ride home. The way Jay had looked at him, smiled at him, pressed into his touch. It was too much. And it wasn't enough. They were playing a game that felt less like pretending with every passing hour, one that he shouldn't have started and he couldn't bring himself to stop.
+Ian pushed himself away from the door and got ready for bed, trying not to think about the way Jay's hand had felt against his lips.
+In the other room, Jay could still feel the warmth of Ian's hand at his neck. He replayed the moment at breakfast over and over, the way Ian had lifted his hand, the way his lips had pressed against his knuckles. Jay closed his eyes and tried to sleep, but the memory stayed, vivid and aching, refusing to fade.
+Scene 2
+The cruise
+They packed minimally and headed to the port. The cruise ship was massive, at least ten decks high, towering over the dock. Jay stopped on the gangway, staring up at it.
+"This is huge," he said.
+Ian looked unimpressed. "It's medium-sized."
+"It's enormous."
+"It's average."
+They boarded and found their suite on one of the upper decks. It had a balcony that faced the ocean and a living area with fixtures framed in gold.
+"This is impressive," Jay said.
+"This is ghastly," Ian said, at the same time.
+"It's nice, " Jay insisted.
+"It's kitsch."
+Jay ignored him and opened the sliding door to the balcony. The view was spectacular.
+"We need to see the whole ship," Jay said.
+"Do we?"
+"Yes. Come on."
+They spent the next three hours exploring. Jay was properly impressed by everything—the multiple pools, the theaters, the shopping arcade, the spa. Ian made faces the whole time. In one of the bars, drunk people yelled and laughed too loudly. Children screamed and ran through the corridors. The pools were occupied by elderly guests floating on inflatable chairs.
+"This is extremely low-brow," Ian said.
+"It's fun."
+"It's chaos."
+"You're a snob."
+"I'm discerning."
+Jay insisted they visit all the viewing decks. Ian humored him, following along with visible reluctance. By the time they returned to their suite, Jay was worn out, but visibly content.
+"Okay," Jay said. "I've seen everything."
+"Thank God."
+They had dinner at one of the ship's restaurants. To Jay's dismay, the food was unremarkable. Ian wasn't surprised.
+"I told you," Ian said.
+"You didn't tell me the food would be mediocre."
+"I implied it."
+They finished quickly and went to sit on one of the upper decks. It was emptier than the lower levels. They found chairs near the railing and sat, watching the ocean pass by.
+The peace lasted approximately five minutes, then a horde of children ran onto the deck at full speed, screaming and chasing each other. One of them nearly crashed into Ian's chair.
+Ian sighed heavily.
+Jay laughed. "You don't like kids, do you?"
+"I don't have strong feelings about children specifically. I have feelings about the environment they create."
+"The chaos?"
+"Yes. I like structure. Order. Discipline. Things that children are the antithesis of."
+"That's a little harsh."
+"It's honest. It's a blessing that I'm gay and never had to seriously consider having them. I'd probably resist the idea."
+"You think you'd be a bad father?"
+"I know I would. In many ways, I'm as strict as my father. And he was a dreadful parent. I wouldn't want to inflict that sort of parenting on anyone."
+"You wouldn't be that bad."
+"Wouldn't I?"
+Honestly, Jay could see it—Ian being strict and demanding, setting impossible standards, never showing warmth. He laughed in defeat.
+Ian smiled at him, seeing that even Jay could see it. "Exactly."
+"Okay, maybe you'd be a little strict."
+"A little?"
+"Very strict. But not cruel. You wouldn't abandon your child. You wouldn't choose social standing over them."
+"I'm not so sure about that. It came easily to my father."
+"You're not your father."
+"When the scandal happened, he didn't hesitate. I was an embarrassment, so he cut me off completely. I can't get rid of the fear that I'm tainted by that legacy. That I'll become like him. That his shadow will always loom over me."
+Jay reached over and took Ian's hand. "You're not him. You never will be."
+"How can you be so sure?"
+"Because I know you. Genes don't determine who you become. Neither does your upbringing. You're an honorable and kind man. You're strict, yes, but you're not selfish or conceited. You would have been an authoritative parent, but not a cruel one. You would never abandon your child."
+Jay said it with unshakeable conviction. Ian stared at him, visibly moved.
+Jay continued. "My biological father was an adulterer who seduced a seventeen-year-old girl and left her pregnant. He never acknowledged my existence. I grew up without a father, always wondering. My mother never talked about him. I found out by accident when I was about ten. I heard my grandmother talking to a neighbour. She was not keeping quiet about it. She said his name and what he'd done and that there were people in this world with no decency. I was shaken. I cried in secret for days. But it passed, eventually. I got over it, because I realized he doesn't define me. His choices don't taint me. And your father's choices don't taint you either."
+Before Ian could respond, another bunch of rowdy kids ran onto the deck, shrieking and laughing. Ian winced. "I need a drink."
+"Let's go to the bar."
+"I promise to watch my intake this time."
+The bar was marginally better than the restaurant. It was less crowded, at least, though the flashy gold decor made Ian frown. They found a table and ordered drinks. Jay got something colorful and sweet. Ian ordered whisky.
+"This is terrible," Ian said as he tasted it.
+"It's also twice as expensive as I expected."
+"Welcome to cruise pricing."
+"This is extortion."
+"This is how cruises are like. I was on one once before, during my college years. With one of my lovers."
+"How was it?"
+"I hated every second. A whole week stuck on an overcrowded boat with obnoxious people and very little to do. No good memories. Not an experience I cared about repeating."
+"Was it that bad?"
+"Worse. At least this one is only two days."
+"It looked more fun from the outside. This is the kind of activity my poor self never imagined doing. But recently I've had many of those, so I'm not as impressed as I thought I'd be."
+"Are you disappointed?"
+"No. Just... adjusted."
+They had a second drink. Then a third. When they stood to leave, languid music played from speakers overhead. Ian looked at the floor, then at Jay, and thought about it for only a second before he pulled Jay onto the floor.
+"We might as well keep committing to the bit," Ian said, winking theatrically.
+Jay laughed. They began an exaggerated slow dance, swaying dramatically to the music. It lasted thirty seconds before neither of them was performing anymore.
+Jay moved closer, and Ian's hold at his waist firmed. Jay rested against his shoulder.
+It was an embrace disguised as dancing. Both of them were tipsy enough to allow it without overthinking, letting themselves go just for a moment longer.
+Ian's self-preservation instincts had disappeared entirely. He was clinging to the illusion that this was all just a game, completely incapable of stopping himself from giving in to it. He rationalized hard that this was fine, that he was allowed this much, that this would change nothing. He refused to think rationally. He wanted this too much to be able to stop.
+They swayed together for a long time. The music changed, but they didn't. Jay's hand was on Ian's shoulder, his fingers curled into the fabric of Ian's shirt. Ian's hand was at Jay's waist, holding him close.
+When they finally separated, Ian made a joke. "We're very convincing."
+Jay laughed, but there was sadness underneath. "We are."
+They went to the viewing deck to check if the bioluminescence the brochure had promised could be seen. It was dark, the ocean vast and black. They stood at the railing, looking out, but saw nothing.
+"Maybe it's the wrong time," Jay said.
+"Maybe it doesn't exist."
+"That's cynical."
+They returned to their cabin and went to bed quickly, both tired and slightly drunk. Jay fell asleep almost immediately.
+The next morning, they woke with only slight hangovers and in good spirits. They had breakfast on the lower deck, trying to see dolphins. The water was beautiful and glittering, but without any additional spectacle.
+"No dolphins," Jay said.
+"They're probably smarter than to come near this ship."
+"You really hate this, don't you?"
+"With a passion."
+The ship returned to port in the late morning. They disembarked, Ian with obvious relief, Jay with some wistfulness, and took a taxi back to the resort.
+"That wasn't so bad," Jay said.
+"It was exactly as bad as I expected."
+Scene 3
+The storm
+During the night a storm rolled in, and in the morning it was still there. The resort sent out advisories to stay indoors, and the guests complied, filling the indoor facilities.
+Ian and Jay spent the morning at the pool, swimming laps in Ian's case and floating idly in Jay's. They explored the spa, the game room, the library. By afternoon, they'd exhausted the options and retreated to their suite.
+The rain lashed against the windows, and the wind made the palm trees outside bend at alarming angles. Jay stood at the terrace door, watching the chaos with fascination.
+"It's beautiful," Jay said.
+They moved to the couch and sat. The mood was contemplative but not heavy. They'd opened enough wounds over the past few days. Today felt lighter.
+"What are the plans for the rest of the trip?" Ian asked.
+"I don't know. We've done most of what I wanted to see. What about you?"
+"I thought we'd take it day by day."
+"That works."
+By early afternoon the wind had grown. The terrace doors rattled in their frames. From the sofa Jay could watch the palms through the window and had been doing this in an on-and-off way for an hour, while Ian read at the other end of the sofa, and while both of them talked about things that required no resolution.
+"I want to change the rug," Jay said. "In the living room. The one that came with the flat is fine, but it's too beige. I want something with more colour. Not too much. Just enough to know it's there."
+"What colour."
+"Green? Dark green. The kind that looks like something from a different century. I saw one in a shop near the office and I thought about it and then I didn't buy it, and I'm still thinking about it."
+"Go back and buy it," Ian said.
+"It might be gone."
+"Then buy something similar."
+"It might not be similar enough. I'll look when we get home."
+"I'm looking forward to a few projects next quarter," Ian said eventually. "The Delacroix expansion should be interesting. And there's a potential acquisition in the spring that might require travel."
+"Where to?"
+"Probably Brussels and Geneva. I want you on both. We should build them around something else while we're there. There's a conference in Brussels in April that's worth attending, and Geneva always has things."
+"I've always wanted to see Brussels."
+"Then we'll make it happen."
+"I'll flag the dates when the conference schedule publishes."
+The conversation was domestic, like two people planning a shared future. As the storm continued into the evening, they ordered room service and ate on the couch, plates balanced on their laps, still talking.
+Jay speared a piece of pineapple and chewed thoughtfully. "I've been thinking about my mortgage."
+"What about it?"
+"I want to overpay aggressively. Get it paid off as fast as possible. But I know it's not the smartest financial decision with such low interest rates. I'm torn."
+"Sometimes making the most logical decision isn't the best. Psychological comfort matters as well, often more than money. You should do what feels right."
+"What would you do?"
+"I would definitely not overpay on a mortgage with such low interest."
+"Of course you wouldn't. You'd do the sensible thing without agonizing over it."
+"Is that a bad thing?"
+"No. It's just—It's one of the many ways you're so far above me."
+"What do you mean?"
+"You're always so rational. You know what to do, and you do it without hesitation. I second-guess everything. I overthink. I don't measure up."
+"Jay—"
+"And I keep wondering if you're only spending this much time with me out of misguided kindness. Like you feel obligated because I'm your assistant."
+"This trip wasn't opportunistic for me. I didn't agree to it begrudgingly. I wanted to spend time with you. I want to keep spending time with you. You keep returning to this idea that I'm here out of some misplaced generosity. That I'm giving you time because I feel responsible for you, or because the imbalance in our situations makes it the kind thing to do. That's not what this is. I am here because I wanted to spend ten days with you. Not ten days during which you happened to be present. With you. I value our friendship. Our companionship. I'm happy to be here, with you, watching the storm, eating cut fruit, taking all evening to talk. This isn't an obligation. This is what I want."
+Jay looked down at his hands, trying to process Ian's words. When he spoke again, he was quieter.
+"I wanted this trip too. I wanted to be here. With you. And I don't want this to end when we go back home. I don't know how to explain it better than that."
+"You don't have to explain it. I understand."
+"I'm glad we came here," Jay said.
+"So am I."
+Ian felt the walls he'd built around himself crack just a little further. He'd said too much, admitted too much, but Jay's response had been so earnest, that Ian couldn't bring himself to regret it. They stayed on the couch, talking intermittently, watching the storm. By the time they finally said goodnight, it was well past midnight.
+Scene 4
+Doing nothing
+The next day they visited a cultural museum—an excursion Ian had planned. It was housed in a restored mansion, filled with artifacts and exhibits about the island's history.
+They walked through the galleries, reading placards and looking at displays. The exhibits were interesting, but both of them were distracted. Jay watched Ian more than the exhibits. Ian kept glancing at his watch, as if waiting for permission to suggest they leave.
+After an hour, Jay said, "Do you want to go?"
+"Yes."
+They cut the visit short and returned to the resort, deciding instead to lounge by the pool. No more excuses, no more plans, just the two of them, side by side, soaking in the sun and each other's company.
+The day passed so quickly they barely noticed. They swam, they read, they dozed in the lounge chairs. The sun moved across the sky and they moved with it, chasing shade when it got too hot, returning to the sun when clouds drifted over.
+In the evening they sat at the bar only for a moment, ordering a single drink each before retreating to their suite. Neither of them wanted to stay out. They wanted to be alone, together. The next morning, Ian was already up when Jay emerged from his room.
+"Good morning," Jay said.
+"Morning. I have a proposal."
+"What kind of proposal?"
+"We skip the planned activities today and simply enjoy the day."
+They finished their coffee and got ready to leave. Ian opened the suite door and stepped into the hallway, Jay just behind him. Ian joked about how it was too nice to waste the weather on organized activities and Jay laughed. They paused at the same time.
+Jay was still grinning, standing close in the narrow doorway. Ian had turned slightly to look at him, his hand still on the door. They were close enough that Jay could feel the warmth of Ian's body.
+Jay looked up at Ian with trusting eyes full of mirth. He didn't finish the thought he had been forming. The words became irrelevant. He was suddenly aware of the proximity, of Ian's arm braced against the door frame behind him, of how small the space between them had become.
+If he took a tiny step forward, he would crash straight into those strong arms. If he lifted his head just a little, he would crash into those lips. The thought was ridiculous. He should disregard it and move on. But he was rooted in place, still smiling, imagining what it would be like if he was allowed to do that.
+Ian's expression had changed. The humour was still there, but underneath it was something else. Something electric. His eyes moved to Jay's mouth for a fraction of a second, then back up. Jay's lips were still slightly parted. Ian's hand on the door frame had tensed. 
+The position was becoming ridiculous to maintain. Jay felt his heart hammering. He stepped forward, but he did not take the step he had been imagining. He took the practical step, because the position had held as long as it could and forward was the direction the door was in.
+Ian said something that wasn't what he had been thinking, about needing to leave before they changed their minds and stayed in all day. He held out his hand. Jay took it, which was nominally the continuation of the week's pretense, but also not that at all, and both of them knew it. 
+That was how they walked into the day. Holding hands. They looked at each other, still grinning, as if they now shared another secret that only they were privy to.
+At the pool they did essentially nothing.
+Ian swam his lengths, cutting through the water with disciplined strokes. Jay floated nearby, watching him for a while before joining him for a lap. He couldn't keep up, so he drifted off again, floating on his back and staring at the sky.
+Ian finished his laps and joined him, floating beside him. They splashed each other gently, stupid grins on their faces as if it was peak entertainment.
+"You're terrible at this," Ian said.
+"At what?"
+"Swimming."
+"I'm not terrible. I'm leisurely."
+"You're slow."
+"I'm enjoying myself."
+Ian splashed him again. Jay splashed back.
+They ate lunch at the poolside, then they went for a long walk on the beach, holding hands, barefoot in the warm ocean water. They didn't talk at all. There was nothing that needed to be said. They walked, the waves lapping at their ankles, the sun warm on their shoulders.
+Jay felt entirely content. They were doing nothing, together, an he wanted to cling to with all his might.
+The sun was not as harsh as it would have been in the summer. The breeze was pleasant and refreshing. Birds circled overhead in the azure sky. Jay watched them, then looked at Ian walking beside him. He had never been happier in his life. He didn't think it was possible to be this happy.
+"What are you thinking about?" Ian asked.
+"Nothing."
+"You're smiling."
+"I'm happy."
+They walked until the beach curved around a rocky outcrop and they had to turn back. By the time they returned to the resort, the sun was low in the sky, the light turning golden.
+They went to their suite and showered, then sat on the balcony with drinks and watched the sunset.
+"This has been a good day," Jay said.
+"It has."
+"We didn't do anything."
+"Exactly."
+Jay felt buoyant, like he could float away if Ian wasn't anchoring him here.
+"We should do this more often," Jay said.
+"What? Nothing?"
+"Yes."
+They stayed on the balcony until the stars came out. The air cooled, the breeze picking up. Jay felt goosebumps rise on his arms but didn't move to go inside.
+"Are you cold?" Ian asked.
+"A little."
+"We should go in."
+"Not yet."
+Eventually they did go inside, but only because Jay started shivering. Ian handed him a sweater from his own bag that smelled faintly of Ian's cologne and Jay pulled it on.
+"Better?" Ian asked.
+"Yes. Thank you."
+When Jay finally said goodnight, Ian walked him to his door again. When Jay looked up at Ian with one last goodbye, his heart was racing.
+Scene 5
+Homecoming
+They spent the late afternoon on the beach. Most of the tourists had thinned out, returning to their rooms to prepare for dinner or evening activities. The light was fading, the sky turning pale gold.
+They walked along the shore in silence. Jay catalogued mentally what wouldn't survive the flight home: hand-holding in public, slow dancing in bars, the kiss pressed to his knuckles, the embraces disguised as performance, the unhurried mornings with coffee on the balcony, the evenings without professional masks. All of it would stay here, on this island, in this borrowed reality they had built together.
+He managed his mood, but only barely, and the effort exhausted him.
+He was losing something he had never truly had, but which had been the most beautiful illusion.
+Ian glanced at him. "You're quiet."
+"Just thinking."
+"About what?"
+"Nothing important," Jay said.
+Ian didn't press, but his expression suggested he didn't believe him.
+They walked until the beach ended at a rocky outcrop, then turned back. The sun was lower now, almost touching the horizon. Jay watched it sink and felt something in him sink with it.
+They had dinner in the suite that evening. Room service again—grilled fish, roasted vegetables, bread still warm from the oven. They ate on the balcony, watching the last of the daylight fade.
+"I haven't enjoyed myself like this in years," Ian said.
+Jay looked at him. "Neither have I."
+"I mean it. I can't remember the last time I felt this relaxed."
+"Me too."
+Ian set his fork down and studied him. "You've been subdued all afternoon."
+"Have I?"
+"Yes. What's wrong?"
+Jay hesitated. He didn't want to ruin the evening by being melancholy. But he also couldn't lie to Ian. Not anymore.
+"I don't want this to end," Jay said quietly.
+Ian's expression softened. "I know."
+"Tomorrow we go back. And everything changes."
+"Not everything."
+"Most things."
+Ian moved forward slightly. "The scenery changes. We don't. The weather will be gloomier, the office heavier. But daily contact remains. We'll still see each other every day. We live two streets apart."
+Jay looked at him, and something in him eased. "I know."
+"Do you?"
+"Yes. But it won't be the same."
+"No," Ian agreed. "It won't. But it doesn't have to disappear either."
+Jay wanted to believe that. He wanted to hold onto it—the idea that this closeness, this ease, could survive the transition back to normal life.
+"Okay," Jay said.
+"Okay?"
+"I'll try to believe you."
+Ian smiled slightly. "That's all I'm asking."
+They finished dinner slowly, neither rushing. When the plates were empty, they moved to the living room and sat on the couch, unwilling to retreat to their separate rooms.
+"We should sleep," Ian said eventually. "We have an early flight."
+"I know."
+Neither of them moved.
+"Five more minutes," Jay said.
+Ian smiled. "Alright."
+They stayed up later than sensible, prolonging the trip verbally. Ian opened a package of local snacks he had bought at the resort gift shop—dried fruits, candied nuts, strange chewy things Jay couldn't identify.
+Jay tried a piece of dried mango. "This is amazing."
+"Have another."
+"I will."
+Ian held up a wrinkled black snack that looked vaguely threatening. "Try this one."
+"Absolutely not," Jay said.
+"It's good."
+"It looks like a mummified insect."
+"It's dried fruit."
+"I don't care what it is. I'm not eating it."
+Ian popped it into his own mouth and chewed thoughtfully. "Your loss."
+"I'll survive."
+They worked through the rest of the package, feeding each other pieces playfully. Jay's stomach hurt from laughing. Ian kept trying to convince him to eat the black thing, and Jay kept refusing with increasing fervor.
+"You're being ridiculous," Ian said.
+"I'm being cautious."
+"It's fruit."
+"It's terrifying."
+Ian laughed, and Jay felt warmth spread through him. This was what he would miss most—this ease, this stupid humor, this sense that they could be themselves without performance or pretense.
+Eventually, exhausted and full of sugar, Jay went to bed. He fell asleep quickly, soothed by Ian's promises that nothing essential would change.
+The next morning came too quickly. They woke early, packed their bags, and checked out of the resort in near silence. The drive to the airport felt surreal, like they were leaving a dream behind.
+At the airport, they moved through security and boarded the plane. Both of them were quiet, tender with each other in small ways—Ian carrying Jay's bag, Jay fetching coffee for both of them.
+Once they were seated and the plane had taken off, Ian turned to Jay. "Next weekend. Let's have dinner and a drink. Nothing elaborate."
+Jay looked at him in surprise. "Really?"
+"Yes."
+"Where?"
+"Somewhere quiet. I'll choose."
+Jay smiled. "I'd like that."
+"Good. It's a plan."
+The plan became a promise, evidence that the bond didn't end at the airport. Jay held onto it, letting it anchor him as the island disappeared below them and the plane climbed into gray clouds.
+They were back in the city in the late afternoon. The sky was overcast, the air cold. November had taken hold fully while they were gone, stripping the city of color and warmth.
+Ian's car was waiting in the lot. They loaded their bags and drove back through the streets in silence. They were familiar and unwelcoming. Jay watched them pass, feeling the weight of normalcy pressing down on him.
+Ian dropped him off at his building first. He pulled up to the curb and turned off the engine.
+"Thank you," Jay said. "For everything."
+"You don't need to thank me."
+"I know. But I want to."
+Ian looked at him for a long moment. "Next weekend. Don't forget."
+"I won't."
+Jay got out, retrieved his bag from the trunk, and watched Ian drive away. Then he went inside, climbed the stairs to his apartment, and unlocked the door.
+He stepped inside and set his bag down. The apartment was cold and quiet. He closed the door and stood there, motionless.
+Then he sank down against the doorframe and stayed there.
+He was already missing Ian, despite barely having parted.
+The trip was over. The illusion had ended. And the wanting—the terrible, beautiful wanting—had not.
+He sat there for a long time as the grief took hold. He had known this would happen. He had prepared for it. But knowing didn't make it easier.
+Next weekend felt impossibly far away.
+He pulled out his phone and stared at it, fighting the urge to text Ian. To say what? That he missed him already? That the apartment felt empty without him? That he didn't know how to go back to pretending this was just friendship?
+He set the phone down and closed his eyes.
+The scenery had changed. They hadn't. That was what Ian had promised.
+Jay wanted to believe it. He wanted to hold onto it with both hands.
+But sitting on the floor of his cold apartment in the gray afternoon light, he felt the weight of everything they couldn't say, couldn't have, couldn't keep.
+He stayed there until the light faded completely. Then he stood, unpacked his bag, and tried to convince himself that next weekend would be enough.
+It wouldn't be. He knew that already.
+But it was something. And for now, something would have to be enough.
+Chapter 48: Undertow
+Scene 1
+The Palm House
+The elevator opened on the thirty-fourth floor at twenty past eight, and Jay had not taken ten steps before Ela rose from her desk and blocked the corridor.
+"There he is. Look at that color. Ten days on an island and you come back like an advertisement for vitamins," she said.
+"It was sunny," Jay said.
+"It was sunny. Ten days at a tropical resort and the full report is: it was sunny," Ela said.
+Kim rolled his chair out of his cubicle. "Forget the sun. Did you eat anything strange? Tell me you ate something strange," he said.
+"There was a fruit shaped like a hand grenade. I didn't ask questions, I just ate it," Jay said.
+"That's my boy," Kim said.
+Max came around the partition with his coffee. "Welcome back to the salt mines. Now the real question: did you behave yourself out there? People go to those resorts and come home engaged. Or arrested," he said.
+"Neither. I swam and I read books," Jay said.
+"Alone? Ten days of beaches and sunsets and not one person to share them with? You expect me to believe you sat there like a monk," Ela said.
+Jay flushed. "I read four books and I have a tan line from my watch. That's the entire scandal," he said.
+"You're wasted on this world," Ela said.
+Ray spoke without looking away from his monitor. "Your queue is a war zone. I triaged the worst of it, but the Velder file is yours and I want no part of it," he said.
+"Thank you, Ray. I mean that," Jay said.
+"We preserved your desk as a historical site. Tia wanted to annex it. There were negotiations," Rin said.
+"There were no negotiations," Tia said.
+"Ignore them all. You look rested, and we're glad you're back," Liv said.
+"The trip was wonderful. Truly. The brutal part is this," Jay said. He pointed at his monitor, where the unread count had four digits, and the group gave a collective groan of sympathy and scattered to their desks.
+Ian arrived at half past eight exactly. The room straightened by reflex.
+"Good morning," Ian said.
+"Good morning. Welcome back, Mr. Hagen," Amy said.
+"Thank you. The Velder call moved to eleven. Amy, I'll need the projections before ten," Ian said.
+That was the entire interrogation Ian received. No one asked where he had been, or with whom, or whether his two weeks and Jay's two weeks had anything to do with each other. He crossed the floor toward his office, and only Jay caught the brief look he sent on the way. Jay answered it with a smile and turned back to his thousand emails. He never said he had gone with Ian. Nobody asked, and the not-asking sat easier than any answer would have.
+The office had not changed. The same glass walls, the same carpet, the same grid of meetings filling the calendar to the horizon. For two years this floor had meant safety. It had meant purpose, a desk that belonged to him, work he was good at among people who wished him well. Now the air tasted recycled and the light through the windows was gray, and after ten days of sea wind and Ian's company, the thirty-fourth floor felt like a sentence to serve. Jay was ashamed of the thought and could not get rid of it.
+He worked anyway. Two weeks away meant a mountain that could not wait: the regulator response, the December schedule, the Velder reconciliation, three hundred messages that needed actual decisions. He answered them all. He rebuilt Ian's calendar. He was polite in every meeting and accurate in every file, and the island color drained out of him by Wednesday, and what remained was pale and quiet and functioning.
+Ian noticed at once.
+On Monday evening he stopped at Jay's desk. "The annex can wait until tomorrow. Even regulators sleep," he said.
+"I'm almost through it," Jay said. He went home at nine.
+On Tuesday a cup of coffee appeared beside his keyboard without a word. An hour later Ian passed again. "Kim claims that was a rare Ethiopian roast. If it was terrible, blame him," he said.
+"It was good. Thank you," Jay said. The cup sat half full and cold beside the keyboard. He had forgotten it existed.
+On Wednesday Ian came by at seven in the evening. "You've reconciled that column three times," he said.
+"Better three times than zero," Jay said.
+The joke was correct in shape and hollow inside, and they both knew it. Each time Jay answered just enough to be polite, and each time Ian watched him a moment longer before walking away. Jay saw the watching and could not summon the will to perform any better. He wasn't falling apart. He was simply running on the minimum, and he hated that Ian could see it.
+At six o'clock on Thursday, Ian closed his laptop. The click was quiet, but Jay looked up at once, because in two years Ian had never closed his laptop at six.
+"Get your coat. We're leaving," Ian said.
+"The response letter isn't finished. I still have the annex tables and the—" Jay said.
+"There is always work left. That is the defining property of work. Coat," Ian said.
+"Where are we going?" Jay asked.
+"Somewhere warm," Ian said.
+In the car Jay tried twice more to mention the annex, and both times Ian turned the radio up one notch, and by the third attempt Jay gave up and almost smiled. The car climbed out of the center and into the hillside district above the river, past walled gardens, old villas, bare chestnut trees. Ian parked on a narrow street in front of an iron gate. Behind the gate, between dark hedges, stood a long glasshouse lit from within. It glowed green and gold against the November dark.
+"What is this?" Jay asked.
+"The Palm House. Built in 1888 for a banker's wife who missed the south. The city owns it now. Almost nobody remembers it exists, which is its best feature," Ian said.
+"I've lived here nine years and I've never heard of it," Jay said.
+"Good. Then it's working," Ian said.
+The door closed behind them and the cold ended. The air inside was warm and heavy and smelled of soil, wet stone, and leaves. White iron arches carried the glass roof high overhead. Stone paths ran dark with moisture between beds of palms and bananas and things Jay had no names for, and water dripped somewhere out of sight.
+For the first minutes Jay said nothing. He walked slowly and looked up a great deal. Ian did not push him. He kept half a step behind and let the place do the work.
+Then Jay stopped at a small brass label at the foot of a palm.
+"This one was planted in 1903. It's older than everyone I know. It survived two wars inside a glass building," Jay said.
+"There's a photograph in the entry hall from 1946. Half the panes were boarded over and the gardeners kept the furnace running anyway," Ian said.
+"How did they even heat this back then? It's all glass and it's freezing out there," Jay said.
+"Coal furnaces and iron pipes under the paths. The system still runs, modernized. You're standing on the heating right now," Ian said.
+Jay looked down and stepped aside as if he had been impolite to the floor, and then he laughed at himself. It was his first real laugh of the week.
+After that he stopped at every label. In the citrus room the trees stood in wooden tubs older than the trees themselves, and small lemons and bitter oranges hung among the dark leaves.
+"Are these real? Is anyone allowed to pick them?" Jay asked.
+A gardener with a watering can answered from the next aisle. "The bitter oranges go into marmalade for the café in January. The lemons we mostly defend from visitors," he said.
+"I wasn't going to," Jay said.
+"You were thinking about it," Ian said.
+The fern room lay behind a low door at the far end: green light, dripping water, benches tucked into corners between the fronds. Jay touched a railing slick with condensation and read about a tree fern that had arrived from the southern hemisphere in 1921 packed in a crate of damp moss. He asked how often the panes broke, and whether the palms ever reached the roof, and what happened when they did, and Ian answered what he knew and once simply said he didn't.
+"Ask the gardener. He's been here longer than the palms, by his own account," Ian said.
+By the time they circled back toward the entrance, Jay was flushed from the heat and his hair curled at the edges from the damp. He sat on a bench between two tree ferns and looked up at the dark glass and the leaves.
+"I've been awful all week, haven't I," Jay said.
+"You've been quiet," Ian said.
+"I've been gray. I came back from the best holiday of my life and spent four days mourning it like something died. Over what? November. Emails. The fact that holidays end. Everyone on earth knows holidays end," Jay said. He laughed. "Apparently I needed a tropical greenhouse to remember it."
+"The café here serves dinner until nine. The soup is decent and they candy the orange peel from their own trees for the dessert. We should eat before the kitchen closes," Ian said.
+That was all he said about it, and it was enough. Jay understood the whole gesture without a word of it being explained, and he was grateful that Ian didn't explain it, because an explanation would have made it smaller.
+The café occupied a corner of the conservatory under the palms: marble tables, bentwood chairs, lamps with green glass shades. They ate potato soup with dark bread, and the dessert came as cream under a layer of candied bitter-orange peel. Jay declared it the best thing he had eaten since the islands.
+"Don't tell the islands," Ian said.
+"How do you know this place?" Jay asked.
+"I found it the winter I was twenty-six. The first winter after my family. It was the warmest place in the city that cost two euros and wasn't a shopping center. I came every Sunday until spring," Ian said.
+Jay turned his cup slowly on its saucer. "Did it help?" he asked.
+"It was warm and green and nobody here knew me. Yes. It helped," Ian said.
+"I really needed this," Jay said.
+"You needed somewhere green. The alternative was buying you a fern for your desk," Ian said.
+"I would have named the fern and grieved when I killed it. This was the better plan," Jay said.
+They stepped out through the iron gate at nine. The cold met them at once, sharp after two hours of summer, and frost already silvered the parked cars under the streetlamp. Jay shivered and pulled his coat closed, and he was smiling while he did it.
+"Back to winter," Jay said.
+"Tomorrow is Friday. Dinner's my choice this time, and I intend to overdo it," Ian said.
+"Overdoing it. I'm fully on board," Jay said.
+The walk to the car was short and the air was bitter, and for the first time all week the cold had no weight to it at all.
+Scene 2
+Friday, Restored
+On Friday morning, Luc came through the office doors carrying a wooden crate as if it held relics. He set it on the kitchen counter and waited until enough people had gathered before he opened it.
+"Friday delivery, everyone. Hand-harvested, single-orchard, certified organic. The man supplies twelve buildings in the entire country and we are one of them. Pear chips. Quince paste. Walnut shortbread made by an actual monastery. Show some reverence," Luc said.
+"I'm reverent. I'm extremely reverent. Hand it over," Kim said.
+Ela took a pear chip and held it to the light like a jewel. "He's right, this is art. Jay, come here, you love these things more than anyone," she said.
+Jay came, looked into the crate, and sighed from the bottom of his soul.
+"It's very nice. For continental fruit. Two weeks ago I ate a mango that had been on the tree an hour earlier. A man cut it open in front of me with a machete. There was a sunrise involved," Jay said.
+The kitchen went silent for a second, and then it erupted.
+"One holiday. He goes on one holiday and comes back a food critic," Kim said.
+"These pears were harvested by hand, Jay. By hand. There is a waiting list," Luc said.
+"The mango had no waiting list. The mango was free. It grew next to the breakfast terrace," Jay said.
+"Send him back. We can't afford his standards anymore," Max said.
+"I'll eat his share. My standards are fine," Tia said.
+"Technically the monastery shortbread also involves a sunrise. Monks get up early," Rin said.
+Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it and suffer, you spoiled creature. And for the record, I'm delighted. He's complaining again. Do you all realize he spent four days not complaining? It was terrifying," she said.
+"It was like working next to a houseplant," Kim said.
+"A sad houseplant," Luc said.
+"I was processing," Jay said.
+"Process the quince paste. It cost more than my first car," Luc said.
+Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him officially impossible. He carried the verdict back to his seat like a small trophy. Being mocked again was a kind of homecoming, and everyone in the room seemed to know it except the crate.
+The workday held together until about half past five, and then it stopped pretending. Jay read the same email three times without absorbing a word of it. He checked his watch. He looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk in slow motion: pens aligned, notebook squared, cables coiled. At ten to six he gave up on the tidying too and simply sat there, watching the door through the glass wall with the open patience of a dog at a window.
+He knew he wasn't being subtle. He had decided around half past five that he didn't care.
+Behind the glass, Ian saw all of it. He saw the watch-checking and the pen-aligning and the open staring, and he had to turn to his monitor and scroll through a document he wasn't reading so that nobody would catch him fighting down a smile. He lost the fight twice.
+At six o'clock exactly, Ian closed his laptop, switched off his desk lamp, and opened his office door.
+"Ready?" Ian said.
+"Since five thirty," Jay said.
+"I noticed," Ian said.
+The restaurant was Ian's choice, booked that morning, and it was far too much. Gilded mirrors covered the walls. The chairs were upholstered in dark red velvet, the ceiling carried a painting of clouds and trumpeting cherubs, and the menus arrived bound in leather with tassels.
+"This room has more gold than the central bank," Jay said.
+"The kitchen is better than the décor. Ignore the cherubs and trust the chef," Ian said.
+"One of the cherubs is pointing at me."
+"He's pointing at the wine list. Listen to him."
+Jay didn't actually mind the gold. Ian sat across from him, the week was over, the evening belonged to them and to nobody's calendar, and the room could have been wallpapered in cherubs for all he cared. The wine came, a 2011 from somewhere Jay couldn't have found on a map, and it was unusually, dangerously good. He said so after the first glass. He said so again after the second, with more conviction and less judgment, and Ian refilled the third without comment.
+The warmth of the wine matched a warmth that had been in him all day, and somewhere in the middle of the main course the two warmths joined forces and unlocked his mouth.
+"Can I say something silly?" Jay said.
+"You ask permission only when it's worth hearing. Go on," Ian said.
+"I keep telling everyone the trip was wonderful, and it's true, but it's the wrong word. Wonderful is what you say about weather. It wasn't the beaches. I mean, the beaches were— fine, the beaches were perfect, but that's not it. It was that nothing out there was divided. No office, no titles, no door between your desk and mine, no clock deciding which hours were allowed. We just existed in the same place all day, and it was the easiest thing I have ever done. Easier than sleeping. And then Monday I sat down at my desk and the whole floor felt like a waiting room for a train that never comes, and I felt so ungrateful, because I love that job. You know I love it. It saved my life, that job. But all week I kept thinking that out there everything was simpler, and softer, and there were no rules about—" Jay said.
+He stopped. The next words were lined up and ready, and they were *I miss being yours*, and he looked at them for a long second and put them down.
+"I miss all of it. That's the speech. I'm aware of how I sound. The team took a vote this morning, it's official, I'm impossible," Jay said.
+Ian didn't laugh and didn't reach for an easy joke. He turned his glass slowly on the white cloth and let the silence sit until it was clear he had actually heard everything.
+"You're not being silly. Grieving the end of something good is the correct response to it ending. The only people who skip that grief are the ones who didn't enjoy anything in the first place, and I wouldn't wish that condition on you," Ian said.
+"It's been a week. Grown men recover faster than this," Jay said.
+"Grown men say so, anyway. I've never seen evidence," Ian said.
+"And Monday through Wednesday I was useless."
+"Monday through Wednesday you cleared three hundred emails, rebuilt my December, and survived the Velder file. If that's your useless, I should be frightened of your good weeks. The gloom passes, Jay. Ordinary life isn't a punishment. It feels like one for a week or two after something better, and then it becomes bearable again, and then, with some effort, it becomes good. It's an engineering problem, not a moral failing," Ian said.
+"An engineering problem," Jay said.
+"Everything beautiful doesn't have to stay sealed on that island. Some of it travels. We came home with a Friday and a Saturday, didn't we? They crossed the border without any trouble at all," Ian said.
+Jay looked at the tablecloth for a while. The wine had loosened everything in him, and what rose up wasn't desperation anymore but something quieter and easier to hold.
+"When did you get wise," Jay said.
+"At forty. It arrived with the birthday. You organized the party, so technically the wisdom is your fault," Ian said.
+"I'll add it to the invoice," Jay said.
+"Drink your water. The 2011 is winning," Ian said.
+Dessert came and went, and the cherubs went on trumpeting at nobody, and Jay talked too much and laughed too easily and was allowed both. By the time Ian signed the bill, Jay's gloom had been talked out of him almost entirely, leaving only the soft tiredness that comes after saying true things out loud.
+Ian drove him home through the wet streets. Jay sat flushed and quiet in the passenger seat and watched the streetlights slide past, still a little exposed, the way one is after admitting too much, but no longer aching with it. The city looked like itself again instead of like a punishment.
+"Come to mine for lunch tomorrow," Ian said. "One o'clock. I'll cook."
+"One o'clock," Jay said.
+The car stopped in front of his building. Jay climbed the stairs warm and slightly unsteady, and the apartment that had felt hollow on Sunday felt only dark and ordinary now, which was a different thing entirely. He didn't turn on all the lights to fill it. He didn't need to. Tomorrow was theirs too, lunch at one and the afternoon after it, and he fell asleep before he found anything to miss.
+Scene 3
+Climate Adjustment
+Saturday morning, Jay considered skipping the gym. He lay in bed and built the case for it: he was tired, it was raining, two weeks off had surely reset his membership in some merciful way. Then he remembered what Rus did to people who skipped after holidays, and fear accomplished what discipline couldn't. He was at the gym by nine.
+"He lives," Rus said.
+"I texted you from the airport," Jay said.
+"You texted me a palm tree emoji and went dark for ten days. That's not communication, that's taunting. Warm up. You owe this establishment two weeks of honest suffering and we're collecting with interest," Rus said.
+The interest turned out to be squats. Somewhere in the third set, Rus stopped counting and studied him.
+"You're lifting like a man with a problem," Rus said.
+"I'm lifting like a man who took two weeks off," Jay said.
+"No. Two weeks off looks lazy. You look haunted. Haunted in a tan. So, the resort. Tell me everything. Good food?" Rus said.
+"Unbelievable. They cut the fruit in front of you. The mangoes alone justified the flight," Jay said.
+"Good weather?"
+"Thirty degrees every day. The ocean was warm at midnight. There were birds I'd only seen in documentaries."
+"Good company?"
+"It was a quiet place," Jay said.
+"A quiet place," Rus said.
+"Very exclusive. Small. Peaceful. And then I came home to four degrees and horizontal rain, which is a crime, by the way. November should be illegal. A person shouldn't be allowed to see paradise and then be handed November," Jay said.
+"Uh-huh. So the haunting is meteorological," Rus said.
+"Entirely," Jay said.
+Rus looked at him for a while with the expression of a man holding a full hand of cards and choosing not to play any of them. Then he grinned and loaded another plate onto the bar.
+"Fine. Keep your secrets. But for the record, resorts don't put that face on people. Weather definitely doesn't. Whatever its name is, I hope it was worth the squats," Rus said.
+"The mangoes were worth everything," Jay said.
+"Sure they were. Two more sets, mango boy," Rus said.
+At one, Jay arrived at Ian's apartment to the smell of soup and the sight of market spoils covering half the counter: sloes in a paper bag, bread, cheese, a pheasant that Ian announced with the gravity of a treaty.
+They ate lunch, and afterward Ian cleared the table and set down two albums. They were bound in linen, one gray and one dark blue, with no titles.
+"I had the best photographs printed. One set for each of us. Phones eat pictures eventually, and that trip deserved paper," Ian said.
+Jay opened the blue one. The first page was the view from the breakfast terrace on the first morning, the sea in three colors at once. Then the harbor. Then the concert under the strung lights. Then a photograph he had never seen: himself on the deck of the gaudy cruise ship laughing at something with his eyes shut, the horrible gold railing behind him, the sun going down.
+"When did you take this?" Jay asked.
+"While you were defending the ship's honor against my review of it. You were wrong, incidentally. It was a terrible ship," Ian said.
+"It was a glorious ship," Jay said.
+He kept turning pages. The storm day, photographed from inside: rain flattened against the window and two cups on the sill. The hand-painted sign from the fruit stand. The two of them together at the sunset bar in a photo a waiter had taken, both of them sunburned and easy, standing closer than colleagues stand. Ian had chosen every picture. Ian had sorted them, sequenced them, sent them somewhere to be printed and bound, and had done all of it twice so that Jay could hold the trip in his two hands whenever November got long.
+"You realize normal people just have a folder on their phone called 'island' and never open it," Jay said.
+It was supposed to come out dry. It came out unsteady instead, and he gave up on the joke halfway and closed his mouth around the rest of it. He smoothed the open page very carefully, as if it might object.
+"I love it. That's all. I love it, and I'm not going to be funny about it, so don't wait," Jay said.
+"Noted," Ian said.
+"It might be the best thing I own."
+"You own an apartment, Jay."
+"I said what I said," Jay said.
+"You still owe me something. From the island. Final night, the bar, you gave your word and there were witnesses," Jay said.
+"The witnesses were a bartender and a parrot," Ian said.
+"Binding witnesses. You promised that when we got home you'd play," Jay said.
+Ian looked at him, looked at the cabinet in the corner, and surrendered with the smallest sigh on record. He took off his jacket and laid it over a chair. He rolled his sleeves to the elbow. He took the violin from its case, tuned it in a few economical movements, and stood in the middle of the room with his posture flawless and his expression already changing.
+"It's been a long time. Adjust your expectations downward," Ian said.
+Then he played, and Jay's expectations went the other direction entirely.
+The piece was slow and old, something that sounded like it had been written for winter evenings exactly like this one. Ian's face turned soft and absorbed at once, both at the same time, an expression Jay had never been given before in two years of careful study. Jay sat very still on the sofa and noticed things he had no business noticing: the forearms below the rolled sleeves, the hands, the long fingers, the absolute economy of a man whose every part had been trained into control and who had apparently trained this too, privately, somewhere along the way, as if being Ian Hagen required redundant proofs. The music asked for nothing and explained nothing. It was just beautiful, and so was he, and the combination was frankly unfair.
+The slow piece ended and Ian went directly into something quick and bright without announcing it, and Jay laughed out loud at the first turn of it, and Ian almost smiled around the instrument and kept going.
+When it was over, Jay applauded alone in the quiet apartment and didn't care how it looked.
+"The intonation drifted in the second piece," Ian said.
+"I have no idea what that means and I reject it," Jay said.
+"It means it's been years."
+"It was perfect. I was here. I'm the audience, I decide, and the audience has ruled. Perfect," Jay said.
+Ian put the violin away with great care and said nothing, but he took longer over the case than the case required.
+The pheasant turned out to be a three-hour undertaking, and Ian cooked it the way he did everything, with a plan and a sequence and no wasted motion. Jay was issued tasks: peel this, stir that, open the wine but don't pour it yet. He did them all correctly and quietly, and somewhere between the peeling and the stirring his mood slid sideways.
+It was the day's fault. The day had been perfect. The albums sat on the table, the violin sat in its cabinet, the apartment smelled like roasting pheasant and thyme, and Ian stood at the stove with his sleeves still rolled, narrating the sauce like a quiet documentary. It was everything, and that was the problem. Jay thought: I have no right to this place. He thought it plainly and completely, the way he had thought it a hundred times before. And then he thought the new thing, the thing that had come home with him from the island: I'm not giving it up anyway. Being noble about it had stopped being interesting. He would stand in this kitchen with no right to it for as long as he was allowed.
+The two thoughts didn't resolve. They just sat in him together while he stirred.
+"You've gone quiet again," Ian said.
+"I'm concentrating. You said the sauce punishes inattention," Jay said.
+"I did say that. I didn't say it punishes conversation," Ian said.
+"The day was too good. That's all. It's a stupid problem to have. Best photographs, private concert, pheasant. And the whole time some part of me kept measuring it against three weeks ago and informing me that on the island this would have ended with a swim. It's ungrateful and I'm ignoring it," Jay said.
+Ian tasted the sauce, set the spoon down, and considered him for a moment with that particular look that always preceded logistics.
+"Pack a bag tonight," Ian said.
+"What?"
+"There's a hotel by the river. The big one with the glass roof over the pool, three restaurants, the spa floor. We'll go after dinner and come back tomorrow evening. It is not a substitute for the island. Think of it as a temporary climate adjustment. Thirty degrees and humidity, administered locally," Ian said.
+"That's insane. It's eight o'clock. People don't just—"
+"People do exactly that. The hotel exists for it. Yes or no," Ian said.
+"Yes," Jay said.
+The word was out before the shame finished forming, and by the time the shame arrived, the matter was already booked.
+They reached the hotel at eleven. It was the city's flagship and it behaved like one: a lobby of marble and brass, staff who materialized soundlessly, a list of restaurants longer than some menus. Ian had taken the penthouse, because of course he had, and when Jay opened his mouth about it in the elevator, Ian said only that he didn't do half measures and the conversation was over by the twentieth floor. The penthouse had two bedrooms, a view of the river in the rain, and a fruit plate waiting on the table with a handwritten welcome card.
+They were tired and pleased with themselves in equal measure. They ate two grapes each out of pure principle, agreed that the view was acceptable, and went to bed in their separate rooms without any incident at all.
+Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to bathwater, surrounded by palms in enormous pots, and the rain ran down the panes in sheets while they floated in thirty-degree air. It should have been indefensible. Jay defended against it anyway.
+"It smells like chlorine," Jay said.
+"It's a pool," Ian said.
+"The island smelled like salt and frangipani. This smells like a swimming lesson," Jay said.
+"Tragic. Move your lounger, you're blocking my light," Ian said.
+"There is no light. It's raining. And these towels are too white. Look at this towel. This towel is showing off," Jay said.
+"The towel is showing off," Ian said.
+"Aggressively. And the fruit plate was adequate. Adequate. Do you know what an insult adequate is to a man who has eaten a mango ten minutes off the tree?" Jay said.
+"Tell me more," Ian said.
+He meant it, which was the strangest part. Ian lay on the next lounger with his arms folded and an expression of deep contentment while Jay prosecuted the hotel point by point, and every time Jay ran out of complaints, Ian fed him a new target like a man tossing wood on a fire he liked.
+They drifted through the building all day on that exact engine. Breakfast was excellent and Jay allowed it, minus the orange juice, which he called continental. At lunch, the amuse-bouche arrived as a single cube of something under a glass dome, and Jay stared at it for five full seconds.
+"This amuse-bouche is smug," Jay said.
+"It's celeriac," Ian said.
+"It's smug celeriac. It knows it's in a flagship hotel. The island would have just given me bread and been proud of it," Jay said.
+"Eat the celeriac, Jay."
+"I'm eating it under protest."
+The spa floor came after: heated stone loungers, a eucalyptus steam room, an attendant with cucumber water. Jay pronounced the steam room "cough medicine for rich people" and stayed in it for forty minutes. At four there was tea on the mezzanine with a three-tiered tray, and Jay observed that the jam came in portions rationed like wartime, and ate all of it. At six they went up to the rooftop bar, where Jay's drink arrived under a cloud of smoke that poured over the rim and down the side of the glass.
+"There's smoke coming out of my drink," Jay said.
+"There is," Ian said.
+"Why is there smoke. What is the smoke for. On the island, the bartender put a flower on the glass and the flower was real and nobody had set anything on fire. This bar is trying too hard," Jay said.
+"Devastating. Should I call the manager," Ian said.
+"Don't you dare, the bartender looks fragile. I'll suffer through it," Jay said.
+He suffered through two of them. Ian watched the entire performance over a single immaculate martini and looked happier than five hundred gala guests had ever managed to make him. At dinner, the last court of the day, Jay tried to find fault with a flawless piece of turbot, failed completely, and called the failure suspicious.
+"Admit it. You've enjoyed today," Ian said.
+"I've endured today with grace," Jay said.
+"You ate four scones."
+"Under protest. Everything I did today, I did under protest," Jay said.
+"I haven't had a better Sunday in years," Ian said.
+He said it plainly, between the fish and the dessert, and for a second Jay had nothing smug or rationed or continental to say back. Then the dessert arrived with a tiny flag of gold leaf planted on top, and Jay was saved.
+"Gold. They put gold on it. The island put a candle in a banana fritter and I nearly cried, and these people put gold," Jay said.
+"Eat the gold, Jay," Ian said.
+Ian drove him home through the wet Sunday-night streets. Jay sat in the passenger seat with damp hair and the smell of chlorine still on him, holding the hotel's farewell gift bag, and complained at length that the parting fruit had been, once again, merely adequate, and that he intended to write a strongly worded review praising everything except the towels. Ian agreed that the towels had behaved badly. The wipers ticked, the streetlights slid past, and Jay pouted magnificently the whole way home.
+It was performance, and they both knew it, and that was exactly the point. The pout would survive the night. The gloom hadn't survived the weekend.
+Scene 4
+Heat
+The Monday briefing survived for three minutes as an actual briefing. Ian worked through the calendar: the auditor call moved to Thursday, the Velder addendum was due Friday, the December planning cycle opened next week. Jay took notes. Then a gust threw rain against the glass hard enough to be heard through double glazing, and the agenda quietly died.
+"Item four was going to be the December offsite, but say what you're thinking, you've been glaring at the window since you sat down," Ian said.
+"It's November and I have grievances. I left home in the dark. I will go home in the dark. My shoes have not been fully dry since Thursday, I now own three umbrellas and trust none of them, and running season is dead. I'd like that last part entered in the minutes. The Tuesday route is gone until March and I'm in mourning," Jay said.
+"Noted for the minutes. There's a practical solution, incidentally. Use my gym," Ian said.
+"Your gym," Jay said.
+"The home gym. Tuesdays, to replace the route. Other evenings if you want them. The equipment should be used regularly anyway, the treadmill belt degrades if it just stands there. You'd be doing the machine a favor," Ian said.
+"You're framing this as charity toward a treadmill," Jay said.
+"I'm framing it as maintenance. Bring your bag tomorrow," Ian said.
+It was a practical arrangement, plain and sensible, and absolutely not a way to keep their Tuesdays alive through the winter. Neither of them said the second part. The briefing resumed at item four and finished almost on time.
+On Tuesday after work, Jay followed Ian home with his gym bag and was shown to a room at the back of the apartment that he had somehow never seen behind its closed door. He stopped on the threshold.
+The room was enormous. Black rubber flooring ran wall to wall. One entire wall was mirrored. There was a power rack, a cable machine, a rowing machine, a bench, a rack of dumbbells climbing in two-kilo increments to weights Jay had no intention of greeting, a bar of resistance bands sorted by color, a small fridge, and a stack of white towels rolled with hotel exactness. A screen covered half of the far wall. And there were two treadmills standing side by side like a married couple.
+"This is a commercial facility. You are running an unlicensed commercial facility out of your home," Jay said.
+"It's a gym," Ian said.
+"Rus's gym has fewer dumbbells than this. Rus's gym charges membership. Why are there two treadmills?" Jay said.
+"I bought the newer model last year. Better screen integration, better incline motor. Then it turned out I prefer the old one, the belt has a better feel underfoot. So I kept both. Use whichever you like," Ian said.
+"That's excessive. That is genuinely deranged behavior," Jay said.
+"It's redundancy," Ian said.
+He said it with the unconcealed satisfaction of a man receiving exactly the criticism he had hoped for, and then he gave Jay the full tour anyway, narrating the cable machine's attachments like a sommelier presenting a cellar. Jay had forgotten, somewhere between the suits and the spreadsheets, what Ian fundamentally was underneath it all, and the room stood as a confession: a gym rat with a CFO's salary and nobody to show it to. Until now.
+They ran first. Ian took the old treadmill, gave Jay the new one, and tapped through a menu until the giant screen filled with a forest trail in golden autumn light. Upbeat music came from somewhere in the ceiling. The belt tilted gently under Jay's feet as the trail climbed.
+"It syncs the incline to the footage," Ian said.
+"We're in a forest. It's seven degrees and raining outside and we are running through a forest with a soundtrack. This is the most deranged thing I've ever participated in," Jay said.
+"You can have a beach instead. There's a coastal series. Mountains, too, but the mountain one is ambitious about inclines," Ian said.
+"Don't you dare change the forest," Jay said.
+They ran side by side for forty minutes while the screen carried them down the trail, along a white beach, and partway up a mountain path before Jay vetoed the gradient on human rights grounds. They talked the way they talked on the real route, in fragments between kilometers, and Jay laughed more than the jokes deserved, and the rain on the window had no jurisdiction in the room at all.
+Then came the weights, and the evening changed temperature.
+It started innocently, because everything between them started innocently. Jay set up for rows with a form that had survived two years of Rus only partially intact, and Ian, who could not watch bad form the way some people cannot watch a crooked picture, came over to fix it.
+"Your back is rounding at the bottom. Here. Brace," Ian said.
+A hand pressed flat between Jay's shoulder blades. It pressed for perhaps two seconds, made its correction, and withdrew, and Jay executed the next eight rows with textbook form and no memory of performing them. On the bench press, a touch at his shoulder set his position back half a centimeter. On curls, fingers closed around his wrist and rotated it five degrees outward.
+"Wrist neutral. You'll thank me at fifty," Ian said.
+"Thank you," Jay said.
+His wrist reported the contact for a full minute after it ended. Jay catalogued every touch with a thoroughness he was immediately ashamed of, and lifted, and catalogued, and lifted, and somewhere in the third set he looked up and caught Ian's reflection in the mirrored wall, and Ian was already looking at him, and both of them transferred their attention to the dumbbells with the smooth professionalism of two people who had absolutely not been caught doing anything. The music played on. The forest on the screen had given way to a screensaver of drifting clouds. Ian counted Jay's last reps out loud in a level tone, and if his counting was slightly more level than usual, no court could have proven it.
+They cooled down on the mats, and Ian passed him a water bottle from the little fridge.
+"There's one more thing, if you're up for it. The gift from Rus and the gym group. The voucher's for a private sauna suite, eight minutes from here by car. Twelve sessions. I'll never use twelve alone, it would be a waste of their money. I booked the eight o'clock slot on the chance you'd want to," Ian said.
+Several systems in Jay went briefly offline. A sauna. A private one. No team, no resort, no group of laughing Norwegians, no holiday rules under which everything was temporary and didn't count. Just the two of them and the heat. Every sensible instinct he had filed an objection, and he heard himself overrule all of them.
+"Sure. Yes. It would be a waste of their money," Jay said.
+The suite was small and serious: a cedar room with two benches, a basket of rolled towels, a bucket and ladle, stones glowing faintly in an iron stove, one dim lamp. The attendant closed the outer door and left them the silence. They sat on the upper bench with towels around their waists, a meter apart, and the heat folded over them like a held note.
+Jay had decided in the changing room that he would look at the stove. It was a good plan, geometrically sound, and it lasted slightly under three minutes.
+The problem was that Ian sat in his peripheral vision the way a lighthouse sits in a peripheral vision, and peripheral became direct, and direct became a slow disaster. Jay had seen him at the hot springs, in the crowded communal sauna with forty strangers and steam and social terror as buffers. There were no buffers here. There was lamplight on the line of his shoulders. There were his hands resting loose on his knees, the same hands that had corrected a wrist two hours ago. There was his throat as he tipped water from the bottle, and the sweat that gathered at his collarbones and chose, with what felt like deliberate cruelty, to run. Jay's attention slid lower before he could stop it: the flat, sectioned abdomen of a man who had treated nutrition as accounting for two decades. The thighs.
+Oh god, Jay thought, with great clarity and no plan whatsoever.
+He returned his eyes to the stove. The stove had nothing for him. He counted the stones. He lost count. The heat pressed on him from every side and some of the heat had nothing to do with the cedar room, and he understood, in a single unwelcome flash of honesty, that the word for what he had been calling devotion had a second, older, far less manageable word underneath it, and that the second word had just stood up.
+"More steam?" Ian said.
+"God, yes," Jay said.
+Ian rose, ladled water onto the stones, and the room hissed and went white for a merciful moment. He did it with his usual economy and sat back down, composed, eyes mostly closed, posture impeccable even here. The composure was load-bearing. Behind it, Ian was conducting a quiet internal emergency of his own, because a man does not need open eyes to know when he is being looked at, and Jay had been looking at him in long, helpless passes for ten minutes, and the looking did not resemble the way one looks at a colleague, a mentor, or a stove. Ian ran the analysis he had forbidden himself to run. It means nothing, he told himself. It means heat and proximity and a strange evening. He had built two years of architecture on the premise that it meant nothing, and the architecture held, but for the first time he could hear it creak.
+"Twelve minutes is the sensible limit. Then the cold shower," Ian said.
+"Cold shower. Yes. Excellent idea. Sensible," Jay said.
+If Ian noticed the fervor of the agreement, he was generous enough to leave it on the bench.
+That night, Jay dreamed.
+The dream had no plot and needed none. There were tangled sheets and low light. There was Ian's weight over him, real as gravity, and their hands locked together against the pillow, fingers interleaved the way they had been for one afternoon on an island under the excuse of a game. There was Ian's mouth close to his ear, saying his name in a register that did not exist in any office, and there was no game and no excuse and no rule, only wanting, answered. Pleasure moved through Jay in long waves and he made no attempt to hide from it, because in the dream he was finally, catastrophically allowed.
+He woke at ten past five in the dark, overheated, shaking slightly, with the sheets in a state that permitted no alternative interpretation.
+For a while he lay completely still and looked up at the ceiling while mortification arrived in installments. Then he got up, stripped the bed like a man destroying evidence, and had the washing machine running before six. He stood under the shower for a long time. He drank his coffee standing up. He told himself, out loud, in his empty kitchen, that he was an adult, that bodies were stupid, that dreams meant nothing, and that today would be an entirely normal Wednesday.
+Today was not an entirely normal Wednesday.
+The first failure came at nine, when Ian walked past his desk with two folders and said good morning, and Jay said good morning to the folders because looking higher was not survivable. The second came at ten, when Ian took off his suit jacket in his office, visible through the glass wall, an action he performed every single day at approximately ten, and Jay felt his face ignite over a man removing one layer of clothing in a fully professional manner. The third came at half past eleven, when Ian set a document in front of him and tapped a figure on it, and the sight of the hand brought back, with perfect fidelity, the dream and the locked fingers and the low register at his ear, and Jay flushed so fast and so completely that the room felt tilted.
+"Jay," Ian said.
+"Mm," Jay said.
+"You're flushed. You've been flushed all morning. Are you unwell?" Ian said.
+Jay's mind presented its options: the truth, immediate resignation, or fleeing to the stairwell. It chose a fourth thing without consulting him.
+"I might be coming down with something. A cold. Probably the sauna and then the night air, classic mistake, hot to cold, everyone says you have to be careful with that, I wasn't careful, so. A cold. Probably," Jay said.
+The babble would not have convinced a child. It convinced Ian instantly and totally, because the alternative interpretations were ones he did not permit himself, and concern was a language he spoke without hesitation.
+"Go home. Not at five, now. I'll move the auditor prep, none of it requires you today. Tea, paracetamol, actual sleep. Do you have food in the apartment or should I—" Ian said.
+"I have food. I'm fine. It's barely anything," Jay said.
+"People who say it's barely anything are statistically the ones found unconscious. I'd drive you, but the auditor call. Text me when you're home," Ian said.
+"You really don't have to—"
+"Home, Jay," Ian said.
+Jay went home at half past one, escorted to the elevator by Ela's sympathy and Kim's loud advice about ginger, carrying his coat and his shame in equal armfuls.
+There was no cold. There was nothing wrong with him that medicine recognized. He texted *home* from the doorway, made tea he didn't want as a kind of penance, and then got under the covers at two in the afternoon like a man taking shelter from himself. The gray light moved slowly across the ceiling. At four, his phone lit up.
+*Temperature?*
+*No fever. Going to sleep early. I'll be fine tomorrow,* Jay typed.
+*If you're not, there will be soup. This is not a threat. It is a forecast,* Ian wrote.
+Jay put the phone face-down and pulled the covers over his head. Under there it was warm and dark, and the warmth and the dark were not on his side. The dream sat exactly where he had left it, patient, in full color, and the harder he ordered himself calm, the more thoroughly his body declined the order. Ian's concern glowed on the phone beside the bed. Ian's hand had been at his back yesterday. Ian's name was on the sauna voucher for eleven more sessions. None of this was helping at all.
+He lay there a long time in the early dark, and his last clear thought before exhaustion finally took him was simple and useless: these are not thoughts I'm allowed to have.
+The dream disagreed, and came back.
+Scene 5
+Still Time
+The doorbell rang at twenty past seven on Thursday morning. Jay was dressed, halfway through his coffee, and fully rehearsed in the role of a man who had recovered from a cold he never had. He opened the door to Ian in his charcoal coat with rain on the shoulders and a paper bag in each arm.
+"You're supposed to be on your way to the office," Jay said.
+"I am on my way to the office. This is on the way. How do you feel," Ian said.
+"Fine. Completely fine. No fever, no sore throat, no symptoms of any kind. It was nothing, exactly like I said it would be," Jay said.
+Ian walked past him into the kitchen as if this were the established Thursday protocol and began unpacking the bags onto the counter.
+"Soup, the today kind and the freezer kind. Lemons. Ginger. Honey. Paracetamol, in case you were being brave yesterday. Vitamin C, the dissolvable kind, because you won't take tablets. Two teas. And this," Ian said.
+He set a white case on the table and opened it. The thermometer inside was matte, clinical, and cradled in molded foam like surgical equipment.
+"That is not a thermometer. That is hospital property. Did you rob a clinic on the way here?" Jay said.
+"It's medical grade. I researched it last night, the reviews were impeccable. Sit," Ian said.
+"Ian, I'm telling you, I don't have—"
+"Sit," Ian said.
+Jay sat on the kitchen chair and submitted to being scanned like a suspicious parcel, and died quietly the entire time. This was the problem now, all of it: Ian in his kitchen at seven in the morning smelling of rain and cologne, Ian filing soup into his refrigerator by date, Ian frowning at a device in absolute seriousness because Jay had sniffled fictitiously two days ago. A week ago this fussing had been warmth. Now the warmth had developed an undertow, and Jay stared hard at the grain of the table and waited for the beep like a verdict.
+The device beeped.
+"Thirty-six point six," Ian said.
+He read the number the way an auditor reads a balance sheet that refuses to contain an error, and then, with visible reluctance, accepted reality.
+"You sound disappointed," Jay said.
+"I'm relieved. I'm also aware that these things can develop late. Get your coat, I'll drive you in. And if anything changes during the day, anything at all, you tell me at once. At once, Jay. Not at five o'clock with an apology," Ian said.
+"At once. I promise," Jay said.
+The drive to the office took eleven minutes, and Ian spent four of them explaining the soup-reheating sequence.
+The day was gray in the absolute sense. Rain came down in fine, tireless sheets, the windows of the thirty-fourth floor showed nothing but wet glass and low cloud, and the city below had dissolved into smudges of headlights. Everyone else complained of the cold. Jay had the opposite problem. He spent the day over-warm and over-aware, conscious of exactly where Ian was at any moment the way one is conscious of a fireplace in a room, and ashamed of the entire metaphor. At ten, Ian took his jacket off in his office, and Jay kept his eyes on his spreadsheet and survived it, which he privately logged as progress. Work got done. Ela asked if he was better and Kim prescribed more ginger, and the Velder addendum advanced, and Ian was steady behind the glass, and the world held its ordinary shape even if Jay no longer quite held his.
+On Friday at six, the dinner tradition continued, and this time Jay chose the place.
+It stood in the industrial east of the city between a tire warehouse and a print shop: a brick hall with steamed-up windows, long wooden tables, paper instead of tablecloths, and a menu painted directly on the wall. Everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second. He hung his coat on a peg between two work jackets, ordered in two efficient sentences, rolled his sleeves when the food arrived, and claimed the crackling off the pork without negotiation, like a man with field experience.
+"I'll admit something. You look better, and I'm relieved. On Wednesday I had soup logistics half-planned and a contingency involving Dr. Albers," Ian said.
+"You built a contingency plan for my cold," Jay said.
+"It was barely a plan. One page," Ian said.
+"You wrote it down?"
+"I structured my thoughts. Eat your potatoes," Ian said.
+They ate, and the windows steamed, and the rain stayed outside where it belonged. Over the last of the beer, Ian developed the studied casualness of a man about to propose something he had been carrying around all day.
+"There's a small matter, if you have an hour tomorrow. The new treadmill insists on a second user profile and the menu has defeated me twice. It calibrates to weight and stride length, allegedly, and the manual was written by someone who hates readers. Since you'll be the one using it anyway, I thought—" Ian said.
+"Yes," Jay said.
+"You don't want the rest of the sentence?"
+"The sentence was finished. Yes. What time," Jay said.
+"Ten. I'll make breakfast worth getting up for," Ian said.
+The small matter took eleven minutes on Saturday morning, seven of which were Jay reading the manual out loud in a documentary narrator's tone while Ian held the screen and pressed what he was told. The profile had never required two people. It had arguably not required one. Neither of them mentioned this at any point, and when it was done, Ian said that since Jay was already here, there were leftovers, and there was a bottle that needed drinking, and the rain made the roads a strong argument against going anywhere, and Jay agreed with every clause of it.
+The afternoon assembled itself the way their best afternoons always had. They argued about films for ten minutes as a formality and then watched an old mountaineering documentary that Ian narrated with quiet expert corrections, followed by a heist film that Jay had seen four times and defended like family. The wine was open by three. The rain worked the windows. Jay had a blanket he didn't remember acquiring and the deep, specific comfort of being in exactly the right place, and to his enormous quiet relief, the improper things stayed asleep all day. This was the old warmth, the original kind, sofa and wine and Ian's dry commentary, and Jay rested inside it like a man given a day's parole.
+Toward evening he stood at the window with his glass and looked down at the wet street.
+"They were hanging the Christmas lights on the avenue this morning. In the rain. I watched a man wrestle a glowing star onto a lamppost for ten minutes, and I felt nothing. It looked like drowned tinsel. I don't feel festive at all this year," Jay said.
+"It's the end of November. Festivity has a long runway. There's still time," Ian said.
+"We'll have to figure out Christmas at some point. What we're doing. Eventually," Jay said.
+"At some point. Not today," Ian said.
+"Not today," Jay said.
+It was the first time Christmas had entered the room, and it entered not as a plan but as a distant pressure, like weather announced for next month, and then it left again and the heist film's sequel started and the evening carried on being easy.
+Jay walked home at eleven through the two streets between their buildings. The rain had thinned to a drizzle. Half the lamppost stars on the avenue were up and unlit, dripping, waiting for December.
+The trip was becoming memory now. He could feel it happening: the island sliding from last week into a photo album, the office reclaiming its shape, the alarm clock and the briefings and the Friday dinners knitting back into a life. The gray world had resumed in full. The trouble was what had followed him into it.
+Before the vacation, he had managed. Desire had been buried so deep under work and gratitude and fear and plain denial that he could go weeks without admitting it had a body attached. That arrangement was over. It had ended somewhere between a sauna bench and a dream, and the gray everyday had resumed without it, and now the thoughts came every evening as he lay waiting for sleep, uninvited and unstoppable. They were not specific. They never had been. Shapeless things, shadows of sounds and sensations, warmth without edges, weight without detail.
+But the questions had become scarily specific, and they arrived in order, like items on an agenda he had not approved.
+How would it feel to be kissed by him. To be touched by him. To be taken by him. What did he taste like. What sounds did he make in the dark, a man that controlled, when the control was finally beside the point.
+Jay pulled the duvet over his head and felt his face burn against the pillow, thirty-one years old and blushing madly in his own empty bedroom. He had spent two years denying this thing had teeth. He was so tired of denying it.
+He fell asleep still warm, and didn't fight it at all.
