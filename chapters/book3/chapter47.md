@@ -33,7 +33,7 @@ They spent the morning leisurely—at the pool, at the beach, briefly, until the
 The touches accrued throughout the day. Ian's hand at Jay's arm when a cyclist came close on the narrow street, sitting together on the low wall outside the café, closer than the available space required. 
 Ian kept his promise and didn't open his laptop once.
 At five, they changed into formal clothes and took a taxi to the venue, a historic building near the town centre. They arrived early, and the usher led them to seats near the front. Jay looked around with interest.
-"Thank you for bringing me here," Jay said.
+"I'm glad you brought me here," Jay said.
 "There's something I need to say first. The last concert we attended together. The one that turned awkward. It wasn't because of you."
 "What do you mean?"
 "It reminded me of Sam. Not specifically, it was more the circumstance. I was making comparisons I had no business making, and they coloured the whole evening. That was unfair to you."

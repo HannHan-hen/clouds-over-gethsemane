@@ -31,7 +31,7 @@ On Monday evening he stopped at Jay's desk. "The annex can wait until tomorrow. 
 "I'm almost through it," Jay said. He went home at nine.
 On Tuesday a cup of coffee appeared beside his keyboard without a word. An hour later Ian passed again. "Kim claims that was a rare Ethiopian roast. If it was terrible, blame him," he said.
 "It was good. Thank you," Jay said. The cup sat half full and cold beside the keyboard. He had forgotten it existed.
-On Wednesday Ian stood at his desk at seven in the evening. "You've reconciled that column three times," he said.
+On Wednesday Ian came by at seven in the evening. "You've reconciled that column three times," he said.
 "Better three times than zero," Jay said.
 The joke was correct in shape and hollow inside, and they both knew it. Each time Jay answered just enough to be polite, and each time Ian watched him a moment longer before walking away. Jay saw the watching and could not summon the will to perform any better. He wasn't falling apart. He was simply running on the minimum, and he hated that Ian could see it.
 At six o'clock on Thursday, Ian closed his laptop. The click was quiet, but Jay looked up at once, because in two years Ian had never closed his laptop at six.
@@ -72,7 +72,7 @@ The café occupied a corner of the conservatory under the palms: marble tables, 
 "I found it the winter I was twenty-six. The first winter after my family. It was the warmest place in the city that cost two euros and wasn't a shopping center. I came every Sunday until spring," Ian said.
 Jay turned his cup slowly on its saucer. "Did it help?" he asked.
 "It was warm and green and nobody here knew me. Yes. It helped," Ian said.
-"Thank you for bringing me," Jay said.
+"I really needed this," Jay said.
 "You needed somewhere green. The alternative was buying you a fern for your desk," Ian said.
 "I would have named the fern and grieved when I killed it. This was the better plan," Jay said.
 They stepped out through the iron gate at nine. The cold met them at once, sharp after two hours of summer, and frost already silvered the parked cars under the streetlamp. Jay shivered and pulled his coat closed, and he was smiling while he did it.
@@ -88,7 +88,7 @@ On Friday morning, Luc came through the office doors carrying a wooden crate as 
 Ela took a pear chip and held it to the light like a jewel. "He's right, this is art. Jay, come here, you love these things more than anyone," she said.
 Jay came, looked into the crate, and sighed from the bottom of his soul.
 "It's very nice. For continental fruit. Two weeks ago I ate a mango that had been on the tree an hour earlier. A man cut it open in front of me with a machete. There was a sunrise involved," Jay said.
-The kitchen went quiet for a second, and then it erupted.
+The kitchen went silent for a second, and then it erupted.
 "One holiday. He goes on one holiday and comes back a food critic," Kim said.
 "These pears were harvested by hand, Jay. By hand. There is a waiting list," Luc said.
 "The mango had no waiting list. The mango was free. It grew next to the breakfast terrace," Jay said.
@@ -100,7 +100,7 @@ Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it a
 "A sad houseplant," Luc said.
 "I was processing," Jay said.
 "Process the quince paste. It cost more than my first car," Luc said.
-Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him officially impossible. He carried the verdict back to his desk like a small trophy. Being mocked again was a kind of homecoming, and everyone in the room seemed to know it except the crate.
+Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him officially impossible. He carried the verdict back to his seat like a small trophy. Being mocked again was a kind of homecoming, and everyone in the room seemed to know it except the crate.
 The workday held together until about half past five, and then it stopped pretending. Jay read the same email three times without absorbing a word of it. He checked his watch. He looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk in slow motion: pens aligned, notebook squared, cables coiled. At ten to six he gave up on the tidying too and simply sat there, watching the door through the glass wall with the open patience of a dog at a window.
 He knew he wasn't being subtle. He had decided around half past five that he didn't care.
 Behind the glass, Ian saw all of it. He saw the watch-checking and the pen-aligning and the open staring, and he had to turn to his monitor and scroll through a document he wasn't reading so that nobody would catch him fighting down a smile. He lost the fight twice.
@@ -291,7 +291,7 @@ If Ian noticed the fervor of the agreement, he was generous enough to leave it o
 That night, Jay dreamed.
 The dream had no plot and needed none. There were tangled sheets and low light. There was Ian's weight over him, real as gravity, and their hands locked together against the pillow, fingers interleaved the way they had been for one afternoon on an island under the excuse of a game. There was Ian's mouth close to his ear, saying his name in a register that did not exist in any office, and there was no game and no excuse and no rule, only wanting, answered. Pleasure moved through Jay in long waves and he made no attempt to hide from it, because in the dream he was finally, catastrophically allowed.
 He woke at ten past five in the dark, overheated, shaking slightly, with the sheets in a state that permitted no alternative interpretation.
-For a while he lay completely still and stared at the ceiling while mortification arrived in installments. Then he got up, stripped the bed with the grim efficiency of a man destroying evidence, and had the washing machine running before six. He stood under the shower for a long time. He drank his coffee standing up. He told himself, out loud, in his empty kitchen, that he was an adult, that bodies were stupid, that dreams meant nothing, and that today would be an entirely normal Wednesday.
+For a while he lay completely still and looked up at the ceiling while mortification arrived in installments. Then he got up, stripped the bed like a man destroying evidence, and had the washing machine running before six. He stood under the shower for a long time. He drank his coffee standing up. He told himself, out loud, in his empty kitchen, that he was an adult, that bodies were stupid, that dreams meant nothing, and that today would be an entirely normal Wednesday.
 Today was not an entirely normal Wednesday.
 The first failure came at nine, when Ian walked past his desk with two folders and said good morning, and Jay said good morning to the folders because looking higher was not survivable. The second came at ten, when Ian took off his suit jacket in his office, visible through the glass wall, an action he performed every single day at approximately ten, and Jay felt his face ignite over a man removing one layer of clothing in a fully professional manner. The third came at half past eleven, when Ian set a document in front of him and tapped a figure on it, and the sight of the hand brought back, with perfect fidelity, the dream and the locked fingers and the low register at his ear, and Jay flushed so fast and so completely that the room felt tilted.
 "Jay," Ian said.
@@ -334,7 +334,7 @@ He read the number the way an auditor reads a balance sheet that refuses to cont
 "I'm relieved. I'm also aware that these things can develop late. Get your coat, I'll drive you in. And if anything changes during the day, anything at all, you tell me at once. At once, Jay. Not at five o'clock with an apology," Ian said.
 "At once. I promise," Jay said.
 The drive to the office took eleven minutes, and Ian spent four of them explaining the soup-reheating sequence.
-The day was gray in the absolute sense. Rain came down in fine, tireless sheets, the windows of the thirty-fourth floor showed nothing but wet glass and low cloud, and the city below had dissolved into smudges of headlights. Everyone else complained of the cold. Jay had the opposite problem. He spent the day over-warm and over-aware, conscious of exactly where Ian was at any moment the way one is conscious of a fireplace in a room, and ashamed of the entire metaphor. At ten, Ian took his jacket off in his office, and Jay kept his eyes on his spreadsheet and survived it, which he privately logged as progress. Work got done. Ela asked if he was better and Kim prescribed more ginger, and the Velder addendum advanced, and Ian was steady at his desk behind the glass, and the world held its ordinary shape even if Jay no longer quite held his.
+The day was gray in the absolute sense. Rain came down in fine, tireless sheets, the windows of the thirty-fourth floor showed nothing but wet glass and low cloud, and the city below had dissolved into smudges of headlights. Everyone else complained of the cold. Jay had the opposite problem. He spent the day over-warm and over-aware, conscious of exactly where Ian was at any moment the way one is conscious of a fireplace in a room, and ashamed of the entire metaphor. At ten, Ian took his jacket off in his office, and Jay kept his eyes on his spreadsheet and survived it, which he privately logged as progress. Work got done. Ela asked if he was better and Kim prescribed more ginger, and the Velder addendum advanced, and Ian was steady behind the glass, and the world held its ordinary shape even if Jay no longer quite held his.
 On Friday at six, the dinner tradition continued, and this time Jay chose the place.
 It stood in the industrial east of the city between a tire warehouse and a print shop: a brick hall with steamed-up windows, long wooden tables, paper instead of tablecloths, and a menu painted directly on the wall. Everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second. He hung his coat on a peg between two work jackets, ordered in two efficient sentences, rolled his sleeves when the food arrived, and claimed the crackling off the pork without negotiation, like a man with field experience.
 "I'll admit something. You look better, and I'm relieved. On Wednesday I had soup logistics half-planned and a contingency involving Dr. Albers," Ian said.
