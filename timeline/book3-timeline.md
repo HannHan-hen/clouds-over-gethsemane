@@ -258,42 +258,12 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 - **Summary:** A museum visit is cut short. In the suite doorway the two share a charged near-kiss before stepping into the day holding hands -- nominally the pretense, but no longer that at all. They spend the day doing nothing together: the pool, a barefoot walk along the beach, the sunset from the balcony. Jay, happier than he has ever been, pulls on Ian's cologne-scented sweater against the night chill.
 - **Milestone:** The doorway near-kiss; open hand-holding; the borrowed sweater
 
----
-
-## Chapter 48: Borrowed reality *(draft — unfinished)*
-
-### Scene 1: The last afternoon
-- **Duration:** 1 afternoon
-- **Date:** Thursday, November 21, 2019
-- **Day of Week:** Thursday
-- **Summary:** A final walk along the shore as the light fades. Jay silently catalogues everything that won't survive the flight home and grieves the "borrowed reality" they built. Ian notices his quiet but doesn't press.
-
-### Scene 2: Not everything
-- **Duration:** 1 evening
-- **Date:** Thursday, November 21, 2019
-- **Day of Week:** Thursday
-- **Summary:** Over a last room-service dinner on the balcony, Jay admits he doesn't want the trip to end. Ian reassures him: the scenery changes but they don't; daily contact remains and they live two streets apart. Jay agrees to try to believe him.
-- **Milestone:** Ian's promise that the closeness won't disappear back home
-
-### Scene 3: Sugar and laughter
-- **Duration:** 1 night
-- **Date:** Thursday, November 21, 2019
-- **Day of Week:** Thursday
-- **Summary:** They stay up late feeding each other strange resort snacks, Ian needling Jay to try a dried fruit that "looks like a mummified insect." Easy, unguarded humor—the thing Jay knows he'll miss most.
-
-### Scene 4: The flight home
-- **Duration:** 1 morning (travel)
-- **Date:** Friday, November 22, 2019
-- **Day of Week:** Friday
-- **Summary:** An early checkout and a near-silent drive to the airport. On the plane Ian proposes a quiet dinner "next weekend," turning the bond into a concrete promise that survives the trip's end.
-- **Milestone:** The "next weekend" dinner plan—proof the bond outlasts the island
-
-### Scene 5: The cold apartment
-- **Duration:** 1 afternoon/evening
-- **Date:** Friday, November 22, 2019
-- **Day of Week:** Friday
-- **Summary:** They land in a gray, cold Maincross. Ian drops Jay off first. Alone in his quiet apartment, Jay sinks to the floor against the doorframe and sits in the grief of already missing Ian, trying and failing to believe that "next weekend" will be enough.
-- **Milestone:** Homecoming; the vacation illusion ends, the wanting does not
+### Scene 5: Homecoming
+- **Duration:** ~1.5 days (last day + departure)
+- **Date:** Thursday–Friday, November 21–22, 2019
+- **Day of Week:** Thursday into Friday
+- **Summary:** A last melancholy afternoon on the beach where Jay catalogues everything that won't survive the flight home, a tender final dinner in the suite where Ian promises the scenery changes but they don't, and a late night feeding each other strange resort snacks. The next morning they fly back to the gray November cold; on the plane Ian secures a "next weekend" dinner plan. Ian drops Jay off first, and alone in his cold apartment Jay sinks down inside the door, grieving the closeness already despite having barely parted.
+- **Milestone:** Ian's promise the closeness won't disappear; the "next weekend" plan; the vacation illusion ends while the wanting does not
 
 ---
 
@@ -326,4 +296,4 @@ Book 3 begins on Thursday, August 1, 2019 -- Jay's two-year anniversary at Turne
 | November 21, 2019 | Doorway near-kiss; open hand-holding; the borrowed sweater |
 | November 21, 2019 | Last vacation evening; Ian promises the closeness won't disappear |
 | November 22, 2019 | Flight home; "next weekend" dinner plan made |
-| November 22, 2019 | Homecoming to Maincross; Jay grieves on his apartment floor (draft) |
+| November 22, 2019 | Homecoming; Jay grieves the vacation's end in his cold apartment |
