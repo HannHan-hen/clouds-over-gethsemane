@@ -110,3 +110,27 @@ expanding, so treat it as living.
 - returned to his
 - stared at the
 - thank you for
+
+## Whole-book scan candidates (unconfirmed — 48-chapter n-gram pass, 2026-06)
+
+High-frequency repeated phrases surfaced by an n-gram scan of the full
+manuscript (~311k words). Counts are whole-book occurrences. Review and
+promote into the graded tiers above once confirmed.
+
+### Setting / staging
+- looked up / looking up from his computer (and "...from his desk") — ~30+ across variants; the single biggest unflagged tic
+- emerged from his office — 19 ("from his office" — 41)
+- through the glass wall — 23
+- sat at his desk — 19
+- made his way to the — 9
+
+### Body / emotion
+- felt heat rise in his cheeks / his face — ~17 (the blush tic)
+- the tension in his shoulders — 7
+- couldn't shake the feeling that — 8
+- felt like a ___ — 53 (simile crutch)
+
+### Dialogue crutches
+- you don't have to / you don't need to — 25 / 22
+- if you need anything — 17
+- have a good evening — 14
