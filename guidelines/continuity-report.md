@@ -264,21 +264,16 @@ Recurring capitalised names are treated as real (the 3-letter made-up-name conve
 
 - Let — 1x, near: leo
 - Gala — 1x, near: gal
-- Min — 1x, near: mic
 - Mai — 1x, near: mac
-- Zac — 1x, near: mac
 - Day — 1x, near: ray
-- Dan — 1x, near: ian
-- Liu — 1x, near: liv
 - Kia — 1x, near: tia
-- Sal — 1x, near: sam
 - Time — 1x, near: tim
 
-<details><summary>Discovered recurring names not in characters.md — 9 three-letter, 44 total</summary>
+<details><summary>Discovered recurring names not in characters.md — 3 three-letter, 38 total</summary>
 
 Three-letter tokens match the first-name convention and are the likeliest real characters; cross-check the roster. (Longer tokens include places/orgs — listed for completeness.)
 
-**3-letter:** Ana, Ash, Eve, Ina, Lea, Lim, Meg, Mum, New
+**3-letter:** Eve, Mum, New
 
 **other:** Allen, Belt, Calder, Center, Easter, Fifth, Garnet, Geneva, Good, Grand, Green, Group, Happy, Heir, Hotel, House, Lagoon, Lemon, Lotus, Maven, Murphy, Orrey, Palm, Resort, Ridge, Room, Sage, Sons, Street, Team, Trust, Velder, Willow, Yeah, Year
 

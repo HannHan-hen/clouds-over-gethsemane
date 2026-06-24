@@ -136,9 +136,16 @@ def load_names(path="characters.md",
     if os.path.exists(path):
         with open(path, encoding="utf-8") as fh:
             for line in fh:
-                if not line.startswith("### "):
+                title = None
+                if line.startswith("### "):
+                    title = line[4:].split("(")[0].strip()
+                else:
+                    # Bold-bulleted walk-on registry entries: '- **Meg Randon** —'
+                    m = re.match(r"\s*-\s+\*\*([^*]+)\*\*", line)
+                    if m:
+                        title = m.group(1).strip()
+                if title is None:
                     continue
-                title = line[4:].split("(")[0].strip()
                 parts = [p.lower() for p in re.findall(r"[A-Za-z']+", title)
                          if p.lower() not in {"née", "nee"}]
                 if not parts or parts[0] in _NON_NAME or parts[0] in STOPWORDS:
