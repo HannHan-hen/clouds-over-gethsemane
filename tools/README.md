@@ -96,10 +96,14 @@ Three advisory continuity checks, keyed off the `### Name` headers in
    more than one are surfaced (montages are legitimate — it's a triage aid,
    not a verdict; recollection/anticipation/dialogue are filtered out).
 2. **Eye/hair colour** — a character described with two *specific* colours
-   for one feature (vague dark/light/pale don't trigger). Attribution is to
-   the nearest preceding name and can err.
-3. **Name variants** — rare capitalised tokens one edit from a known first
-   name (likely misspellings); sentence-initial words are excluded.
+   for one feature (vague dark/light/pale don't trigger). Only **possessive**
+   descriptions are attributed ("his/Ian's blonde hair"); bare "a dark-haired
+   woman" is ignored, since it describes whoever is being introduced, not the
+   nearest named character.
+3. **Name variants** — the manuscript's real roster is learned from
+   recurring capitalised tokens (so made-up three-letter names aren't
+   mistaken for typos); only rare one-off tokens one edit from a known name
+   are flagged. A roster of discovered names is included for cross-checking.
 
 ```bash
 python3 tools/continuity_check.py --out guidelines/continuity-report.md

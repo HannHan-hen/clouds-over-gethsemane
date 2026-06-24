@@ -247,36 +247,40 @@ Counts only weekdays tied to the present (‘it was Friday’, ‘Tuesday mornin
 
 Conflict = two specific colours for one feature; vague terms (dark/light/pale) are listed but don't trigger a flag. Attribution is to the nearest preceding name and may err.
 
-- Ian hair: **black** (book1 ch01:L88) vs **blonde** (book2 ch26:L1242) vs **dark** (book1 ch01:L85, book3 ch42:L751)
-- Jay hair: **black** (book1 ch01:L51, book2 ch37:L4743) vs **dark** (book1 ch05:L841, book1 ch17:L3444) vs **silver** (book1 ch10:L1877)
+- (no conflicts)
 
 <details><summary>All colour descriptions collected</summary>
 
 - Amy hair: dark×1
-- Ian eyes: gray×2
-- Ian hair: dark×2, black×1, blonde×1
-- Jay eyes: gray×8
-- Jay hair: black×2, dark×2, silver×1
-- Ken hair: silver×1
-- Leo hair: silver×1
-- Ray hair: black×1
-- Rin hair: brown×1
+- Ian hair: blonde×1
+- Jay hair: black×1, dark×1
+- Jay eyes: gray×2
 
 </details>
 
-## Name-variant suspects (one edit from a known first name)
+## Name-variant suspects (one-off, one edit from a known name)
 
-- Lim — 3x, near: kim
-- Lea — 2x, near: leo
+Recurring capitalised names are treated as real (the 3-letter made-up-name convention), so only rare one-offs near a known name are flagged — the credible typos.
+
 - Let — 1x, near: leo
 - Gala — 1x, near: gal
-- Min — 1x, near: rin
+- Min — 1x, near: mic
 - Mai — 1x, near: mac
 - Zac — 1x, near: mac
-- Day — 1x, near: fay
-- Dan — 1x, near: van
+- Day — 1x, near: ray
+- Dan — 1x, near: ian
 - Liu — 1x, near: liv
 - Kia — 1x, near: tia
 - Sal — 1x, near: sam
 - Time — 1x, near: tim
+
+<details><summary>Discovered recurring names not in characters.md — 9 three-letter, 44 total</summary>
+
+Three-letter tokens match the first-name convention and are the likeliest real characters; cross-check the roster. (Longer tokens include places/orgs — listed for completeness.)
+
+**3-letter:** Ana, Ash, Eve, Ina, Lea, Lim, Meg, Mum, New
+
+**other:** Allen, Belt, Calder, Center, Easter, Fifth, Garnet, Geneva, Good, Grand, Green, Group, Happy, Heir, Hotel, House, Lagoon, Lemon, Lotus, Maven, Murphy, Orrey, Palm, Resort, Ridge, Room, Sage, Sons, Street, Team, Trust, Velder, Willow, Yeah, Year
+
+</details>
 

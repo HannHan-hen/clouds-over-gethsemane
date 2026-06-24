@@ -27,7 +27,7 @@ import argparse
 import glob
 import re
 import sys
-from collections import defaultdict
+from collections import Counter, defaultdict
 
 from textlib import iter_lines, load_names, STOPWORDS
 
@@ -52,7 +52,13 @@ NONPRESENT_MARKERS = (
     "later", "upcoming", "coming ", "prospect of", "ago", "by ", "until ",
     "since ", "every ", "before ",
 )
-FEATURE_RE = re.compile(r"\b([a-z]+)[ -](eyes|eyed|hair|haired)\b", re.I)
+# Colour descriptions only count when *possessive* — "his blonde hair" or
+# "Ian's blonde hair". Bare "a dark-haired woman" describes whoever is being
+# introduced, not the nearest named character, so we don't attribute it.
+POSS_FEATURE_RE = re.compile(
+    r"\b(his|her|their)\s+([a-z]+)\s+(eyes|hair)\b", re.I)
+NAME_POSS_RE = re.compile(
+    r"\b([A-Z][a-z]+)'s\s+([a-z]+)\s+(eyes|hair)\b")
 NAME_TOKEN_RE = re.compile(r"\b([A-Z][a-z]{2,})\b")
 COMMON_CAPS = {
     "the", "he", "she", "it", "they", "but", "and", "his", "her", "their",
@@ -96,25 +102,26 @@ def day_ledger(lines):
 def colour_consistency(lines, first_names):
     # name -> feature -> {colour: [(book,chap,lineno)]}
     seen = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+
+    def record(owner, colour, feature, ln):
+        if owner in first_names and colour.lower() in COLOURS:
+            f = "hair" if "hair" in feature.lower() else "eyes"
+            seen[owner][f][colour.lower()].append(
+                (ln.book, ln.chapter, ln.lineno))
+
     for ln in lines:
+        # "Ian's blonde hair" -> attributed directly to the named owner.
+        for m in NAME_POSS_RE.finditer(ln.text):
+            record(m.group(1).lower(), m.group(2), m.group(3), ln)
+        # "his/her blonde hair" -> the nearest preceding named character.
         low = ln.text.lower()
-        present = [(m.start(), m.group(1))
-                   for m in re.finditer(r"\b([a-z]+)\b", low)
-                   if m.group(1) in first_names]
-        if not present:
-            continue
-        for m in FEATURE_RE.finditer(ln.text):
-            colour = m.group(1).lower()
-            if colour not in COLOURS:
-                continue
-            feature = "hair" if "hair" in m.group(2).lower() else "eyes"
-            # require a named character *before* the description on the line;
-            # otherwise attribution is a guess, so skip it.
-            before = [n for p, n in present if p <= m.start()]
-            if not before:
-                continue
-            owner = before[-1]
-            seen[owner][feature][colour].append((ln.book, ln.chapter, ln.lineno))
+        names_at = [(mm.start(), mm.group(1))
+                    for mm in re.finditer(r"\b([a-z]+)\b", low)
+                    if mm.group(1) in first_names]
+        for m in POSS_FEATURE_RE.finditer(ln.text):
+            before = [n for p, n in names_at if p <= m.start()]
+            if before:
+                record(before[-1], m.group(2), m.group(3), ln)
     return seen
 
 
@@ -145,29 +152,43 @@ def name_variants(lines, first_names, full_names):
                 j += 1
         return True
 
-    suspects = defaultdict(lambda: [0, set()])  # token -> [count, {names}]
+    # Pass 1: collect every capitalised, non-sentence-initial token.
+    cap_counts = Counter()
+    occ = []  # (token, lower)
     for ln in lines:
         for m in NAME_TOKEN_RE.finditer(ln.text):
-            # Skip sentence-initial words: capitalised 'Let', 'Time', 'Live'
-            # at a sentence start are ordinary words, not misspelled names.
             pre = ln.text[:m.start()].rstrip()
             if not pre or pre[-1] in '.!?:"”':
+                continue  # sentence-initial ordinary word, not a name
+            low = m.group(1).lower()
+            if low in COMMON_CAPS or low in STOPWORDS:
                 continue
-            tok = m.group(1)
-            low = tok.lower()
-            if low in full_names or low in COMMON_CAPS or low in STOPWORDS:
-                continue
-            for name in first_names:
-                if len(name) >= 3 and edit1(low, name):
-                    suspects[tok][0] += 1
-                    suspects[tok][1].add(name)
-                    break
-    # A real misspelling is rare; a frequent token is just another word/name.
-    return {tok: v for tok, v in suspects.items() if v[0] <= 4}
+            cap_counts[low] += 1
+            occ.append((m.group(1), low))
+
+    # The manuscript's real roster, made-up 3-letter names included: a
+    # capitalised token that recurs is a name the author is actually using.
+    discovered = {t for t, c in cap_counts.items() if c >= 2 and 3 <= len(t) <= 6}
+    known = first_names | full_names | discovered
+    targets = first_names | discovered  # names a typo could be a slip of
+
+    # Pass 2: a one-off capitalised token that isn't a known name but sits one
+    # edit from one is a likely typo. Recurring tokens are real names (skipped).
+    suspects = defaultdict(lambda: [0, set()])
+    for tok, low in occ:
+        if low in known:
+            continue
+        for name in targets:
+            if len(name) >= 3 and edit1(low, name):
+                suspects[tok][0] += 1
+                suspects[tok][1].add(name)
+                break
+    suspects = {tok: v for tok, v in suspects.items() if v[0] <= 2}
+    return suspects, sorted(discovered - first_names - full_names)
 
 
 # --------------------------------------------------------------------------- #
-def render(mentions, anchored, colours, variants):
+def render(mentions, anchored, colours, variants, discovered):
     out = ["# Continuity ledger (auto-generated)", ""]
     out.append("Advisory. Generated by `tools/continuity_check.py`. "
                "Review flags by hand against the timeline/ and characters.md.")
@@ -234,13 +255,33 @@ def render(mentions, anchored, colours, variants):
     out.append("")
 
     # --- name variants ---
-    out.append("## Name-variant suspects (one edit from a known first name)")
+    out.append("## Name-variant suspects (one-off, one edit from a known name)")
+    out.append("")
+    out.append("Recurring capitalised names are treated as real (the 3-letter "
+               "made-up-name convention), so only rare one-offs near a known "
+               "name are flagged — the credible typos.")
     out.append("")
     ranked = sorted(variants.items(), key=lambda kv: -kv[1][0])
     if not ranked:
         out.append("- (none)")
     for tok, (count, names) in ranked:
         out.append(f"- {tok} — {count}x, near: {', '.join(sorted(names))}")
+    out.append("")
+    three = [t for t in discovered if len(t) == 3]
+    out.append("<details><summary>Discovered recurring names not in "
+               f"characters.md — {len(three)} three-letter, "
+               f"{len(discovered)} total</summary>")
+    out.append("")
+    out.append("Three-letter tokens match the first-name convention and are "
+               "the likeliest real characters; cross-check the roster. "
+               "(Longer tokens include places/orgs — listed for completeness.)")
+    out.append("")
+    out.append("**3-letter:** " + (", ".join(t.title() for t in three) or "(none)"))
+    out.append("")
+    out.append("**other:** "
+               + (", ".join(t.title() for t in discovered if len(t) != 3) or "(none)"))
+    out.append("")
+    out.append("</details>")
     out.append("")
     return "\n".join(out) + "\n"
 
@@ -259,10 +300,11 @@ def main(argv=None):
     lines = list(iter_lines(args.books))
     first_names, full_names = load_names(args.characters)
     mentions, anchored = day_ledger(lines)
+    suspects, discovered = name_variants(lines, first_names, full_names)
     text = render(
         mentions, anchored,
         colour_consistency(lines, first_names),
-        name_variants(lines, first_names, full_names),
+        suspects, discovered,
     )
     if args.out == "-":
         sys.stdout.write(text)
