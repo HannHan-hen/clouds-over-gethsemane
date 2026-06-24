@@ -144,9 +144,9 @@ They stepped out through the iron gate at nine. The cold met them at once, sharp
 
 "Back to winter," Jay said.
 
-"Tomorrow is Friday. Dinner's my choice, and I intend to overdo it," Ian said.
+"Tomorrow is Friday. Dinner's my choice, and I intend to overdo it."
 
-"Overdoing it. I'm fully on board."
+"Overdo it. I'm fully on board."
 
 The walk to the car was short and the air was bitter, but the cold had no weight to it at all.
 
@@ -240,13 +240,13 @@ He stopped. The next words were lined up and ready, and they were *I miss being 
 
 "At forty. It arrived with the birthday. You organized the party, so technically the wisdom is your fault."
 
-Dessert came and went, the cherubs went on trumpeting at nobody, and Jay talked too much and laughed too easily. By the time Ian signed the bill, Jay's gloom had been talked out of him almost entirely.
+Dessert came and went, the cherubs went on trumpeting at nobody and Jay talked too much and laughed too easily. By the time Ian paid the bill, Jay's gloom had been talked out of him almost entirely.
 
 Ian drove him home. Jay sat flushed in the passenger seat and watched the streetlights slide past. The city looked like itself again instead of like a punishment.
 
 "Come to mine for lunch tomorrow," Ian said. "One o'clock. I'll cook."
 
-"One o'clock."
+"One o'clock. I'll be there."
 
 ## Scene 3: Climate Adjustment
 
