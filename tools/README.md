@@ -21,6 +21,7 @@ done
 | `style_metrics.py` | `style-metrics.md` | per-chapter style drift |
 | `continuity_check.py` | `continuity-report.md` | day/colour/name continuity |
 | `echo_check.py` | `echo-report.md` | distinctive-word echoes |
+| `diff_export.py` | `divergence-from-export.md` | drift from the Novelcrafter import |
 
 ## scan_text.py
 
@@ -118,6 +119,21 @@ and closest-together first.
 
 ```bash
 python3 tools/echo_check.py --out guidelines/echo-report.md
+```
+
+## diff_export.py
+
+Diffs the working manuscript against the frozen Novelcrafter export
+(`source/raw/<date>-novelcrafter-export/novel.md`) to track how far the text
+has drifted from the last import. Normalises away cosmetic differences (the
+export's `* * *` scene breaks vs the working text's scene titles, smart
+quotes, dashes, part-divider lines) so only real prose changes remain. Lists
+changed/added/removed paragraphs per chapter and flags chapters that exist
+only in the working copy. The human-readable summary lives in
+`EDITS-FROM-NOVELCRAFTER.md` at the repo root.
+
+```bash
+python3 tools/diff_export.py --out guidelines/divergence-from-export.md
 ```
 
 ## textlib.py
