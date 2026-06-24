@@ -154,47 +154,41 @@ The walk to the car was short and the air was bitter, but the cold had no weight
 
 On Friday morning, Luc came through the office doors carrying a wooden crate as if it held relics. He set it on the kitchen counter and waited until enough people had gathered before he opened it.
 
-"Friday delivery, everyone. Hand-harvested, single-orchard, certified organic. The man supplies twelve buildings in the entire country and we are one of them. Pear chips. Quince paste. Walnut shortbread made by an actual monastery. Show some reverence," Luc said.
+"Friday delivery, everyone. Hand-harvested, single-orchard, certified organic. The man supplies twelve buildings in the entire country and we are one of them. Pear chips. Quince paste. Walnut shortbread made by an actual monastery. Show some reverence."
 
 "I'm reverent. I'm extremely reverent. Hand it over," Kim said.
 
-Ela took a pear chip and held it to the light like a jewel. "He's right, this is art. Jay, come here, you love these things more than anyone," she said.
+Ela took a pear chip and held it to the light like a jewel. "He's right, this is art. Jay, come here, you love these things more than anyone."
 
 Jay came, looked into the crate, and sighed from the bottom of his soul.
 
-"It's very nice. For continental fruit. Two weeks ago I ate a mango that had been on the tree an hour earlier. A man cut it open in front of me with a machete. There was a sunrise involved," Jay said.
+"It's very nice. For continental fruit. Two weeks ago I ate a mango that had been on the tree an hour earlier. A man cut it open in front of me with a machete."
 
 The kitchen went silent for a second, and then it erupted.
 
 "One holiday. He goes on one holiday and comes back a food critic," Kim said.
 
-"These pears were harvested by hand, Jay. By hand. There is a waiting list," Luc said.
+"These pears were harvested by hand, Jay. There is a waiting list," Luc said.
 
-"The mango had no waiting list. The mango was free. It grew next to the breakfast terrace," Jay said.
+"The mango had no waiting list. It grew next to the breakfast terrace," Jay pouted.
 
 "Send him back. We can't afford his standards anymore," Max said.
 
 "I'll eat his share. My standards are fine," Tia said.
 
-"Technically the monastery shortbread also involves a sunrise. Monks get up early," Rin said.
-
-Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it and suffer, you spoiled creature. And for the record, I'm delighted. He's complaining again. Do you all realize he spent four days not complaining? It was terrifying," she said.
+Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it and suffer, you spoiled creature. And for the record, I'm delighted. He's complaining again. Do you all realize he spent four days not complaining? It was terrifying."
 
 "It was like working next to a houseplant," Kim said.
 
-"A sad houseplant," Luc said.
+"A sad houseplant," Luc added.
 
-"I was processing," Jay said.
+Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him impossible. 
 
-"Process the quince paste. It cost more than my first car," Luc said.
-
-Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him officially impossible. He carried the verdict back to his seat like a small trophy. Being mocked again was a kind of homecoming, and everyone in the room seemed to know it except the crate.
-
-The workday held together until about half past five, and then it stopped pretending. Jay read the same email three times without absorbing a word of it. He checked his watch. He looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk in slow motion: pens aligned, notebook squared, cables coiled. At ten to six he gave up on the tidying too and simply sat there, watching the door through the glass with the open patience of a dog at a window.
+At half past five, Jay checked his watch, then looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk. At ten to six he gave up on the tidying too and simply sat there, watching the door.
 
 He knew he wasn't being subtle. He had decided around half past five that he didn't care.
 
-Behind the glass, Ian saw all of it. He saw the watch-checking and the pen-aligning and the open staring, and he had to turn to his monitor and scroll through a document he wasn't reading so that nobody would catch him fighting down a smile. He lost the fight twice.
+Ian saw all of it, the watch-checking and the pen-aligning and the open staring, and he had to hide behind his monitor so that nobody would catch him fighting down a smile.
 
 At six o'clock exactly, Ian closed his laptop, switched off his desk lamp, and opened his office door.
 
@@ -204,31 +198,29 @@ At six o'clock exactly, Ian closed his laptop, switched off his desk lamp, and o
 
 "I noticed."
 
-The restaurant was Ian's choice, booked that morning, and it was far too much: gilded mirrors, red velvet, a ceiling painted with clouds and trumpeting cherubs.
+The restaurant was Ian's choice, and it was far too much: gilded mirrors, red velvet, a ceiling painted with clouds and trumpeting cherubs.
 
 "This room has more gold than the central bank," Jay said.
 
-"The kitchen is better than the décor. Ignore the cherubs and trust the chef," Ian said.
+"The kitchen is better than the décor. Ignore the cherubs and trust the chef."
 
 "One of the cherubs is pointing at me."
 
 "He's pointing at the wine list. Listen to him."
 
-Jay didn't actually mind the gold. Ian sat across from him, the week was over, the evening belonged to them and to nobody's calendar, and the room could have been wallpapered in cherubs for all he cared. The wine came, a 2011 from somewhere Jay couldn't have found on a map, and it was unusually, dangerously good. He said so after the first glass. He said so again after the second, with more conviction and less judgment, and Ian refilled the third without comment.
+Jay didn't actually mind the gold. Ian sat across from him, the week was over, the evening belonged to them and the room could have been wallpapered in cherubs for all he cared. The wine came and it was unusually good. He said so after the first glass. He said so again after the second, with more conviction.
 
 The warmth of the wine matched a warmth that had been in him all day, and somewhere in the middle of the main course the two warmths joined forces and unlocked his mouth.
 
 "Can I say something silly?"
 
-"You ask permission only when it's worth hearing. Go on," Ian said.
+"You don't need to ask permission. Go on."
 
-"I keep telling everyone the trip was wonderful, and it's true, but it's the wrong word. Wonderful is what you say about weather. It wasn't the beaches. I mean, the beaches were— fine, the beaches were perfect, but that's not it. It was that nothing out there was divided. No office, no titles, no door between your desk and mine, no clock deciding which hours were allowed. We just existed in the same place all day, and it was the easiest thing I have ever done. Easier than sleeping. And then Monday I sat down at my desk and the whole floor felt like a waiting room for a train that never comes, and I felt so ungrateful, because I love that job. You know I love it. It saved my life, that job. But all week I kept thinking that out there everything was simpler, and softer, and there were no rules about—"
+"I keep telling everyone the trip was wonderful, and it's true, but it's the wrong word. Wonderful is what you say about weather. It wasn't the beaches. I mean, the beaches were fine, the beaches were perfect, but that's not it. It was that nothing out there was divided. No office, no titles, no door between your desk and mine, no clock deciding which hours were allowed. And then Monday I sat down at my desk and the whole floor felt like a waiting room for a train that never comes, and I felt so ungrateful, because I love that job. You know I love it. But all week I kept thinking that out there everything was simpler and there were no rules about—"
 
 He stopped. The next words were lined up and ready, and they were *I miss being yours*, and he looked at them for a long second and put them down.
 
-"I miss all of it. That's the speech. I'm aware of how I sound. The team took a vote this morning, it's official, I'm impossible," Jay said.
-
-Ian didn't laugh and didn't reach for an easy joke. He turned his glass slowly on the white cloth and let the silence sit until it was clear he had actually heard everything.
+"I miss all of it. That's the speech. I'm aware of how I sound. The team took a vote this morning, it's official, I'm impossible."
 
 "You're not being silly. Grieving the end of something good is the correct response to it ending. The only people who skip that grief are the ones who didn't enjoy anything in the first place, and I wouldn't wish that condition on you," Ian said.
 
@@ -238,31 +230,23 @@ Ian didn't laugh and didn't reach for an easy joke. He turned his glass slowly o
 
 "And Monday through Wednesday I was useless."
 
-"Monday through Wednesday you cleared three hundred emails, rebuilt my December, and survived the Velder file. If that's your useless, I should be frightened of your good weeks. The gloom passes, Jay. Ordinary life isn't a punishment. It feels like one for a week or two after something better, and then it becomes bearable again, and then, with some effort, it becomes good. It's an engineering problem, not a moral failing," Ian said.
+"Monday through Wednesday you cleared three hundred emails, rebuilt my December, and survived the Velder file. If that's your useless, I should be frightened of your good weeks. The gloom passes, Jay. Ordinary life isn't a punishment. It feels like one for a week or two after something better, and then it becomes bearable again, and then, with some effort, it becomes good. It's an engineering problem, not a moral failing."
 
 "An engineering problem."
 
 "Everything beautiful doesn't have to stay sealed on that island. Some of it travels. We came home with a Friday and a Saturday, didn't we? They crossed the border without any trouble at all."
 
-Jay looked at the tablecloth for a while. The wine had loosened everything in him, and what rose up wasn't desperation anymore but something quieter and easier to hold.
+"When did you get wise."
 
-"When did you get wise," Jay said.
+"At forty. It arrived with the birthday. You organized the party, so technically the wisdom is your fault."
 
-"At forty. It arrived with the birthday. You organized the party, so technically the wisdom is your fault," Ian said.
+Dessert came and went, the cherubs went on trumpeting at nobody, and Jay talked too much and laughed too easily. By the time Ian signed the bill, Jay's gloom had been talked out of him almost entirely.
 
-"I'll add it to the invoice."
-
-"Drink your water. The 2011 is winning."
-
-Dessert came and went, and the cherubs went on trumpeting at nobody, and Jay talked too much and laughed too easily and was allowed both. By the time Ian signed the bill, Jay's gloom had been talked out of him almost entirely, leaving only the soft tiredness that comes after saying true things out loud.
-
-Ian drove him home through the wet streets. Jay sat flushed and quiet in the passenger seat and watched the streetlights slide past, still a little exposed, the way one is after admitting too much, but no longer aching with it. The city looked like itself again instead of like a punishment.
+Ian drove him home. Jay sat flushed in the passenger seat and watched the streetlights slide past. The city looked like itself again instead of like a punishment.
 
 "Come to mine for lunch tomorrow," Ian said. "One o'clock. I'll cook."
 
 "One o'clock."
-
-The car stopped in front of his building. Jay climbed the stairs warm and slightly unsteady, and the apartment that had felt hollow on Sunday felt only dark and ordinary now, which was a different thing entirely. He didn't turn on all the lights to fill it. He didn't need to. Tomorrow was theirs too, lunch at one and the afternoon after it, and he fell asleep before he found anything to miss.
 
 ## Scene 3: Climate Adjustment
 
