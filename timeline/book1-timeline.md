@@ -2,7 +2,7 @@
 
 **Canonical years:** 2016–2017  
 **Canonical start date:** Monday, August 1, 2016 (Jay's first day at Turner & Associates)  
-**Chapters covered:** 1–10 — Arc 1 (Ch 1–5: first day → end of three-month probation) and Arc 2 (Ch 6–10: permanent hire → six-month review).
+**Chapters covered:** 1–15 — Arc 1 (Ch 1–5: first day → end of probation), Arc 2 (Ch 6–10: permanent hire → six-month review), and Arc 3 (Ch 11–15: February rush → spring).
 
 > **Why 2016 works.** The text fixes two hard anchors: Jay's first day is explicitly a **Monday** ("The following Monday morning…" / Leo's "Monday morning. Nine o'clock sharp."), and his probation review is "**Monday morning**" exactly "**three months**" later. In 2016, **August 1 is a Monday** *and* **October 31 is a Monday** — they bracket exactly 13 weeks (91 days = 3 calendar months). Both anchors fall into place with no fudging. (In 2017, by contrast, August 1 is a Tuesday, which would break the "first day = Monday" line.)
 >
@@ -377,6 +377,189 @@ Milestone: Six-month review; Jay declines the analyst promotion
 
 ---
 
+## Chapter 11: February rush
+
+### Scene 1: Snow and scent
+Start Date: Wednesday, February 1, 2017 (est.)  
+Day: early February  
+Duration: 1 day  
+February opens with a heavy snowstorm that snarls Jay's commute; sharing the elevator with Ian, he becomes acutely, newly aware of his cologne. He brushes the reaction aside as the winter workload peaks.
+
+### Scene 2: New coat
+Start Date: Friday, February 3, 2017 (est.)  
+Day: Friday–Sunday  
+Duration: 3 days  
+Bitter cold defeats Jay's old coat, so on Saturday he buys a quality wool overcoat and scarf despite his frugal instincts. The gray weekend passes in solitary work.
+
+### Scene 3: Company card
+Start Date: Thursday, February 9, 2017 (est.)  
+Day: second week of February  
+Duration: 1 day  
+Deep in "strategy season," Ian hands Jay a company credit card to use at his discretion, and Jay orders an elevated team dinner that lifts everyone's morale. Ian joins the team in the kitchen, deviating from his strict meal plan.  
+Milestone: Jay receives the company credit card
+
+### Scene 4: Planning
+Start Date: mid-February 2017 (est.)  
+Day: mid-February  
+Duration: ~1 week  
+A stream of HR emails — the May retreat, the April quarterly party, vacation requests — keeps surfacing the retreat Jay isn't ready to contemplate. He decides to match his own time off to Ian's, once Ian submits any.
+
+### Scene 5: Evening work
+Start Date: Friday, February 17, 2017 (est.)  
+Day: Friday (evening)  
+Duration: same evening  
+Working late alone together has become routine; Jay anticipates Ian's needs while Ian lingers to postpone his empty penthouse. Leo drops by and needles Ian about how much more relaxed Jay has made him.
+
+---
+
+## Chapter 12: Stormy weather
+
+### Scene 1: Stormy morning
+Start Date: Tuesday, February 21, 2017 (est.)  
+Day: Tuesday  
+Duration: 1 day  
+A violent ice storm and power outage leave Jay drenched and forty-five minutes late for the first time in nearly seven months; in desperation he buys a full designer outfit from Hathaway's Menswear. He changes in the executive bathroom, unaware of how the new clothes affect Ian.
+
+### Scene 2: Discomfort
+Start Date: Tuesday, February 21, 2017  
+Day: Tuesday  
+Duration: same day  
+Colleagues react to Jay's transformed look with compliments that make him deeply self-conscious, while Ian finds concentration impossible. Both go home unsettled.
+
+### Scene 3: Fever
+Start Date: Wednesday, February 22, 2017  
+Day: Wednesday → following Sunday  
+Duration: ~1.5 weeks  
+A scratchy throat on Wednesday becomes a serious flu; from Thursday Jay is bedridden and alone, diagnosed by telehealth and ordered off work for at least a week. The fever breaks Sunday, but his work phone dies and cuts him off.  
+Milestone: Jay's flu — first extended sick leave (from Thursday, February 23)
+
+### Scene 4: Worry
+Start Date: Monday, February 27, 2017  
+Day: Monday–Friday  
+Duration: ~1 week  
+With Jay unreachable, Ian grows frantic — calling repeatedly, imagining the worst, realizing how necessary Jay has become. On Friday Jay revives his phone and texts that he'll return Monday, flooding Ian with relief.
+
+### Scene 5: Recovery
+Start Date: Monday, March 6, 2017  
+Day: Monday  
+Duration: 1 day (+ recovery week)  
+Jay returns pale and thin; Ian presents a lavish "standard procedure" care package and insists he keep strict regular hours until fully recovered. The gesture warms Jay, but the illness has left him subdued and freshly aware of his isolation.  
+Milestone: Jay returns from sick leave; Ian's care package
+
+---
+
+## Chapter 13: Ides of March
+
+### Scene 1: Lunch discord
+Start Date: Monday, March 13, 2017 (est.)  
+Day: Monday–Wednesday  
+Duration: ~1 week  
+Back at full strength in his second week, Jay rejoins the team lunches to find everyone's nerves frayed by winter and workload, bickering over where to eat. Ian's unchanging routine is the one steady thing.  
+Note: Jay's first week back (Mar 6–10) he ate at his desk, avoiding the cold.
+
+### Scene 2: Failure
+Start Date: Thursday, March 16, 2017  
+Day: Thursday  
+Duration: 1 day  
+A lawyer's call reveals Jay misfiled a legal notice and missed the Lagerstrom Holdings compliance deadline — due the day before, the Ides. Ian corrects him gently, but Jay spirals into shame and self-doubt.  
+Milestone: Jay's missed compliance deadline (Lagerstrom)
+
+### Scene 3: Hot chocolate with rum
+Start Date: Friday, March 17, 2017  
+Day: Friday  
+Duration: 1 day  
+Seeing Jay crumbling, Luc walks him to a cozy café for spiked hot chocolate and shares his own disastrous rookie mistake. The reassurance loosens the knot of anxiety in Jay's chest.
+
+### Scene 4: Justice
+Start Date: Friday, March 24, 2017 (est.)  
+Day: late March  
+Duration: ~1 week  
+As Jay finds his footing again, Ian quietly completes a three-month investigation into Orrey Capital Partners — Cruver's employer — and finalizes a memo recommending termination, to reach Turner Senior on Monday.  
+Note: The chapter calls the gala "three months ago"; from a January gala it is closer to two — see flags.
+
+### Scene 5: Orrey Fallout
+Start Date: Monday, March 27, 2017  
+Day: Monday–Friday  
+Duration: ~1 week  
+Word spreads that Turner & Associates has terminated Orrey amid a federal investigation; Ian confirms it at a Tuesday team meeting, and by Friday it is national news. Jay feels vindictive relief that he'll never face Cruver again.  
+Milestone: Orrey Capital Partners terminated (Cruver's employer under investigation)
+
+---
+
+## Chapter 14: Spring
+
+### Scene 1: Quaterly reports
+Start Date: Monday, April 3, 2017  
+Day: Monday → following Tuesday  
+Duration: ~1.5 weeks  
+April's first quarter-end brings a brutal reporting crunch — seven-day weeks, midnight finishes, a full Saturday in the office — that finally teaches Jay why the bonuses are so large. Ian submits the final file Tuesday at 6 p.m.  
+Milestone: Q1 quarterly reports submitted (Tuesday, April 11); quarterly bonus
+
+### Scene 2: Retreat arrangement
+Start Date: Wednesday, April 12, 2017 (est.)  
+Day: mid-April  
+Duration: 1 day  
+As HR pushes "mentor" rooming for the May retreat, Leo engineers it so Ian and Jay will share a room. Ian protests furiously in private but, manipulated by his own protective instincts, gives in.  
+Milestone: Retreat rooming — Ian and Jay paired (Leo's scheme)
+
+### Scene 3: Spring has sprung
+Start Date: mid-to-late April 2017 (est.)  
+Day: mid-to-late April  
+Duration: several days  
+Jay stashes a spare suit at the office, joins a modest neighborhood gym, and starts training with Rus. His mother calls to ask him home for Ema's middle-school graduation at the end of June.  
+Note: Ema's end-of-June graduation is set up here for a later payoff.
+
+### Scene 4: Confidence
+Start Date: Friday, April 7, 2017 (est.)  
+Day: Friday (evening)  
+Duration: 1 day  
+At the spring quarterly party Jay is entirely at ease — eating well, joking with the team, neither snubbed nor singled out by Ian. Watching from across the room, Ian feels ashamed of the coldness he showed at Jay's first such party.  
+Note: Placement is tight against the Q1 crunch and pre-Easter cold snap — see flags.
+
+### Scene 5: Coffee gesture
+Start Date: Monday, April 10, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+A sudden cold snap sours the team's mood, so Jay uses the company card to bring everyone seasonal coffees — and, on impulse, orders Ian a sweet maple-bourbon latte unlike his usual black. Ian drinks the whole thing, touched by the unguarded thoughtfulness.
+
+---
+
+## Chapter 15: Inferiority
+
+### Scene 1: Industry reading
+Start Date: Monday, April 10, 2017 (est.)  
+Day: Monday–Thursday  
+Duration: ~4 days  
+The cold snap drags on as the four-day Easter weekend approaches and the team trades holiday plans. Jay's intention to spend it on "industry reading" provokes affectionate horror from his colleagues.
+
+### Scene 2: Easter
+Start Date: Friday, April 14, 2017  
+Day: Friday–Monday  
+Duration: 4 days  
+Jay spends the Easter long weekend alone, working through advanced economics texts to quiet his anxiety about his modest credentials, pausing only for a grandmother-style holiday breakfast and his mother's call. He finishes one book and starts a harder one.  
+Milestone: Easter weekend (Jay studies alone)
+
+### Scene 3: Return to normalcy
+Start Date: Tuesday, April 18, 2017  
+Day: Tuesday  
+Duration: 1 day  
+The office returns refreshed to a sustainable pace; colleagues swap Easter stories and tease Jay for studying. He stays late again, unwilling to leave Ian working alone.
+
+### Scene 4: Comfortable warmth
+Start Date: late April 2017 (est.)  
+Day: late April  
+Duration: ~1 week  
+Spring settles in: Jay leads the team to Willow & Sage, sits in the park with strange ice cream, keeps up his Tuesday gym sessions with Rus, and reads management books to understand Ian's leadership. He feels a contentment he has never known.
+
+### Scene 5: Intrusion
+Start Date: Tuesday, April 25, 2017 (est.)  
+Day: Tuesday (evening)  
+Duration: same evening  
+After Jay leaves for the gym, Ian lingers at his desk and finds his annotated economics textbook; an hour of reading Jay's humble, curious margin notes — one puzzling over Ian's own foresight — makes Ian finally admit his feelings have outgrown his control.  
+Milestone: Ian reads Jay's margin notes — his attachment crystallizes (end of Arc 3)
+
+---
+
 ## Summary of Major Milestones
 
 | Date | Milestone |
@@ -401,6 +584,14 @@ Milestone: Six-month review; Jay declines the analyst promotion
 | Tue, Jan 3, 2017 | $80,000 year-end bonus |
 | Sat, Jan 21, 2017 (est.) | Annual black-tie gala; Cruver harassment |
 | ~Feb 1–6, 2017 | Six-month review; Jay declines analyst promotion (end of Arc 2) |
+| ~Thu, Feb 9, 2017 | Jay receives the company credit card |
+| Thu, Feb 23, 2017 | Jay's flu — first extended sick leave (returns Mon, Mar 6) |
+| Wed, Mar 15, 2017 | Missed Lagerstrom compliance deadline (the Ides) |
+| Mon, Mar 27, 2017 | Orrey Capital terminated; investigation public (Cruver's employer) |
+| Tue, Apr 11, 2017 | Q1 quarterly reports submitted; quarterly bonus |
+| mid-Apr 2017 | Retreat rooming — Ian & Jay paired (Leo's scheme) |
+| Apr 14–17, 2017 | Easter weekend (Jay studies alone) |
+| ~Tue, Apr 25, 2017 | Ian reads Jay's margin notes (end of Arc 3) |
 
 ---
 
@@ -425,3 +616,11 @@ Places where the prose resists a clean calendar, ordered roughly by how much the
 8. **Opening scene has no date.** Ch1 S1 (the Ian/Leo conversation) is dated only by "the following Monday." Placed at **Fri Jul 29**; "a couple of days before" is approximate (Fri→Mon is three days). A Thursday (Jul 28) reading works equally well.
 
 9. **Six-month review wording.** Ch10 S5 sets the review "at the beginning of February" and "six months since you started" — consistent with the Aug 1 start (Feb 1, 2017). Review dated ~Feb 1–2, with Jay's decision the following Monday (~Feb 6).
+
+10. **April is over-compressed (Ch14–15).** With Easter fixed at April 14–16, 2017, a lot piles up: the Q1 reporting crunch (Apr 3–11), the spring quarterly party, the "spring has sprung" gym start, and a pre-Easter cold snap (Apr 10–13) all jostle in the same two weeks. In particular the quarterly party (placed Fri Apr 7 to keep the party → Monday-cold-snap → Easter chain intact) lands *during* the crunch the chapter says had already eased. *Cleanest fix:* move the quarterly party to late April, after Easter, which relieves the pinch and matches the "workload finally easing" framing.
+
+11. **"Three months" since the gala (Ch13 S4).** Ian's Orrey investigation is said to have run "three months" since Cruver cornered Jay "at the company gala three months ago." From a late-January gala to late March is closer to two months. Loose figure; tighten once the gala date is finalized.
+
+12. **Ch10/Ch11 overlap in early February.** Ch10 S5's promotion thread (review ~Feb 1, decision the following Monday ~Feb 6) overlaps Ch11's opening snowstorm week ("February began"). Not a contradiction — two threads sharing early February; the company-card "second week of February" cue (Thu Feb 9) keeps Ch11 on track.
+
+13. **Soft February and late-April dating.** Ch11's snow/coat/company-card sequence and Ch15's late-April scenes carry weekday cues ("second week of February," Tuesday gym days) but few hard dates; values are reasoned from those cues plus the Easter and quarterly-report anchors.
