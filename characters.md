@@ -403,6 +403,34 @@ Recognize Jay by name after he establishes himself at the company. Friendly wave
 ### Cleaning Staff
 Acknowledge Jay with friendly waves. Part of the building community that Jay makes effort to know by name.
 
+### Named walk-ons (one-time name registry)
+
+Characters who appear in a single scene or arc but are given a name. Logged
+here so a name isn't accidentally reused for a second person (easy to do with
+the three-letter first-name convention). Check this list — and all names
+above — before naming a new character. Surfaced by `tools/continuity_check.py`.
+
+- **Sal** — B1 ch05. From risk management; noticed watching at an event.
+- **Meg Randon** — B1 ch10. Guest from Pacific Investments at a gala; Max introduces her to Jay.
+- **Min** — B1 ch14. A cousin, mentioned at a family gathering.
+- **Ina** — B2 ch21. Weathered diving instructor on the Songbird Islands trip; knows Zoe well.
+- **Zac** — B2 ch24. Guest who has too much to drink; Mac steps in to manage him.
+- **Ash** — B2 ch25. Talkative fellow guest/diver who befriends Jay, monologuing about local marine life.
+- **Roc** — B2 ch26. Competitor at a games night (alongside Gav and Lim).
+- **Lim** — B2 ch26. Games-night competitor; noted for "college experience."
+- **Ana** — B2 ch27. Woman with a bright laugh at an event, attentive to Luc. Name uncertain in-text ("might have been named Ana") — reusable if desired.
+- **Kia** — B2 ch34. A woman from legal that Luc is flirting with at a gathering. (Distinct from Tia Larson.)
+- **Dan Mercer** — B2 ch33. Senior partner at an external firm Jay meets with.
+- **Liu Serrano** — B2 ch33. Operations director, same meeting as Dan Mercer.
+- **Mos Parker** — B2 ch33. Present at the same external meeting.
+- **Jasper Bank** — B2 ch35. Caller who formally notifies Jay of something.
+- **Lea** — B2 ch36. Colleague who helps Jay interview job candidates.
+- **Ms. Miller** — B2 ch40. HR representative at Gal's complaint hearing.
+- **Mr. Oakford** — B2 ch40. Security representative at the same hearing.
+
+> ℹ️ The earlier *Miller* surname clash was resolved: the ch33 senior partner
+> was renamed **Dan Mercer**, leaving **Ms. Miller** (HR, ch40) the sole Miller.
+
 ---
 
 ## Character Relationship Dynamics
