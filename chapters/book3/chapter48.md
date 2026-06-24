@@ -1,56 +1,52 @@
-# Chapter 48: Undertow
+ # Chapter 48: Undertow
 
 ## Scene 1: The Palm House
 
 The elevator opened on the thirty-fourth floor at twenty past eight, and Jay had not taken ten steps before Ela rose from her desk and blocked the corridor.
 
-"There he is. Look at that color. Ten days on an island and you come back like an advertisement for vitamins," she said.
+"There he is. Look at that color. You come back like an advertisement for vitamins," she said.
 
-"It was sunny," Jay said.
+"It was sunny," Jay responded.
 
-"It was sunny. Ten days at a tropical resort and the full report is: it was sunny," Ela said.
+"Ten days at a tropical resort and the full report is: it was sunny."
 
-Kim rolled his chair out of his cubicle. "Forget the sun. Did you eat anything strange? Tell me you ate something strange," he said.
+Kim rolled his chair out of his cubicle. "Forget the sun. Did you eat anything strange? Tell me you ate something strange."
 
-"There was a fruit shaped like a hand grenade. I didn't ask questions, I just ate it," Jay said.
+"There was a fruit shaped like a hand grenade. I didn't ask questions, I just ate it."
 
-"That's my boy," Kim said.
+"That's my boy."
 
-Max came around the partition with his coffee. "Welcome back to the salt mines. Now the real question: did you behave yourself out there? People go to those resorts and come home engaged. Or arrested," he said.
+Max came around the partition with his coffee. "Welcome back to the salt mines. Now the real question: did you behave yourself out there? People go to those resorts and come home engaged."
 
-"Neither. I swam and I read books," Jay said.
+"I swam and I read books."
 
 "Alone? Ten days of beaches and sunsets and not one person to share them with? You expect me to believe you sat there like a monk," Ela said.
 
-Jay flushed. "I read four books and I have a tan line from my watch. That's the entire scandal," he said.
+"I read four books and I have a tan line from my watch. That's the entire scandal."
 
-"You're wasted on this world," Ela said.
-
-Ray spoke without looking away from his monitor. "Your queue is a war zone. I triaged the worst of it, but the Velder file is yours and I want no part of it," he said.
-
-"Thank you, Ray. I mean that," Jay said.
+"You're wasted on this world."
 
 "We preserved your desk as a historical site. Tia wanted to annex it. There were negotiations," Rin said.
 
-"There were no negotiations," Tia said.
+"There were no negotiations," Tia protested.
 
 "Ignore them all. You look rested, and we're glad you're back," Liv said.
 
-"The trip was wonderful. Truly. The brutal part is this," Jay said. He pointed at his monitor, where the unread count had four digits, and the group gave a collective groan of sympathy and scattered to their desks.
+"The trip was wonderful. Truly. The brutal part is this," Jay pointed at his monitor, where the unread count had four digits, and the group gave a collective groan of sympathy and scattered to their desks.
 
 Ian arrived at half past eight exactly. The room straightened by reflex.
 
 "Good morning," Ian said.
 
-"Good morning. Welcome back, Mr. Hagen," Amy said.
+"Good morning. Welcome back." Amy said.
 
-"Thank you. The Velder call moved to eleven. Amy, I'll need the projections before ten," Ian said.
+"Thank you. The Velder call moved to eleven. Amy, I'll need the projections before ten."
 
-That was the entire interrogation Ian received. No one asked where he had been, or with whom, or whether his two weeks and Jay's two weeks had anything to do with each other. He crossed the floor toward his office, and only Jay caught the brief look he sent on the way. Jay answered it with a smile and turned back to his thousand emails. He never said he had gone with Ian. Nobody asked, and the not-asking sat easier than any answer would have.
+That was the entire interrogation Ian received. No one asked where he had been, or with whom, or whether his two weeks and Jay's two weeks had anything to do with each other. He crossed the floor toward his office, and only Jay caught the brief look he sent on the way. Jay answered it with a smile and turned back to his thousand emails
 
-The office had not changed. The same glass walls, the same carpet, the same grid of meetings filling the calendar to the horizon. For two years this floor had meant safety. It had meant purpose, a desk that belonged to him, work he was good at among people who wished him well. Now the air tasted recycled and the light through the windows was gray, and after ten days of sea wind and Ian's company, the thirty-fourth floor felt like a sentence to serve. Jay was ashamed of the thought and could not get rid of it.
+The office had not changed. The same walls, the same carpet, the same grid of meetings filling the calendar to the horizon. For two years this floor had meant safety. It had meant purpose, a desk that belonged to him, work he was good at among people who wished him well. Now the air tasted recycled and the light through the windows was gray, and after ten days of sea wind and Ian's company, the thirty-fourth floor felt like a sentence to serve. Jay was ashamed of the thought and could not get rid of it.
 
-He worked anyway. Two weeks away meant a mountain that could not wait: the regulator response, the December schedule, the Velder reconciliation, three hundred messages that needed actual decisions. He answered them all. He rebuilt Ian's calendar. He was polite in every meeting and accurate in every file, and the island color drained out of him by Wednesday, and what remained was pale and quiet and functioning.
+He worked. Two weeks away meant a mountain that could not wait: the regulator response, the December schedule, the Velder reconciliation, three hundred messages that needed actual decisions. He answered them all. He rebuilt Ian's calendar. He was polite in every meeting and accurate in every file, and the island color drained out of him by Wednesday.
 
 Ian noticed at once.
 
@@ -58,107 +54,101 @@ On Monday evening he stopped at Jay's desk. "The annex can wait until tomorrow. 
 
 "I'm almost through it," Jay said. He went home at nine.
 
-On Tuesday a cup of coffee appeared beside his keyboard without a word. An hour later Ian passed again. "Kim claims that was a rare Ethiopian roast. If it was terrible, blame him," he said.
+On Wednesday Ian came by at seven in the evening. "You've reconciled that column three times."
 
-"It was good. Thank you," Jay said. The cup sat half full and cold beside the keyboard. He had forgotten it existed.
+"Better three times than zero."
 
-On Wednesday Ian came by at seven in the evening. "You've reconciled that column three times," he said.
+Each time Jay answered just enough to be polite, and each time Ian watched him a moment longer before walking away. Jay saw the watching and could not summon the will to perform any better. He wasn't falling apart. He was simply running on the minimum, and he hated that Ian could see it.
 
-"Better three times than zero," Jay said.
-
-The joke was correct in shape and hollow inside, and they both knew it. Each time Jay answered just enough to be polite, and each time Ian watched him a moment longer before walking away. Jay saw the watching and could not summon the will to perform any better. He wasn't falling apart. He was simply running on the minimum, and he hated that Ian could see it.
-
-At six o'clock on Thursday, Ian closed his laptop. The click was quiet, but Jay looked up at once, because in two years Ian had never closed his laptop at six.
+At six o'clock on Thursday, Ian closed his laptop. The click was quiet, but Jay looked up at once, because in two years Ian almost never closed his laptop at six.
 
 "Get your coat. We're leaving," Ian said.
 
-"The response letter isn't finished. I still have the annex tables and the—" Jay said.
+"The response letter isn't finished. I still have the annex and the—"
 
-"There is always work left. That is the defining property of work. Coat," Ian said.
+"There is always work left. That is the defining property of work. Coat."
 
-"Where are we going?" Jay asked.
+"Where are we going?"
 
-"Somewhere warm," Ian said.
+"Somewhere warm." 
 
-In the car Jay tried twice more to mention the annex, and both times Ian turned the radio up one notch, and by the third attempt Jay gave up and almost smiled. The car climbed out of the center and into the hillside district above the river, past walled gardens, old villas, bare chestnut trees. Ian parked on a narrow street in front of an iron gate. Behind the gate, between dark hedges, stood a long glasshouse lit from within. It glowed green and gold against the November dark.
+In the car Jay tried twice more to mention the annex, and both times Ian turned the radio up one notch, and by the third attempt Jay gave up. The car climbed out of the center and into the hillside district above the river, past walled gardens, old villas, bare chestnut trees. Ian parked on a narrow street in front of an iron gate. Behind the gate, between dark hedges, stood a long glasshouse lit from within. It glowed green and gold against the November dark.
 
 "What is this?" Jay asked.
 
-"The Palm House. Built in 1888 for a banker's wife who missed the south. The city owns it now. Almost nobody remembers it exists, which is its best feature," Ian said.
+"The Palm House. Built in 1888 for a banker's wife who missed the south. The city owns it now. Almost nobody remembers it exists, which is its best feature."
 
-"I've lived here nine years and I've never heard of it," Jay said.
+"I've lived here nine years and I've never heard of it."
 
-"Good. Then it's working," Ian said.
+"Good. Then it's working."
 
-The door closed behind them and the cold ended. The air inside was warm and heavy and smelled of soil, wet stone, and leaves. White iron arches carried the glass roof high overhead. Stone paths ran dark with moisture between beds of palms and bananas and things Jay had no names for, and water dripped somewhere out of sight.
+The door closed behind them and the cold ended. The air inside was heavy and smelled of soil and leaves. Stone paths ran dark with moisture between beds of palms and bananas and things Jay had no names for, and water dripped somewhere out of sight.
 
 For the first minutes Jay said nothing. He walked slowly and looked up a great deal. Ian did not push him. He kept half a step behind and let the place do the work.
 
 Then Jay stopped at a small brass label at the foot of a palm.
 
-"This one was planted in 1903. It's older than everyone I know. It survived two wars inside a glass building," Jay said.
+"This one was planted in 1903. It's older than everyone I know. It survived the war inside a glass building."
 
-"There's a photograph in the entry hall from 1946. Half the panes were boarded over and the gardeners kept the furnace running anyway," Ian said.
+"There's a photograph in the entry hall from 1946. Half the panes were boarded over but the gardeners kept the furnace running."
 
-"How did they even heat this back then? It's all glass and it's freezing out there," Jay said.
+"How did they even heat this back then? It's all glass and it's freezing out there."
 
-"Coal furnaces and iron pipes under the paths. The system still runs, modernized. You're standing on the heating right now," Ian said.
+"Coal furnaces and iron pipes under the paths. The system still runs, modernized. You're standing on the heating right now."
 
 Jay looked down and stepped aside as if he had been impolite to the floor, and then he laughed at himself. It was his first real laugh of the week.
 
-After that he stopped at every label. In the citrus room the trees stood in wooden tubs older than the trees themselves, and small lemons and bitter oranges hung among the dark leaves.
+After that he stopped at every label. In the citrus room the trees stood in wooden tubs, and small lemons and bitter oranges hung among the dark leaves.
 
 "Are these real? Is anyone allowed to pick them?" Jay asked.
 
-A gardener with a watering can answered from the next aisle. "The bitter oranges go into marmalade for the café in January. The lemons we mostly defend from visitors," he said.
+A gardener with a watering can answered from the next aisle. "The bitter oranges go into marmalade for the café in January. The lemons we mostly defend from visitors."
 
-"I wasn't going to," Jay said.
+"I wasn't going to."
 
 "You were thinking about it," Ian said.
 
-The fern room lay behind a low door at the far end: green light, dripping water, benches tucked into corners between the fronds. Jay touched a railing slick with condensation and read about a tree fern that had arrived from the southern hemisphere in 1921 packed in a crate of damp moss. He asked how often the panes broke, and whether the palms ever reached the roof, and what happened when they did, and Ian answered what he knew and once simply said he didn't.
+The fern room lay behind a low door at the far end. Jay touched a railing slick with condensation and read about a tree fern that had arrived from the southern hemisphere in 1921 packed in a crate of damp moss. He asked how often the panes broke, and whether the palms ever reached the roof, and what happened when they did, and Ian answered what he knew and once simply said he didn't.
 
 "Ask the gardener. He's been here longer than the palms, by his own account," Ian said.
 
 By the time they circled back toward the entrance, Jay was flushed from the heat and his hair curled at the edges from the damp. He sat on a bench between two tree ferns and looked up at the dark glass and the leaves.
 
-"I've been awful all week, haven't I," Jay said.
+"I've been awful all week, haven't I."
 
-"You've been quiet," Ian said.
+"You've been quiet."
 
-"I've been gray. I came back from the best holiday of my life and spent four days mourning it like something died. Over what? November. Emails. The fact that holidays end. Everyone on earth knows holidays end," Jay said. He laughed. "Apparently I needed a tropical greenhouse to remember it."
+"I came back from the best holiday of my life and spent four days mourning it like something died. Over what? November. Emails. The fact that holidays end. Everyone on earth knows holidays end. Apparently I needed a tropical greenhouse to remember it."
 
 "The café here serves dinner until nine. The soup is decent and they candy the orange peel from their own trees for the dessert. We should eat before the kitchen closes," Ian said.
 
-That was all he said about it, and it was enough. Jay understood the whole gesture without a word of it being explained, and he was grateful that Ian didn't explain it, because an explanation would have made it smaller.
+That was all he said about it. Jay understood the whole gesture without a word of it being explained.
 
-The café occupied a corner of the conservatory under the palms: marble tables, bentwood chairs, lamps with green glass shades. They ate potato soup with dark bread, and the dessert came as cream under a layer of candied bitter-orange peel. Jay declared it the best thing he had eaten since the islands.
-
-"Don't tell the islands," Ian said.
+They ate potato soup in the café, and the dessert came as cream under a layer of candied bitter-orange peel. Jay declared it the best thing he had eaten since the islands.
 
 "How do you know this place?" Jay asked.
 
-"I found it the winter I was twenty-six. The first winter after my family. It was the warmest place in the city that cost two euros and wasn't a shopping center. I came every Sunday until spring," Ian said.
+"I found it the winter I was twenty-six. The first winter after my family. It was the warmest place in the city that didn't cost much and wasn't a shopping center. I came every Sunday until spring."
 
-Jay turned his cup slowly on its saucer. "Did it help?" he asked.
+"Did it help?"
 
-"It was warm and green and nobody here knew me. Yes. It helped," Ian said.
+"It was warm and green and nobody here knew me. Yes. It helped."
 
-"I really needed this," Jay said.
+"I really needed this."
 
-"You needed somewhere green. The alternative was buying you a fern for your desk," Ian said.
+"You needed somewhere green. The alternative was buying you a fern for your desk."
 
-"I would have named the fern and grieved when I killed it. This was the better plan," Jay said.
+"I would have named the fern and grieved when I killed it. This was the better plan."
 
-They stepped out through the iron gate at nine. The cold met them at once, sharp after two hours of summer, and frost already silvered the parked cars under the streetlamp. Jay shivered and pulled his coat closed, and he was smiling while he did it.
+They stepped out through the iron gate at nine. The cold met them at once, sharp after two hours of summer, and frost already silvered the parked cars under the streetlamp. Jay shivered and pulled his coat closed.
 
 "Back to winter," Jay said.
 
-"Tomorrow is Friday. Dinner's my choice this time, and I intend to overdo it," Ian said.
+"Tomorrow is Friday. Dinner's my choice, and I intend to overdo it," Ian said.
 
-"Overdoing it. I'm fully on board," Jay said.
+"Overdoing it. I'm fully on board."
 
-The walk to the car was short and the air was bitter, and for the first time all week the cold had no weight to it at all.
+The walk to the car was short and the air was bitter, but the cold had no weight to it at all.
 
 ## Scene 2: Friday, Restored
 
