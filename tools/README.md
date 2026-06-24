@@ -23,6 +23,10 @@ done
 | `echo_check.py` | `echo-report.md` | distinctive-word echoes |
 | `diff_export.py` | `divergence-from-export.md` | drift from the Novelcrafter import |
 
+`reformat_chapters.py` is the one exception to "never touch the prose": it
+rewrites the heading/spacing **structure** of `chapters/book*/*.md` (not the
+words). See its section below.
+
 ## scan_text.py
 
 Scans the manuscript for repeating-phrase AI tics, going beyond a plain
@@ -134,6 +138,36 @@ only in the working copy. The human-readable summary lives in
 
 ```bash
 python3 tools/diff_export.py --out guidelines/divergence-from-export.md
+```
+
+## reformat_chapters.py
+
+Normalises the per-chapter markdown under `chapters/book*/` to the canonical
+shape chapter 1 already uses:
+
+```
+# Chapter N: Title
+
+## Scene K: Scene title
+
+<paragraph>
+
+<paragraph>
+```
+
+Over time the later files drifted: book 1 from ch12 on dropped the scene title
+out of the `## Scene N` header onto a bare line and lost its blank-line
+paragraph separators; books 2–3 lost the `#`/`##` markdown entirely. This tool
+rebuilds the headers, folds each stray scene-title line back into its
+`## Scene K: Title`, and restores blank-line separation. It changes **only
+structure** — paragraph text is preserved verbatim (trailing whitespace
+trimmed), and the run is idempotent. Scene counts/titles are validated against
+the frozen export so a misparse can't silently merge scenes; chapters with no
+export entry (e.g. ch48) are reformatted from their own structure.
+
+```bash
+python3 tools/reformat_chapters.py            # dry run: list files that differ
+python3 tools/reformat_chapters.py --write    # rewrite in place
 ```
 
 ## textlib.py
