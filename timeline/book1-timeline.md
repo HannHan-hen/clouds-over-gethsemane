@@ -2,7 +2,7 @@
 
 **Canonical years:** 2016–2017  
 **Canonical start date:** Monday, August 1, 2016 (Jay's first day at Turner & Associates)  
-**Chapters covered:** 1–15 — Arc 1 (Ch 1–5: first day → end of probation), Arc 2 (Ch 6–10: permanent hire → six-month review), and Arc 3 (Ch 11–15: February rush → spring).
+**Chapters covered:** 1–20 (complete) — Arc 1 (Ch 1–5: first day → end of probation), Arc 2 (Ch 6–10: permanent hire → six-month review), Arc 3 (Ch 11–15: February rush → spring), and Arc 4 (Ch 16–20: the retreat → one-year anniversary).
 
 > **Why 2016 works.** The text fixes two hard anchors: Jay's first day is explicitly a **Monday** ("The following Monday morning…" / Leo's "Monday morning. Nine o'clock sharp."), and his probation review is "**Monday morning**" exactly "**three months**" later. In 2016, **August 1 is a Monday** *and* **October 31 is a Monday** — they bracket exactly 13 weeks (91 days = 3 calendar months). Both anchors fall into place with no fudging. (In 2017, by contrast, August 1 is a Tuesday, which would break the "first day = Monday" line.)
 >
@@ -560,6 +560,188 @@ Milestone: Ian reads Jay's margin notes — his attachment crystallizes (end of 
 
 ---
 
+## Chapter 16: Preparations
+
+### Scene 1: Client meeting
+Start Date: Wednesday, May 3, 2017 (est.)  
+Day: early May  
+Duration: 2 days  
+Ian brings Jay along to a "relationship maintenance" visit with the Calder Wetherby Trust, driving through the city's old-money district that leaves Jay wide-eyed. The meeting is more whiskey and social ritual than business.  
+Milestone: Calder Wetherby Trust client visit
+
+### Scene 2: Tingling
+Start Date: Thursday, May 4, 2017 (est.)  
+Day: Thursday  
+Duration: same day  
+Over an expensive lunch Ian opens up about his privileged upbringing, creating unexpected intimacy. In the traffic-slowed drive back, Jay is acutely, uneasily aware of Ian's cologne and nearness.
+
+### Scene 3: Disgusting beer
+Start Date: Friday, May 5, 2017 (est.)  
+Day: Friday  
+Duration: 1 day  
+Jay stuns the team by finally saying yes to Friday drinks; over a terrible craft beer he learns how much elaborate preparation the retreat — now two weeks off — will demand.
+
+### Scene 4: Shopping spree
+Start Date: Saturday, May 6, 2017 (est.)  
+Day: Saturday  
+Duration: 1 day  
+An exhausting fashion-district expedition for resort wear, swimwear, and a new suitcase costs Jay roughly two months of his old salary.
+
+### Scene 5: Growing uncertainty
+Start Date: Monday, May 8, 2017 (est.)  
+Day: mid-May  
+Duration: ~1 week  
+Realizing the sunset dinner is far dressier than he prepared for, Jay reluctantly returns to Hathaway's on Friday for an understated but expensive evening outfit.
+
+---
+
+## Chapter 17: Retreat
+
+### Scene 1: Arrival
+Start Date: Friday, May 19, 2017 (est.)  
+Day: Friday (Day 1)  
+Duration: 1 day  
+The team buses to a beachfront resort, where Jay is assigned to share Seaview Suite 14 with Ian. At the afternoon art exhibition Ian buys the one abstract piece Jay genuinely liked.  
+Milestone: Company retreat begins
+
+### Scene 2: The sunset dinner
+Start Date: Friday, May 19, 2017 (night)  
+Day: Friday  
+Duration: same night  
+At the glamorous sunset dinner Jay gets properly drunk for the first time, oblivious to a colleague's persistent flirting. Rattled by the sight of him, Ian escorts him to their room and flees.
+
+### Scene 3: Pool party
+Start Date: Saturday, May 20, 2017 (est.)  
+Day: Saturday (Day 2)  
+Duration: 1 day  
+Hungover, Jay recovers under Ian's quiet care — water, painkillers, coffee — and at the pool Ian's swimming reveals a physique that sharpens Jay's awareness of his attraction.
+
+### Scene 4: Scuba diving
+Start Date: Saturday, May 20, 2017  
+Day: Saturday  
+Duration: same day  
+Jay conquers his first scuba dive under Ian's and Zoe's patient guidance, the reef transformative. The beach bonfire dinner and a quiet fireside whiskey deepen the domesticity growing between them.
+
+### Scene 5: Finale
+Start Date: Sunday, May 21, 2017 (est.)  
+Day: Sunday (Day 3)  
+Duration: 1 day  
+Ian's puzzle-solving wins the team coveted concert tickets in the treasure hunt; the retreat ends and an emboldened Jay decides to attend Ema's graduation. At home, Ian clears a wall for the painting Jay admired.  
+Milestone: Company retreat ends
+
+---
+
+## Chapter 18: Artistic merits
+
+### Scene 1: After the retreat
+Start Date: Monday, May 22, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+The office buzzes with retreat photos and diving footage; Ian approves Jay's day off for Ema's June graduation and offers a company car for the trip.
+
+### Scene 2: Tickets
+Start Date: Wednesday, May 24, 2017 (est.)  
+Day: Wednesday–Friday  
+Duration: ~3 days  
+Concert-ticket fever takes over the office; Ian gives his pair to Kim and Ela, then is roped by Max into attending the show with the whole team.
+
+### Scene 3: Concert night
+Start Date: Friday, June 2, 2017 (est.)  
+Day: Friday  
+Duration: 1 day  
+The team descends on the underground club Substrate, where Leo turns up — having planted the prize himself — and the punishing experimental set bewilders Jay.  
+Milestone: Underground concert at Substrate
+
+### Scene 4: Respite
+Start Date: Friday, June 2, 2017 (night)  
+Day: Friday  
+Duration: same night  
+Jay and Ian retreat to the bar and bond over their shared philistine bafflement; Ian reveals he played violin seriously through college, then drives Jay home.
+
+### Scene 5: Early June
+Start Date: early-to-mid June 2017 (est.)  
+Day: early June  
+Duration: ~2 weeks  
+A brutal heat wave drives Jay to the air-conditioned office every evening alongside Ian; he keeps up his gym sessions, takes driving lessons for the trip home, and starts browsing apartment listings.
+
+---
+
+## Chapter 19: Family
+
+### Scene 1: Mundane tasks
+Start Date: mid-June 2017 (est.)  
+Day: June (slow season)  
+Duration: ~1 week  
+In the languid summer lull Jay reorganizes the filing system and broadens his grasp of how the firm operates, while the heat reshapes the lunch debate around air-conditioning quality.
+
+### Scene 2: The Family Visit
+Start Date: Thursday, June 22, 2017 (est.)  
+Day: Thursday–Sunday  
+Duration: 4 days  
+Jay drives the company "limousine" home for Ema's Friday graduation; the luxury car and designer clothes make him a sensation and he completely overshadows her, staying an extra day to ferry her friends around.  
+Milestone: Ema's graduation (Jay visits family)  
+Note: Ch18 names the date "June twenty-fourth (a Friday)," but June 24, 2017 is a Saturday; the ceremony reads as Friday, so dated Fri Jun 23 — see flags.
+
+### Scene 3: Photos
+Start Date: Monday, June 26, 2017 (est.)  
+Day: Monday–Tuesday  
+Duration: 2 days  
+Jay sets a family photo on his desk; when his own attempts to photograph the office for Ema fail comically, Ian steps in to take proper shots — including a candid selfie Jay quietly treasures.  
+Milestone: Ian and Jay's office selfie
+
+### Scene 4: Holiday season
+Start Date: early July 2017 (est.)  
+Day: early July  
+Duration: ~1 week  
+July opens with Q2 quarterly reporting and a second quarterly bonus; as colleagues scatter on summer leave, Jay refuses to file his own vacation unless Ian finally takes time off too.  
+Milestone: Q2 quarterly reports; second quarterly bonus
+
+### Scene 5: Ambience
+Start Date: Friday, July 7, 2017 (est.)  
+Day: Friday (evening)  
+Duration: 1 day  
+At the outdoor summer quarterly party Jay and Ian share a quiet fountain-side moment under the torchlight; Luc warns him, pointedly, about the perils of office romance.  
+Milestone: Summer quarterly party
+
+---
+
+## Chapter 20: Milestones
+
+### Scene 1: Thirty and debt-free
+Start Date: Saturday, July 14, 2017  
+Day: Saturday  
+Duration: 1 day  
+Jay turns thirty and reaches his goal of being completely debt-free, celebrating with a punishing birthday workout from Rus and his first-ever social-media post. Across the city, Ian agonizes over — and never sends — a birthday text.  
+Milestone: Jay's 30th birthday; becomes debt-free  
+Note: The text says July 14 "fell on a Saturday"; in 2017 it is a Friday — see flags.
+
+### Scene 2: A life made
+Start Date: Monday, July 17, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+Newly thirty, Jay reflects on how completely his year has transformed him and handles an urgent Wentworth consultation with ease, feeling he genuinely belongs.
+
+### Scene 3: Conventional wisdom
+Start Date: Tuesday, July 18, 2017 (est.)  
+Day: Tuesday–Saturday  
+Duration: ~1 week  
+Ian notices Jay's standing Tuesday gym departure, and their unhurried evening conversations edge toward real friendship; Jay shrugs off Rus's nudges toward a more balanced life.
+
+### Scene 4: Relationship woes
+Start Date: late July 2017 (est.)  
+Day: late July  
+Duration: ~1 week  
+Kim and Ela return from their not-so-secret shared vacation; Luc confides his fraying relationship, and Jay recognizes that his own reason for staying has become belonging, not ambition.
+
+### Scene 5: One year
+Start Date: Thursday, August 3, 2017 (est.)  
+Day: Thursday  
+Duration: 1 day  
+At his one-year review Ian re-offers the analyst role — Jay again declines — and gives him an extravagant watch, part anniversary gift, part apology for his first-year failures. That night Ian finally admits to himself that he is hopelessly in love with Jay.  
+Milestone: One-year anniversary at Turner & Associates; Ian's watch gift — end of Book 1
+
+---
+
 ## Summary of Major Milestones
 
 | Date | Milestone |
@@ -592,6 +774,15 @@ Milestone: Ian reads Jay's margin notes — his attachment crystallizes (end of 
 | mid-Apr 2017 | Retreat rooming — Ian & Jay paired (Leo's scheme) |
 | Apr 14–17, 2017 | Easter weekend (Jay studies alone) |
 | ~Tue, Apr 25, 2017 | Ian reads Jay's margin notes (end of Arc 3) |
+| ~Thu, May 4, 2017 | Calder Wetherby Trust client visit |
+| May 19–21, 2017 | Company retreat (Ian & Jay share a room) |
+| Fri, Jun 2, 2017 | Underground concert at Substrate |
+| Fri, Jun 23, 2017 | Ema's graduation (Jay visits family) |
+| ~Jun 27, 2017 | Ian and Jay's office selfie |
+| early Jul 2017 | Q2 quarterly reports; second bonus |
+| Fri, Jul 7, 2017 | Summer quarterly party |
+| Sat, Jul 14, 2017 | Jay's 30th birthday; becomes debt-free |
+| **Thu, Aug 3, 2017** | **One-year anniversary; Ian's watch gift (end of Book 1)** |
 
 ---
 
@@ -624,3 +815,11 @@ Places where the prose resists a clean calendar, ordered roughly by how much the
 12. **Ch10/Ch11 overlap in early February.** Ch10 S5's promotion thread (review ~Feb 1, decision the following Monday ~Feb 6) overlaps Ch11's opening snowstorm week ("February began"). Not a contradiction — two threads sharing early February; the company-card "second week of February" cue (Thu Feb 9) keeps Ch11 on track.
 
 13. **Soft February and late-April dating.** Ch11's snow/coat/company-card sequence and Ch15's late-April scenes carry weekday cues ("second week of February," Tuesday gym days) but few hard dates; values are reasoned from those cues plus the Easter and quarterly-report anchors.
+
+14. **Ema's graduation: date vs weekday (Ch18/Ch19).** Ch18 S1 has Jay name the graduation "June twenty-fourth. It's a Friday," but June 24, 2017 is a Saturday; Ch19 plays it as a Friday (he drives down Friday morning for a 2 p.m. ceremony and returns Sunday). Dated here **Fri, Jun 23, 2017**. Reconcile the "twenty-fourth" to the 23rd (or move the ceremony to Saturday).
+
+15. **Jay's birthday: date vs weekday (Ch20).** Ch20 S1 states "July 14th fell on a Saturday this year"; in 2017 July 14 is a **Friday**. The date (the 14th) is treated as canonical and flagged; the "Saturday" claim would only hold in 2018.
+
+16. **"A year" said early (Ch16, Ch19).** Characters call Jay's tenure "a year" / "nearly a year" as early as May–July 2017, when he is only at 9–11 months. His actual one-year mark is the Aug 3 review (Ch20 S5). Loose usage, not a real conflict.
+
+17. **Retreat and early-May dating are soft.** The retreat is fixed only as a three-day May weekend (dated May 19–21) with the Calder Wetherby visit and shopping run "two weeks before"; the concert ("next Friday") and the heat-wave/June scenes are reasoned from those cues rather than hard-dated.
