@@ -69,7 +69,7 @@ He was wearing his regular office suit, his watch, his leather bag. He hadn't bo
 He surveyed the building and the area critically. It wouldn't be a bad place to work. Better than his previous workplace, at least. That building had been dingy, filled with a persistent smell of old coffee. This building was modern, clean. Not impressive, but solid.
 The interview started punctually.
 There was no one else in the lobby this time. Jay was led directly to a conference room where three people waited.
-"Mr. Hall, thank you for coming. I'm Dan Miller, senior partner. This is Liu Serrano, operations director, and Mos Parker, head of client services."
+"Mr. Hall, thank you for coming. I'm Dan Mercer, senior partner. This is Liu Serrano, operations director, and Mos Parker, head of client services."
 "Pleased to meet you," Jay said.
 They shook hands and sat down.
 "We were very impressed with your first interview. Meg spoke highly of you."

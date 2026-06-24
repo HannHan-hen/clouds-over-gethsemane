@@ -264,9 +264,8 @@ Recurring capitalised names are treated as real (the 3-letter made-up-name conve
 
 - Let — 1x, near: leo
 - Gala — 1x, near: gal
-- Mai — 1x, near: mac
+- Mai — 1x, near: max
 - Day — 1x, near: ray
-- Kia — 1x, near: tia
 - Time — 1x, near: tim
 
 <details><summary>Discovered recurring names not in characters.md — 3 three-letter, 38 total</summary>
