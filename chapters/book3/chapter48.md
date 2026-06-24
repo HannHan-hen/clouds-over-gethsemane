@@ -1,4 +1,4 @@
- # Chapter 48: Undertow
+# Chapter 48: Undertow
 
 ## Scene 1: The Palm House
 
@@ -70,7 +70,7 @@ At six o'clock on Thursday, Ian closed his laptop. The click was quiet, but Jay 
 
 "Where are we going?"
 
-"Somewhere warm." 
+"Somewhere warm."
 
 In the car Jay tried twice more to mention the annex, and both times Ian turned the radio up one notch, and by the third attempt Jay gave up. The car climbed out of the center and into the hillside district above the river, past walled gardens, old villas, bare chestnut trees. Ian parked on a narrow street in front of an iron gate. Behind the gate, between dark hedges, stood a long glasshouse lit from within. It glowed green and gold against the November dark.
 
@@ -190,7 +190,7 @@ Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it a
 
 Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him officially impossible. He carried the verdict back to his seat like a small trophy. Being mocked again was a kind of homecoming, and everyone in the room seemed to know it except the crate.
 
-The workday held together until about half past five, and then it stopped pretending. Jay read the same email three times without absorbing a word of it. He checked his watch. He looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk in slow motion: pens aligned, notebook squared, cables coiled. At ten to six he gave up on the tidying too and simply sat there, watching the door through the glass wall with the open patience of a dog at a window.
+The workday held together until about half past five, and then it stopped pretending. Jay read the same email three times without absorbing a word of it. He checked his watch. He looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk in slow motion: pens aligned, notebook squared, cables coiled. At ten to six he gave up on the tidying too and simply sat there, watching the door through the glass with the open patience of a dog at a window.
 
 He knew he wasn't being subtle. He had decided around half past five that he didn't care.
 
@@ -200,11 +200,11 @@ At six o'clock exactly, Ian closed his laptop, switched off his desk lamp, and o
 
 "Ready?" Ian said.
 
-"Since five thirty," Jay said.
+"Since five thirty."
 
-"I noticed," Ian said.
+"I noticed."
 
-The restaurant was Ian's choice, booked that morning, and it was far too much. Gilded mirrors covered the walls. The chairs were upholstered in dark red velvet, the ceiling carried a painting of clouds and trumpeting cherubs, and the menus arrived bound in leather with tassels.
+The restaurant was Ian's choice, booked that morning, and it was far too much: gilded mirrors, red velvet, a ceiling painted with clouds and trumpeting cherubs.
 
 "This room has more gold than the central bank," Jay said.
 
@@ -218,11 +218,11 @@ Jay didn't actually mind the gold. Ian sat across from him, the week was over, t
 
 The warmth of the wine matched a warmth that had been in him all day, and somewhere in the middle of the main course the two warmths joined forces and unlocked his mouth.
 
-"Can I say something silly?" Jay said.
+"Can I say something silly?"
 
 "You ask permission only when it's worth hearing. Go on," Ian said.
 
-"I keep telling everyone the trip was wonderful, and it's true, but it's the wrong word. Wonderful is what you say about weather. It wasn't the beaches. I mean, the beaches were— fine, the beaches were perfect, but that's not it. It was that nothing out there was divided. No office, no titles, no door between your desk and mine, no clock deciding which hours were allowed. We just existed in the same place all day, and it was the easiest thing I have ever done. Easier than sleeping. And then Monday I sat down at my desk and the whole floor felt like a waiting room for a train that never comes, and I felt so ungrateful, because I love that job. You know I love it. It saved my life, that job. But all week I kept thinking that out there everything was simpler, and softer, and there were no rules about—" Jay said.
+"I keep telling everyone the trip was wonderful, and it's true, but it's the wrong word. Wonderful is what you say about weather. It wasn't the beaches. I mean, the beaches were— fine, the beaches were perfect, but that's not it. It was that nothing out there was divided. No office, no titles, no door between your desk and mine, no clock deciding which hours were allowed. We just existed in the same place all day, and it was the easiest thing I have ever done. Easier than sleeping. And then Monday I sat down at my desk and the whole floor felt like a waiting room for a train that never comes, and I felt so ungrateful, because I love that job. You know I love it. It saved my life, that job. But all week I kept thinking that out there everything was simpler, and softer, and there were no rules about—"
 
 He stopped. The next words were lined up and ready, and they were *I miss being yours*, and he looked at them for a long second and put them down.
 
@@ -232,17 +232,17 @@ Ian didn't laugh and didn't reach for an easy joke. He turned his glass slowly o
 
 "You're not being silly. Grieving the end of something good is the correct response to it ending. The only people who skip that grief are the ones who didn't enjoy anything in the first place, and I wouldn't wish that condition on you," Ian said.
 
-"It's been a week. Grown men recover faster than this," Jay said.
+"It's been a week. Grown men recover faster than this."
 
-"Grown men say so, anyway. I've never seen evidence," Ian said.
+"Grown men say so, anyway. I've never seen evidence."
 
 "And Monday through Wednesday I was useless."
 
 "Monday through Wednesday you cleared three hundred emails, rebuilt my December, and survived the Velder file. If that's your useless, I should be frightened of your good weeks. The gloom passes, Jay. Ordinary life isn't a punishment. It feels like one for a week or two after something better, and then it becomes bearable again, and then, with some effort, it becomes good. It's an engineering problem, not a moral failing," Ian said.
 
-"An engineering problem," Jay said.
+"An engineering problem."
 
-"Everything beautiful doesn't have to stay sealed on that island. Some of it travels. We came home with a Friday and a Saturday, didn't we? They crossed the border without any trouble at all," Ian said.
+"Everything beautiful doesn't have to stay sealed on that island. Some of it travels. We came home with a Friday and a Saturday, didn't we? They crossed the border without any trouble at all."
 
 Jay looked at the tablecloth for a while. The wine had loosened everything in him, and what rose up wasn't desperation anymore but something quieter and easier to hold.
 
@@ -250,9 +250,9 @@ Jay looked at the tablecloth for a while. The wine had loosened everything in hi
 
 "At forty. It arrived with the birthday. You organized the party, so technically the wisdom is your fault," Ian said.
 
-"I'll add it to the invoice," Jay said.
+"I'll add it to the invoice."
 
-"Drink your water. The 2011 is winning," Ian said.
+"Drink your water. The 2011 is winning."
 
 Dessert came and went, and the cherubs went on trumpeting at nobody, and Jay talked too much and laughed too easily and was allowed both. By the time Ian signed the bill, Jay's gloom had been talked out of him almost entirely, leaving only the soft tiredness that comes after saying true things out loud.
 
@@ -260,7 +260,7 @@ Ian drove him home through the wet streets. Jay sat flushed and quiet in the pas
 
 "Come to mine for lunch tomorrow," Ian said. "One o'clock. I'll cook."
 
-"One o'clock," Jay said.
+"One o'clock."
 
 The car stopped in front of his building. Jay climbed the stairs warm and slightly unsteady, and the apartment that had felt hollow on Sunday felt only dark and ordinary now, which was a different thing entirely. He didn't turn on all the lights to fill it. He didn't need to. Tomorrow was theirs too, lunch at one and the afternoon after it, and he fell asleep before he found anything to miss.
 
@@ -270,7 +270,7 @@ Saturday morning, Jay considered skipping the gym. He lay in bed and built the c
 
 "He lives," Rus said.
 
-"I texted you from the airport," Jay said.
+"I texted you from the airport."
 
 "You texted me a palm tree emoji and went dark for ten days. That's not communication, that's taunting. Warm up. You owe this establishment two weeks of honest suffering and we're collecting with interest," Rus said.
 
@@ -278,11 +278,11 @@ The interest turned out to be squats. Somewhere in the third set, Rus stopped co
 
 "You're lifting like a man with a problem," Rus said.
 
-"I'm lifting like a man who took two weeks off," Jay said.
+"I'm lifting like a man who took two weeks off."
 
-"No. Two weeks off looks lazy. You look haunted. Haunted in a tan. So, the resort. Tell me everything. Good food?" Rus said.
+"No. Two weeks off looks lazy. You look haunted. Haunted in a tan. So, the resort. Tell me everything. Good food?"
 
-"Unbelievable. They cut the fruit in front of you. The mangoes alone justified the flight," Jay said.
+"Unbelievable. They cut the fruit in front of you. The mangoes alone justified the flight."
 
 "Good weather?"
 
@@ -294,17 +294,17 @@ The interest turned out to be squats. Somewhere in the third set, Rus stopped co
 
 "A quiet place," Rus said.
 
-"Very exclusive. Small. Peaceful. And then I came home to four degrees and horizontal rain, which is a crime, by the way. November should be illegal. A person shouldn't be allowed to see paradise and then be handed November," Jay said.
+"Very exclusive. Small. Peaceful. And then I came home to four degrees and horizontal rain, which is a crime, by the way. November should be illegal. A person shouldn't be allowed to see paradise and then be handed November."
 
-"Uh-huh. So the haunting is meteorological," Rus said.
+"Uh-huh. So the haunting is meteorological."
 
-"Entirely," Jay said.
+"Entirely."
 
 Rus looked at him for a while with the expression of a man holding a full hand of cards and choosing not to play any of them. Then he grinned and loaded another plate onto the bar.
 
 "Fine. Keep your secrets. But for the record, resorts don't put that face on people. Weather definitely doesn't. Whatever its name is, I hope it was worth the squats," Rus said.
 
-"The mangoes were worth everything," Jay said.
+"The mangoes were worth everything."
 
 "Sure they were. Two more sets, mango boy," Rus said.
 
@@ -318,9 +318,9 @@ Jay opened the blue one. The first page was the view from the breakfast terrace 
 
 "When did you take this?" Jay asked.
 
-"While you were defending the ship's honor against my review of it. You were wrong, incidentally. It was a terrible ship," Ian said.
+"While you were defending the ship's honor against my review of it. You were wrong, incidentally. It was a terrible ship."
 
-"It was a glorious ship," Jay said.
+"It was a glorious ship."
 
 He kept turning pages. The storm day, photographed from inside: rain flattened against the window and two cups on the sill. The hand-painted sign from the fruit stand. The two of them together at the sunset bar in a photo a waiter had taken, both of them sunburned and easy, standing closer than colleagues stand. Ian had chosen every picture. Ian had sorted them, sequenced them, sent them somewhere to be printed and bound, and had done all of it twice so that Jay could hold the trip in his two hands whenever November got long.
 
@@ -328,7 +328,7 @@ He kept turning pages. The storm day, photographed from inside: rain flattened a
 
 It was supposed to come out dry. It came out unsteady instead, and he gave up on the joke halfway and closed his mouth around the rest of it. He smoothed the open page very carefully, as if it might object.
 
-"I love it. That's all. I love it, and I'm not going to be funny about it, so don't wait," Jay said.
+"I love it. That's all. I love it, and I'm not going to be funny about it, so don't wait."
 
 "Noted," Ian said.
 
@@ -338,19 +338,19 @@ It was supposed to come out dry. It came out unsteady instead, and he gave up on
 
 "I said what I said," Jay said.
 
-"You still owe me something. From the island. Final night, the bar, you gave your word and there were witnesses," Jay said.
+"You still owe me something. From the island. Final night, the bar, you gave your word and there were witnesses."
 
 "The witnesses were a bartender and a parrot," Ian said.
 
-"Binding witnesses. You promised that when we got home you'd play," Jay said.
+"Binding witnesses. You promised that when we got home you'd play."
 
-Ian looked at him, looked at the cabinet in the corner, and surrendered with the smallest sigh on record. He took off his jacket and laid it over a chair. He rolled his sleeves to the elbow. He took the violin from its case, tuned it in a few economical movements, and stood in the middle of the room with his posture flawless and his expression already changing.
+Ian looked at him, looked at the cabinet in the corner, and surrendered with the smallest sigh on record. He took off his jacket, laid it over a chair, and rolled his sleeves to the elbow. He took the violin from its case, tuned it in a few economical movements, and stood in the middle of the room, his posture flawless and his expression already changing.
 
 "It's been a long time. Adjust your expectations downward," Ian said.
 
 Then he played, and Jay's expectations went the other direction entirely.
 
-The piece was slow and old, something that sounded like it had been written for winter evenings exactly like this one. Ian's face turned soft and absorbed at once, both at the same time, an expression Jay had never been given before in two years of careful study. Jay sat very still on the sofa and noticed things he had no business noticing: the forearms below the rolled sleeves, the hands, the long fingers, the absolute economy of a man whose every part had been trained into control and who had apparently trained this too, privately, somewhere along the way, as if being Ian Hagen required redundant proofs. The music asked for nothing and explained nothing. It was just beautiful, and so was he, and the combination was frankly unfair.
+The piece was slow and old, something that sounded like it had been written for winter evenings exactly like this one. Ian's face turned soft and absorbed, an expression Jay had never been given before in two years of study. Jay sat very still on the sofa and noticed things he had no business noticing: the forearms below the rolled sleeves, the hands, the long fingers, the absolute economy of a man whose every part had been trained into control and who had apparently trained this too, privately, somewhere along the way, as if being Ian Hagen required redundant proofs. The music asked for nothing and explained nothing. It was just beautiful, and so was he, and the combination was frankly unfair.
 
 The slow piece ended and Ian went directly into something quick and bright without announcing it, and Jay laughed out loud at the first turn of it, and Ian almost smiled around the instrument and kept going.
 
@@ -358,11 +358,11 @@ When it was over, Jay applauded alone in the quiet apartment and didn't care how
 
 "The intonation drifted in the second piece," Ian said.
 
-"I have no idea what that means and I reject it," Jay said.
+"I have no idea what that means and I reject it."
 
 "It means it's been years."
 
-"It was perfect. I was here. I'm the audience, I decide, and the audience has ruled. Perfect," Jay said.
+"It was perfect. I was here. I'm the audience, I decide, and the audience has ruled. Perfect."
 
 Ian put the violin away with great care and said nothing, but he took longer over the case than the case required.
 
@@ -374,13 +374,13 @@ The two thoughts didn't resolve. They just sat in him together while he stirred.
 
 "You've gone quiet again," Ian said.
 
-"I'm concentrating. You said the sauce punishes inattention," Jay said.
+"I'm concentrating. You said the sauce punishes inattention."
 
-"I did say that. I didn't say it punishes conversation," Ian said.
+"I did say that. I didn't say it punishes conversation."
 
-"The day was too good. That's all. It's a stupid problem to have. Best photographs, private concert, pheasant. And the whole time some part of me kept measuring it against three weeks ago and informing me that on the island this would have ended with a swim. It's ungrateful and I'm ignoring it," Jay said.
+"The day was too good. That's all. It's a stupid problem to have. Best photographs, private concert, pheasant. And the whole time some part of me kept measuring it against three weeks ago and informing me that on the island this would have ended with a swim. It's ungrateful and I'm ignoring it."
 
-Ian tasted the sauce, set the spoon down, and considered him for a moment with that particular look that always preceded logistics.
+Ian tasted the sauce, set the spoon down, and considered him with that particular look that always preceded logistics.
 
 "Pack a bag tonight," Ian said.
 
@@ -390,31 +390,31 @@ Ian tasted the sauce, set the spoon down, and considered him for a moment with t
 
 "That's insane. It's eight o'clock. People don't just—"
 
-"People do exactly that. The hotel exists for it. Yes or no," Ian said.
+"People do exactly that. The hotel exists for it. Yes or no."
 
-"Yes," Jay said.
+"Yes."
 
 The word was out before the shame finished forming, and by the time the shame arrived, the matter was already booked.
 
-They reached the hotel at eleven. It was the city's flagship and it behaved like one: a lobby of marble and brass, staff who materialized soundlessly, a list of restaurants longer than some menus. Ian had taken the penthouse, because of course he had, and when Jay opened his mouth about it in the elevator, Ian said only that he didn't do half measures and the conversation was over by the twentieth floor. The penthouse had two bedrooms, a view of the river in the rain, and a fruit plate waiting on the table with a handwritten welcome card.
+They reached the hotel at eleven. It was the city's flagship and it behaved like one. Ian had taken the penthouse, because of course he had, and when Jay opened his mouth about it in the elevator, Ian said only that he didn't do half measures and the conversation was over by the twentieth floor. The penthouse had two bedrooms, a view of the river in the rain, and a fruit plate waiting on the table with a handwritten welcome card.
 
 They were tired and pleased with themselves in equal measure. They ate two grapes each out of pure principle, agreed that the view was acceptable, and went to bed in their separate rooms without any incident at all.
 
-Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to bathwater, surrounded by palms in enormous pots, and the rain ran down the panes in sheets while they floated in thirty-degree air. It should have been indefensible. Jay defended against it anyway.
+Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to bathwater, and the rain ran down the panes in sheets while they floated in thirty-degree air. It should have been indefensible. Jay defended against it anyway.
 
 "It smells like chlorine," Jay said.
 
 "It's a pool," Ian said.
 
-"The island smelled like salt and frangipani. This smells like a swimming lesson," Jay said.
+"The island smelled like salt and frangipani. This smells like a swimming lesson."
 
-"Tragic. Move your lounger, you're blocking my light," Ian said.
+"Tragic. Move your lounger, you're blocking my light."
 
-"There is no light. It's raining. And these towels are too white. Look at this towel. This towel is showing off," Jay said.
+"There is no light. It's raining. And these towels are too white. Look at this towel. This towel is showing off."
 
-"The towel is showing off," Ian said.
+"The towel is showing off."
 
-"Aggressively. And the fruit plate was adequate. Adequate. Do you know what an insult adequate is to a man who has eaten a mango ten minutes off the tree?" Jay said.
+"Aggressively. And the fruit plate was adequate. Adequate. Do you know what an insult adequate is to a man who has eaten a mango ten minutes off the tree?"
 
 "Tell me more," Ian said.
 
@@ -426,33 +426,33 @@ They drifted through the building all day on that exact engine. Breakfast was ex
 
 "It's celeriac," Ian said.
 
-"It's smug celeriac. It knows it's in a flagship hotel. The island would have just given me bread and been proud of it," Jay said.
+"It's smug celeriac. It knows it's in a flagship hotel. The island would have just given me bread and been proud of it."
 
 "Eat the celeriac, Jay."
 
 "I'm eating it under protest."
 
-The spa floor came after: heated stone loungers, a eucalyptus steam room, an attendant with cucumber water. Jay pronounced the steam room "cough medicine for rich people" and stayed in it for forty minutes. At four there was tea on the mezzanine with a three-tiered tray, and Jay observed that the jam came in portions rationed like wartime, and ate all of it. At six they went up to the rooftop bar, where Jay's drink arrived under a cloud of smoke that poured over the rim and down the side of the glass.
+The spa floor came after. Jay pronounced the steam room "cough medicine for rich people" and stayed in it for forty minutes. At four there was tea on the mezzanine, and Jay observed that the jam came in portions rationed like wartime, and ate all of it. At six they went up to the rooftop bar, where Jay's drink arrived under a cloud of smoke that poured over the rim and down the side of the glass.
 
 "There's smoke coming out of my drink," Jay said.
 
 "There is," Ian said.
 
-"Why is there smoke. What is the smoke for. On the island, the bartender put a flower on the glass and the flower was real and nobody had set anything on fire. This bar is trying too hard," Jay said.
+"Why is there smoke. What is the smoke for. On the island, the bartender put a flower on the glass and the flower was real and nobody had set anything on fire. This bar is trying too hard."
 
-"Devastating. Should I call the manager," Ian said.
+"Devastating. Should I call the manager."
 
-"Don't you dare, the bartender looks fragile. I'll suffer through it," Jay said.
+"Don't you dare, the bartender looks fragile. I'll suffer through it."
 
 He suffered through two of them. Ian watched the entire performance over a single immaculate martini and looked happier than five hundred gala guests had ever managed to make him. At dinner, the last court of the day, Jay tried to find fault with a flawless piece of turbot, failed completely, and called the failure suspicious.
 
 "Admit it. You've enjoyed today," Ian said.
 
-"I've endured today with grace," Jay said.
+"I've endured today with grace."
 
 "You ate four scones."
 
-"Under protest. Everything I did today, I did under protest," Jay said.
+"Under protest. Everything I did today, I did under protest."
 
 "I haven't had a better Sunday in years," Ian said.
 
@@ -472,33 +472,33 @@ The Monday briefing survived for three minutes as an actual briefing. Ian worked
 
 "Item four was going to be the December offsite, but say what you're thinking, you've been glaring at the window since you sat down," Ian said.
 
-"It's November and I have grievances. I left home in the dark. I will go home in the dark. My shoes have not been fully dry since Thursday, I now own three umbrellas and trust none of them, and running season is dead. I'd like that last part entered in the minutes. The Tuesday route is gone until March and I'm in mourning," Jay said.
+"It's November and I have grievances. I left home in the dark. I will go home in the dark. My shoes have not been fully dry since Thursday, I now own three umbrellas and trust none of them, and running season is dead. I'd like that last part entered in the minutes. The Tuesday route is gone until March and I'm in mourning."
 
-"Noted for the minutes. There's a practical solution, incidentally. Use my gym," Ian said.
+"Noted for the minutes. There's a practical solution, incidentally. Use my gym."
 
-"Your gym," Jay said.
+"Your gym."
 
 "The home gym. Tuesdays, to replace the route. Other evenings if you want them. The equipment should be used regularly anyway, the treadmill belt degrades if it just stands there. You'd be doing the machine a favor," Ian said.
 
-"You're framing this as charity toward a treadmill," Jay said.
+"You're framing this as charity toward a treadmill."
 
-"I'm framing it as maintenance. Bring your bag tomorrow," Ian said.
+"I'm framing it as maintenance. Bring your bag tomorrow."
 
 It was a practical arrangement, plain and sensible, and absolutely not a way to keep their Tuesdays alive through the winter. Neither of them said the second part. The briefing resumed at item four and finished almost on time.
 
 On Tuesday after work, Jay followed Ian home with his gym bag and was shown to a room at the back of the apartment that he had somehow never seen behind its closed door. He stopped on the threshold.
 
-The room was enormous. Black rubber flooring ran wall to wall. One entire wall was mirrored. There was a power rack, a cable machine, a rowing machine, a bench, a rack of dumbbells climbing in two-kilo increments to weights Jay had no intention of greeting, a bar of resistance bands sorted by color, a small fridge, and a stack of white towels rolled with hotel exactness. A screen covered half of the far wall. And there were two treadmills standing side by side like a married couple.
+The room was enormous. Black rubber flooring ran wall to wall, and one entire wall was mirrored. There was a power rack, a cable machine, a rack of dumbbells climbing in two-kilo increments to weights Jay had no intention of greeting, a small fridge, and a stack of white towels rolled with hotel exactness. A screen covered half of the far wall. And there were two treadmills standing side by side like a married couple.
 
 "This is a commercial facility. You are running an unlicensed commercial facility out of your home," Jay said.
 
 "It's a gym," Ian said.
 
-"Rus's gym has fewer dumbbells than this. Rus's gym charges membership. Why are there two treadmills?" Jay said.
+"Rus's gym has fewer dumbbells than this. Rus's gym charges membership. Why are there two treadmills?"
 
-"I bought the newer model last year. Better screen integration, better incline motor. Then it turned out I prefer the old one, the belt has a better feel underfoot. So I kept both. Use whichever you like," Ian said.
+"I bought the newer model last year. Better screen integration, better incline motor. Then it turned out I prefer the old one, the belt has a better feel underfoot. So I kept both. Use whichever you like."
 
-"That's excessive. That is genuinely deranged behavior," Jay said.
+"That's excessive. That is genuinely deranged behavior."
 
 "It's redundancy," Ian said.
 
@@ -508,11 +508,11 @@ They ran first. Ian took the old treadmill, gave Jay the new one, and tapped thr
 
 "It syncs the incline to the footage," Ian said.
 
-"We're in a forest. It's seven degrees and raining outside and we are running through a forest with a soundtrack. This is the most deranged thing I've ever participated in," Jay said.
+"We're in a forest. It's seven degrees and raining outside and we are running through a forest with a soundtrack. This is the most deranged thing I've ever participated in."
 
-"You can have a beach instead. There's a coastal series. Mountains, too, but the mountain one is ambitious about inclines," Ian said.
+"You can have a beach instead. There's a coastal series. Mountains, too, but the mountain one is ambitious about inclines."
 
-"Don't you dare change the forest," Jay said.
+"Don't you dare change the forest."
 
 They ran side by side for forty minutes while the screen carried them down the trail, along a white beach, and partway up a mountain path before Jay vetoed the gradient on human rights grounds. They talked the way they talked on the real route, in fragments between kilometers, and Jay laughed more than the jokes deserved, and the rain on the window had no jurisdiction in the room at all.
 
@@ -526,9 +526,9 @@ A hand pressed flat between Jay's shoulder blades. It pressed for perhaps two se
 
 "Wrist neutral. You'll thank me at fifty," Ian said.
 
-"Thank you," Jay said.
+"Thank you."
 
-His wrist reported the contact for a full minute after it ended. Jay catalogued every touch with a thoroughness he was immediately ashamed of, and lifted, and catalogued, and lifted, and somewhere in the third set he looked up and caught Ian's reflection in the mirrored wall, and Ian was already looking at him, and both of them transferred their attention to the dumbbells with the smooth professionalism of two people who had absolutely not been caught doing anything. The music played on. The forest on the screen had given way to a screensaver of drifting clouds. Ian counted Jay's last reps out loud in a level tone, and if his counting was slightly more level than usual, no court could have proven it.
+His wrist reported the contact for a full minute after it ended. Jay catalogued every touch, ashamed of how closely, and lifted, and catalogued, and lifted, and somewhere in the third set he looked up and caught Ian's reflection in the mirrored wall, and Ian was already looking at him, and both of them transferred their attention to the dumbbells with the studied innocence of two people who had absolutely not been caught doing anything. The music played on. The forest on the screen had given way to a screensaver of drifting clouds. Ian counted Jay's last reps out loud in a level tone, and if his counting was slightly more level than usual, no court could have proven it.
 
 They cooled down on the mats, and Ian passed him a water bottle from the little fridge.
 
@@ -536,9 +536,9 @@ They cooled down on the mats, and Ian passed him a water bottle from the little 
 
 Several systems in Jay went briefly offline. A sauna. A private one. No team, no resort, no group of laughing Norwegians, no holiday rules under which everything was temporary and didn't count. Just the two of them and the heat. Every sensible instinct he had filed an objection, and he heard himself overrule all of them.
 
-"Sure. Yes. It would be a waste of their money," Jay said.
+"Sure. Yes. It would be a waste of their money."
 
-The suite was small and serious: a cedar room with two benches, a basket of rolled towels, a bucket and ladle, stones glowing faintly in an iron stove, one dim lamp. The attendant closed the outer door and left them the silence. They sat on the upper bench with towels around their waists, a meter apart, and the heat folded over them like a held note.
+The suite was small and serious: a cedar room with two benches, stones glowing faintly in an iron stove, one dim lamp. The attendant closed the outer door and left them the silence. They sat on the upper bench with towels around their waists, a meter apart, and the heat folded over them like a held note.
 
 Jay had decided in the changing room that he would look at the stove. It was a good plan, geometrically sound, and it lasted slightly under three minutes.
 
@@ -550,13 +550,13 @@ He returned his eyes to the stove. The stove had nothing for him. He counted the
 
 "More steam?" Ian said.
 
-"God, yes," Jay said.
+"God, yes."
 
-Ian rose, ladled water onto the stones, and the room hissed and went white for a merciful moment. He did it with his usual economy and sat back down, composed, eyes mostly closed, posture impeccable even here. The composure was load-bearing. Behind it, Ian was conducting a quiet internal emergency of his own, because a man does not need open eyes to know when he is being looked at, and Jay had been looking at him in long, helpless passes for ten minutes, and the looking did not resemble the way one looks at a colleague, a mentor, or a stove. Ian ran the analysis he had forbidden himself to run. It means nothing, he told himself. It means heat and proximity and a strange evening. He had built two years of architecture on the premise that it meant nothing, and the architecture held, but for the first time he could hear it creak.
+Ian rose, ladled water onto the stones, and the room hissed and went white for a merciful second. He did it with his usual economy and sat back down, composed, eyes mostly closed, posture impeccable even here. The composure was load-bearing. Behind it, Ian was conducting a quiet internal emergency of his own, because a man does not need open eyes to know when he is being looked at, and Jay had been looking at him in long, helpless passes for ten minutes, and the looking did not resemble the way one looks at a colleague, a mentor, or a stove. Ian ran the analysis he had forbidden himself to run. It means nothing, he told himself. It means heat and proximity and a strange evening. He had built two years of architecture on the premise that it meant nothing, and the architecture held, but now he could hear it creak.
 
 "Twelve minutes is the sensible limit. Then the cold shower," Ian said.
 
-"Cold shower. Yes. Excellent idea. Sensible," Jay said.
+"Cold shower. Yes. Excellent idea. Sensible."
 
 If Ian noticed the fervor of the agreement, he was generous enough to leave it on the bench.
 
@@ -566,29 +566,29 @@ The dream had no plot and needed none. There were tangled sheets and low light. 
 
 He woke at ten past five in the dark, overheated, shaking slightly, with the sheets in a state that permitted no alternative interpretation.
 
-For a while he lay completely still and looked up at the ceiling while mortification arrived in installments. Then he got up, stripped the bed like a man destroying evidence, and had the washing machine running before six. He stood under the shower for a long time. He drank his coffee standing up. He told himself, out loud, in his empty kitchen, that he was an adult, that bodies were stupid, that dreams meant nothing, and that today would be an entirely normal Wednesday.
+For a while he lay completely still and looked up at the ceiling while mortification arrived in installments. Then he got up, stripped the bed like a man destroying evidence, and had the washing machine running before six. He stood under the shower for a long time and drank his coffee standing up. He told himself, out loud, in his empty kitchen, that he was an adult, that bodies were stupid, that dreams meant nothing, and that today would be an entirely normal Wednesday.
 
 Today was not an entirely normal Wednesday.
 
-The first failure came at nine, when Ian walked past his desk with two folders and said good morning, and Jay said good morning to the folders because looking higher was not survivable. The second came at ten, when Ian took off his suit jacket in his office, visible through the glass wall, an action he performed every single day at approximately ten, and Jay felt his face ignite over a man removing one layer of clothing in a fully professional manner. The third came at half past eleven, when Ian set a document in front of him and tapped a figure on it, and the sight of the hand brought back, with perfect fidelity, the dream and the locked fingers and the low register at his ear, and Jay flushed so fast and so completely that the room felt tilted.
+The first failure came at nine, when Ian walked past his desk with two folders and said good morning, and Jay said good morning to the folders because looking higher was not survivable. The second came at ten, when Ian took off his suit jacket in his office, visible through the glass, an action he performed every single day at approximately ten, and Jay felt his face ignite over a man removing one layer of clothing in an entirely ordinary manner. The third came at half past eleven, when Ian set a document in front of him and tapped a figure on it, and the sight of the hand brought back, with perfect fidelity, the dream and the locked fingers and the low register at his ear, and Jay flushed so fast and so completely that the room felt tilted.
 
 "Jay," Ian said.
 
-"Mm," Jay said.
+"Mm."
 
-"You're flushed. You've been flushed all morning. Are you unwell?" Ian said.
+"You're flushed. You've been flushed all morning. Are you unwell?"
 
 Jay's mind presented its options: the truth, immediate resignation, or fleeing to the stairwell. It chose a fourth thing without consulting him.
 
-"I might be coming down with something. A cold. Probably the sauna and then the night air, classic mistake, hot to cold, everyone says you have to be careful with that, I wasn't careful, so. A cold. Probably," Jay said.
+"I might be coming down with something. A cold. Probably the sauna and then the night air, classic mistake, hot to cold, everyone says you have to be careful with that, I wasn't careful, so. A cold. Probably."
 
 The babble would not have convinced a child. It convinced Ian instantly and totally, because the alternative interpretations were ones he did not permit himself, and concern was a language he spoke without hesitation.
 
 "Go home. Not at five, now. I'll move the auditor prep, none of it requires you today. Tea, paracetamol, actual sleep. Do you have food in the apartment or should I—" Ian said.
 
-"I have food. I'm fine. It's barely anything," Jay said.
+"I have food. I'm fine. It's barely anything."
 
-"People who say it's barely anything are statistically the ones found unconscious. I'd drive you, but the auditor call. Text me when you're home," Ian said.
+"People who say it's barely anything are statistically the ones found unconscious. I'd drive you, but the auditor call. Text me when you're home."
 
 "You really don't have to—"
 
@@ -618,7 +618,7 @@ The doorbell rang at twenty past seven on Thursday morning. Jay was dressed, hal
 
 "I am on my way to the office. This is on the way. How do you feel," Ian said.
 
-"Fine. Completely fine. No fever, no sore throat, no symptoms of any kind. It was nothing, exactly like I said it would be," Jay said.
+"Fine. Completely fine. No fever, no sore throat, no symptoms of any kind. It was nothing, exactly like I said it would be."
 
 Ian walked past him into the kitchen as if this were the established Thursday protocol and began unpacking the bags onto the counter.
 
@@ -626,9 +626,9 @@ Ian walked past him into the kitchen as if this were the established Thursday pr
 
 He set a white case on the table and opened it. The thermometer inside was matte, clinical, and cradled in molded foam like surgical equipment.
 
-"That is not a thermometer. That is hospital property. Did you rob a clinic on the way here?" Jay said.
+"That is not a thermometer. That is hospital property. Did you rob a clinic on the way here?"
 
-"It's medical grade. I researched it last night, the reviews were impeccable. Sit," Ian said.
+"It's medical grade. I researched it last night, the reviews were impeccable. Sit."
 
 "Ian, I'm telling you, I don't have—"
 
@@ -644,9 +644,9 @@ He read the number the way an auditor reads a balance sheet that refuses to cont
 
 "You sound disappointed," Jay said.
 
-"I'm relieved. I'm also aware that these things can develop late. Get your coat, I'll drive you in. And if anything changes during the day, anything at all, you tell me at once. At once, Jay. Not at five o'clock with an apology," Ian said.
+"I'm relieved. I'm also aware that these things can develop late. Get your coat, I'll drive you in. And if anything changes during the day, anything at all, you tell me at once. At once, Jay. Not at five o'clock with an apology."
 
-"At once. I promise," Jay said.
+"At once. I promise."
 
 The drive to the office took eleven minutes, and Ian spent four of them explaining the soup-reheating sequence.
 
@@ -654,27 +654,27 @@ The day was gray in the absolute sense. Rain came down in fine, tireless sheets,
 
 On Friday at six, the dinner tradition continued, and this time Jay chose the place.
 
-It stood in the industrial east of the city between a tire warehouse and a print shop: a brick hall with steamed-up windows, long wooden tables, paper instead of tablecloths, and a menu painted directly on the wall. Everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second. He hung his coat on a peg between two work jackets, ordered in two efficient sentences, rolled his sleeves when the food arrived, and claimed the crackling off the pork without negotiation, like a man with field experience.
+It stood in the industrial east of the city between a tire warehouse and a print shop, a brick hall with steamed-up windows where everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second. He hung his coat on a peg between two work jackets, ordered in two short sentences, rolled his sleeves when the food arrived, and claimed the crackling off the pork without negotiation, like a man with field experience.
 
 "I'll admit something. You look better, and I'm relieved. On Wednesday I had soup logistics half-planned and a contingency involving Dr. Albers," Ian said.
 
-"You built a contingency plan for my cold," Jay said.
+"You built a contingency plan for my cold."
 
-"It was barely a plan. One page," Ian said.
+"It was barely a plan. One page."
 
 "You wrote it down?"
 
-"I structured my thoughts. Eat your potatoes," Ian said.
+"I structured my thoughts. Eat your potatoes."
 
 They ate, and the windows steamed, and the rain stayed outside where it belonged. Over the last of the beer, Ian developed the studied casualness of a man about to propose something he had been carrying around all day.
 
 "There's a small matter, if you have an hour tomorrow. The new treadmill insists on a second user profile and the menu has defeated me twice. It calibrates to weight and stride length, allegedly, and the manual was written by someone who hates readers. Since you'll be the one using it anyway, I thought—" Ian said.
 
-"Yes," Jay said.
+"Yes."
 
 "You don't want the rest of the sentence?"
 
-"The sentence was finished. Yes. What time," Jay said.
+"The sentence was finished. Yes. What time."
 
 "Ten. I'll make breakfast worth getting up for," Ian said.
 
@@ -688,13 +688,13 @@ Toward evening he stood at the window with his glass and looked down at the wet 
 
 "It's the end of November. Festivity has a long runway. There's still time," Ian said.
 
-"We'll have to figure out Christmas at some point. What we're doing. Eventually," Jay said.
+"We'll have to figure out Christmas at some point. What we're doing. Eventually."
 
-"At some point. Not today," Ian said.
+"At some point. Not today."
 
-"Not today," Jay said.
+"Not today."
 
-It was the first time Christmas had entered the room, and it entered not as a plan but as a distant pressure, like weather announced for next month, and then it left again and the heist film's sequel started and the evening carried on being easy.
+Christmas had never been in the room before, and it entered now not as a plan but as a distant pressure, like weather announced for next month, and then it left again and the heist film's sequel started and the evening carried on being easy.
 
 Jay walked home at eleven through the two streets between their buildings. The rain had thinned to a drizzle. Half the lamppost stars on the avenue were up and unlit, dripping, waiting for December.
 
