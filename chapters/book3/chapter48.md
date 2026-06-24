@@ -42,7 +42,7 @@ Ian arrived at half past eight exactly. The room straightened by reflex.
 
 "Thank you. The Velder call moved to eleven. Amy, I'll need the projections before ten."
 
-That was the entire interrogation Ian received. No one asked where he had been, or with whom, or whether his two weeks and Jay's two weeks had anything to do with each other. He crossed the floor toward his office, and only Jay caught the brief look he sent on the way. Jay answered it with a smile and turned back to his thousand emails
+That was the entire interrogation Ian received. No one asked where he had been, or with whom, or whether his two weeks and Jay's two weeks had anything to do with each other. He crossed the floor toward his office, and only Jay caught the brief look he sent on the way. Jay answered it with a smile and turned back to his thousand emails.
 
 The office had not changed. The same walls, the same carpet, the same grid of meetings filling the calendar to the horizon. For two years this floor had meant safety. It had meant purpose, a desk that belonged to him, work he was good at among people who wished him well. Now the air tasted recycled and the light through the windows was gray, and after ten days of sea wind and Ian's company, the thirty-fourth floor felt like a sentence to serve. Jay was ashamed of the thought and could not get rid of it.
 
