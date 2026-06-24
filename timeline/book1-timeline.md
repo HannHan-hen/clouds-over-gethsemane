@@ -1,12 +1,12 @@
-# Book 1 Timeline — Arc 1 (Chapters 1–5)
+# Book 1 Timeline
 
-**Canonical year:** 2016  
+**Canonical years:** 2016–2017  
 **Canonical start date:** Monday, August 1, 2016 (Jay's first day at Turner & Associates)  
-**Arc 1 span:** ~3 months — Jay's first day through the end of his three-month probation.
+**Chapters covered:** 1–10 — Arc 1 (Ch 1–5: first day → end of three-month probation) and Arc 2 (Ch 6–10: permanent hire → six-month review).
 
 > **Why 2016 works.** The text fixes two hard anchors: Jay's first day is explicitly a **Monday** ("The following Monday morning…" / Leo's "Monday morning. Nine o'clock sharp."), and his probation review is "**Monday morning**" exactly "**three months**" later. In 2016, **August 1 is a Monday** *and* **October 31 is a Monday** — they bracket exactly 13 weeks (91 days = 3 calendar months). Both anchors fall into place with no fudging. (In 2017, by contrast, August 1 is a Tuesday, which would break the "first day = Monday" line.)
 >
-> Dates are derived from the chapters' own day-of-week and "week N / one month / three months" cues. Soft/estimated dates are marked **(est.)**. See **Timeline drift & flags** at the bottom for the spots where the prose resists a clean calendar.
+> Dates are derived from the chapters' own day-of-week and "week N / one month / six months" cues. Soft/estimated dates are marked **(est.)**. See **Timeline drift & flags** at the bottom for the spots where the prose resists a clean calendar.
 
 ---
 
@@ -193,7 +193,191 @@ Milestone: Probation ends; permanent contract offered — end of Arc 1
 
 ---
 
-## Summary of Major Milestones (Arc 1)
+## Chapter 6: Regaining ground
+
+### Scene 1: Celebration
+Start Date: Friday, November 4, 2016  
+Day: Friday  
+Duration: 1 day  
+The team gathers at Murphy's to celebrate Jay's permanent status, and Ian makes a rare appearance to mark it. Pulling Leo aside, Ian coldly orders him to repair the damage his "joke hire" scheme did to Jay's confidence.  
+Milestone: Celebration of Jay's permanent contract; Ian's rare social appearance
+
+### Scene 2: Explanation
+Start Date: Friday, November 4, 2016 (night)  
+Day: Friday  
+Duration: same night  
+Leo insists on driving Jay home near midnight and comes up to explain himself: appearance was a factor in the hire, but Jay has earned his place entirely on merit. Jay is left with answers but lingering unease.
+
+### Scene 3: Resolve
+Start Date: Saturday, November 5, 2016 (est.)  
+Day: Saturday  
+Duration: 1 day (Ian POV)  
+Alone with whiskey and a private investigator's report, Ian admits he has been watching Jay out of concern, not suspicion, and that Leo was right about his innocence. He resolves to become the fair mentor Jay needs — while forbidding himself anything more.
+
+### Scene 4: Hope
+Start Date: Monday, November 7, 2016  
+Day: Monday–Tuesday  
+Duration: 2 days  
+The office feels reset; Ian praises Jay's work and, on Tuesday, brings him into a Mayfield client meeting to observe and take notes. Jay begins to believe the office is simply what it appears to be — civil people doing good work.
+
+### Scene 5: Trust
+Start Date: Thursday, November 10, 2016  
+Day: Thursday  
+Duration: 1 day  
+A Fairfield Industries crisis — their board meeting moved up — keeps Jay and Ian working alone past eleven; Ian patiently helps Jay untangle a backdated-acquisition discrepancy. Jay realizes that here, at least, he can stop flinching.  
+Milestone: Fairfield Industries late-night crisis
+
+---
+
+## Chapter 7: A sense of security
+
+### Scene 1: Optimism
+Start Date: Friday, November 11, 2016  
+Day: Friday–Sunday  
+Duration: 3 days  
+The Fairfield presentation succeeds without a single revision and Ian gives the team the afternoon off; Jay spends it reading at Café Lemon. On Saturday he finally calls his mother, sharing his stable new life.
+
+### Scene 2: Invitation
+Start Date: Monday, November 14, 2016  
+Day: Monday  
+Duration: 1 day  
+Ian emails a formal invitation to a Friday celebration dinner at The Palladium for the Hartwell success, with Turner Senior and Leo attending. Over lunch the team trades stories that show Jay a drier, more human side of Ian.
+
+### Scene 3: Dinner
+Start Date: Tuesday, November 15, 2016  
+Day: Tuesday–Friday  
+Duration: 4 days  
+The Hartwell workload ramps up with a Tuesday briefing while talk turns to Friday's dinner. The Palladium evening goes far better than Jay feared, with Ian skillfully deflecting Turner Senior's probing and shielding Jay from the spotlight.  
+Milestone: Hartwell celebration dinner at The Palladium (Friday, November 18)
+
+### Scene 4: Planning
+Start Date: Monday, November 21, 2016  
+Day: Monday  
+Duration: 1 day  
+A calmer Monday briefing lets Jay reframe Ian's old coldness as ordinary management rather than rejection. Kim circulates the holiday-event dates — the staff Christmas party and the black-tie end-of-year gala — and Jay weighs whether to visit family for Christmas.  
+Note: The exact party/gala dates Kim cites conflict with later chapters — see flags.
+
+### Scene 5: Exhaustion
+Start Date: Monday, November 21, 2016  
+Day: late November  
+Duration: ~2 weeks  
+Ian buries himself in the Hartwell integration — sixteen-hour days, weekend work — specifically to smother his growing feelings for Jay. Jay quietly streamlines Ian's workload, and Ian's attempt at distraction only deepens his appreciation of him.
+
+---
+
+## Chapter 8: The festive season
+
+### Scene 1: Decorations
+Start Date: Monday, December 5, 2016 (est.)  
+Day: second week of December  
+Duration: ~1 day  
+With the Hartwell crunch eased, the team decorates the office tree; paired with Ian on the garland, Jay rediscovers how much he enjoys Christmas. He decides to buy a small tree and decorations for his own apartment for the first time.
+
+### Scene 2: Christmas preparations
+Start Date: Friday, December 9, 2016 (est.)  
+Day: Friday  
+Duration: 1 day  
+After work Jay orders a custom tuxedo for the gala, then buys and decorates a tiny tree at home and calls his mother to say he's staying in the city for Christmas. The next morning he shops for and ships gifts to his family.  
+Note: Jay tells the tailor the event is "January twenty fourth" — conflicts with other gala dates; see flags.
+
+### Scene 3: Christmas party
+Start Date: Friday, December 16, 2016  
+Day: Friday  
+Duration: 1 day  
+At the company Christmas party Jay feels fully part of the team; the couples' spa voucher stings, and Leo's pointed remark about Ian's lonely, family-less holidays leaves Jay quietly worried for him.  
+Milestone: Company Christmas party  
+Note: Ch7 gives this date as "December fifteenth" (a Thursday); the timeline follows the chapter's "Friday evening" — see flags.
+
+### Scene 4: Holidays
+Start Date: Monday, December 19, 2016  
+Day: Monday–Sunday  
+Duration: ~1 week  
+The pre-holiday rush peaks; on the last day before the break a charged, lingering handshake passes between Jay and Ian. Jay spends Christmas content and alone with wine and his little tree, while Ian works through it alone in his spotless penthouse.  
+Milestone: Christmas (Sunday, December 25)
+
+### Scene 5: Dream
+Start Date: Sunday, December 25, 2016 (night)  
+Day: Sunday–Monday  
+Duration: overnight (Ian POV)  
+Ian wakes at 3 a.m. from a vivid dream of kissing Jay in his office and, rattled, summons Leo to freezing dawn tennis. He brutalizes him for three hours while Leo correctly names the fear underneath: Ian wants Jay and is terrified of it.
+
+---
+
+## Chapter 9: New Year
+
+### Scene 1: After the holidays
+Start Date: Tuesday, December 27, 2016  
+Day: Tuesday  
+Duration: 1 day  
+The office reopens to a skeleton crew between the holidays, and with Ela out sick it's just Jay, Luc, and Ian. Working late alone with Ian, Jay realizes how completely and unusually he trusts him.
+
+### Scene 2: Before New Year
+Start Date: Wednesday, December 28, 2016  
+Day: Wednesday–Saturday  
+Duration: 4 days  
+Through the quiet week Jay shoulders more of Ian's work; on the year's last afternoon Ian shares his best whiskey with Jay and Luc, showing rare, easy warmth. Jay forgives Leo by text and spends New Year's Eve content and alone.  
+Milestone: Ian's New Year whiskey toast (Friday, December 30)
+
+### Scene 3: Bonus
+Start Date: Tuesday, January 3, 2017  
+Day: Tuesday  
+Duration: 1 day  
+January reporting roars back to full throttle; at noon Jay's year-end bonus lands — $80,000, more money than he has ever held at once. Stunned, he treats himself to three tailored suits.  
+Milestone: $80,000 year-end bonus
+
+### Scene 4: Friday evening reflections
+Start Date: Friday, January 13, 2017 (est.)  
+Day: Friday  
+Duration: ~1 week  
+Quarterly and annual reports grind on as gala buzz fills the office and Ela and Kim return. A restless Jay declines Luc's drinks, packs away his Christmas tree, and — curious about what Ian enjoys — finds his old solitude newly empty.
+
+### Scene 5: Preparations
+Start Date: Monday, January 16, 2017 (est.)  
+Day: the week before the gala  
+Duration: ~1 week  
+Jay collects his tuxedo and new suits, books a pricey last-minute haircut, and culls his old wardrobe — including the cheap interview suit he first arrived in — to ready himself for the gala.
+
+---
+
+## Chapter 10: The high finance
+
+### Scene 1: The Grand Gala
+Start Date: Saturday, January 21, 2017 (est.)  
+Day: Saturday  
+Duration: 1 day  
+Jay arrives at the Grand Hotel gala looking striking, and Ian — visibly affected and needled by Leo about the suitors circling — abandons his usual networking to hover protectively near his team.  
+Milestone: Annual black-tie gala  
+Note: Stated dates conflict (Ch7 "Jan 23," Ch8 "Jan 24") and the aftermath plays it as a Saturday; dated here Sat Jan 21 — see flags.
+
+### Scene 2: The incident
+Start Date: Saturday, January 21, 2017 (night)  
+Day: Saturday  
+Duration: same night  
+Separated from Ian and plied with drinks, Jay is cornered by a predatory client, Cruver, who gropes him and makes suggestive offers while the surrounding group stays oblivious. Shaken and ashamed, Jay flees to the restroom in tears.  
+Milestone: Cruver harassment incident
+
+### Scene 3: Soothing the fears
+Start Date: Saturday, January 21, 2017 (night)  
+Day: Saturday  
+Duration: same night  
+Ian finds Jay, slips them both out a back exit, and defuses the trauma with self-deprecating stories in the car. Over tea in Jay's modest apartment their connection deepens, though both stay carefully in denial.
+
+### Scene 4: Aftermath
+Start Date: Monday, January 23, 2017  
+Day: Monday  
+Duration: 1 day  
+Back at work the gala is harmless office gossip, and the team's own mortifying-party stories normalize Jay's night; Cruver's name surfaces as a known creep. Behind his door, Ian quietly begins building a case to make Cruver pay.
+
+### Scene 5: Choice
+Start Date: Wednesday, February 1, 2017 (est.)  
+Day: Wednesday → following Monday  
+Duration: ~1 week  
+At his six-month review Ian offers Jay a promotion to analyst; torn between ambition and his wish to stay close to Ian, Jay takes the week to think and, on Monday, declines — choosing to remain Ian's assistant.  
+Milestone: Six-month review; Jay declines the analyst promotion
+
+---
+
+## Summary of Major Milestones
 
 | Date | Milestone |
 |------|-----------|
@@ -208,21 +392,36 @@ Milestone: Probation ends; permanent contract offered — end of Arc 1
 | ~Fri, Oct 14, 2016 | Hartwell acquisition signed |
 | Thu, Oct 20, 2016 | Stormfront compliance audit delivered |
 | **Mon, Oct 31, 2016** | **Probation ends; permanent contract (end of Arc 1)** |
+| Fri, Nov 4, 2016 | Permanent-contract celebration; Ian's rare appearance |
+| Thu, Nov 10, 2016 | Fairfield Industries late-night crisis |
+| Fri, Nov 18, 2016 | Hartwell celebration dinner at The Palladium |
+| Fri, Dec 16, 2016 | Company Christmas party |
+| Sun, Dec 25, 2016 | Christmas (Jay content and alone; Ian alone) |
+| Fri, Dec 30, 2016 | Ian's New Year whiskey toast |
+| Tue, Jan 3, 2017 | $80,000 year-end bonus |
+| Sat, Jan 21, 2017 (est.) | Annual black-tie gala; Cruver harassment |
+| ~Feb 1–6, 2017 | Six-month review; Jay declines analyst promotion (end of Arc 2) |
 
 ---
 
 ## Timeline drift & flags
 
-Places where the prose resists a clean calendar, ordered by how much they'd affect an edit:
+Places where the prose resists a clean calendar, ordered roughly by how much they'd affect an edit:
 
-1. **October scenes overlap (Ch5 S2 + S3).** The Stormfront audit (assigned Thu Oct 13, delivered Thu Oct 20) and the "nearly two weeks" Hartwell push (signs a Friday) are *narrated* in sequence but must run **concurrently** to fit between the quarterly party (Oct 7) and the probation review (Oct 31); laid strictly end-to-end they overshoot the window. I've interleaved them. **Hartwell's signing Friday is ambiguous (Oct 14 vs Oct 21)** — only **Oct 14** leaves room for Ch5 S4's "Friday drinks → following Tuesday → probation a week off" run-up before the Oct 31 Monday review. *If editing:* consider making the audit and Hartwell explicitly simultaneous, or move one earlier in October.
+1. **Gala date: three conflicting signals (Ch7/Ch8/Ch10).** Ch7 S4 (HR email, via Kim) says the gala is "January twenty-third" (a Monday); Ch8 S2 has Jay tell the tailor "January twenty fourth" (a Tuesday); but Ch10 S3–S4 plays the gala as a **Saturday night** — Jay processes it "Sunday," returns "Monday," with repeated references to "Saturday's events." The Saturday structure is woven through the whole aftermath, so the timeline sets the gala on **Saturday, Jan 21, 2017** (the nearest Saturday to the stated dates). Worth reconciling the two explicit dates to the 21st. (Note: the Monday *after*, Jan 23, matches Ch7's "twenty-third" — likely where the slip began.)
 
-2. **Max's shifting return date.** Ch2 (Aug 11): back "week after next" (~Aug 22). Ch3 (Aug 19): "at least three more weeks" (~mid-Sep). He actually returns **Mon Sep 26**. The story explains this as compounding travel delays/illness, but the moving target is loose — tighten the three references if you want it airtight. (Max also says "I leave for two months," consistent with a late-July departure and a late-Sept return.)
+2. **Christmas party date: Dec 15 vs Dec 16.** Ch7 S4 gives "December fifteenth" — a **Thursday** in 2016 — but Ch8 frames the party on a **Friday** ("on a Friday evening"), with the tuxedo errand the prior "Friday," and every other company social event in the book lands on a Friday. Timeline uses **Fri, Dec 16**; simplest fix is to change Kim's "fifteenth" to "sixteenth."
 
-3. **"Three months" vs "beginning of November."** Ch4 S1 says probation ends "at the beginning of November"; Ch5 S5 says "three months had passed," on a Monday. With an Aug 1 start these effectively agree — **Oct 31, 2016 is both a Monday and three calendar months in** — but the wording ("beginning of November" vs Oct 31) is a hair off and could be smoothed.
+3. **October scenes overlap (Ch5 S2 + S3).** The Stormfront audit (assigned Thu Oct 13, delivered Thu Oct 20) and the "nearly two weeks" Hartwell push (signs a Friday) are *narrated* in sequence but must run **concurrently** to fit between the quarterly party (Oct 7) and the probation review (Oct 31). **Hartwell's signing Friday is ambiguous (Oct 14 vs Oct 21)** — only **Oct 14** leaves room for Ch5 S4's "Friday drinks → following Tuesday → probation a week off" run-up before the Oct 31 Monday review.
 
-4. **Opening scene has no date.** Ch1 S1 (the Ian/Leo conversation) is dated only by "the following Monday." Placed here at **Fri Jul 29**; note "a couple of days before" is approximate (Fri→Mon is three days). A Thursday (Jul 28) reading works equally well.
+4. **Max's shifting return date.** Ch2 (Aug 11): back "week after next" (~Aug 22). Ch3 (Aug 19): "at least three more weeks" (~mid-Sep). He actually returns **Mon Sep 26**. Explained as compounding travel delays/illness, but the moving target is loose. (Max also says "I leave for two months," consistent with a late-July departure and a late-Sept return.)
 
-5. **Pay cadence is assumed monthly.** Ch3 S5 ("monthly salary transfer") and Ch4 S5 ("after two paychecks") imply **month-end pay** (~Aug 31 and ~Sep 30). The first paycheck is dated ~Sep 2 here; if payroll is actually mid-month or bi-weekly, shift Ch3 S5 and the Ch4 S5 "two paychecks" line accordingly.
+5. **"Three months" vs "beginning of November."** Ch4 S1 says probation ends "at the beginning of November"; Ch5 S5 says "three months had passed," on a Monday. With an Aug 1 start these effectively agree — **Oct 31, 2016 is both a Monday and three calendar months in** — but the wording is a hair off.
 
-6. **Early-September scenes are soft.** Ch4 S1–S3 carry no weekday/date cues beyond "a month in" and a mid-September "Wednesday/Thursday." Their dates are reasoned estimates between the firm Sep-1 (one month) and Sep-26 (Max returns) anchors, not text-stated.
+6. **Pay cadence is assumed monthly.** Ch3 S5 ("monthly salary transfer") and Ch4 S5 ("after two paychecks") imply **month-end pay** (~Aug 31, ~Sep 30). The first paycheck is dated ~Sep 2; shift if payroll is actually mid-month or bi-weekly.
+
+7. **Soft dates in early September and January.** Ch4 S1–S3 and Ch9 S4–S5 carry few weekday cues; their dates are reasoned from firm anchors (one month in; the Jan 3 bonus; "the week before the gala") rather than text-stated.
+
+8. **Opening scene has no date.** Ch1 S1 (the Ian/Leo conversation) is dated only by "the following Monday." Placed at **Fri Jul 29**; "a couple of days before" is approximate (Fri→Mon is three days). A Thursday (Jul 28) reading works equally well.
+
+9. **Six-month review wording.** Ch10 S5 sets the review "at the beginning of February" and "six months since you started" — consistent with the Aug 1 start (Feb 1, 2017). Review dated ~Feb 1–2, with Jay's decision the following Monday (~Feb 6).
