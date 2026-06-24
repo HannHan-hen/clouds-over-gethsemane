@@ -2,9 +2,9 @@
 
 ## Scene 1: Thirty and debt-free
 
-July 14th fell on a Saturday this year, and Jay woke up feeling pleased with himself. Today was his thirtieth birthday, but more importantly, it marked the achievement of a goal he'd been pursuing all year with aggressive determination.
+July 14th fell on a Saturday this year, and Jay woke up feeling pleased with himself. Today was his thirtieth birthday, but more importantly, it marked the achievement of a goal he'd been aggressively pursuing all year.
 
-His student loans were now paid in full as of this month. They hadn't been particularly large to begin with thanks to his choice of a local college and part-time work throughout school, but under normal circumstances, he'd have been making payments for another five years. His comfortable salary had allowed him to overpay quite dramatically, and even accounting for his clothing expenditures, his savings had grown comfortable enough to support this aggressive strategy. He'd wanted to be debt-free by his thirtieth birthday, and he'd reached that goal right on schedule.
+His student loans were now paid in full as of this month. They hadn't been particularly large to begin with thanks to his choice of a local college and part-time work throughout school, but under normal circumstances, he'd have been making payments for another five years. His comfortable salary had allowed him to overpay quite dramatically, and even accounting for his clothing expenditures, his savings had grown comfortable enough to support this strategy. He'd wanted to be debt-free by his thirtieth birthday, and he'd reached that goal right on schedule.
 
 He'd learned earlier in the year that his colleagues didn't make office birthday celebrations—apparently not everyone was comfortable with the attention. Amy had declared she no longer acknowledged birthdays after turning forty, and Ian reportedly didn't celebrate at all. The office policy was no gifts or cakes in the office to avoid awkwardness. The arrangement suited Jay perfectly, since he disliked being the center of attention anyway. Becoming debt-free was gift enough to himself.
 
@@ -357,3 +357,5 @@ He was in love with Jay Hall. Had been for months, probably. The realization was
 The admiration in Jay's eyes was pure, innocent, completely without awareness of Ian as anything more than a mentor. Jay didn't see him as a man at all—just as an authority figure worthy of respect and gratitude.
 
 And that meant Ian was in love, hopelessly and completely, with someone he could never have. But knowing it was impossible didn't change the reality of what he felt. It only made the daily proximity more challenging.
+
+Ian wondered how he could continue pretending, how he could maintain the defences that kept them both safe, when every interaction felt like a betrayal of his own heart.

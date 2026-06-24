@@ -389,5 +389,3 @@ Sitting in the empty office, Ian acknowledged what had been building for months 
 It was becoming increasingly difficult to maintain the distance he had imposed between them, especially when every interaction revealed new reasons to be fond of the young man. Jay's dedication, modesty, consideration for others despite his own circumstances—all of it contributed to a growing attachment that Ian knew he should resist.
 
 The feelings were dangerous and entirely inappropriate. Ian had learned that lesson the hard way, though he understood now that what he felt for Jay was fundamentally different from that earlier infatuation. Sam had been exciting—charming and magnetic, disarming Ian's caution. Jay was none of those things, but his warmth had somehow become essential. Whatever he felt for Jay, it had grown beyond his ability to rationalize it away.
-
-Freefall
