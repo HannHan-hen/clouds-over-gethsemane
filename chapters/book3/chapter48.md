@@ -250,17 +250,17 @@ Ian drove him home. Jay sat flushed in the passenger seat and watched the street
 
 ## Scene 3: Climate Adjustment
 
-Saturday morning, Jay considered skipping the gym. He lay in bed and built the case for it: he was tired, it was raining, two weeks off had surely reset his membership in some merciful way. Then he remembered what Rus did to people who skipped after holidays, and fear accomplished what discipline couldn't. He was at the gym by nine.
+Saturday morning, Jay considered skipping the gym. He lay in bed and built the case for it: he was tired, it was raining, two weeks off had surely reset his membership. Then he remembered what Rus did to people who skipped, and fear accomplished what discipline couldn't. He was at the gym by nine.
 
 "He lives," Rus said.
 
 "I texted you from the airport."
 
-"You texted me a palm tree emoji and went dark for ten days. That's not communication, that's taunting. Warm up. You owe this establishment two weeks of honest suffering and we're collecting with interest," Rus said.
+"You texted me a palm tree emoji and went dark for ten days. That's taunting. Warm up. You owe this establishment two weeks of honest suffering and we're collecting with interest."
 
-The interest turned out to be squats. Somewhere in the third set, Rus stopped counting and studied him.
+The interest turned out to be squats. Somewhere in the third set, Rus stopped counting.
 
-"You're lifting like a man with a problem," Rus said.
+"You're lifting like a man with a problem."
 
 "I'm lifting like a man who took two weeks off."
 
@@ -274,31 +274,29 @@ The interest turned out to be squats. Somewhere in the third set, Rus stopped co
 
 "Good company?"
 
-"It was a quiet place," Jay said.
+"It was a quiet place."
 
-"A quiet place," Rus said.
+"A quiet place."
 
-"Very exclusive. Small. Peaceful. And then I came home to four degrees and horizontal rain, which is a crime, by the way. November should be illegal. A person shouldn't be allowed to see paradise and then be handed November."
+"Very exclusive. Small. Peaceful. And then I came home to four degrees and horizontal rain. November should be illegal. A person shouldn't be allowed to see paradise and then be handed November."
 
 "Uh-huh. So the haunting is meteorological."
 
 "Entirely."
 
-Rus looked at him for a while with the expression of a man holding a full hand of cards and choosing not to play any of them. Then he grinned and loaded another plate onto the bar.
-
-"Fine. Keep your secrets. But for the record, resorts don't put that face on people. Weather definitely doesn't. Whatever its name is, I hope it was worth the squats," Rus said.
+"Fine. Keep your secrets, but resorts don't put that face on people. Weather definitely doesn't. Whatever its name is, I hope it was worth it."
 
 "The mangoes were worth everything."
 
-"Sure they were. Two more sets, mango boy," Rus said.
+"Sure they were. Two more sets, mango boy."
 
-At one, Jay arrived at Ian's apartment to the smell of soup and the sight of market spoils covering half the counter: sloes in a paper bag, bread, cheese, a pheasant that Ian announced with the gravity of a treaty.
+At one, Jay arrived at Ian's apartment to the smell of soup and the sight of market spoils covering half the counter: sloes in a paper bag, bread, cheese, a pheasant.
 
-They ate lunch, and afterward Ian cleared the table and set down two albums. They were bound in linen, one gray and one dark blue, with no titles.
+They ate lunch, and afterward Ian cleared the table and set down two albums. They were bound in linen, dark blue, with no titles.
 
-"I had the best photographs printed. One set for each of us. Phones eat pictures eventually, and that trip deserved paper," Ian said.
+"I had the best photographs printed. One set for each of us. Phones eat pictures eventually, and that trip deserved paper."
 
-Jay opened the blue one. The first page was the view from the breakfast terrace on the first morning, the sea in three colors at once. Then the harbor. Then the concert under the strung lights. Then a photograph he had never seen: himself on the deck of the gaudy cruise ship laughing at something with his eyes shut, the horrible gold railing behind him, the sun going down.
+Jay opened the album. The first page was the view from the breakfast terrace on the first morning, the sea in three colors at once. Then the harbor. Then a photograph he had never seen: himself on the deck of the gaudy cruise ship laughing at something with his eyes shut, the horrible gold railing behind him, the sun going down.
 
 "When did you take this?" Jay asked.
 
@@ -306,13 +304,13 @@ Jay opened the blue one. The first page was the view from the breakfast terrace 
 
 "It was a glorious ship."
 
-He kept turning pages. The storm day, photographed from inside: rain flattened against the window and two cups on the sill. The hand-painted sign from the fruit stand. The two of them together at the sunset bar in a photo a waiter had taken, both of them sunburned and easy, standing closer than colleagues stand. Ian had chosen every picture. Ian had sorted them, sequenced them, sent them somewhere to be printed and bound, and had done all of it twice so that Jay could hold the trip in his two hands whenever November got long.
+He kept turning pages. The storm day, photographed from inside: rain flattened against the window and two cups on the sill. The two of them together at the sunset bar in a photo a waiter had taken, standing closer than colleagues stand. Ian had chosen every picture. Ian had sorted them, sequenced them, sent them somewhere to be printed and bound, and had done all of it so that Jay could hold the trip in his hands whenever November got long.
 
 "You realize normal people just have a folder on their phone called 'island' and never open it," Jay said.
 
 It was supposed to come out dry. It came out unsteady instead, and he gave up on the joke halfway and closed his mouth around the rest of it. He smoothed the open page very carefully, as if it might object.
 
-"I love it. That's all. I love it, and I'm not going to be funny about it, so don't wait."
+"I love it. That's all. I love it, and I'm not going to be funny about it."
 
 "Noted," Ian said.
 
@@ -320,25 +318,19 @@ It was supposed to come out dry. It came out unsteady instead, and he gave up on
 
 "You own an apartment, Jay."
 
-"I said what I said," Jay said.
+"I said what I said. And you still owe me something. From the island. You promised that when we got home you'd play."
 
-"You still owe me something. From the island. Final night, the bar, you gave your word and there were witnesses."
-
-"The witnesses were a bartender and a parrot," Ian said.
-
-"Binding witnesses. You promised that when we got home you'd play."
-
-Ian looked at him, looked at the cabinet in the corner, and surrendered with the smallest sigh on record. He took off his jacket, laid it over a chair, and rolled his sleeves to the elbow. He took the violin from its case, tuned it in a few economical movements, and stood in the middle of the room, his posture flawless and his expression already changing.
+Ian looked at him, looked at the cabinet in the corner, and surrendered with the smallest sigh on record. He took off his jacket, laid it over a chair, and rolled his sleeves to the elbow. He took the violin from its case, tuned it in a few movements, and stood in the middle of the room, his posture flawless.
 
 "It's been a long time. Adjust your expectations downward," Ian said.
 
-Then he played, and Jay's expectations went the other direction entirely.
+Then he played, and Jay's expectations went the other direction.
 
-The piece was slow and old, something that sounded like it had been written for winter evenings exactly like this one. Ian's face turned soft and absorbed, an expression Jay had never been given before in two years of study. Jay sat very still on the sofa and noticed things he had no business noticing: the forearms below the rolled sleeves, the hands, the long fingers, the absolute economy of a man whose every part had been trained into control and who had apparently trained this too, privately, somewhere along the way, as if being Ian Hagen required redundant proofs. The music asked for nothing and explained nothing. It was just beautiful, and so was he, and the combination was frankly unfair.
+The piece was slow and old, something that sounded like it had been written for winter evenings exactly like this one. Jay sat very still on the sofa and noticed things he had no business noticing: the forearms below the rolled sleeves, the hands, the long fingers, the absolute economy of a man whose every part had been trained into control. The music was beautiful, and so was he, and the combination was frankly unfair.
 
-The slow piece ended and Ian went directly into something quick and bright without announcing it, and Jay laughed out loud at the first turn of it, and Ian almost smiled around the instrument and kept going.
+The slow piece ended and Ian went directly into something quick and bright, and Jay laughed out loud. Ian smiled around the instrument and kept going.
 
-When it was over, Jay applauded alone in the quiet apartment and didn't care how it looked.
+When Ian finished, Jay applauded alone in the apartment and didn't care how it looked.
 
 "The intonation drifted in the second piece," Ian said.
 
@@ -348,13 +340,11 @@ When it was over, Jay applauded alone in the quiet apartment and didn't care how
 
 "It was perfect. I was here. I'm the audience, I decide, and the audience has ruled. Perfect."
 
-Ian put the violin away with great care and said nothing, but he took longer over the case than the case required.
+Ian put the violin away with great care and he took longer over the case than it required.
 
-The pheasant turned out to be a three-hour undertaking, and Ian cooked it the way he did everything, with a plan and a sequence and no wasted motion. Jay was issued tasks: peel this, stir that, open the wine but don't pour it yet. He did them all correctly and quietly, and somewhere between the peeling and the stirring his mood slid sideways.
+The pheasant turned out to be a three-hour undertaking, and Ian cooked it with a plan and a sequence and no wasted motion. Jay was issued tasks: peel this, stir that, open the wine but don't pour it yet. He did them all correctly. Somewhere between the peeling and the stirring his mood slid sideways.
 
-It was the day's fault. The day had been perfect. The albums sat on the table, the violin sat in its cabinet, the apartment smelled like roasting pheasant and thyme, and Ian stood at the stove with his sleeves still rolled, narrating the sauce like a quiet documentary. It was everything, and that was the problem. Jay thought: I have no right to this place. He thought it plainly and completely, the way he had thought it a hundred times before. And then he thought the new thing, the thing that had come home with him from the island: I'm not giving it up anyway. Being noble about it had stopped being interesting. He would stand in this kitchen with no right to it for as long as he was allowed.
-
-The two thoughts didn't resolve. They just sat in him together while he stirred.
+It was the day's fault. The day had been great. The albums sat on the table, the violin sat in its cabinet, the apartment smelled like roasting pheasant and thyme, and Ian stood at the stove with his sleeves still rolled. It was everything, and that was the problem. Jay thought he had no right to this place, and then he thought the new thing, the thing that had come home with him from the island, that he's not giving it up. Being noble about it had stopped being interesting. He would stand in this kitchen with no right to it for as long as he was allowed.
 
 "You've gone quiet again," Ian said.
 
@@ -370,7 +360,7 @@ Ian tasted the sauce, set the spoon down, and considered him with that particula
 
 "What?"
 
-"There's a hotel by the river. The big one with the glass roof over the pool, three restaurants, the spa floor. We'll go after dinner and come back tomorrow evening. It is not a substitute for the island. Think of it as a temporary climate adjustment. Thirty degrees and humidity, administered locally," Ian said.
+"There's a hotel by the river. The big one with the glass roof over the pool. We'll go after dinner and come back tomorrow evening. It is not a substitute for the island. Think of it as a temporary climate adjustment, administered locally."
 
 "That's insane. It's eight o'clock. People don't just—"
 
@@ -380,11 +370,11 @@ Ian tasted the sauce, set the spoon down, and considered him with that particula
 
 The word was out before the shame finished forming, and by the time the shame arrived, the matter was already booked.
 
-They reached the hotel at eleven. It was the city's flagship and it behaved like one. Ian had taken the penthouse, because of course he had, and when Jay opened his mouth about it in the elevator, Ian said only that he didn't do half measures and the conversation was over by the twentieth floor. The penthouse had two bedrooms, a view of the river in the rain, and a fruit plate waiting on the table with a handwritten welcome card.
+They reached the hotel at eleven. It was the city's flagship and it behaved like one. Ian had taken the penthouse, because of course he had, and when Jay opened his mouth about it in the elevator, Ian said only that he didn't do half measures and the conversation was over. The penthouse had two bedrooms, a view of the river in the rain, and a fruit plate waiting on the table with a handwritten welcome card.
 
 They were tired and pleased with themselves in equal measure. They ate two grapes each out of pure principle, agreed that the view was acceptable, and went to bed in their separate rooms without any incident at all.
 
-Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to bathwater, and the rain ran down the panes in sheets while they floated in thirty-degree air. It should have been indefensible. Jay defended against it anyway.
+Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to bathwater, and the rain ran down the panes in sheets while they floated in thirty-degree air.
 
 "It smells like chlorine," Jay said.
 
@@ -394,21 +384,17 @@ Sunday delivered the payoff. The pool lay under a vaulted glass roof, heated to 
 
 "Tragic. Move your lounger, you're blocking my light."
 
-"There is no light. It's raining. And these towels are too white. Look at this towel. This towel is showing off."
+"There is no light. It's raining. And these towels are too white. Look at this towel. This towel is showing off. Aggressively. And the fruit plate was adequate. Adequate. Do you know what an insult adequate is to a man who has eaten a mango ten minutes off the tree?"
 
-"The towel is showing off."
+"Tell me more."
 
-"Aggressively. And the fruit plate was adequate. Adequate. Do you know what an insult adequate is to a man who has eaten a mango ten minutes off the tree?"
+He meant it. Ian lay on the next lounger with his arms folded and an expression of deep contentment while Jay prosecuted the hotel point by point, and every time Jay ran out of complaints, Ian fed him a new target.
 
-"Tell me more," Ian said.
-
-He meant it, which was the strangest part. Ian lay on the next lounger with his arms folded and an expression of deep contentment while Jay prosecuted the hotel point by point, and every time Jay ran out of complaints, Ian fed him a new target like a man tossing wood on a fire he liked.
-
-They drifted through the building all day on that exact engine. Breakfast was excellent and Jay allowed it, minus the orange juice, which he called continental. At lunch, the amuse-bouche arrived as a single cube of something under a glass dome, and Jay stared at it for five full seconds.
+They drifted through the building all day on that exact engine. Breakfast was excellent and Jay allowed it, minus the orange juice, which he called continental. At lunch, the amuse-bouche arrived as a single cube of something under a glass dome, and Jay stared at it for five full minutes.
 
 "This amuse-bouche is smug," Jay said.
 
-"It's celeriac," Ian said.
+"It's celeriac." 
 
 "It's smug celeriac. It knows it's in a flagship hotel. The island would have just given me bread and been proud of it."
 
@@ -416,11 +402,11 @@ They drifted through the building all day on that exact engine. Breakfast was ex
 
 "I'm eating it under protest."
 
-The spa floor came after. Jay pronounced the steam room "cough medicine for rich people" and stayed in it for forty minutes. At four there was tea on the mezzanine, and Jay observed that the jam came in portions rationed like wartime, and ate all of it. At six they went up to the rooftop bar, where Jay's drink arrived under a cloud of smoke that poured over the rim and down the side of the glass.
+The spa floor came after. At four there was tea on the mezzanine, and Jay observed that the jam came in portions rationed like wartime. At six they went up to the rooftop bar, where Jay's drink arrived under a cloud of smoke that poured over the rim and down the side of the glass.
 
-"There's smoke coming out of my drink," Jay said.
+"There's smoke coming out of my drink."
 
-"There is," Ian said.
+"There is."
 
 "Why is there smoke. What is the smoke for. On the island, the bartender put a flower on the glass and the flower was real and nobody had set anything on fire. This bar is trying too hard."
 
@@ -438,17 +424,15 @@ He suffered through two of them. Ian watched the entire performance over a singl
 
 "Under protest. Everything I did today, I did under protest."
 
-"I haven't had a better Sunday in years," Ian said.
+"I haven't had a better Sunday in years."
 
-He said it plainly, between the fish and the dessert, and for a second Jay had nothing smug or rationed or continental to say back. Then the dessert arrived with a tiny flag of gold leaf planted on top, and Jay was saved.
+Ian said it plainly, between the fish and the dessert, and for a second Jay had nothing rationed to say back. Then the dessert arrived with a tiny flag of gold leaf planted on top, and Jay was saved.
 
-"Gold. They put gold on it. The island put a candle in a banana fritter and I nearly cried, and these people put gold," Jay said.
+"Gold. They put gold on it. The island put a candle in a banana fritter and I nearly cried, and these people put gold."
 
-"Eat the gold, Jay," Ian said.
+"Eat the gold, Jay."
 
 Ian drove him home through the wet Sunday-night streets. Jay sat in the passenger seat with damp hair and the smell of chlorine still on him, holding the hotel's farewell gift bag, and complained at length that the parting fruit had been, once again, merely adequate, and that he intended to write a strongly worded review praising everything except the towels. Ian agreed that the towels had behaved badly. The wipers ticked, the streetlights slid past, and Jay pouted magnificently the whole way home.
-
-It was performance, and they both knew it, and that was exactly the point. The pout would survive the night. The gloom hadn't survived the weekend.
 
 ## Scene 4: Heat
 
