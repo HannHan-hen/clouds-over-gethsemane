@@ -3,7 +3,9 @@
 A working record of *what Book 2 is trying to do*, how well it currently does it, and
 the specific places to tighten. Book 1's craft notes led with Ian (his recognition arc
 was that book's engine); Book 2 leads with **Jay**, because the second year is *his*
-recognition arc — the symmetrical answer to the first.
+recognition arc — the symmetrical answer to the first. Where Book 1's theme was **wounds**,
+Book 2's fresh register is **faults** — the leads' genuine, consequential shortcomings — which
+is given its own section and is the heart of this pass.
 
 This is a craft/intent companion, not a continuity log. For dating issues see
 `timeline/book2-timeline.md` (its "drift & flags" section); read it alongside this — the
@@ -29,6 +31,14 @@ with the same care Book 1 gave Ian's.
 If Book 1 was "two people becoming acquaintances," **Book 2 is "two people building a
 shared life without admitting what it is"** — domestic intimacy, blended worlds, reciprocal
 care — while the confession is deliberately withheld. Book 3 then strains the dam.
+
+**The fresh thematic register: faults.** Book 1's theme was *wounds* (the injuries that
+made them). Book 2 should own *faults* (the genuine shortcomings *in* them) — Ian's
+controlling, jealous, vindictive, over-correcting tendencies; Jay's boundary-lessness,
+passivity, and self-erasure. This keeps both leads from reading as inhumanly perfect, and
+the two faults turn out to **interlock** (his control, his passivity) into the relationship's
+central, quietly-unhealthy dynamic. This is the most substantive section below — see **The
+theme of faults** — and several revision targets are facets of it.
 
 **Narration.** Same omniscient register, still anchored mostly to Jay, with Ian's interior
 fully visible. But the **dramatic irony is now doubled**: in Book 1 the reader was in on
@@ -107,16 +117,42 @@ each rung *felt*, not just logged.
 
 ### Where it needs work (revision targets)
 
-1. **Damp the amplitude of the spiral — this is the same note as Book 1 Jay #1, escalated.**
-   The Ch31–33 crash is the *third* full Jay-collapse of the series (after Cruver and the
-   filing mistake in Book 1), and it bottoms out harder than ever — dropped table → lost
-   savings → cancel the apartment → quit-and-flee-to-a-gas-station fantasy. Some depth is
-   right (the stakes are now romantic, which earns escalation). But the crash still
-   *re-opens the Arc-1 core wound at near-full intensity* ("the joke hire... I don't belong
-   here," Ch31 S5) — the same bottom Jay hit two years and one book ago. For a maturing
-   character, this late valley should **sting without fully re-litigating "I am worthless."**
-   Consider letting the wound this time be specifically *romantic* ("I can't be near him and
-   not have him") rather than a regression to the original belonging-wound.
+1. **The second meltdown (Ch31–33) is a deliberate echo with a payoff — protect the design,
+   but tune two things.** This is **not** simple repetition to be cut. The intent is a
+   recurring depressive-avoidant pattern that Jay finally **recognizes and learns to
+   interrupt**: the March crash teaches the lesson (he chooses, *himself*, to stay because he
+   cannot leave Ian), and the later Gal crisis is the **test he passes** by not falling into
+   the same hole. As a three-beat learning arc — **crash (Mar) → insight (May) → test passed
+   (Jul)** — it is sound and believable; the repetition is *the point*, provided the reader
+   can see Jay climbing the same hole with new equipment. Two execution checks make that land:
+
+   - **(a) Make the trigger genuinely "an accumulation of small things," not two big blows.**
+     The stated intent is *erosion* — death by a thousand cuts, which is how depression
+     actually works and is far more believable than a single catastrophe. But the current
+     triggers are large and discrete: dropping a whole database table and losing his *entire*
+     cash savings are each a major event, so the spiral reads closer to "two medium
+     hammer-blows plus winter gloom" than "small things piling up." **The fix that also
+     serves character:** route it through Jay's **catastrophizing** (see the faults section)
+     — let the setbacks be objectively *small* (minor slips, a cold word, fatigue, gray
+     weather) that *his anxiety inflates* into ruin. That makes the accumulation land **and**
+     dramatizes the flaw, instead of needing genuinely large disasters to justify the fall.
+     (If the table/savings beats stay, frame them through his amplification — it's his
+     *reaction* that's outsized, which is the believable, on-theme reading.)
+
+   - **(b) Wire the lesson to the payoff explicitly.** The self-recognition is present and
+     well-placed: drunk and honest at the retreat (Ch37), Jay names the entire pattern — "I
+     spiral… I wanted to run… I know I'm being ridiculous. I have to work on it, not run
+     away." That's the hinge. The Gal crisis (Ch40) is where he's meant to *use* it, and the
+     not-running is there ("by Saturday the spiraling had calmed… that resolve gave him
+     strength," Ch40 S5) — but the **connective tissue to the Ch37 insight is implicit.** Make
+     it explicit: have Jay consciously *recognize the spiral as it starts* — "this is the
+     part where I run; I've learned not to" — so the payoff is felt, not inferred. Without
+     that callback the lesson is invisible and the second crisis just looks like the third
+     repeat; with it, the repetition becomes growth.
+
+   *(The earlier draft of this note told you to "damp the amplitude / stop re-litigating the
+   worthlessness wound." That was reading the echo as an accident. It's a design — so the note
+   is not "make it smaller" but "make the smallness deliberate and wire the payoff.")*
 
 2. **Make the climb out more self-driven (also a repeat of Book 1 Jay #2).** The recovery is
    once again largely *administered*: Fay names the feeling, the gym crew diagnoses it, Rus
@@ -170,9 +206,12 @@ stop. This is a genuine evolution, and a slightly darker, richer Ian:
   favor where Jay is concerned — and the book is honest that this is manipulation ("It was
   manipulative, he knew that... his need for Jay was stronger than his discomfort with his
   methods," Ch29 S2).
-- The Sam-wound **transmutes again**: Book 1's terror pointed at Jay, then at his own heart;
+- His **old terror transmutes again**: Book 1's pointed at Jay, then at his own heart;
   Book 2's points at *the world that could take Jay away* (jealousy of Zoe, Liv, Gal, Eli;
   the conviction that someone "appropriate" will claim Jay and he has no right to stop it).
+- **None of this is a near-miss to be excused — it is a genuine fault.** See the dedicated
+  faults section below; the short version is that Ian's covert engineering is *controlling*,
+  he is *behaving badly*, he *knows it*, and the text should not dissolve that into romance.
 
 ### What's working (keep)
 
@@ -180,33 +219,44 @@ stop. This is a genuine evolution, and a slightly darker, richer Ian:
   praised — the slow burn shown, not narrated. The trip, the apartment, the bank, the Ray
   recruitment, the drives: these are love made of *deeds*, and each is shadowed by his
   own guilt, which keeps him sympathetic.
-- **The guilt and restraint are foregrounded**, which is what keeps "controlling" from
-  curdling into "creepy." He repeatedly checks himself ("I should be strong enough to send
-  Jay away for his own good. But he wasn't," Ch42-adjacent register; the recurring "this is
-  selfish and I'll do it anyway").
+- **The guilt is foregrounded**, which keeps him a flawed-but-decent man rather than a
+  creep — *without* excusing the fault. He repeatedly checks himself ("I should be strong
+  enough to send Jay away for his own good. But he wasn't," Ch42-adjacent register; the
+  recurring "this is selfish and I'll do it anyway"). The key is that he *names his own
+  wrongdoing and does it anyway* — that's a real fault honestly depicted, not a virtue in
+  disguise.
 - **The jealousy is rendered as small and self-aware**, not possessive entitlement — "petty
   and insistent, making him feel small and selfish and utterly pathetic" (Ch42-register;
   cf. Ch38 S3 at the party). He never acts on it against the rivals; he just suffers it.
 
 ### Where it needs work (revision targets)
 
-1. **Install a clear guard-rail on the engineering so it stays "loving and pathetic," never
-   "controlling."** Collectively, Ian *arranges Jay's life without consent* — his job
-   security, his apartment, his mortgage, his evenings, his coworker (Ray). Individually each
-   is sweet; in aggregate it can tip. Two protections, both already partly present — keep
-   them load-bearing: **(a)** Jay's agency must stay visible at every hinge (he chooses the
-   flat, he sets the terms, he declines/accepts on his own reasoning), and **(b)** Ian's
-   guilt must *cost* him, not just be noted. The strongest version is Ch29's half-confession
-   to Jay about the agent — Ian voluntarily surrendering some of the control he engineered.
-   More beats like that (Ian *undoing* or *owning* his own scheme) inoculate the pattern.
+1. **Do NOT sand the control off — give it consequences instead.** (This corrects the earlier
+   draft of this note, which framed the engineering as a near-miss to "guard-rail" so it
+   stayed romantic. Wrong.) Ian's covert arranging of Jay's life — job, apartment, mortgage,
+   evenings, coworker — is a **real fault**, not a charming excess, and the danger isn't that
+   it reads as creepy; the danger is that the text **excuses** it. Right now the apartment
+   manipulation costs Ian only private guilt: Jay never learns the full extent, nothing
+   breaks, no trust is strained. A fault with no consequence is a fault the story is secretly
+   forgiving. The fix is **consequence**, not restraint: somewhere — perhaps in Book 3 — one of
+   these slips should *land* (be discovered, strain trust, force real amends). Ch29's
+   voluntary half-confession (Ian telling Jay he pushed the agent) is the model: a fault
+   owned at a cost. Keep his **private tally of slip-ups** as a recurring motif, and let him
+   keep *failing* to live up to it — see the faults section for the full treatment.
 
-2. **Give Ian's Sam-terror an external flare during the Gal crisis (the exact Book 1 #4
-   note).** Gal's false accusation (Ch40) *literally re-runs the thing that destroyed Ian* —
-   a trusted-seeming subordinate weaponizing a false claim — yet Ian's own old terror is
-   mostly **reported afterward by Leo** (Ch40 S4) rather than *felt by Ian in the moment*.
-   Let the parallel land on Ian on the page: a flare of the Sam-dread when the complaint
-   hits, seen-for-what-it-is and overridden (which is more *him*, not less). This both
-   deepens Gal's function as a mirror and balances the wound-reactivity between the leads.
+2. **Let Ian's *false-accusation* wound flare during the Gal crisis (the Book 1 #4 note —
+   corrected).** Important factual fix: Gal's false complaint (Ch40) does **not** re-run *Sam*.
+   Sam Connelly was the corporate spy Ian *loved*, whose betrayal cost him his job, his
+   father, and his old life — a wound of misplaced trust in love. What Gal re-runs is a
+   **separate, later betrayal**: per Leo (Ch40 S4), a coworker at Turner & Associates falsely
+   accused Ian of misconduct "when he was newer to the company… shortly after his scandal,"
+   resolved only through a months-long legal battle (which is *why* the building now has
+   cameras everywhere). That is a **third, thinly-built wound** — it exists in the text only
+   to be activated by Gal. Two things follow: **(a)** flesh the false-accusation backstory out
+   into a wound of its own (distinct from Sam), so Gal lands on real ground; and **(b)** let
+   it *flare on Ian in the moment* the complaint hits — the old dread of being falsely accused
+   again, seen-for-what-it-is and overridden — rather than only being explained by Leo after
+   the fact.
 
 3. **Watch the "both pine in parallel" coda — it's Ian's half of the book's most over-used
    beat (see Beat-level targets).** Ian's chapters disproportionately *end* on the same
@@ -249,6 +299,128 @@ be welcome.
   The "Jay thinks Ian only feels X / Ian thinks Jay only feels Y" beat is stated so often it
   can make both leads read as obtuse. Convert some statements of it into **active
   near-realizations they talk themselves out of** (see the held-confession note).
+
+---
+
+## The theme of faults — Book 2's own register
+
+This is the most substantive idea in this revision pass, added at the author's steer.
+
+**Intent (new for the series).** Book 1's theme was **wounds** — the histories that hurt Jay
+and Ian and made them who they are. Book 2 restates those wounds (the tailor reopening Jay's
+class shame; Ch27's twin disclosures), but they are mostly *already known, re-felt*. The
+fresh register Book 2 can own is **faults** — not the injuries done *to* them, but the
+genuine shortcomings *in* them: the ways the wounds have calcified into present-tense
+behavior that causes real problems and that the characters must manage, imperfectly. The
+purpose is to keep both leads from reading as inhumanly perfect. **They are good and kind —
+and genuinely flawed**, and the flaws should *cost* something rather than dissolve into charm.
+A wound earns sympathy; a fault earns *humanity*. Book 2's job is to add the second.
+
+### Ian's faults — name them, and let them have consequences
+
+Ian is **not a paragon**, and the book is better the more it refuses to make him one. His
+genuine tendencies — not cartoonish, but real, and his to manage:
+
+- **Controlling / overbearing.** The apartment scheme (bribing the agent, engineering the
+  impossible mortgage, settling Jay near him *without his knowledge or consent*) is not pure
+  devotion — it's **control**, and a slip-up by his own reckoning. He arranges other people's
+  lives "for their own good."
+- **Vindictive when wronged.** The Cruver/Orrey demolition in Book 1 — a months-long campaign
+  to destroy a man's career and a firm's reputation over a grope — is **disproportionate and
+  vindictive**, not clean justice. He has a capacity for cold, total retaliation.
+- **Jealous and possessive** — of Zoe, Liv, Eli, anyone who claims Jay's time. Petty,
+  self-aware, suffered rather than acted on — but real.
+- **Self-punishing over-correction** (his signature failure mode). Having erred, he
+  over-corrects *aggressively*, in a way that is **itself destructive**: years of paranoid
+  isolation after Sam; the brutal dawn-tennis self-flagellation (Book 1 Ch8); punishing
+  himself with fourteen-hour days. The over-correction isn't virtue — it's the same lack of
+  moderation turned inward.
+
+**What to do with this — and what to protect:**
+
+- **Don't brush it under the rug as romantic.** The apartment scheme is *sweet* and *wrong* at
+  once, and the wrongness must stay legible — to the reader and to Ian.
+- **Keep — and use — the private tally.** Ian *counts his own slip-ups*; that detail is
+  exactly right for a conscientious man with a controlling streak, and it should be a
+  recurring, load-bearing motif. Let him keep the tally **and keep failing to live up to it.**
+- **Let a fault actually land.** A flaw with no consequence is one the story is quietly
+  excusing (see Ian revision #1). At least once — here or in Book 3 — a slip should be
+  discovered, strain trust, and force real amends. Ch29's voluntary half-confession is the
+  model: a fault owned at a cost.
+- **He's working on it, imperfectly.** The arc is not "secretly perfect"; it's "a good man
+  with bad tendencies he actively, incompletely manages, and sometimes still loses to."
+
+> **On the believability worry, directly:** a fundamentally decent person who *has* real
+> tendencies — control, jealousy, a vindictive streak — and who knows them, catches himself,
+> over-corrects too hard, keeps a guilty private tally, and keeps trying to do better is **not**
+> a contradiction. It is one of the most *recognizably human* things a character can be. The
+> flawless good man is the implausible one. Ian reads as "righteous with managed tendencies"
+> precisely *because* the managing is visible, effortful, and sometimes fails — because we
+> watch it cost him.
+
+### Jay's faults — what to emphasize so he isn't a flawless victim
+
+Jay's two known shortcomings — **self-deprecation** and the **tendency to run** — are real and
+well-drawn, but on their own they read as *pure woundedness* (things that happen *to* him),
+which risks a saintly-victim Jay. The material already contains several genuine **faults** —
+shortcomings that cause problems and that other people have to work around. These are the ones
+to **emphasize** so he reads as a real, sometimes-frustrating person:
+
+1. **He cannot say no — and his boundary-lessness has consequences.** His compulsive
+   politeness and warmth aren't only sweetness; they're a **failure to set boundaries** that
+   *enables harm.* He can't refuse the blind date, deflect Gal, shut down the island suitors,
+   or tell Leo to stop — he freezes or over-accommodates, and someone (usually Ian) has to
+   rescue him. Ian openly coaches him on it ("you could practice being less immediately
+   inviting"). This is the strongest under-used fault: his inability to be "unfriendly" is a
+   *real failing with a real cost*, not just endearing shyness.
+
+2. **Passivity — he lets other people run his life.** Jay is chronically *acted upon*: Leo
+   dresses him, Ian arranges his apartment / bank / job / evenings, his friends script his
+   social life, and he goes along with things he doesn't want (the fencing-turned-tournament,
+   the Palladium gala, the blind date). He struggles to know or assert what *he* wants (the
+   endless apartment indecision; his relief at "no plan"). **This is the most important fault
+   to foreground** — and the lock to Ian's key (below).
+
+3. **Self-erasing martyrdom.** His self-sacrifice tips past virtue into a fault: refusing help
+   and vacation, sleeping on floors, bankrupting himself for others' comfort, eating food he
+   hates rather than "waste" it. Being *needed and useful* is how he earns his place and
+   quietly controls his world — a martyrdom that erases his own needs. Worth emphasizing
+   because it's *active* (a thing he does), where self-deprecation is mostly passive (a thing
+   he thinks).
+
+4. **Avoidant concealment — he withdraws instead of communicating.** He goes silent rather than
+   address a hurt (the tailor, Ch23 — he ices Ian and won't say why) and hides his failures out
+   of shame (the lost savings he tells no one). The whole "neither names it" is partly *his
+   avoidance*, not just circumstance.
+
+5. **Catastrophizing that distorts his judgment.** His anxiety isn't only suffering — it *warps
+   his read of reality.* Ian names it outright ("you're catastrophizing," Ch22). He sees schemes
+   where there's care, paranoia where there's safety, ruin in minor setbacks. This is the fault
+   that makes the March meltdown work (Jay #1): to Jay, genuinely small things *are*
+   catastrophes, because his anxiety inflates them.
+
+**The clearest framing:** Jay's faults all cluster around a **deficit of self-assertion** — he
+cannot set a boundary, voice a want, accept care without guilt, or believe in his own worth —
+which calcifies into passivity, martyrdom, avoidance, and people-pleasing. He isn't only
+*hurt*; he is, in specific and consequential ways, *difficult to help and prone to erasing
+himself.* Emphasizing two or three of these (especially #1 and #2) is what converts him from a
+flawless victim into a person.
+
+### The lock and the key (why their faults fit — and why that's the long-arc engine)
+
+The richest structural payoff here: **Ian's controllingness and Jay's passivity dovetail
+perfectly.** Ian *needs* to arrange, provide, and protect; Jay *lets* himself be arranged,
+provided for, and protected. Each fault feeds the other. It *feels* like love — and partly is —
+but it's also **two shortcomings interlocking into a comfortable, quietly unhealthy dynamic**:
+a man who over-controls paired with a man who won't assert himself. The relationship as
+currently shaped runs *on* their faults as much as their virtues.
+
+That isn't a flaw in the writing — it's a **theme to stay conscious of**, and a built-in engine
+for growth. A genuinely healthy Ian-and-Jay would require *both* to change: Ian to relinquish
+control and let Jay stand on his own, Jay to assert himself and stop disappearing into
+usefulness. Book 2 builds the lock and key; later books have somewhere real to go by loosening
+it. Worth tracking so the dynamic eventually gets *examined* by the story, not merely enjoyed
+by it.
 
 ---
 
@@ -364,36 +536,45 @@ the book as he matures, the way Book 1 wanted his crash-depth to shrink.
 
 ---
 
-## Gal — the present-tense antagonist, and the Sam-mirror
+## Gal — the present-tense antagonist (an acknowledged weak point)
 
-**Intent / what she fixes.** Book 1's craft notes flagged that its "hostile world" was
-really a sanctuary — the antagonists minor and quickly resolved, the threat mostly internal.
-**Gal is Book 2's correction:** a genuine, present-tense, escalating threat inside the safe
-place (Ch38–40). She gives the back third real external friction the first book lacked.
+**What she's *for*.** Book 1's craft notes flagged that its "hostile world" was really a
+sanctuary — antagonists minor, threat mostly internal. **Gal is meant as Book 2's
+correction:** a genuine, present-tense, escalating threat inside the safe place (Ch38–40),
+giving the back third the external friction the first book lacked. Structurally she also
+serves the learning arc — she's the *test* of Jay's hard-won "don't run" lesson (see Jay #1).
 
-**Her best, underused idea — the double mirror:**
+**Her best idea — the double mirror:**
 
-- **Gal is the dark mirror of Jay** — the new hire who fixates, the one whose neediness reads
-  as harmless until it doesn't. Jay even half-recognizes himself in her ("Was I ever as
-  dramatic as Gal?", Ch41-register / cf. his sympathy in Ch39), which is a lovely,
-  uncomfortable beat: he extends to her the benefit of the doubt he was once given, and it's
-  weaponized against him.
-- **Gal re-runs Ian's Sam** — a trusted-seeming subordinate who deploys a **false accusation**
-  (Ch40). This is the richest thing about her, and it's currently *stated* (Leo spells out the
-  parallel after the fact, Ch40 S4) more than *felt* (see Ian revision #2).
+- **Gal is the dark mirror of Jay** — the new hire who fixates, whose neediness reads as
+  harmless until it doesn't. Jay half-recognizes himself in her (his sympathy in Ch39; "Was I
+  ever as dramatic as Gal?", Book 3 Ch41) — he extends her the benefit of the doubt he was
+  once given, and it's weaponized against him. The richest thing about her.
+- **Gal re-runs Ian's *false-accusation* wound — not Sam.** (Correcting the earlier draft.)
+  The parallel is to the *separate, post-scandal* incident at Turner where a coworker falsely
+  accused Ian of misconduct (Ch40 S4), **not** to Sam Connelly. Currently the parallel is
+  *stated* by Leo after the fact rather than *felt* by Ian in the moment (see Ian #2), and
+  that backstory is thin enough that the mirror has little to reflect — flesh the original
+  false-accusation wound out and the Gal echo gains real weight.
 
-**Where it needs work:**
+**Where it's weak (and this is known):** **the Gal arc is the most forced thing in the book,
+and it shows.** It was cheap to execute — a throwaway villain wheeled in to manufacture a
+crisis and wheeled out the moment it resolves. Two specific problems to carry forward:
 
-1. **Cash the Sam-parallel on the page during the crisis, through Ian's reaction** (see Ian
-   #2). Right now Gal's plot resolves cleanly and quickly (cameras exonerate Jay; she's fired
-   same-day) — which is *narratively* satisfying but *thematically* leaves the Ian-Sam echo
-   on the table. The fast resolution is fine; the missed beat is Ian's interior.
-2. **She arrives late and resolves fast.** As the book's one real antagonist she carries a
-   lot of structural weight in only three chapters. That's acceptable (the book isn't about
-   her), but it means the "false accusation" — a heavy, real-world-loaded device — gets less
-   room to breathe than its weight implies. Make sure Jay's *recovery* from it (Ch40 S5 → the
-   resolve to stay anyway) is given enough beats that the accusation doesn't read as a plot
-   speed-bump.
+1. **The "false accusation" is too heavy a device to discard.** A coworker falsely accusing
+   Jay of assault is a *serious, real-world-loaded* event that nearly destroys him — and it is
+   resolved same-day by convenient cameras and then **never mentioned again.** That weight/
+   payoff mismatch is the core flaw. A trauma that large should leave a mark: on Jay's trust,
+   on the office, on how he reads new people. **Flag for Book 3:** don't let it evaporate —
+   reference it, let it have aftershocks, honor that it was a big deal. (Book 3 Ch41 gestures
+   at the aftermath, then drops it — that's the thread to pick back up.)
+
+2. **She arrives late and resolves fast**, carrying a lot of structural load in three
+   chapters. If the arc stays this compressed, at least make sure **Jay's recovery** (Ch40 S5
+   → the resolve to stay) gets enough beats — and the explicit callback to the Ch37 lesson
+   (Jay #1b) — that the accusation reads as the *test he passes*, not a plot speed-bump. The
+   thing that redeems a cheap villain is what the *protagonist* does with her; load the
+   meaning onto Jay's response, since Gal herself can't carry it.
 
 ---
 
