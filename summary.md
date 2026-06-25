@@ -6,8 +6,9 @@ betrayal, and **Jay Hall**, the assistant who joins his team fleeing harassment.
 It is a story told through accumulated moments rather than dramatic declarations.*
 
 *Derived from the scene-by-scene, dated chronologies in `timeline/`, which hold
-the detail and the dates. This file is the brief, pasteable overview; further
-books are added as their timelines are built.*
+the detail and the dates. This file is the brief, pasteable overview. Books 1–2
+are complete; Book 3 is in progress and its summaries cover the written chapters
+so far.*
 
 ---
 
@@ -150,3 +151,40 @@ July's reporting crunch sharpens Gal's harassment until, at the summer quarterly
 
 ### Chapter 40: The storm before the calm
 Jay's family visits and Leo throws him a lavish birthday party — partly a scheme to soften Ian toward his own approaching 40th — where Ian fastens new cufflinks onto Jay with an intimacy that leaves him breathless. Then Gal, fired after one last cornering, files a false assault complaint that surveillance footage instantly disproves; Leo reveals Ian once survived the very same ordeal. Resolved to stay at Ian's side whatever it costs, Jay accepts a long, wordless embrace at his door — both men deeper in love than ever, and both still saying nothing.
+
+---
+
+## Book 3 — The fortieth year *(in progress)*
+
+*From Jay's two-year anniversary through Ian's fortieth-birthday gala, a frozen
+hot-springs retreat, and a ten-day island vacation, the unspoken pull between
+them dissolves nearly every line it can without being named. New rituals — Friday
+dinners, evening runs — knit their lives together; a "fake couple" pretence on
+the islands becomes indistinguishable from truth; and by winter the desire
+neither will confess has, on both sides, become impossible to deny. (Aug–late
+Nov 2018; Ian turns 40, Jay is 31. **Book 3 is ongoing** — these summaries cover
+the written chapters so far. Condensed from `timeline/book3-timeline.md`.)*
+
+### Chapter 41: New traditions
+The morning after Ian's embrace closes Book 2, Jay marks two years at the firm and quietly accepts that he is completely in love. New rituals take root — after-work "companions" dinners and Tuesday-evening runs along the river — even as Jay resolves to want nothing more than the closeness they already share. When Leo schemes to throw Ian a grand fortieth-birthday party, Jay reluctantly secures Ian's blessing and begins crafting a homemade gift: liqueur infusions in his late grandfather's style.
+
+### Chapter 42: Invitations
+Leo's "small gathering" balloons out of control — embossed invitations reach Jay's gym friends, his teenage sister Ema, and half the city — while Leo himself vanishes abroad for two weeks hunting Ian's gift. A classical concert with Ian sours when memories of Sam Connelly intrude, and Tia Larson joins as Gal's level-headed replacement. Anxious to look the part, Jay lets a charming menswear clerk, Eli, style him a daring outfit for the gala.
+
+### Chapter 43: The celebration
+The "hundred-person party" turns out to be a five-hundred-guest spectacle — fireworks, an orchestra, a vaudeville star, Ian's glittering real world on full display. Made an hour late by Leo's busywork, Jay descends the staircase and stops Ian's breath; he spends the night orbiting Ian, deflecting every advance, and guarding Ema. Home at dawn, Ian ignores the mountain of expensive gifts and goes straight to Jay's handmade tinctures and the note that ends, "You deserve every good thing."
+
+### Chapter 44: Afterglow
+Sorting Ian's unwanted gifts becomes a cozy afternoon that yields a spring botanical-garden date (from Ema) and, finally, a plan: a vacation together in November. With Ray and Liv at full strength, quarterly reports finish without a single late night, and the two book a ten-day island escape. Jay drives home for his brother Tim's eighteenth birthday — surprising him with a car — but aches all weekend at the dinners and runs that winter has taken away.
+
+### Chapter 45: Steam and stars
+The team's prize trip carries them to a cliff-side hot-springs resort in the frozen north, where even Ray turns up, and Jay watches the aurora ripple over an ocean-edge pool. A communal sauna leaves him helplessly aware of Ian; then, drunk and freezing after dinner, he clings to Ian and begs, "Hold me for the rest of my life — just tonight." Ian holds him to sleep and whispers into the dark that he would — then insists, by morning, that nothing happened, and quietly falls apart alone.
+
+### Chapter 46: Paradise found
+On the Songbird Islands, ten days of beaches and slow mornings dissolve the old distance. Strangers keep mistaking Jay's warmth for invitation, and Ian keeps smoothly rescuing him. Over a candlelit dinner they finally trade their whole romantic histories — Ian's conditional father and the seven years alone since Sam, Jay's near-empty and painful record — and when a persistent suitor pushes too far, it is Ian who breaks, drinking himself into silence, and Jay who tends him for once.
+
+### Chapter 47: Bliss
+To deter the suitor, Ian proposes they simply pretend to be a couple — and the game stops being a game with a single deliberate kiss to Jay's knuckles at breakfast. Hand-holding, a slow dance disguised as a joke, a hand at the small of the back: the touches multiply, plausible deniability the only thing keeping either from naming what is happening. On a storm-bound afternoon Ian says it as plainly as he dares — "This is what I want" — and on the flight home he secures a promise of next weekend, anchoring the bond as the island falls away beneath them.
+
+### Chapter 48: Undertow
+Back in a gray, recycled-air office, Jay grieves the trip until Ian spirits him to a hidden Victorian glasshouse, restores their Friday dinners, prints linen-bound albums of the journey, and finally plays violin for him. But the wanting has followed Jay home with teeth: a winter of home-gym evenings and a private sauna push the tension past bearing, an explicit dream leaves him mortified, and as the city strings up its Christmas lights he stops pretending the desire isn't real. *(Book 3 is ongoing; the written chapters end here.)*
