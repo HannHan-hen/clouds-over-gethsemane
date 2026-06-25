@@ -1,209 +1,144 @@
 # Clouds Over Gethsemane
 
-## Project Overview
+## What this project is
 
-**Clouds Over Gethsemane** is a slowburn BL (Boys' Love) romance series set in the high-stakes world of finance. The story follows the gradual development of feelings between Ian Hagen, a brilliant but emotionally guarded CFO, and Jay Hall, his new assistant who is escaping a traumatic work environment.
+This is a **writing project** — a long-form fiction series — and nothing more
+commercial than that. I (the human) am weaving a story for myself: I invent the
+plot and the characters, and I direct everything that happens. The AI's job is
+to **execute the prose** and do the technical work around it. I steer; the robot
+writes and tidies.
 
-The narrative explores themes of trust, professional boundaries, class disparity, and the courage required to be vulnerable after betrayal. Set against the backdrop of Turner & Associates, a prestigious investment firm, the story unfolds over the course of a year as both men navigate their growing attraction while grappling with past wounds and power dynamics.
+It has been going for over a year, and we are currently deep into **Book Three**.
+The characters started as bare templates and have since grown into people with
+pasts, habits, quirks, hopes, and dreams — Ian and Jay especially. A lot of who
+they are crystallized through the act of writing them.
 
-**Genre:** Contemporary Romance, Workplace Romance, Slowburn
-**Status:** Book 1 complete (20 chapters), Book 2 complete (20 chapters), Book 3 in progress (8 chapters)
-**Setting:** Modern-day financial district in a major city
+**The order of operations is: write first, edit later.** The point is to keep the
+story moving. We *do* maintain a small toolkit for checking and editing the prose
+(see `tools/`), and we occasionally run it over older chapters, but polishing
+never blocks new material. Earlier chapters will get a proper revision pass at
+some point, and character details that surface as we write get folded back into
+the reference files.
 
----
+So a session here is some mix of:
 
-## Writing Guidelines
+- **Intake** — landing a finished chapter into the repo in the established format.
+- **Editing** — the AI-tic / cleanup pass on a freshly-landed chapter.
+- **Everything else** — brainstorming, untangling a scene, checking for errors,
+  and asking whether the prose actually does what I intended and what should change.
 
-### Style Principles
+## How we work
 
-- Use clear language with natural flow, full sentence length and straightforward sentence structure
-- Avoid overly choppy or minimalist sentence fragments
-- Show interactions through dialogue and action rather than describing that they happened
-- Write in active voice
-- Avoid literary flourishes
-- Do not emphasize body language or specify body parts when describing actions
-- Do not interrupt dialogues with narrative or speech tags
-- Never stall or add unnecessary filler sentences
-- Use diverse vocabulary
-- Never use indirect phrasing like "he found himself thinking" or "he let himself relax" - instead directly write what the character does (e.g., "he thought", "he relaxed")
-- Don't start scenes with the words "arrived" or "brought". Don't write "summer arrived with heat", instead write "summer was hot"
-- Don't use descriptive clauses after a comma, use straightforward noun phrases: Don't write "a tree, its branches symmetrical.", instead write "A symmetrically branched tree."
-- Don't use "neutral" to describe expressions or demeanor (e.g., "his expression was carefully neutral")
-- Never use vague phrasing with "sound" to describe sounds, like "a small sound of surprise" or "noncommittal sound" - either use the proper word like "yelped" or "groaned" or omit it altogether
-- Avoid these words and their variations: gaze, smirk, chuckle, breathe, exhale, churn, tight, voice, chest, jaw, stretch, gnaw, shrug, nod, precision, settle, lean, linger, flicker
+Drafting happens in **regular Claude chat**, where a scene can be re-rolled until
+it's right. This repo is where finished text gets **stored, edited, and
+quality-checked** — not generated. The usual loop:
 
----
+1. I write a whole chapter's worth of scenes in chat.
+2. I paste them here; they get assembled into the next chapter `.md` file in the
+   canonical format.
+3. The AI runs the editing pass against the guidelines.
+4. I do a final manual pass, cutting whatever I don't like.
 
-## Book One Summary
-
-Book One follows Jay Hall's first year at Turner & Associates, from his desperate arrival after fleeing sexual harassment to his emergence as an invaluable assistant to CFO Ian Hagen.
-
-Jay begins as a wounded, financially struggling young man who sees Ian's legendary coldness toward office romance as protection. Ian, still traumatized by a past betrayal when a corporate spy posed as his secretary, views Jay with deep suspicion despite his excellent performance. Their relationship evolves through cycles of trust and withdrawal as both men struggle with their growing attraction.
-
-Key developments include Jay proving his competence through crisis management, Ian slowly recognizing Jay's genuine character, a traumatic incident at a gala where a predatory client assaults Jay (leading to Ian's protective response), and their growing intimacy through shared late nights at work. The year culminates with Jay declining a promotion to stay as Ian's assistant, and Ian finally admitting to himself that he's hopelessly in love with Jay—though Jay remains oblivious, seeing Ian only as a mentor he deeply admires.
-
-The slowburn is characterized by moments of connection followed by retreat, small gestures that carry enormous weight (care packages, specialty coffee, an expensive watch), and the gradual erosion of professional distance through shared experiences like a company retreat where they room together, a disastrous concert that becomes enjoyable through companionship, and countless quiet evenings working side by side.
-
----
-
-## Book Two Summary
-
-Book Two follows Jay's second year, exploring the deepening intimacy between Ian and Jay through shared traumas, domestic moments, and escalating emotional dependency. Key developments include Leo teasing Ian about his obvious feelings, Jay experiencing his first business trip with Ian's protective care, a disastrous blind date leading to Ian revealing his eight years of poverty after being disowned, and Jay sharing his own sexual harassment trauma. Their relationship evolves through weekend outings (ferry rides, botanical gardens), Christmas spent together baking in matching aprons, and Ian manipulating real estate to place Jay's new apartment near his penthouse.
-
-The year includes a job-search crisis when Jay loses his $10,000 emergency fund and secretly interviews elsewhere before choosing to stay with Ian (who responds with a massive counter-offer). A junior analyst, Gal Gray, becomes predatory toward Jay and files a false assault claim when rebuffed—Ian immediately proves Jay's innocence through security footage and has Gal terminated and blacklisted within hours. The book ends with summer approaching and their bond unbreakable despite neither acknowledging its romantic nature.
+The full process — intake rules, the canonical chapter format, and the editing
+passes — lives in **`WORKFLOW.md`**. The writing/style rules the editing pass
+enforces live in **`guidelines/guidelines.md`** (with the fuller AI-tic list in
+`guidelines/ai-tics-watchlist.md` and worked examples in
+`guidelines/editing-guidelines.md`). Read those before editing prose.
 
 ---
 
-## Book Three Summary (In Progress)
+## The story so far
 
-Book Three begins Jay's third year at Turner & Associates. Ian's 40th birthday becomes a central event—Leo plans a spectacular 500-guest gala while Jay anxiously crafts homemade tinctures as his gift. Jay arrives breathtaking in a floral blazer styled by Eli, wishes Ian happy birthday with devastating sincerity, and Ian later treasures Jay's handmade gift above all others (including Leo's hideous antique brooch). They establish new traditions: Tuesday runs, Friday dinners, plans for a November vacation to the Songbird Islands.
+**Clouds Over Gethsemane** is a slowburn BL (Boys' Love) romance set in
+high-stakes finance. It follows the gradual development of feelings between
+**Ian Hagen**, a brilliant but emotionally guarded CFO, and **Jay Hall**, his
+new assistant escaping a traumatic workplace. Against the backdrop of Turner &
+Associates, a prestigious investment firm, the two navigate their growing
+attraction while grappling with past wounds, class disparity, and the power
+imbalance between boss and assistant. It is a story told through accumulated
+moments rather than dramatic declarations.
 
-The team expands with Ray Shore (brilliant analyst obsessed with hot springs) and Tia Larson. Quarterly reports pass with unprecedented ease. Jay successfully buys his brother Tim a car for his 18th birthday. However, with routines disrupted by winter and reporting season, both men feel desperately lonely despite daily contact.
+- **Book 1** (complete, 20 ch) — Jay's first year: from his desperate arrival
+  after fleeing harassment to becoming Ian's indispensable assistant. Ian moves
+  from paranoid suspicion to acknowledged (but hopeless) love; Jay refuses a
+  promotion to stay, still reading his own feelings as admiration.
+- **Book 2** (complete, 20 ch) — deepening intimacy through shared trauma and
+  domestic closeness: revealed pasts, a job-search crisis Jay resolves by
+  staying, and Ian destroying a predator's career to protect him. Their bond is
+  unbreakable; neither names it.
+- **Book 3** (in progress, 8 ch) — Ian's 40th birthday, new traditions, a
+  hot-springs retreat and a ten-day island vacation where a "fake couple"
+  pretense dissolves the line between game and truth. Both are deeper in love
+  than ever and still haven't confessed.
 
-The hot springs retreat brings devastating developments: Jay nearly freezes hiking without proper gear, they witness aurora borealis from an ocean-edge pool, and at a naked sauna Jay is overwhelmed seeing Ian's body. That night, drunk and clinging to Ian in the cold, Jay begs him to "hold me for the rest of my life." Ian complies, holding Jay as he sleeps while suffering the cruelty of hearing exactly what he wants but can never have. Jay wakes mortified with memory gaps; Ian pretends nothing happened to spare him embarrassment while internally falling apart.
+The **relationship dynamic** runs on a power imbalance (boss/assistant,
+wealthy/struggling), mutual protection, parallel isolation, and slow mutual
+denial — each reads romantic feeling as professional respect. The slowburn works
+because both have real reasons to keep distance yet are genuinely compatible.
 
-The book's most recent arc is the long-planned ten-day vacation, just the two of them, at a palatial resort in the Songbird Islands. Ian clears Jay's lingering shame over the hot springs by telling him plainly that he enjoys his company and that their friendship isn't something Jay has to keep earning back. On the islands, repeated unwanted advances toward Jay prompt Ian to play the protective partner—and the two begin leaning into a "fake couple" pretense to deter admirers. Over candlelit dinners they finally trade their full romantic histories: Ian's conditional father, his university relationships, the years he spent using people as managed distractions, and Sam Connelly; Jay's own sparse, painful record. Jealousy over an admirer drives Ian to drink himself into a silent shutdown one night, and Jay tenderly nurses him through the hangover—a rare reversal where Ian is the one rescued. The pretense escalates past pretending: a theatrical kiss to Jay's knuckles at breakfast that lands like a first kiss for both, hand-holding, a slow dance that becomes a real embrace, a storm-bound evening of domestic talk about rugs and mortgages and future work trips, and a charged near-kiss in the suite doorway. By the arc's end both men are deeper in love than ever and the line between the game and the truth has all but dissolved, yet neither has openly confessed. Chapter 47's closing scene follows them home: a last melancholy afternoon on the beach, a tender final evening in the suite where Ian promises that the scenery changes but they don't, the flight back to the gray cold of the city, and Jay sinking down inside his empty apartment, already grieving the closeness they're leaving behind—anchored only by Ian's promise of a quiet dinner "next weekend."
-
-Chapter 48 covers the first gray weeks back. Jay returns to the office tan and hollow, the thirty-fourth floor suddenly feeling like a sentence after ten days of sea wind, and he runs on the minimum until Ian quietly intervenes—closing his laptop at six for the first time in two years to take Jay to a hidden Victorian palm house, then restoring their rhythms one by one: Friday dinners, a weekend "climate adjustment" at a glass-roofed riverside hotel, photo albums of the trip printed and bound in duplicate, and finally Ian playing violin for him at home. The warmth works, but it develops an undertow. When Ian offers his home gym to replace the dead winter running route, a session of hands-on form corrections and a private saura booking tip Jay over an edge he can't retreat from: the devotion he's called mentorship for two years reveals an older, far less manageable word beneath it. A wet dream, a panicked fake "cold," and Ian's relentless caretaking (soup, a medical-grade thermometer, soup logistics) only deepen it. By the chapter's end the gloom has lifted but the wanting hasn't—Jay lies awake with questions that have turned specific, finally too tired to keep denying that the thing has teeth.
+For the chapter-by-chapter breakdown, see **`summary.md`**.
 
 ---
 
-## Main Characters
+## Main characters
+
+The two leads are the heart of the project. These are the working sketches; the
+full, evolving cast — supporting team, family, antagonists, walk-ons, and
+relationship dynamics — lives in **`characters.md`**, which is where new detail
+gets recorded as it surfaces.
 
 ### Ian Hagen
 
-**Age:** 38 (turns 40 in Book 3)
-**Position:** Chief Financial Officer at Turner & Associates
-**Background:** Comes from old money and extreme privilege. Attended elite institutions and had access to the best education and resources. His family wealth and status are evident in his effortless sophistication.
-
-**Personality:** Brilliant, disciplined, and intensely private. Ian is legendary in the office for his coldness toward romance and his punishing work ethic. He maintains rigid professional boundaries and works long hours, often staying in the empty office until late at night. His reserved demeanor masks deep emotional capacity that he carefully guards.
-
-**Physical Description:** Athletically built from rigorous training, impeccably dressed, moves with natural elegance. His appearance reflects his privileged background—everything about him suggests quality and refinement.
-
-**Trauma:** Deeply wounded by a past betrayal when Sam Connelly, whom he was attracted to, turned out to be a corporate spy posing as his secretary. This betrayal left Ian with profound trust issues and an almost pathological suspicion of attractive assistants, making his growing feelings for Jay particularly terrifying.
-
-**Key Traits:**
-- Extremely competent and strategic in business matters
-- Patient teacher despite his cold exterior
-- Protective of those under his care, though he hides it
-- Struggles with work-life balance, essentially having no personal life
-- Takes retribution seriously (secretly orchestrates the downfall of Cruver's company)
-- Plays violin (studied seriously through college)
-- Has refined taste but can't appreciate experimental art
-- Best friends with Leo Turner despite their very different personalities
-
-**Character Arc:** Ian moves from paranoid suspicion of Jay to reluctant respect, then protective care, and finally to acknowledged love. His journey is about learning to trust again and recognizing that vulnerability isn't weakness. By the end of Book One, he's admitted his feelings to himself but believes them hopeless and impossible.
+- **Age:** 38 at series start, turns 40 in Book 3.
+- **Position:** Chief Financial Officer at Turner & Associates.
+- **Background:** Old money, elite education, extreme privilege — effortless
+  sophistication.
+- **Core:** Brilliant, disciplined, intensely private, emotionally guarded.
+  Legendary in the office for his coldness toward romance and a punishing work
+  ethic; a patient teacher and quietly protective beneath the reserve. Plays
+  violin, has essentially no personal life, best friends with Leo Turner.
+- **Wound:** Betrayed years ago by Sam Connelly, a corporate spy posing as his
+  secretary whom he'd fallen for. It cost him his job, his father's respect, and
+  left him with deep trust issues — which is exactly why his feelings for an
+  attractive new assistant terrify him.
+- **Arc:** Suspicion → reluctant respect → protective care → acknowledged love
+  he believes is hopeless and impossible.
 
 ### Jay Hall
 
-**Age:** 29 (turns 30 in Chapter 20)
-**Position:** Executive Assistant to Ian Hagen
-**Background:** Modest upbringing with a complicated family history. Born to an unwed teenage mother, raised by his bitter grandmother. Has younger half-siblings from his mother's stable second marriage. Attended a third-tier local university on a tight budget. Always felt like an outsider due to his circumstances.
-
-**Personality:** Earnest, diligent, and deeply anxious about his credentials and worthiness. Jay is naturally introverted and finds social interaction exhausting but has learned to perform normalcy. He's intellectually curious and studies economics textbooks in his spare time to compensate for his "inferior" education. Genuinely kind and thoughtful, with no hidden agendas despite Ian's initial suspicions.
-
-**Physical Description:** Strikingly attractive in a way that has caused problems for him—his looks led to sexual harassment at his previous job and factored into his "joke hire" status. When dressed in quality clothes, he's stunning enough to draw attention at formal events.
-
-**Trauma:** Fled his previous job due to sexual harassment. The experience at the gala with Cruver reopens these wounds. Has deep-seated insecurity about being valued only for appearance rather than competence. Carries shame about his background and education.
-
-**Key Traits:**
-- Competent despite his self-doubt
-- Financially cautious (aggressively pays off student loans)
-- Disciplined—maintains gym schedule, studies regularly
-- Values safety and stability above advancement
-- Isolated—has no real social life outside work
-- Anxious about credentials
-
-**Character Arc:** Jay transforms from a scared, broke young man hiding in plain sight to someone who feels genuine happiness and belonging. He moves from viewing Ian with fearful respect to deep admiration, then trust, and finally feelings he can't fully acknowledge. His journey is about recognizing his own worth and learning that he deserves the good things happening to him. By the end of Book One, he's confident enough to refuse promotion because being Ian's assistant is what he truly wants—though he doesn't yet understand the romantic nature of his attachment.
+- **Age:** 29 at series start, turns 30 in Book 1.
+- **Position:** Executive Assistant to Ian Hagen.
+- **Background:** Modest upbringing — born to an unwed teenage mother, raised by
+  a bitter grandmother, third-tier university on a tight budget. Always an
+  outsider.
+- **Core:** Earnest, diligent, deeply anxious about his credentials and worth.
+  Introverted and socially exhausted but performs normalcy; intellectually
+  curious, studies economics to compensate for a "lesser" education. Genuinely
+  kind, no hidden agendas. Values safety and stability above advancement;
+  financially cautious and disciplined.
+- **Wound:** Fled his previous job over sexual harassment; carries shame about
+  his background and a fear of being valued only for his looks rather than his
+  competence.
+- **Arc:** A scared, broke man hiding in plain sight → genuine happiness and
+  belonging, and feelings he can't yet name. By the end of Book 1 he refuses a
+  promotion because being Ian's assistant is what he truly wants.
 
 ---
 
-## Relationship Dynamic
+## Repository map
 
-Ian and Jay's relationship is characterized by:
+Where to look — and where things belong:
 
-- **Power imbalance:** Boss/assistant, wealthy/struggling, privileged/modest background
-- **Mutual protection:** Each tries to shield the other (Ian from predatory clients, Jay from overwork)
-- **Slow recognition:** Both are in denial about romantic feelings, interpreting them as professional respect/admiration
-- **Tender intimacy:** Long evenings working together, thoughtful gestures
-- **Class awareness:** Jay is constantly aware of the gap between them; Ian increasingly blind to it
-- **Trust building:** Every crisis that Ian handles with care erodes Jay's fear and builds his trust
-- **Parallel isolation:** Both are fundamentally alone—Ian by choice, Jay by circumstance
-- **Unspoken devotion:** By year's end, both would do anything for the other but neither has acknowledged it
-
-The slowburn works because both men have valid reasons to maintain distance, yet are inexorably drawn together through proximity, shared values, and genuine compatibility. Their relationship develops through accumulated moments rather than dramatic declarations.
-
----
-
-## Manuscript Sources & Sync State
-
-*Last verified: 2026-06-24. Refresh this section whenever the sources move.*
-
-### What the source files are
-
-The manuscript exists in three parallel forms; they share a common ancestor
-and are kept loosely in sync:
-
-| Location | Role | Format |
-|---|---|---|
-| `source/raw/2026-06-23-novelcrafter-export/novel.md` | **Frozen baseline** — the newest Novelcrafter export (2026-06-23). Treat as read-only. Covers ch1–47. | `###`/`####` headers, `* * *` scene breaks |
-| `source/book{1,2,3}.txt` | Plain-text compile used by the `tools/` analysis scripts. Synced from the export. | `Chapter N:` / `Scene N` + title line, no blank separators |
-| `chapters/book{1,2,3}/*.md` | **Working copy** (the readable manuscript), ch1–48. | `# Chapter N: Title` / `## Scene K: Title`, blank-line separated |
-
-The `2026-01-21 *.docx` files under `source/raw/` are the **older** January
-export and are superseded — kept only as historical artifacts.
-
-### Provenance
-
-- The `.md` chapters were originally extracted from `book*.txt`.
-- Commit `52f6961` ("Sync from Novelcrafter full export") added the 2026-06-23
-  export and re-synced both `book*.txt` and most `.md` chapters from it. So all
-  three forms descend from the same newest export — the `.txt` files are **not**
-  stale leftovers from the January docx.
-- Since that sync: ch33 was edited (Dan Miller→Dan Mercer), ch46–47 were
-  copy-edited, ch47 gained a new Scene 5 ("Homecoming"), and ch48 ("Undertow")
-  was written fresh. **Chapters 46–48 in the `.md` files are the most recent
-  text and are ahead of the export.** See `EDITS-FROM-NOVELCRAFTER.md`.
-
-### Where the `.md` working copy stands vs the newest export
-
-Verified by diffing `chapters/*.md` directly against the export (normalising
-quotes/dashes/whitespace). **43 of 47 chapters are identical to the export.**
-The only divergences:
-
-- **ch14** — carries a stray `Bonus?` draft note at the top of Scene 1
-  (a deliberate author reminder, kept on request; not in the export/`.txt`).
-- **ch33** — Dan Mercer rename (intentional, logged).
-- **ch46** — islands-arc copy-edit, ~16 blocks (intentional, logged).
-- **ch47** — copy-edit + added Scene 5 "Homecoming", ~12 blocks (intentional, logged).
-- **ch48** — entirely new chapter, not in the export (intentional).
-
-Scene structure is fully intact: every chapter's scene count and titles match
-the export (ch47 has the extra "Homecoming"; ch48's five titles are original).
-**No scene titles are missing.**
-
-### Formatting/sync cleanup done 2026-06-24
-
-- Reformatted ch12–48 `.md` to the canonical `#`/`## Scene K:` + blank-line
-  layout chapter 1 uses (they had degraded: lost markdown headers, scene titles
-  on bare lines, no paragraph separators). Structure only — no prose changed.
-  Tool: `tools/reformat_chapters.py` (idempotent, validates against the export).
-- **ch15** — removed a stray `Freefall` line (an arc-divider that had leaked
-  onto the end of the file during the original extraction).
-- **ch20** — restored a final paragraph that the `.md` had dropped ("Ian
-  wondered how he could continue pretending…"), and re-synced its opening two
-  paragraphs to the export's newer wording (the `.md` had an older draft that
-  repeated "aggressive"; export/`.txt` agree on the cleaner phrasing).
-
-### How to re-verify
-
-```bash
-# Drift of book*.txt vs the export (human summary in EDITS-FROM-NOVELCRAFTER.md):
-python3 tools/diff_export.py --out guidelines/divergence-from-export.md
-# Re-normalise chapter markdown (dry run lists anything off-format):
-python3 tools/reformat_chapters.py
-```
-
-Note: `diff_export.py` compares `book*.txt` to the export, **not** the `.md`
-files. The ch14/ch20 `.md`-only differences above don't show up there because
-they live in the `.md` working copy, which `diff_export.py` doesn't read.
+| Path | What it holds |
+|---|---|
+| `chapters/book{1,2,3}/` | The working manuscript (`.md`), the readable copy we edit. |
+| `summary.md` | Chapter-by-chapter plot summaries for all three books. |
+| `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
+| `timeline/` | Story chronology. |
+| `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
+| `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, editing playbook, and generated QA reports. |
+| `tools/` | The check/edit scripts (lint, repetition scan, continuity, reformat). See `tools/README.md`. |
+| `source/` | Source forms of the manuscript (`book*.txt`, the Novelcrafter export, pristine chat drafts). |
+| `SOURCES.md` | How the three manuscript forms relate and their current sync state. |
+| `EDITS-FROM-NOVELCRAFTER.md` | Log of where the working copy diverges from the frozen export. |
+| `plans/` | Notes and plans for possible variations/spin-offs. |
