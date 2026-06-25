@@ -125,7 +125,7 @@ reference** — delete a sentence and a later "as he'd said earlier" dangles.
 After the prose passes, sanity-check the chapter against the world:
 
 - names and spellings (`characters.md`, including the walk-on registry);
-- timeline and sequencing (`timeline/`, `summary.md`);
+- timeline and sequencing (`timeline/`);
 - established facts and relationships;
 - both leads' established voices.
 
