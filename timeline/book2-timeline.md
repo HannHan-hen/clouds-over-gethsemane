@@ -8,6 +8,20 @@
 >
 > From **spring 2018 onward the manuscript's weekday/holiday labels drift** off the real calendar (it places Easter in mid-April rather than its real April 1, and treats July 14 as a Sunday when it is a Saturday). Where that happens, dates below follow the manuscript's *internal* ordering and are marked **(est.)**. Soft/estimated dates are marked **(est.)** throughout. See **Timeline drift & flags** at the bottom — Book 2's loosest stretch is the **late-August/September social-and-tailor sequence**, which the prose narrates more densely than a strict weekday count allows.
 
+> ### ⚠ Calendar reconciliation — EDITING PRIORITY
+>
+> The holiday/weekday dates are the part of Book 2 most likely to need rework. Flag these for close attention in the editing phase (details in **Timeline drift & flags** #3, #4, #5, #7, #8):
+>
+> | Item | Manuscript says | Real 2017–2018 calendar | Action needed |
+> |---|---|---|---|
+> | **Easter 2018** | mid-April (*after* Q1 reports; the move follows) | **Sun, April 1, 2018** | Real Easter is too early for the Q1-reports-then-Easter chain. Either move Q1 reports earlier, or accept a fictional late Easter — but **decide and keep it consistent.** |
+> | **Jay's 31st birthday** | "**Sunday**," July 14 (gym "the day before") | July 14 is a **Saturday** | Change "Sunday" → Saturday (and run the gym scene that morning), *or* move the birthday to Sun July 15. Canonical date is **July 14**. |
+> | **Family-visit day off** | "**Friday** the nineteenth" | July 19 is a **Thursday** (Friday is the 20th) | Change "nineteenth" → twentieth, or change "Friday" → Thursday. |
+> | **Diving vacation** | "last week of October" | spans **Halloween (Tue Oct 31)**, returns to "November air" | Realized window is **Oct 28 – Nov 4** (straddles the month). Reword "last week of October" if exactness matters. |
+> | **"Month drawing to a close"** (Ch 25) | reads as late September | trip returns **Mon Oct 2** | Authorial lag; reword to "early October" or leave. |
+>
+> Everything from **August 2017 through January 2018 matches the real calendar exactly** (Christmas Mon Dec 25, NYE Sun Dec 31, gala Sat Jan 20) and needs no reconciliation.
+
 ---
 
 ## Chapter 21: Summer heat
@@ -823,11 +837,17 @@ Places where the prose resists a clean calendar, ordered roughly by how much the
 
 6. **November/December labeling lag (Ch 28–29).** Ch28 S5 ("as November slowly ended") and Ch29 S4 ("November had ended") both reference November while the surrounding events compute to **early December**. The Ch28 weekend "date" (Sat–Sun Dec 2–3) and Ch29's apartment-viewing/laser-tag run press right up against each other; treated as overlapping rather than strictly sequential.
 
-7. **Easter is placed in mid-April, not its real date (Ch 34).** The manuscript runs **Q1 reports first, then Easter, then the mid-April move**, which forces Easter to roughly **April 13–16, 2018**. The actual 2018 Easter was **April 1**. Book 1's timeline honored the real Easter (April 2017); Book 2 instead treats Easter as a mid-April, post-Q1 event. Dated per the manuscript's internal order and flagged.
+7. **⚠ Easter is placed in mid-April, not its real date (Ch 34) — RECONCILE IN EDITING.** The manuscript runs **Q1 reports first, then Easter, then the mid-April move**, which forces Easter to roughly **April 13–16, 2018**. The actual 2018 Easter was **Sunday, April 1**. Book 1's timeline honored the real Easter (April 2017); Book 2 instead treats Easter as a mid-April, post-Q1 event. These can't both stand: a real April 1 Easter would have to *precede* the Q1 reporting crunch the chapter clearly puts first. **An editing decision is required** — pull Q1 reports forward to clear an April 1 Easter, or accept a deliberately fictional late Easter — and then hold it consistent against Book 1. Dated here per the manuscript's internal order and marked (est.).
 
-8. **Mid-2018 weekday labels drift ~1 day (Ch 39–40).** From summer 2018 the prose's days of week run slightly ahead of the real calendar. **Jay's birthday** is narrated as a **Sunday** with the gym "the day before," but his canonical date, **July 14, 2018, is a Saturday**. Likewise the family-visit day off is called **"Friday the nineteenth,"** though **July 19, 2018 is a Thursday** (the Friday is the 20th). Dates here keep the canonical **July 14** birthday and the manuscript's Fri-party → Sat-gym → Sun-birthday sequence, with the offsets flagged.
+8. **⚠ Mid-2018 weekday labels drift ~1 day (Ch 39–40) — RECONCILE IN EDITING.** From summer 2018 the prose's days of week run one ahead of the real calendar:
+   - **Jay's birthday** is narrated as a **Sunday** with the gym "the day before," but his canonical date, **July 14, 2018, is a Saturday.** Fix: change "Sunday" to Saturday (and place the gym scene that morning), or shift the birthday to Sun July 15. The **date 14 July is canonical** (Book 1) and should not move.
+   - The family-visit day off is called **"Friday the nineteenth,"** but **July 19, 2018 is a Thursday** (the Friday is the 20th). Fix: "nineteenth" → twentieth, or "Friday" → Thursday.
+   Dates here keep the canonical July 14 birthday and the manuscript's Fri-party → Sat-gym → Sun-birthday sequence; the offsets are the edit targets.
 
-9. **Ian's age and his September 40th (Ch 26, Ch 40).** Ian is called "thirty-nine" in November 2017 (Ch26), and Leo states he "turns forty in September" (Ch40) — i.e., **September 2018**, the opening of Book 3. This implies Ian turned 39 in September 2017, which is a hair off the series-bible "38 at series start (August 2016)" (he would have just turned 38 the prior September). Minor character-age wrinkle, not a date conflict; noted for the Book 3 birthday setup.
+9. **Ian's age is internally consistent — September birthday, deliberately unmentioned (Ch 26, Ch 40).** This is *not* a conflict; it's by design. Ian's birthday falls in **September**, so he turns **38 in Sept 2016** (Book 1, ~Ch 3 — unremarked), **39 in Sept 2017** (Book 2, ~Ch 23, around the Luc-sick-week / withdrawal stretch — also unremarked), and **40 in Sept 2018** (Book 3 — the first *acknowledged* birthday, seeded by Leo in Ch 40 S5). So:
+   - At Book 2's opening (Aug 4, 2017) Ian is **still 38**; he quietly turns **39 in mid-September 2017** (no scene marks it — as intended).
+   - "Thirty-nine-year-old" in Ch 26 (Nov 2017) is therefore **correct**.
+   - The series-bible "38 at series start (Aug 2016)" is a fair round-up: he is technically 37 for the first month, turning 38 in September — and it is the year he turns 38. He is **~9 years older than Jay** (precisely 8 yr 10 mo; Jay born ~July 1987, Ian ~Sept 1978). No edit needed; noted only so the unremarked Sept-2017 birthday isn't mistaken for an error.
 
 10. **Two Book 3 hooks are planted here.** The **finance team's thermal-springs prize** (Ch37 S5) and **Ian's 40th-birthday celebration** (seeded by Leo in Ch40 S5) are both set up at the end of Book 2 and pay off in Book 3 (the hot-springs retreat and Ian's 40th).
 
