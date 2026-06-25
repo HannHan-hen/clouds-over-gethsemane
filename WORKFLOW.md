@@ -73,10 +73,10 @@ AI-tic pruning, no continuity fixes. The job here is purely to land the new
 material faithfully. Editing the chapter file directly happens afterward (a
 later step), with the `source/raw/chat-drafts/` copy preserved as the original.
 
-**Bookkeeping:** because chapter 48+ are ahead of the Novelcrafter export, a new
-chapter is a divergence worth logging. Add a one-line note to
-`EDITS-FROM-NOVELCRAFTER.md` ("Chapter NN — entirely new, not in export") and
-keep the chapter-count line in `CLAUDE.md`'s status up to date.
+**Bookkeeping:** keep the chapter-count line in `CLAUDE.md`'s status up to date.
+No need to log the new chapter anywhere else — this repo is the source of truth,
+and divergence from the legacy Novelcrafter export is computed on demand with
+`tools/diff_export.py`, not hand-maintained (see `SOURCES.md`).
 
 ---
 
