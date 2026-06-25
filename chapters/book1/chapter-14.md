@@ -1,6 +1,6 @@
 # Chapter 14: Spring
 
-## Scene 1: Quaterly reports
+## Scene 1: Quarterly reports
 
 Bonus?
 
