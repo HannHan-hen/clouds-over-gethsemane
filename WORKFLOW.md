@@ -128,7 +128,7 @@ The four passes, in order:
 
 4. **Continuity.** Make sure the new chapter stays true to the world: names,
    timeline, established facts, character voices. Cross-check against
-   `characters.md`, `summary.md`, `timeline/`, and the continuity tooling.
+   `characters.md`, `timeline/`, and the continuity tooling.
    Editing prose shouldn't introduce new facts, but cuts can strand a
    reference — verify nothing dangles.
 

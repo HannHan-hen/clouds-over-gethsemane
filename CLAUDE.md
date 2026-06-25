@@ -91,7 +91,8 @@ wealthy/struggling), mutual protection, parallel isolation, and slow mutual
 denial — each reads romantic feeling as professional respect. The slowburn works
 because both have real reasons to keep distance yet are genuinely compatible.
 
-For the chapter-by-chapter breakdown, see **`summary.md`**.
+For a brief chapter-by-chapter overview, see **`summary.md`**; for the
+detailed, dated, scene-by-scene chronology, see **`timeline/`**.
 
 ---
 
@@ -147,9 +148,9 @@ Where to look — and where things belong:
 | Path | What it holds |
 |---|---|
 | `chapters/book{1,2,3}/` | The working manuscript (`.md`), the readable copy we edit. |
-| `summary.md` | Chapter-by-chapter plot summaries for all three books. |
+| `summary.md` | Brief chapter-by-chapter overview, condensed from `timeline/` (Book 1 so far; further books added as their timelines are built). |
 | `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
-| `timeline/` | Story chronology. |
+| `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Book 1 complete). |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
 | `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, editing playbook, and generated QA reports. |
 | `tools/` | The check/edit scripts (lint, repetition scan, continuity, reformat). See `tools/README.md`. |
