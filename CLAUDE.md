@@ -27,6 +27,21 @@ So a session here is some mix of:
 - **Everything else** — brainstorming, untangling a scene, checking for errors,
   and asking whether the prose actually does what I intended and what should change.
 
+## How this repo came to be
+
+The novel was originally written and managed in **Novelcrafter** — that's where
+the `source/raw/` exports come from. I've since cancelled that subscription and
+am moving the workflow into this repo to see what works. The newest export
+(`source/raw/2026-06-23-novelcrafter-export/`) is the state of the novel at the
+moment of the switch and serves as the **frozen baseline**; everything after
+ch48 is written the new way.
+
+We *did* work in this repo on and off before the switch, but only sporadically,
+so **expect the occasional old leftover** — a stray draft note, an out-of-sync
+chapter, a half-finished experiment. When something looks off or contradicts the
+rest, it's probably one of these; flag it rather than treating it as canon.
+`SOURCES.md` tracks how the manuscript forms relate and what's currently in sync.
+
 ## How we work
 
 Drafting happens in **regular Claude chat**, where a scene can be re-rolled until

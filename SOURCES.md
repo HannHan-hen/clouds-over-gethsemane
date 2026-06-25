@@ -2,6 +2,11 @@
 
 *Last verified: 2026-06-24. Refresh this section whenever the sources move.*
 
+The novel was originally written in **Novelcrafter**; this repo is a newer home
+that the workflow is being moved into (see `CLAUDE.md` → "How this repo came to
+be"). The `source/raw/` exports are the Novelcrafter output, and the newest one
+is the frozen baseline below.
+
 ## What the source files are
 
 The manuscript exists in three parallel forms; they share a common ancestor
