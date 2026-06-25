@@ -1,535 +1,825 @@
-# Book 1 Timeline: Clouds Over Gethsemane
+# Book 1 Timeline
 
-**Canonical Start Date:** Monday, July 31, 2017 (Jay's first day at Turner & Associates)
+**Canonical years:** 2016–2017  
+**Canonical start date:** Monday, August 1, 2016 (Jay's first day at Turner & Associates)  
+**Chapters covered:** 1–20 (complete) — Arc 1 (Ch 1–5: first day → end of probation), Arc 2 (Ch 6–10: permanent hire → six-month review), Arc 3 (Ch 11–15: February rush → spring), and Arc 4 (Ch 16–20: the retreat → one-year anniversary).
+
+> **Why 2016 works.** The text fixes two hard anchors: Jay's first day is explicitly a **Monday** ("The following Monday morning…" / Leo's "Monday morning. Nine o'clock sharp."), and his probation review is "**Monday morning**" exactly "**three months**" later. In 2016, **August 1 is a Monday** *and* **October 31 is a Monday** — they bracket exactly 13 weeks (91 days = 3 calendar months). Both anchors fall into place with no fudging. (In 2017, by contrast, August 1 is a Tuesday, which would break the "first day = Monday" line.)
+>
+> Dates are derived from the chapters' own day-of-week and "week N / one month / six months" cues. Soft/estimated dates are marked **(est.)**. See **Timeline drift & flags** at the bottom for the spots where the prose resists a clean calendar.
 
 ---
 
 ## Chapter 1: Things set in motion
 
 ### Scene 1: The gift
-**Start Date:** Monday, July 31, 2017 | **Day:** Monday | **Duration:** 1 day
-Jay receives a mysterious expensive leather messenger bag delivered to his shabby apartment on the morning of his first day. He has no idea who sent it but uses it anyway as he prepares for his new job.
-**Milestone:** Jay's first day at Turner & Associates
+Start Date: Friday, July 29, 2016 (est.)  
+Day: Friday  
+Duration: 1 day  
+Leo pressures his friend Ian Hagen into taking on Jay Hall as an assistant, reopening the wound of Ian's betrayal by the corporate spy Sam Connelly. Ian reluctantly agrees that Jay will start "Monday morning."  
+Note: No explicit date in text; "the following Monday" places this the prior week (the "couple of days before" the start).
 
 ### Scene 2: Arrival
-**Start Date:** Monday, July 31, 2017 | **Day:** Monday | **Duration:** 1 day
-Jay arrives at Northlight Financial Center and is overwhelmed by the grand lobby and his intimidating new workplace. He meets the receptionist and waits nervously before being escorted to his new department.
+Start Date: Monday, August 1, 2016  
+Day: Monday  
+Duration: 1 day  
+Jay arrives early at Northlight Financial Center for his first day and is welcomed by Leo, who shows him to the desk outside Ian's office. Jay is privately relieved to have landed under a boss famously immune to office romance.  
+Milestone: Jay's first day at Turner & Associates
 
 ### Scene 3: Introduction
-**Start Date:** Monday, July 31, 2017 | **Day:** Monday | **Duration:** 1 day
-Jay meets Leo Turner, who explains the messenger bag was a welcome gift and introduces him to the team. He learns he will be CFO Ian Blackwell's executive assistant, a position with significant responsibilities.
+Start Date: Monday, August 1, 2016  
+Day: Monday  
+Duration: same day  
+Ian emerges, sizes Jay up with suspicion, and introduces him to the team (Amy, Luc, Ela, Zoe, Kim). Jay's earnest competence reads to Ian as exactly what a skilled manipulator would project.
 
 ### Scene 4: Settling in
-**Start Date:** Monday, July 31, 2017 | **Day:** Monday | **Duration:** 1 day
-Jay gets situated at his desk and meets some colleagues including Amy and Luc. He observes his new environment and begins to understand the office dynamics and hierarchy.
+Start Date: Tuesday, August 2, 2016  
+Day: Tuesday–Wednesday  
+Duration: 2 days  
+Over the next two mornings Jay learns the espresso machine from Luc and receives the leather messenger bag — handed over openly by Leo at the office. Ian works the early Tokyo-deal calls and keeps watching Jay through the glass.
 
 ### Scene 5: Signals
-**Start Date:** Monday, July 31, 2017 | **Day:** Monday | **Duration:** 1 day
-Jay has his first interaction with Ian Blackwell, who is cold and dismissive. Jay senses hostility and realizes his new boss may not want him there, ending his first day with anxiety about his position.
+Start Date: Friday, August 5, 2016  
+Day: Friday  
+Duration: end of week 1  
+By Friday Jay has finished a strong first week of progressively harder tasks, delighted by the respectful, hands-off environment. Ian reads Jay's obvious happiness as the same slow-build charm Sam once used, and resolves to stay guarded.
 
 ---
 
 ## Chapter 2: Fitting in
 
 ### Scene 1: Solitude
-**Start Date:** Tuesday, August 1, 2017 | **Day:** Tuesday | **Duration:** 5 days
-Jay struggles through his first week with Ian remaining distant and cold. He feels isolated and uncertain, unable to understand why Ian seems to dislike him so intensely.
+Start Date: Saturday, August 6, 2016  
+Day: Saturday–Sunday  
+Duration: 2 days  
+Jay spends his first weekend off in disciplined solitude — studying client files, batch-cooking, ironing his seven identical shirts. A brief text from his mother underscores how isolated his life has become.
 
 ### Scene 2: Performance
-**Start Date:** Monday, August 7, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay focuses on proving himself through meticulous work during his second week. Despite Ian's continued coldness, Jay demonstrates competence in handling correspondence and administrative tasks.
+Start Date: Monday, August 8, 2016  
+Day: Monday  
+Duration: 1 day  
+Week two opens with Ian instituting standing ~9 a.m. briefings and assigning the Maven Holdings summary (due end of week, for the following Monday's board meeting). Jay reluctantly joins the team lunch at Cornerstone Cafe and finds the social performance exhausting.
 
 ### Scene 3: Mistake
-**Start Date:** Monday, August 14, 2017 | **Day:** Monday | **Duration:** 3 days
-Jay makes an error in scheduling that causes problems with a client meeting. The mistake intensifies his anxiety about his position and Ian's already negative perception of him.
+Start Date: Tuesday, August 9, 2016  
+Day: Tuesday–Thursday  
+Duration: 3 days  
+Daily lunch invitations quietly absorb Jay into the group; over Thursday's lunch Ela notes Max is due back "week after next." Late Thursday Jay finds a transposition error in his portfolio projections, and Ian — instead of scolding — sits down and walks him through the fix.
 
 ### Scene 4: Avoidance
-**Start Date:** Thursday, August 17, 2017 | **Day:** Thursday | **Duration:** 4 days
-Jay begins avoiding non-essential contact with Ian and focuses on keeping a low profile. He declines lunch invitations from colleagues and retreats into himself.
+Start Date: Friday, August 12, 2016  
+Day: Friday  
+Duration: 1 day  
+Jay submits a strong investment analysis that Ian praises, then declines the Friday Murphy's drinks invitation with an errand excuse. He heads home content, preferring solitude to the bar.
 
 ### Scene 5: Fear
-**Start Date:** Monday, August 21, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay's fear about his job security intensifies as Ian's behavior remains cold. He considers looking for other positions but decides to persevere and prove himself worthy of the role.
+Start Date: Friday, August 12, 2016 (evening)  
+Day: Friday  
+Duration: same day (Ian POV)  
+That evening Ian and Leo drink scotch in the office while Leo needles Ian about his paranoia and Jay's evident loneliness. Ian refuses to soften, telling himself some lessons are too expensive to learn twice.
 
 ---
 
 ## Chapter 3: Establishing himself
 
 ### Scene 1: Small comforts
-**Start Date:** Monday, August 28, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay finds small ways to make his work life more bearable, including discovering a peaceful park nearby during lunch. He begins to establish routines that help him cope with the stressful environment.
+Start Date: Monday, August 15, 2016  
+Day: Monday–Friday  
+Duration: week 3  
+Now "almost three weeks" in, Jay discovers the Willow & Sage bistro and a quiet pocket park near the office. Friday brings Ela's news that Max's return is delayed again by a tropical illness.
 
 ### Scene 2: Offering input
-**Start Date:** Monday, September 4, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay tentatively offers suggestions for improving document organization and is surprised when Ian accepts them without criticism. This small victory gives him hope that the situation might improve.
+Start Date: Monday, August 22, 2016  
+Day: Monday–Thursday  
+Duration: week 4  
+Starting his fourth week, Jay is pulled into a Thursday strategy session on the Wentworth account and correctly reframes the client's emails as wanting reassurance, not a strategy change. Ian and Amy both acknowledge the insight.  
+Milestone: Jay's first substantive contribution (Wentworth) — Thursday, August 25
 
 ### Scene 3: Going out
-**Start Date:** Monday, September 11, 2017 | **Day:** Monday | **Duration:** 5 days
-Colleagues invite Jay to lunch and he reluctantly accepts, beginning to form connections with his coworkers. He learns more about office dynamics and the team's regular restaurant rotation.
+Start Date: Friday, August 26, 2016  
+Day: Friday  
+Duration: 1 day  
+Jay finally joins Friday drinks, nursing one beer and leaving by nine-thirty, but surviving the social test. Walking to the metro, Luc hints obliquely that he too was one of Leo's unusual hires.  
+Milestone: Jay's first after-work outing with colleagues
 
 ### Scene 4: Office culture
-**Start Date:** Monday, September 18, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay observes and adapts to Turner & Associates' corporate culture, including dress expectations and social norms. He realizes his cheap suits stand out among his well-dressed colleagues.
+Start Date: Monday, August 29, 2016  
+Day: Monday–Thursday  
+Duration: week 5  
+Comfortable in the office's routines, Jay watches Ian quietly praise good work across the team on Thursday, cementing his admiration. Luc explains Leo's real status as company royalty.
 
 ### Scene 5: Compensation
-**Start Date:** Monday, September 25, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay receives his first full paycheck and is surprised by the generous compensation. He begins to understand that Turner & Associates values its employees through competitive salaries.
+Start Date: Friday, September 2, 2016 (est.)  
+Day: Friday  
+Duration: 1 day  
+Jay's first month-end pay lands with an unexpected standard monthly bonus — nearly triple his old paycheck — and Luc confirms it's routine. Jay celebrates quietly with coffee and a croissant, then banks most of it, mindful that two months of probation remain.  
+Milestone: First month complete; first salary + bonus
 
 ---
 
 ## Chapter 4: The ripples
 
 ### Scene 1: Evaluation
-**Start Date:** Monday, October 2, 2017 | **Day:** Monday | **Duration:** 3 days
-Jay undergoes his first performance evaluation and receives unexpectedly positive feedback despite Ian's coldness. He learns his work quality has been noticed and appreciated.
+Start Date: Tuesday, September 6, 2016 (est.)  
+Day: early September  
+Duration: ~1 day (Ian POV)  
+A month in, Ian privately admits his attraction to and respect for Jay — the exact combination that once destroyed him — even as Leo delivers a spotless background check. Ian notes that Jay's probation ends "at the beginning of November" and recommits to vigilance.
 
 ### Scene 2: Misstep
-**Start Date:** Thursday, October 5, 2017 | **Day:** Thursday | **Duration:** 2 days
-Jay overhears colleagues discussing that Max has returned from sabbatical. He learns disturbing information about his hiring circumstances that shakes his confidence.
+Start Date: Monday, September 12, 2016 (est.)  
+Day: mid-September  
+Duration: ~several days  
+Emboldened by a good discussion, Jay asks about the old Falconridge acquisition and Ian shuts him down coldly. Jay, mortified, retreats into deliberate invisibility while Ian's manner toward him turns glacial.
 
 ### Scene 3: Accepting his fate
-**Start Date:** Saturday, October 7, 2017 | **Day:** Saturday | **Duration:** 2 days
-Jay discovers he was hired as a "joke" by Leo to annoy Ian, who had rejected all previous candidates. He spends the weekend processing this revelation and questioning his worth.
-**Milestone:** Jay learns he was a "joke hire"
+Start Date: Wednesday, September 14, 2016 (est.)  
+Day: mid-September  
+Duration: ~3 days  
+Kim notes Jay's new silence; on Thursday Jay stays until 9:30 to find the decimal error in Amy's Broadmarsh reconciliation. The team's gratitude only deepens his conviction that he belongs in the background.  
+Note: Overlaps Scene 2's aftermath.
 
 ### Scene 4: Painful returns
-**Start Date:** Monday, October 9, 2017 | **Day:** Monday | **Duration:** 4 days
-Jay returns to work feeling demoralized by the knowledge of his humiliating hiring circumstances. He throws himself into work to prove he deserves the position regardless of how he got it.
+Start Date: Monday, September 26, 2016  
+Day: Monday  
+Duration: 1 day  
+Max Goodwin returns from his extended trip and, loudly oblivious, greets Jay as "Leo's new joke hire." That night Jay searches Ian's name, finds the old corporate-espionage scandal and the gossip about Ian's "type," and feels his safe harbor turn false.  
+Milestone: Max returns; "joke hire" revelation
 
 ### Scene 5: Resignation
-**Start Date:** Friday, October 13, 2017 | **Day:** Friday | **Duration:** 1 day
-Jay considers resigning but ultimately decides to stay and fight for his position. He resolves to prove himself through excellence rather than allowing the circumstances to define him.
+Start Date: Tuesday, September 27, 2016  
+Day: Tuesday–Wednesday  
+Duration: 2 days  
+Numb and withdrawn, Jay moves through his duties as pure performance while the quarterly reports ramp up with September ending. Checking his bank balance after two paychecks, he frames his security as a transaction — dignity traded for safety.  
+Milestone: Q3 quarterly reporting begins
 
 ---
 
 ## Chapter 5: Finding his place
 
 ### Scene 1: Glamour
-**Start Date:** Friday, October 13, 2017 | **Day:** Friday | **Duration:** 1 day
-The quarterly party arrives and Jay feels underdressed among glamorously attired colleagues. He observes the lavish event feeling like an outsider in his modest suit.
-**Milestone:** First quarterly party
+Start Date: Friday, October 7, 2016  
+Day: Friday  
+Duration: 1 day  
+As the first week of October closes, Jay attends his first lavish quarterly party in a costly midnight-blue suit, feeling like an impostor while Ian gives him only fifteen seconds of cold courtesy. Leo teases Ian for watching Jay all night and fumbling the chance to help him.  
+Milestone: First quarterly party
 
 ### Scene 2: Pity
-**Start Date:** Friday, October 13, 2017 | **Day:** Friday | **Duration:** 1 day
-Jay notices Ian treating him with what seems like pity at the party. This unexpected shift from coldness to something softer confuses Jay about Ian's true feelings toward him.
+Start Date: Thursday, October 13, 2016  
+Day: Thursday  
+Duration: ~1 week (to Thu, Oct 20)  
+To signal that Jay is valued, Ian assigns him the sensitive Stormfront Group confidentiality audit, normally his own task. Jay delivers exceptional work the following Thursday, disarming — but not erasing — Ian's suspicion.  
+Milestone: Stormfront compliance audit delivered (Thursday, October 20)
 
 ### Scene 3: Distrust
-**Start Date:** Friday, October 13, 2017 | **Day:** Friday | **Duration:** 1 day
-Jay overhears conversation suggesting Ian distrusts him because of a previous assistant who betrayed him. This context helps explain Ian's coldness and gives Jay hope for improvement.
+Start Date: Friday, October 14, 2016 (est.)  
+Day: Friday  
+Duration: ~2-week push  
+After nearly two weeks of war-room effort, Ian personally lands the prestigious Hartwell account, confirmed on a Friday afternoon. At the debrief Max jokes that Jay's "pretty face" helped close it, souring the team's genuine praise of his coordination work.  
+Milestone: Hartwell acquisition signed  
+Note: Runs concurrently with Scene 2 — see flags.
 
 ### Scene 4: Apology
-**Start Date:** Monday, October 16, 2017 | **Day:** Monday | **Duration:** 5 days
-Ian offers Jay a subtle apology for his previous coldness and begins treating him with more respect. The atmosphere between them begins to thaw as Ian acknowledges Jay's competence.
+Start Date: Tuesday, October 25, 2016 (est.)  
+Day: Friday (Oct 21) → Tuesday (Oct 25)  
+Duration: ~5 days  
+Jay keeps declining the now-ceremonial Friday drinks; the following Tuesday Max privately apologizes for the "joke hire" remark. With his probation a week off, Jay half-hopes the company won't renew him, so he can leave with his dignity.
 
 ### Scene 5: The contract
-**Start Date:** Monday, October 23, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay's probationary period ends and he receives an offer for permanent employment. Ian personally presents the contract, marking a turning point in their professional relationship.
-**Milestone:** Jay's probation ends, offered permanent position
+Start Date: Monday, October 31, 2016  
+Day: Monday  
+Duration: 1 day  
+At the 2 p.m. three-month review, Ian praises Jay's work, offers permanent employment (10% raise, three-year contract, benefits), and comes as close as he can to apologizing for his coldness. Jay accepts flatly — secure at last, but hollowed out, with success feeling indistinguishable from survival.  
+Milestone: Probation ends; permanent contract offered — end of Arc 1
 
 ---
 
 ## Chapter 6: Regaining ground
 
 ### Scene 1: Celebration
-**Start Date:** Monday, October 30, 2017 | **Day:** Monday | **Duration:** 2 days
-Colleagues celebrate Jay's permanent contract and welcome him as a full member of the team. The warm reception marks his first sense of truly belonging at Turner & Associates.
-**Milestone:** Jay signs permanent contract
+Start Date: Friday, November 4, 2016  
+Day: Friday  
+Duration: 1 day  
+The team gathers at Murphy's to celebrate Jay's permanent status, and Ian makes a rare appearance to mark it. Pulling Leo aside, Ian coldly orders him to repair the damage his "joke hire" scheme did to Jay's confidence.  
+Milestone: Celebration of Jay's permanent contract; Ian's rare social appearance
 
 ### Scene 2: Explanation
-**Start Date:** Wednesday, November 1, 2017 | **Day:** Wednesday | **Duration:** 2 days
-Ian explains more about his distrust of previous assistants and the betrayal that shaped his behavior. Jay gains understanding of Ian's perspective and feels their relationship improving.
+Start Date: Friday, November 4, 2016 (night)  
+Day: Friday  
+Duration: same night  
+Leo insists on driving Jay home near midnight and comes up to explain himself: appearance was a factor in the hire, but Jay has earned his place entirely on merit. Jay is left with answers but lingering unease.
 
 ### Scene 3: Resolve
-**Start Date:** Friday, November 3, 2017 | **Day:** Friday | **Duration:** 2 days
-Jay resolves to prove himself worthy of Ian's tentative trust. He commits to excellence in his work and begins to feel genuine loyalty to his boss beyond mere employment.
+Start Date: Saturday, November 5, 2016 (est.)  
+Day: Saturday  
+Duration: 1 day (Ian POV)  
+Alone with whiskey and a private investigator's report, Ian admits he has been watching Jay out of concern, not suspicion, and that Leo was right about his innocence. He resolves to become the fair mentor Jay needs — while forbidding himself anything more.
 
 ### Scene 4: Hope
-**Start Date:** Monday, November 6, 2017 | **Day:** Monday | **Duration:** 5 days
-Jay notices small positive changes in his interactions with Ian and feels hopeful about their future working relationship. The cold distance continues to thaw incrementally.
+Start Date: Monday, November 7, 2016  
+Day: Monday–Tuesday  
+Duration: 2 days  
+The office feels reset; Ian praises Jay's work and, on Tuesday, brings him into a Mayfield client meeting to observe and take notes. Jay begins to believe the office is simply what it appears to be — civil people doing good work.
 
 ### Scene 5: Trust
-**Start Date:** Monday, November 13, 2017 | **Day:** Monday | **Duration:** 5 days
-Ian begins delegating more responsibilities to Jay, demonstrating growing trust. Jay rises to each challenge, proving he can handle expanded duties with competence.
+Start Date: Thursday, November 10, 2016  
+Day: Thursday  
+Duration: 1 day  
+A Fairfield Industries crisis — their board meeting moved up — keeps Jay and Ian working alone past eleven; Ian patiently helps Jay untangle a backdated-acquisition discrepancy. Jay realizes that here, at least, he can stop flinching.  
+Milestone: Fairfield Industries late-night crisis
 
 ---
 
 ## Chapter 7: A sense of security
 
 ### Scene 1: Optimism
-**Start Date:** Monday, November 20, 2017 | **Day:** Monday | **Duration:** 3 days
-Jay approaches work with newfound optimism as his relationship with Ian continues improving. He feels increasingly confident in his role and his place in the team.
+Start Date: Friday, November 11, 2016  
+Day: Friday–Sunday  
+Duration: 3 days  
+The Fairfield presentation succeeds without a single revision and Ian gives the team the afternoon off; Jay spends it reading at Café Lemon. On Saturday he finally calls his mother, sharing his stable new life.
 
 ### Scene 2: Invitation
-**Start Date:** Thursday, November 23, 2017 | **Day:** Thursday | **Duration:** 1 day
-Jay receives an invitation to an important client dinner at The Palladium restaurant. The inclusion in such an exclusive event signals his rising status within the company.
-**Milestone:** Invited to Hartwell client dinner at The Palladium
+Start Date: Monday, November 14, 2016  
+Day: Monday  
+Duration: 1 day  
+Ian emails a formal invitation to a Friday celebration dinner at The Palladium for the Hartwell success, with Turner Senior and Leo attending. Over lunch the team trades stories that show Jay a drier, more human side of Ian.
 
 ### Scene 3: Dinner
-**Start Date:** Thursday, November 23, 2017 | **Day:** Thursday | **Duration:** 1 day
-Jay attends the client dinner and is overwhelmed by the sophisticated setting and powerful attendees. He manages to navigate the event without embarrassment while observing Ian in his element.
+Start Date: Tuesday, November 15, 2016  
+Day: Tuesday–Friday  
+Duration: 4 days  
+The Hartwell workload ramps up with a Tuesday briefing while talk turns to Friday's dinner. The Palladium evening goes far better than Jay feared, with Ian skillfully deflecting Turner Senior's probing and shielding Jay from the spotlight.  
+Milestone: Hartwell celebration dinner at The Palladium (Friday, November 18)
 
 ### Scene 4: Planning
-**Start Date:** Friday, November 24, 2017 | **Day:** Friday | **Duration:** 3 days
-Jay helps plan upcoming holiday events and takes on more administrative responsibilities. His organizational skills prove valuable as the busy season approaches.
+Start Date: Monday, November 21, 2016  
+Day: Monday  
+Duration: 1 day  
+A calmer Monday briefing lets Jay reframe Ian's old coldness as ordinary management rather than rejection. Kim circulates the holiday-event dates — the staff Christmas party and the black-tie end-of-year gala — and Jay weighs whether to visit family for Christmas.  
+Note: The exact party/gala dates Kim cites conflict with later chapters — see flags.
 
 ### Scene 5: Exhaustion
-**Start Date:** Monday, November 27, 2017 | **Day:** Monday | **Duration:** 5 days
-The pace of work intensifies as year-end approaches, leaving Jay exhausted but fulfilled. He maintains performance despite the demanding schedule.
+Start Date: Monday, November 21, 2016  
+Day: late November  
+Duration: ~2 weeks  
+Ian buries himself in the Hartwell integration — sixteen-hour days, weekend work — specifically to smother his growing feelings for Jay. Jay quietly streamlines Ian's workload, and Ian's attempt at distraction only deepens his appreciation of him.
 
 ---
 
 ## Chapter 8: The festive season
 
 ### Scene 1: Decorations
-**Start Date:** Monday, December 4, 2017 | **Day:** Monday | **Duration:** 5 days
-Holiday decorations appear throughout the office as Christmas season arrives. Jay helps with decorating and enjoys the festive atmosphere transforming the workplace.
+Start Date: Monday, December 5, 2016 (est.)  
+Day: second week of December  
+Duration: ~1 day  
+With the Hartwell crunch eased, the team decorates the office tree; paired with Ian on the garland, Jay rediscovers how much he enjoys Christmas. He decides to buy a small tree and decorations for his own apartment for the first time.
 
 ### Scene 2: Christmas preparations
-**Start Date:** Monday, December 11, 2017 | **Day:** Monday | **Duration:** 5 days
-Preparations for the company Christmas party intensify as the event approaches. Jay assists with logistics while observing his colleagues' excitement about holiday traditions.
+Start Date: Friday, December 9, 2016 (est.)  
+Day: Friday  
+Duration: 1 day  
+After work Jay orders a custom tuxedo for the gala, then buys and decorates a tiny tree at home and calls his mother to say he's staying in the city for Christmas. The next morning he shops for and ships gifts to his family.  
+Note: Jay tells the tailor the event is "January twenty fourth" — conflicts with other gala dates; see flags.
 
 ### Scene 3: Christmas party
-**Start Date:** Friday, December 15, 2017 | **Day:** Friday | **Duration:** 1 day
-The company Christmas party takes place with festive decorations and celebration. Jay enjoys the event more than previous gatherings, feeling genuinely included in the celebration.
-**Milestone:** Company Christmas party
+Start Date: Friday, December 16, 2016  
+Day: Friday  
+Duration: 1 day  
+At the company Christmas party Jay feels fully part of the team; the couples' spa voucher stings, and Leo's pointed remark about Ian's lonely, family-less holidays leaves Jay quietly worried for him.  
+Milestone: Company Christmas party  
+Note: Ch7 gives this date as "December fifteenth" (a Thursday); the timeline follows the chapter's "Friday evening" — see flags.
 
 ### Scene 4: Holidays
-**Start Date:** Saturday, December 16, 2017 | **Day:** Saturday | **Duration:** 10 days
-The office closes for the holiday period and Jay spends Christmas quietly alone in his apartment. He reflects on how much his life has changed over the past months.
+Start Date: Monday, December 19, 2016  
+Day: Monday–Sunday  
+Duration: ~1 week  
+The pre-holiday rush peaks; on the last day before the break a charged, lingering handshake passes between Jay and Ian. Jay spends Christmas content and alone with wine and his little tree, while Ian works through it alone in his spotless penthouse.  
+Milestone: Christmas (Sunday, December 25)
 
 ### Scene 5: Dream
-**Start Date:** Tuesday, December 26, 2017 | **Day:** Tuesday | **Duration:** 5 days
-Jay has a significant dream about his work life and relationship with Ian during the holidays. The dream prompts introspection about his feelings and aspirations.
+Start Date: Sunday, December 25, 2016 (night)  
+Day: Sunday–Monday  
+Duration: overnight (Ian POV)  
+Ian wakes at 3 a.m. from a vivid dream of kissing Jay in his office and, rattled, summons Leo to freezing dawn tennis. He brutalizes him for three hours while Leo correctly names the fear underneath: Ian wants Jay and is terrified of it.
 
 ---
 
 ## Chapter 9: New Year
 
 ### Scene 1: After the holidays
-**Start Date:** Tuesday, January 2, 2018 | **Day:** Tuesday | **Duration:** 5 days
-The office reopens after New Year's and everyone returns from holiday breaks. Jay feels refreshed and ready to face the new year with renewed energy.
+Start Date: Tuesday, December 27, 2016  
+Day: Tuesday  
+Duration: 1 day  
+The office reopens to a skeleton crew between the holidays, and with Ela out sick it's just Jay, Luc, and Ian. Working late alone with Ian, Jay realizes how completely and unusually he trusts him.
 
 ### Scene 2: Before New Year
-**Start Date:** Sunday, December 31, 2017 | **Day:** Sunday | **Duration:** 1 day
-(Flashback) Jay spends New Year's Eve alone but content, reflecting on his achievements over the past months. He sets goals for the coming year with quiet optimism.
+Start Date: Wednesday, December 28, 2016  
+Day: Wednesday–Saturday  
+Duration: 4 days  
+Through the quiet week Jay shoulders more of Ian's work; on the year's last afternoon Ian shares his best whiskey with Jay and Luc, showing rare, easy warmth. Jay forgives Leo by text and spends New Year's Eve content and alone.  
+Milestone: Ian's New Year whiskey toast (Friday, December 30)
 
 ### Scene 3: Bonus
-**Start Date:** Monday, January 8, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay receives his annual bonus and is shocked by the substantial amount ($80,000). The generous compensation exceeds his expectations and transforms his financial situation.
-**Milestone:** Receives $80,000 annual bonus
+Start Date: Tuesday, January 3, 2017  
+Day: Tuesday  
+Duration: 1 day  
+January reporting roars back to full throttle; at noon Jay's year-end bonus lands — $80,000, more money than he has ever held at once. Stunned, he treats himself to three tailored suits.  
+Milestone: $80,000 year-end bonus
 
 ### Scene 4: Friday evening reflections
-**Start Date:** Friday, January 12, 2018 | **Day:** Friday | **Duration:** 2 days
-Jay reflects on his good fortune and growing comfort at the company during a quiet Friday evening. He appreciates how far he has come since his anxious first days.
+Start Date: Friday, January 13, 2017 (est.)  
+Day: Friday  
+Duration: ~1 week  
+Quarterly and annual reports grind on as gala buzz fills the office and Ela and Kim return. A restless Jay declines Luc's drinks, packs away his Christmas tree, and — curious about what Ian enjoys — finds his old solitude newly empty.
 
 ### Scene 5: Preparations
-**Start Date:** Monday, January 15, 2018 | **Day:** Monday | **Duration:** 9 days
-Preparations begin for the upcoming annual gala, an important black-tie event. Jay realizes he needs appropriate formal attire and begins planning his wardrobe.
+Start Date: Monday, January 16, 2017 (est.)  
+Day: the week before the gala  
+Duration: ~1 week  
+Jay collects his tuxedo and new suits, books a pricey last-minute haircut, and culls his old wardrobe — including the cheap interview suit he first arrived in — to ready himself for the gala.
 
 ---
 
 ## Chapter 10: The high finance
 
 ### Scene 1: The Grand Gala
-**Start Date:** Wednesday, January 24, 2018 | **Day:** Wednesday | **Duration:** 1 day
-The annual black-tie gala takes place at a prestigious venue with industry leaders present. Jay attends in expensive new attire, feeling simultaneously out of place and excited.
-**Milestone:** Annual black-tie gala
+Start Date: Saturday, January 21, 2017 (est.)  
+Day: Saturday  
+Duration: 1 day  
+Jay arrives at the Grand Hotel gala looking striking, and Ian — visibly affected and needled by Leo about the suitors circling — abandons his usual networking to hover protectively near his team.  
+Milestone: Annual black-tie gala  
+Note: Stated dates conflict (Ch7 "Jan 23," Ch8 "Jan 24") and the aftermath plays it as a Saturday; dated here Sat Jan 21 — see flags.
 
 ### Scene 2: The incident
-**Start Date:** Wednesday, January 24, 2018 | **Day:** Wednesday | **Duration:** 1 day
-Reginald Cruver, a wealthy client, harasses Jay in the bathroom during the gala. The threatening encounter leaves Jay shaken and highlights the dark side of the elite world.
-**Milestone:** Cruver harassment incident
+Start Date: Saturday, January 21, 2017 (night)  
+Day: Saturday  
+Duration: same night  
+Separated from Ian and plied with drinks, Jay is cornered by a predatory client, Cruver, who gropes him and makes suggestive offers while the surrounding group stays oblivious. Shaken and ashamed, Jay flees to the restroom in tears.  
+Milestone: Cruver harassment incident
 
 ### Scene 3: Soothing the fears
-**Start Date:** Wednesday, January 24, 2018 | **Day:** Wednesday | **Duration:** 1 day
-Ian finds Jay after the incident and offers comfort and reassurance. His protective response deepens Jay's trust and reveals Ian's caring nature beneath his professional exterior.
+Start Date: Saturday, January 21, 2017 (night)  
+Day: Saturday  
+Duration: same night  
+Ian finds Jay, slips them both out a back exit, and defuses the trauma with self-deprecating stories in the car. Over tea in Jay's modest apartment their connection deepens, though both stay carefully in denial.
 
 ### Scene 4: Aftermath
-**Start Date:** Thursday, January 25, 2018 | **Day:** Thursday | **Duration:** 3 days
-Jay processes the traumatic incident and returns to work with support from Ian. The experience affects him but he refuses to let it derail his progress.
+Start Date: Monday, January 23, 2017  
+Day: Monday  
+Duration: 1 day  
+Back at work the gala is harmless office gossip, and the team's own mortifying-party stories normalize Jay's night; Cruver's name surfaces as a known creep. Behind his door, Ian quietly begins building a case to make Cruver pay.
 
 ### Scene 5: Choice
-**Start Date:** Monday, January 29, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay chooses to move forward despite the incident, focusing on his work and growing relationship with Ian. His resilience demonstrates his commitment to his new life.
+Start Date: Wednesday, February 1, 2017 (est.)  
+Day: Wednesday → following Monday  
+Duration: ~1 week  
+At his six-month review Ian offers Jay a promotion to analyst; torn between ambition and his wish to stay close to Ian, Jay takes the week to think and, on Monday, declines — choosing to remain Ian's assistant.  
+Milestone: Six-month review; Jay declines the analyst promotion
 
 ---
 
 ## Chapter 11: February rush
 
 ### Scene 1: Snow and scent
-**Start Date:** Monday, February 5, 2018 | **Day:** Monday | **Duration:** 5 days
-Heavy snow blankets the city as February arrives, creating beautiful but challenging conditions. Jay notices Ian's cologne and becomes increasingly aware of his physical presence.
+Start Date: Wednesday, February 1, 2017 (est.)  
+Day: early February  
+Duration: 1 day  
+February opens with a heavy snowstorm that snarls Jay's commute; sharing the elevator with Ian, he becomes acutely, newly aware of his cologne. He brushes the reaction aside as the winter workload peaks.
 
 ### Scene 2: New coat
-**Start Date:** Monday, February 12, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay realizes his cheap coat is inadequate for the harsh winter and invests in quality outerwear. The purchase marks another step in his transformation to match his professional environment.
+Start Date: Friday, February 3, 2017 (est.)  
+Day: Friday–Sunday  
+Duration: 3 days  
+Bitter cold defeats Jay's old coat, so on Saturday he buys a quality wool overcoat and scarf despite his frugal instincts. The gray weekend passes in solitary work.
 
 ### Scene 3: Company card
-**Start Date:** Monday, February 19, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay receives a company credit card for business expenses, signifying increased trust and responsibility. Ian explains the proper use and demonstrates confidence in Jay's judgment.
-**Milestone:** Jay receives company credit card
+Start Date: Thursday, February 9, 2017 (est.)  
+Day: second week of February  
+Duration: 1 day  
+Deep in "strategy season," Ian hands Jay a company credit card to use at his discretion, and Jay orders an elevated team dinner that lifts everyone's morale. Ian joins the team in the kitchen, deviating from his strict meal plan.  
+Milestone: Jay receives the company credit card
 
 ### Scene 4: Planning
-**Start Date:** Monday, February 26, 2018 | **Day:** Monday | **Duration:** 5 days
-Strategy season begins with intensive planning for the company's future direction. Jay assists with documentation and gains insight into high-level business operations.
+Start Date: mid-February 2017 (est.)  
+Day: mid-February  
+Duration: ~1 week  
+A stream of HR emails — the May retreat, the April quarterly party, vacation requests — keeps surfacing the retreat Jay isn't ready to contemplate. He decides to match his own time off to Ian's, once Ian submits any.
 
 ### Scene 5: Evening work
-**Start Date:** Monday, March 5, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay and Ian work late evenings together during the busy planning season. The shared time creates a comfortable intimacy in their working relationship.
+Start Date: Friday, February 17, 2017 (est.)  
+Day: Friday (evening)  
+Duration: same evening  
+Working late alone together has become routine; Jay anticipates Ian's needs while Ian lingers to postpone his empty penthouse. Leo drops by and needles Ian about how much more relaxed Jay has made him.
 
 ---
 
 ## Chapter 12: Stormy weather
 
 ### Scene 1: Stormy morning
-**Start Date:** Monday, March 12, 2018 | **Day:** Monday | **Duration:** 1 day
-A severe storm hits the city, causing transportation disruptions and a challenging commute. Jay arrives at work drenched and cold from the difficult journey.
+Start Date: Tuesday, February 21, 2017 (est.)  
+Day: Tuesday  
+Duration: 1 day  
+A violent ice storm and power outage leave Jay drenched and forty-five minutes late for the first time in nearly seven months; in desperation he buys a full designer outfit from Hathaway's Menswear. He changes in the executive bathroom, unaware of how the new clothes affect Ian.
 
 ### Scene 2: Discomfort
-**Start Date:** Monday, March 12, 2018 | **Day:** Monday | **Duration:** 1 day
-Jay feels increasingly unwell throughout the day following his exposure to the storm. He tries to push through but his condition deteriorates noticeably.
+Start Date: Tuesday, February 21, 2017  
+Day: Tuesday  
+Duration: same day  
+Colleagues react to Jay's transformed look with compliments that make him deeply self-conscious, while Ian finds concentration impossible. Both go home unsettled.
 
 ### Scene 3: Fever
-**Start Date:** Tuesday, March 13, 2018 | **Day:** Tuesday | **Duration:** 5 days
-Jay develops a serious fever and must take sick leave for the first time. Ian insists he go home and rest, showing concern for his well-being.
-**Milestone:** Jay's illness (first sick leave)
+Start Date: Wednesday, February 22, 2017  
+Day: Wednesday → following Sunday  
+Duration: ~1.5 weeks  
+A scratchy throat on Wednesday becomes a serious flu; from Thursday Jay is bedridden and alone, diagnosed by telehealth and ordered off work for at least a week. The fever breaks Sunday, but his work phone dies and cuts him off.  
+Milestone: Jay's flu — first extended sick leave (from Thursday, February 23)
 
 ### Scene 4: Worry
-**Start Date:** Tuesday, March 13, 2018 | **Day:** Tuesday | **Duration:** 5 days
-Ian checks on Jay during his illness, revealing genuine worry about his assistant's health. The care shown deepens their bond beyond purely professional concerns.
+Start Date: Monday, February 27, 2017  
+Day: Monday–Friday  
+Duration: ~1 week  
+With Jay unreachable, Ian grows frantic — calling repeatedly, imagining the worst, realizing how necessary Jay has become. On Friday Jay revives his phone and texts that he'll return Monday, flooding Ian with relief.
 
 ### Scene 5: Recovery
-**Start Date:** Monday, March 19, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay returns to work after recovering but still looks somewhat pale and thin. Ian monitors his workload to ensure he doesn't overexert himself during recovery.
+Start Date: Monday, March 6, 2017  
+Day: Monday  
+Duration: 1 day (+ recovery week)  
+Jay returns pale and thin; Ian presents a lavish "standard procedure" care package and insists he keep strict regular hours until fully recovered. The gesture warms Jay, but the illness has left him subdued and freshly aware of his isolation.  
+Milestone: Jay returns from sick leave; Ian's care package
 
 ---
 
 ## Chapter 13: Ides of March
 
 ### Scene 1: Lunch discord
-**Start Date:** Monday, March 26, 2018 | **Day:** Monday | **Duration:** 3 days
-Tensions arise during a team lunch discussion about a problematic client situation. Jay observes office politics and the complexities of managing difficult relationships.
+Start Date: Monday, March 13, 2017 (est.)  
+Day: Monday–Wednesday  
+Duration: ~1 week  
+Back at full strength in his second week, Jay rejoins the team lunches to find everyone's nerves frayed by winter and workload, bickering over where to eat. Ian's unchanging routine is the one steady thing.  
+Note: Jay's first week back (Mar 6–10) he ate at his desk, avoiding the cold.
 
 ### Scene 2: Failure
-**Start Date:** Thursday, March 29, 2018 | **Day:** Thursday | **Duration:** 2 days
-Jay makes a significant filing error that causes problems with regulatory documents. The mistake triggers anxiety about his competence and fear of consequences.
-**Milestone:** Jay's filing mistake
+Start Date: Thursday, March 16, 2017  
+Day: Thursday  
+Duration: 1 day  
+A lawyer's call reveals Jay misfiled a legal notice and missed the Lagerstrom Holdings compliance deadline — due the day before, the Ides. Ian corrects him gently, but Jay spirals into shame and self-doubt.  
+Milestone: Jay's missed compliance deadline (Lagerstrom)
 
 ### Scene 3: Hot chocolate with rum
-**Start Date:** Saturday, March 31, 2018 | **Day:** Saturday | **Duration:** 2 days
-Jay spends the weekend worrying about his mistake and its potential consequences. He tries to comfort himself while preparing to face the fallout on Monday.
+Start Date: Friday, March 17, 2017  
+Day: Friday  
+Duration: 1 day  
+Seeing Jay crumbling, Luc walks him to a cozy café for spiked hot chocolate and shares his own disastrous rookie mistake. The reassurance loosens the knot of anxiety in Jay's chest.
 
 ### Scene 4: Justice
-**Start Date:** Monday, April 2, 2018 | **Day:** Monday | **Duration:** 5 days
-Investigation reveals that Jay's error was actually caused by Orrey, a colleague who manipulated the filing system. The truth exonerates Jay and exposes Orrey's sabotage.
-**Milestone:** Orrey's sabotage discovered
+Start Date: Friday, March 24, 2017 (est.)  
+Day: late March  
+Duration: ~1 week  
+As Jay finds his footing again, Ian quietly completes a three-month investigation into Orrey Capital Partners — Cruver's employer — and finalizes a memo recommending termination, to reach Turner Senior on Monday.  
+Note: The chapter calls the gala "three months ago"; from a January gala it is closer to two — see flags.
 
 ### Scene 5: Orrey Fallout
-**Start Date:** Monday, April 9, 2018 | **Day:** Monday | **Duration:** 5 days
-Orrey is terminated following the investigation into his misconduct. The resolution vindicates Jay and strengthens his position within the company.
-**Milestone:** Orrey terminated
+Start Date: Monday, March 27, 2017  
+Day: Monday–Friday  
+Duration: ~1 week  
+Word spreads that Turner & Associates has terminated Orrey amid a federal investigation; Ian confirms it at a Tuesday team meeting, and by Friday it is national news. Jay feels vindictive relief that he'll never face Cruver again.  
+Milestone: Orrey Capital Partners terminated (Cruver's employer under investigation)
 
 ---
 
 ## Chapter 14: Spring
 
 ### Scene 1: Quaterly reports
-**Start Date:** Monday, April 16, 2018 | **Day:** Monday | **Duration:** 5 days
-Quarterly reporting season arrives with its intense workload and Jay receives another quarterly bonus. He handles the increased demands with growing confidence and competence.
+Start Date: Monday, April 3, 2017  
+Day: Monday → following Tuesday  
+Duration: ~1.5 weeks  
+April's first quarter-end brings a brutal reporting crunch — seven-day weeks, midnight finishes, a full Saturday in the office — that finally teaches Jay why the bonuses are so large. Ian submits the final file Tuesday at 6 p.m.  
+Milestone: Q1 quarterly reports submitted (Tuesday, April 11); quarterly bonus
 
 ### Scene 2: Retreat arrangement
-**Start Date:** Monday, April 23, 2018 | **Day:** Monday | **Duration:** 5 days
-Plans for the upcoming company retreat are announced and arrangements begin. Jay learns about the annual tradition and starts preparing for his first retreat experience.
+Start Date: Wednesday, April 12, 2017 (est.)  
+Day: mid-April  
+Duration: 1 day  
+As HR pushes "mentor" rooming for the May retreat, Leo engineers it so Ian and Jay will share a room. Ian protests furiously in private but, manipulated by his own protective instincts, gives in.  
+Milestone: Retreat rooming — Ian and Jay paired (Leo's scheme)
 
 ### Scene 3: Spring has sprung
-**Start Date:** Monday, April 30, 2018 | **Day:** Monday | **Duration:** 5 days
-Spring weather transforms the city and Jay enjoys the warmer temperatures. The seasonal change mirrors his personal transformation and growing happiness.
+Start Date: mid-to-late April 2017 (est.)  
+Day: mid-to-late April  
+Duration: several days  
+Jay stashes a spare suit at the office, joins a modest neighborhood gym, and starts training with Rus. His mother calls to ask him home for Ema's middle-school graduation at the end of June.  
+Note: Ema's end-of-June graduation is set up here for a later payoff.
 
 ### Scene 4: Confidence
-**Start Date:** Monday, May 7, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay feels increasingly confident in his abilities and his place at Turner & Associates. His interactions with Ian have become comfortable and even enjoyable.
+Start Date: Friday, April 7, 2017 (est.)  
+Day: Friday (evening)  
+Duration: 1 day  
+At the spring quarterly party Jay is entirely at ease — eating well, joking with the team, neither snubbed nor singled out by Ian. Watching from across the room, Ian feels ashamed of the coldness he showed at Jay's first such party.  
+Note: Placement is tight against the Q1 crunch and pre-Easter cold snap — see flags.
 
 ### Scene 5: Coffee gesture
-**Start Date:** Monday, May 14, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay begins bringing Ian coffee, establishing a small ritual that symbolizes their growing closeness. The gesture is appreciated and becomes part of their daily routine.
+Start Date: Monday, April 10, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+A sudden cold snap sours the team's mood, so Jay uses the company card to bring everyone seasonal coffees — and, on impulse, orders Ian a sweet maple-bourbon latte unlike his usual black. Ian drinks the whole thing, touched by the unguarded thoughtfulness.
 
 ---
 
 ## Chapter 15: Inferiority
 
 ### Scene 1: Industry reading
-**Start Date:** Monday, May 21, 2018 | **Day:** Monday | **Duration:** 4 days
-Jay dedicates time to reading industry publications and expanding his knowledge. His initiative to learn beyond his job requirements impresses Ian and colleagues.
+Start Date: Monday, April 10, 2017 (est.)  
+Day: Monday–Thursday  
+Duration: ~4 days  
+The cold snap drags on as the four-day Easter weekend approaches and the team trades holiday plans. Jay's intention to spend it on "industry reading" provokes affectionate horror from his colleagues.
 
 ### Scene 2: Easter
-**Start Date:** Friday, March 30, 2018 | **Day:** Friday | **Duration:** 3 days
-(Flashback) Easter weekend provides a brief respite from work. Jay spends the holiday quietly while reflecting on his improved circumstances.
+Start Date: Friday, April 14, 2017  
+Day: Friday–Monday  
+Duration: 4 days  
+Jay spends the Easter long weekend alone, working through advanced economics texts to quiet his anxiety about his modest credentials, pausing only for a grandmother-style holiday breakfast and his mother's call. He finishes one book and starts a harder one.  
+Milestone: Easter weekend (Jay studies alone)
 
 ### Scene 3: Return to normalcy
-**Start Date:** Monday, May 21, 2018 | **Day:** Monday | **Duration:** 5 days
-After the intensity of recent months, a more normal work rhythm returns. Jay appreciates the steadier pace while maintaining his high performance standards.
+Start Date: Tuesday, April 18, 2017  
+Day: Tuesday  
+Duration: 1 day  
+The office returns refreshed to a sustainable pace; colleagues swap Easter stories and tease Jay for studying. He stays late again, unwilling to leave Ian working alone.
 
 ### Scene 4: Comfortable warmth
-**Start Date:** Monday, May 28, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay and Ian's relationship has evolved into comfortable companionship during their work together. The warmth between them grows naturally through shared experiences.
+Start Date: late April 2017 (est.)  
+Day: late April  
+Duration: ~1 week  
+Spring settles in: Jay leads the team to Willow & Sage, sits in the park with strange ice cream, keeps up his Tuesday gym sessions with Rus, and reads management books to understand Ian's leadership. He feels a contentment he has never known.
 
 ### Scene 5: Intrusion
-**Start Date:** Monday, June 4, 2018 | **Day:** Monday | **Duration:** 3 days
-An unwanted intrusion disrupts the comfortable dynamic Jay has established. The incident reminds him that his position, while secure, still requires vigilance.
+Start Date: Tuesday, April 25, 2017 (est.)  
+Day: Tuesday (evening)  
+Duration: same evening  
+After Jay leaves for the gym, Ian lingers at his desk and finds his annotated economics textbook; an hour of reading Jay's humble, curious margin notes — one puzzling over Ian's own foresight — makes Ian finally admit his feelings have outgrown his control.  
+Milestone: Ian reads Jay's margin notes — his attachment crystallizes (end of Arc 3)
 
 ---
 
 ## Chapter 16: Preparations
 
 ### Scene 1: Client meeting
-**Start Date:** Wednesday, June 6, 2018 | **Day:** Wednesday | **Duration:** 2 days
-Ian takes Jay to meet the Calder Wetherby Trust, one of Turner & Associates' most important clients. Jay accompanies Ian as note-taker and experiences the world of wealthy old money.
-**Milestone:** First major client meeting (Calder Wetherby)
+Start Date: Wednesday, May 3, 2017 (est.)  
+Day: early May  
+Duration: 2 days  
+Ian brings Jay along to a "relationship maintenance" visit with the Calder Wetherby Trust, driving through the city's old-money district that leaves Jay wide-eyed. The meeting is more whiskey and social ritual than business.  
+Milestone: Calder Wetherby Trust client visit
 
 ### Scene 2: Tingling
-**Start Date:** Wednesday, June 6, 2018 | **Day:** Wednesday | **Duration:** 1 day
-After the client meeting, Ian takes Jay to an elegant restaurant for lunch in the wealthy neighborhood. The intimate setting creates charged moments as Jay becomes increasingly aware of his attraction to Ian.
+Start Date: Thursday, May 4, 2017 (est.)  
+Day: Thursday  
+Duration: same day  
+Over an expensive lunch Ian opens up about his privileged upbringing, creating unexpected intimacy. In the traffic-slowed drive back, Jay is acutely, uneasily aware of Ian's cologne and nearness.
 
 ### Scene 3: Disgusting beer
-**Start Date:** Friday, June 8, 2018 | **Day:** Friday | **Duration:** 1 day
-Jay finally accepts Luc's invitation to join colleagues for drinks after work. He hates the craft beer but enjoys the social connection, discussing the upcoming retreat with his coworkers.
-**Milestone:** Jay's first social outing with colleagues
+Start Date: Friday, May 5, 2017 (est.)  
+Day: Friday  
+Duration: 1 day  
+Jay stuns the team by finally saying yes to Friday drinks; over a terrible craft beer he learns how much elaborate preparation the retreat — now two weeks off — will demand.
 
 ### Scene 4: Shopping spree
-**Start Date:** Saturday, June 9, 2018 | **Day:** Saturday | **Duration:** 2 days
-Jay embarks on an exhaustive shopping trip to prepare appropriate attire for the company retreat. He spends significant money on resort wear, swimwear, and casual clothes he never needed before.
+Start Date: Saturday, May 6, 2017 (est.)  
+Day: Saturday  
+Duration: 1 day  
+An exhausting fashion-district expedition for resort wear, swimwear, and a new suitcase costs Jay roughly two months of his old salary.
 
 ### Scene 5: Growing uncertainty
-**Start Date:** Monday, June 11, 2018 | **Day:** Monday | **Duration:** 7 days
-Jay realizes his retreat preparations are insufficient when he hears colleagues discussing their elaborate plans. He makes another expensive purchase at Hathaway's Menswear for the sunset dinner.
+Start Date: Monday, May 8, 2017 (est.)  
+Day: mid-May  
+Duration: ~1 week  
+Realizing the sunset dinner is far dressier than he prepared for, Jay reluctantly returns to Hathaway's on Friday for an understated but expensive evening outfit.
 
 ---
 
 ## Chapter 17: Retreat
 
 ### Scene 1: Arrival
-**Start Date:** Friday, June 18, 2018 | **Day:** Friday | **Duration:** 1 day
-The company retreat begins with a luxurious bus ride to a coastal resort. Jay shares a room with Ian and experiences his first taste of high-end corporate hospitality.
-**Milestone:** Company retreat begins
+Start Date: Friday, May 19, 2017 (est.)  
+Day: Friday (Day 1)  
+Duration: 1 day  
+The team buses to a beachfront resort, where Jay is assigned to share Seaview Suite 14 with Ian. At the afternoon art exhibition Ian buys the one abstract piece Jay genuinely liked.  
+Milestone: Company retreat begins
 
 ### Scene 2: The sunset dinner
-**Start Date:** Friday, June 18, 2018 | **Day:** Friday | **Duration:** 1 day
-The elegant sunset dinner takes place with stunning views and exquisite food. Jay drinks too much wine and becomes the center of attention, with Ian eventually escorting him back to their room.
+Start Date: Friday, May 19, 2017 (night)  
+Day: Friday  
+Duration: same night  
+At the glamorous sunset dinner Jay gets properly drunk for the first time, oblivious to a colleague's persistent flirting. Rattled by the sight of him, Ian escorts him to their room and flees.
 
 ### Scene 3: Pool party
-**Start Date:** Saturday, June 19, 2018 | **Day:** Saturday | **Duration:** 1 day
-Jay wakes hungover but recovers with Ian's help providing water and painkillers. The pool party reveals Ian's impressive physique, intensifying Jay's awareness of his attraction.
+Start Date: Saturday, May 20, 2017 (est.)  
+Day: Saturday (Day 2)  
+Duration: 1 day  
+Hungover, Jay recovers under Ian's quiet care — water, painkillers, coffee — and at the pool Ian's swimming reveals a physique that sharpens Jay's awareness of his attraction.
 
 ### Scene 4: Scuba diving
-**Start Date:** Saturday, June 19, 2018 | **Day:** Saturday | **Duration:** 1 day
-The highlight of the retreat is a scuba diving excursion where Jay conquers his fears. Ian stays close to guide him underwater, and the experience becomes transformative.
+Start Date: Saturday, May 20, 2017  
+Day: Saturday  
+Duration: same day  
+Jay conquers his first scuba dive under Ian's and Zoe's patient guidance, the reef transformative. The beach bonfire dinner and a quiet fireside whiskey deepen the domesticity growing between them.
 
 ### Scene 5: Finale
-**Start Date:** Sunday, June 20, 2018 | **Day:** Sunday | **Duration:** 1 day
-The final day includes a treasure hunt where Ian's puzzle-solving skills win concert tickets for the team. Jay returns home energized and decides to attend his half-sister's graduation.
-**Milestone:** Company retreat ends
+Start Date: Sunday, May 21, 2017 (est.)  
+Day: Sunday (Day 3)  
+Duration: 1 day  
+Ian's puzzle-solving wins the team coveted concert tickets in the treasure hunt; the retreat ends and an emboldened Jay decides to attend Ema's graduation. At home, Ian clears a wall for the painting Jay admired.  
+Milestone: Company retreat ends
 
 ---
 
 ## Chapter 18: Artistic merits
 
 ### Scene 1: After the retreat
-**Start Date:** Monday, June 21, 2018 | **Day:** Monday | **Duration:** 3 days
-The office buzzes with post-retreat energy as everyone shares photos and memories. Jay requests time off for Ema's graduation and Ian approves it while offering use of a company car.
+Start Date: Monday, May 22, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+The office buzzes with retreat photos and diving footage; Ian approves Jay's day off for Ema's June graduation and offers a company car for the trip.
 
 ### Scene 2: Tickets
-**Start Date:** Wednesday, June 24, 2018 | **Day:** Wednesday | **Duration:** 9 days
-Discussion about the concert tickets won at the retreat dominates lunch conversations. Ian gives his tickets to Kim and Ela, but Max convinces him to attend the concert with the team.
+Start Date: Wednesday, May 24, 2017 (est.)  
+Day: Wednesday–Friday  
+Duration: ~3 days  
+Concert-ticket fever takes over the office; Ian gives his pair to Kim and Ela, then is roped by Max into attending the show with the whole team.
 
 ### Scene 3: Concert night
-**Start Date:** Friday, July 6, 2018 | **Day:** Friday | **Duration:** 1 day
-The team attends an exclusive experimental electronic music concert at an underground venue. Jay and Ian both find the music bewildering and bond over their shared philistine reactions.
+Start Date: Friday, June 2, 2017 (est.)  
+Day: Friday  
+Duration: 1 day  
+The team descends on the underground club Substrate, where Leo turns up — having planted the prize himself — and the punishing experimental set bewilders Jay.  
+Milestone: Underground concert at Substrate
 
 ### Scene 4: Respite
-**Start Date:** Friday, July 6, 2018 | **Day:** Friday | **Duration:** 1 day
-Jay and Ian retreat to the bar during the concert and have an intimate conversation about music preferences. Ian reveals he plays violin and they discover shared appreciation for comfortable solitude.
+Start Date: Friday, June 2, 2017 (night)  
+Day: Friday  
+Duration: same night  
+Jay and Ian retreat to the bar and bond over their shared philistine bafflement; Ian reveals he played violin seriously through college, then drives Jay home.
 
 ### Scene 5: Early June
-**Start Date:** Monday, July 9, 2018 | **Day:** Monday | **Duration:** 5 days
-A severe heatwave makes Jay's apartment unbearable, so he stays late at the air-conditioned office. He takes driving lessons in preparation for his trip home and browses apartment listings.
+Start Date: early-to-mid June 2017 (est.)  
+Day: early June  
+Duration: ~2 weeks  
+A brutal heat wave drives Jay to the air-conditioned office every evening alongside Ian; he keeps up his gym sessions, takes driving lessons for the trip home, and starts browsing apartment listings.
 
 ---
 
 ## Chapter 19: Family
 
 ### Scene 1: Mundane tasks
-**Start Date:** Monday, July 16, 2018 | **Day:** Monday | **Duration:** 5 days
-The slower summer season allows Jay to tackle organizational projects like reorganizing the filing system. He enjoys leisurely evening hours working alongside Ian in the quiet office.
+Start Date: mid-June 2017 (est.)  
+Day: June (slow season)  
+Duration: ~1 week  
+In the languid summer lull Jay reorganizes the filing system and broadens his grasp of how the firm operates, while the heat reshapes the lunch debate around air-conditioning quality.
 
 ### Scene 2: The Family Visit
-**Start Date:** Friday, June 22, 2018 | **Day:** Friday | **Duration:** 3 days
-(Flashback - June 22-24) Jay drives a company car to his hometown for Ema's graduation. His expensive appearance and luxury vehicle create a sensation among his family and Ema's friends.
-**Milestone:** Ema's graduation (Jay visits family)
+Start Date: Thursday, June 22, 2017 (est.)  
+Day: Thursday–Sunday  
+Duration: 4 days  
+Jay drives the company "limousine" home for Ema's Friday graduation; the luxury car and designer clothes make him a sensation and he completely overshadows her, staying an extra day to ferry her friends around.  
+Milestone: Ema's graduation (Jay visits family)  
+Note: Ch18 names the date "June twenty-fourth (a Friday)," but June 24, 2017 is a Saturday; the ceremony reads as Friday, so dated Fri Jun 23 — see flags.
 
 ### Scene 3: Photos
-**Start Date:** Monday, June 25, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay displays a family photo at his desk and his colleagues admire it. When Ema demands office photos, Ian helps Jay take proper pictures, including a selfie together that Jay treasures.
+Start Date: Monday, June 26, 2017 (est.)  
+Day: Monday–Tuesday  
+Duration: 2 days  
+Jay sets a family photo on his desk; when his own attempts to photograph the office for Ema fail comically, Ian steps in to take proper shots — including a candid selfie Jay quietly treasures.  
+Milestone: Ian and Jay's office selfie
 
 ### Scene 4: Holiday season
-**Start Date:** Monday, July 2, 2018 | **Day:** Monday | **Duration:** 12 days
-Quarterly reporting creates intense workload as colleagues begin taking summer vacations. Jay receives his quarterly bonus and refuses to submit vacation requests until Ian takes time off too.
+Start Date: early July 2017 (est.)  
+Day: early July  
+Duration: ~1 week  
+July opens with Q2 quarterly reporting and a second quarterly bonus; as colleagues scatter on summer leave, Jay refuses to file his own vacation unless Ian finally takes time off too.  
+Milestone: Q2 quarterly reports; second quarterly bonus
 
 ### Scene 5: Ambience
-**Start Date:** Friday, July 13, 2018 | **Day:** Friday | **Duration:** 1 day
-The quarterly party takes place outdoors in a beautiful garden setting with elegant torch lighting. Jay and Ian share a quiet moment by a fountain discussing vacation plans.
-**Milestone:** Summer quarterly party
+Start Date: Friday, July 7, 2017 (est.)  
+Day: Friday (evening)  
+Duration: 1 day  
+At the outdoor summer quarterly party Jay and Ian share a quiet fountain-side moment under the torchlight; Luc warns him, pointedly, about the perils of office romance.  
+Milestone: Summer quarterly party
 
 ---
 
 ## Chapter 20: Milestones
 
 ### Scene 1: Thirty and debt-free
-**Start Date:** Saturday, July 14, 2018 | **Day:** Saturday | **Duration:** 1 day
-Jay turns thirty and celebrates by paying off his student loans entirely. He enjoys a birthday workout with Rus, experiments with cooking using his mother's gift herbs, and starts browsing apartments.
-**Milestone:** Jay's 30th birthday, becomes debt-free
+Start Date: Saturday, July 14, 2017  
+Day: Saturday  
+Duration: 1 day  
+Jay turns thirty and reaches his goal of being completely debt-free, celebrating with a punishing birthday workout from Rus and his first-ever social-media post. Across the city, Ian agonizes over — and never sends — a birthday text.  
+Milestone: Jay's 30th birthday; becomes debt-free  
+Note: The text says July 14 "fell on a Saturday"; in 2017 it is a Friday — see flags.
 
 ### Scene 2: A life made
-**Start Date:** Monday, July 16, 2018 | **Day:** Monday | **Duration:** 5 days
-Jay reflects on how his life has transformed over the past year from anxious newcomer to confident professional. He handles an urgent client meeting with competence, feeling he truly belongs.
+Start Date: Monday, July 17, 2017 (est.)  
+Day: Monday  
+Duration: 1 day  
+Newly thirty, Jay reflects on how completely his year has transformed him and handles an urgent Wentworth consultation with ease, feeling he genuinely belongs.
 
 ### Scene 3: Conventional wisdom
-**Start Date:** Tuesday, July 24, 2018 | **Day:** Tuesday | **Duration:** 4 days
-Ian notices Jay's Tuesday gym routine and they have increasingly comfortable personal conversations. Jay treasures the intellectual companionship their working relationship has become.
+Start Date: Tuesday, July 18, 2017 (est.)  
+Day: Tuesday–Saturday  
+Duration: ~1 week  
+Ian notices Jay's standing Tuesday gym departure, and their unhurried evening conversations edge toward real friendship; Jay shrugs off Rus's nudges toward a more balanced life.
 
 ### Scene 4: Relationship woes
-**Start Date:** Monday, July 30, 2018 | **Day:** Monday | **Duration:** 5 days
-Kim and Ela return from vacation, their relationship obvious but unacknowledged. Luc confides in Jay about his struggling relationship while Jay reflects on his own motivations for staying.
+Start Date: late July 2017 (est.)  
+Day: late July  
+Duration: ~1 week  
+Kim and Ela return from their not-so-secret shared vacation; Luc confides his fraying relationship, and Jay recognizes that his own reason for staying has become belonging, not ambition.
 
 ### Scene 5: One year
-**Start Date:** Thursday, August 2, 2018 | **Day:** Thursday | **Duration:** 1 day
-Jay's one-year anniversary at Turner & Associates arrives and Ian gives him an expensive watch as a gift. Ian apologizes for his earlier coldness and acknowledges Jay's exemplary performance.
-**Milestone:** One year anniversary at Turner & Associates
+Start Date: Thursday, August 3, 2017 (est.)  
+Day: Thursday  
+Duration: 1 day  
+At his one-year review Ian re-offers the analyst role — Jay again declines — and gives him an extravagant watch, part anniversary gift, part apology for his first-year failures. That night Ian finally admits to himself that he is hopelessly in love with Jay.  
+Milestone: One-year anniversary at Turner & Associates; Ian's watch gift — end of Book 1
 
 ---
 
-## Summary of Major Milestones (Book 1)
+## Summary of Major Milestones
 
 | Date | Milestone |
 |------|-----------|
-| July 31, 2017 | Jay's first day at Turner & Associates |
-| October 7, 2017 | Jay learns he was a "joke hire" |
-| October 13, 2017 | First quarterly party |
-| October 23, 2017 | Probation ends, offered permanent position |
-| October 30, 2017 | Jay signs permanent contract |
-| November 23, 2017 | Hartwell client dinner at The Palladium |
-| December 15, 2017 | Company Christmas party |
-| January 8, 2018 | Receives $80,000 annual bonus |
-| January 24, 2018 | Annual black-tie gala; Cruver harassment incident |
-| February 19, 2018 | Jay receives company credit card |
-| March 13, 2018 | Jay's illness (first sick leave) |
-| March 29, 2018 | Jay's filing mistake |
-| April 2, 2018 | Orrey's sabotage discovered |
-| April 9, 2018 | Orrey terminated |
-| June 6, 2018 | First major client meeting (Calder Wetherby) |
-| June 8, 2018 | Jay's first social outing with colleagues |
-| June 18-20, 2018 | Company retreat |
-| June 24, 2018 | Ema's graduation (Jay visits family) |
-| July 6, 2018 | Underground concert |
-| July 13, 2018 | Summer quarterly party |
-| July 14, 2018 | Jay's 30th birthday, becomes debt-free |
-| August 2, 2018 | One year anniversary at Turner & Associates |
+| Fri, Jul 29, 2016 (est.) | Leo persuades Ian to hire Jay |
+| **Mon, Aug 1, 2016** | **Jay's first day at Turner & Associates** |
+| Thu, Aug 25, 2016 | Jay's first substantive contribution (Wentworth) |
+| Fri, Aug 26, 2016 | Jay's first after-work outing |
+| ~Fri, Sep 2, 2016 | First month complete; first salary + bonus |
+| Mon, Sep 26, 2016 | Max returns; "joke hire" revelation |
+| late Sep 2016 | Q3 quarterly reporting begins |
+| Fri, Oct 7, 2016 | First quarterly party |
+| ~Fri, Oct 14, 2016 | Hartwell acquisition signed |
+| Thu, Oct 20, 2016 | Stormfront compliance audit delivered |
+| **Mon, Oct 31, 2016** | **Probation ends; permanent contract (end of Arc 1)** |
+| Fri, Nov 4, 2016 | Permanent-contract celebration; Ian's rare appearance |
+| Thu, Nov 10, 2016 | Fairfield Industries late-night crisis |
+| Fri, Nov 18, 2016 | Hartwell celebration dinner at The Palladium |
+| Fri, Dec 16, 2016 | Company Christmas party |
+| Sun, Dec 25, 2016 | Christmas (Jay content and alone; Ian alone) |
+| Fri, Dec 30, 2016 | Ian's New Year whiskey toast |
+| Tue, Jan 3, 2017 | $80,000 year-end bonus |
+| Sat, Jan 21, 2017 (est.) | Annual black-tie gala; Cruver harassment |
+| ~Feb 1–6, 2017 | Six-month review; Jay declines analyst promotion (end of Arc 2) |
+| ~Thu, Feb 9, 2017 | Jay receives the company credit card |
+| Thu, Feb 23, 2017 | Jay's flu — first extended sick leave (returns Mon, Mar 6) |
+| Wed, Mar 15, 2017 | Missed Lagerstrom compliance deadline (the Ides) |
+| Mon, Mar 27, 2017 | Orrey Capital terminated; investigation public (Cruver's employer) |
+| Tue, Apr 11, 2017 | Q1 quarterly reports submitted; quarterly bonus |
+| mid-Apr 2017 | Retreat rooming — Ian & Jay paired (Leo's scheme) |
+| Apr 14–17, 2017 | Easter weekend (Jay studies alone) |
+| ~Tue, Apr 25, 2017 | Ian reads Jay's margin notes (end of Arc 3) |
+| ~Thu, May 4, 2017 | Calder Wetherby Trust client visit |
+| May 19–21, 2017 | Company retreat (Ian & Jay share a room) |
+| Fri, Jun 2, 2017 | Underground concert at Substrate |
+| Fri, Jun 23, 2017 | Ema's graduation (Jay visits family) |
+| ~Jun 27, 2017 | Ian and Jay's office selfie |
+| early Jul 2017 | Q2 quarterly reports; second bonus |
+| Fri, Jul 7, 2017 | Summer quarterly party |
+| Sat, Jul 14, 2017 | Jay's 30th birthday; becomes debt-free |
+| **Thu, Aug 3, 2017** | **One-year anniversary; Ian's watch gift (end of Book 1)** |
+
+---
+
+## Timeline drift & flags
+
+Places where the prose resists a clean calendar, ordered roughly by how much they'd affect an edit:
+
+1. **Gala date: three conflicting signals (Ch7/Ch8/Ch10).** Ch7 S4 (HR email, via Kim) says the gala is "January twenty-third" (a Monday); Ch8 S2 has Jay tell the tailor "January twenty fourth" (a Tuesday); but Ch10 S3–S4 plays the gala as a **Saturday night** — Jay processes it "Sunday," returns "Monday," with repeated references to "Saturday's events." The Saturday structure is woven through the whole aftermath, so the timeline sets the gala on **Saturday, Jan 21, 2017** (the nearest Saturday to the stated dates). Worth reconciling the two explicit dates to the 21st. (Note: the Monday *after*, Jan 23, matches Ch7's "twenty-third" — likely where the slip began.)
+
+2. **Christmas party date: Dec 15 vs Dec 16.** Ch7 S4 gives "December fifteenth" — a **Thursday** in 2016 — but Ch8 frames the party on a **Friday** ("on a Friday evening"), with the tuxedo errand the prior "Friday," and every other company social event in the book lands on a Friday. Timeline uses **Fri, Dec 16**; simplest fix is to change Kim's "fifteenth" to "sixteenth."
+
+3. **October scenes overlap (Ch5 S2 + S3).** The Stormfront audit (assigned Thu Oct 13, delivered Thu Oct 20) and the "nearly two weeks" Hartwell push (signs a Friday) are *narrated* in sequence but must run **concurrently** to fit between the quarterly party (Oct 7) and the probation review (Oct 31). **Hartwell's signing Friday is ambiguous (Oct 14 vs Oct 21)** — only **Oct 14** leaves room for Ch5 S4's "Friday drinks → following Tuesday → probation a week off" run-up before the Oct 31 Monday review.
+
+4. **Max's shifting return date.** Ch2 (Aug 11): back "week after next" (~Aug 22). Ch3 (Aug 19): "at least three more weeks" (~mid-Sep). He actually returns **Mon Sep 26**. Explained as compounding travel delays/illness, but the moving target is loose. (Max also says "I leave for two months," consistent with a late-July departure and a late-Sept return.)
+
+5. **"Three months" vs "beginning of November."** Ch4 S1 says probation ends "at the beginning of November"; Ch5 S5 says "three months had passed," on a Monday. With an Aug 1 start these effectively agree — **Oct 31, 2016 is both a Monday and three calendar months in** — but the wording is a hair off.
+
+6. **Pay cadence is assumed monthly.** Ch3 S5 ("monthly salary transfer") and Ch4 S5 ("after two paychecks") imply **month-end pay** (~Aug 31, ~Sep 30). The first paycheck is dated ~Sep 2; shift if payroll is actually mid-month or bi-weekly.
+
+7. **Soft dates in early September and January.** Ch4 S1–S3 and Ch9 S4–S5 carry few weekday cues; their dates are reasoned from firm anchors (one month in; the Jan 3 bonus; "the week before the gala") rather than text-stated.
+
+8. **Opening scene has no date.** Ch1 S1 (the Ian/Leo conversation) is dated only by "the following Monday." Placed at **Fri Jul 29**; "a couple of days before" is approximate (Fri→Mon is three days). A Thursday (Jul 28) reading works equally well.
+
+9. **Six-month review wording.** Ch10 S5 sets the review "at the beginning of February" and "six months since you started" — consistent with the Aug 1 start (Feb 1, 2017). Review dated ~Feb 1–2, with Jay's decision the following Monday (~Feb 6).
+
+10. **April is over-compressed (Ch14–15).** With Easter fixed at April 14–16, 2017, a lot piles up: the Q1 reporting crunch (Apr 3–11), the spring quarterly party, the "spring has sprung" gym start, and a pre-Easter cold snap (Apr 10–13) all jostle in the same two weeks. In particular the quarterly party (placed Fri Apr 7 to keep the party → Monday-cold-snap → Easter chain intact) lands *during* the crunch the chapter says had already eased. *Cleanest fix:* move the quarterly party to late April, after Easter, which relieves the pinch and matches the "workload finally easing" framing.
+
+11. **"Three months" since the gala (Ch13 S4).** Ian's Orrey investigation is said to have run "three months" since Cruver cornered Jay "at the company gala three months ago." From a late-January gala to late March is closer to two months. Loose figure; tighten once the gala date is finalized.
+
+12. **Ch10/Ch11 overlap in early February.** Ch10 S5's promotion thread (review ~Feb 1, decision the following Monday ~Feb 6) overlaps Ch11's opening snowstorm week ("February began"). Not a contradiction — two threads sharing early February; the company-card "second week of February" cue (Thu Feb 9) keeps Ch11 on track.
+
+13. **Soft February and late-April dating.** Ch11's snow/coat/company-card sequence and Ch15's late-April scenes carry weekday cues ("second week of February," Tuesday gym days) but few hard dates; values are reasoned from those cues plus the Easter and quarterly-report anchors.
+
+14. **Ema's graduation: date vs weekday (Ch18/Ch19).** Ch18 S1 has Jay name the graduation "June twenty-fourth. It's a Friday," but June 24, 2017 is a Saturday; Ch19 plays it as a Friday (he drives down Friday morning for a 2 p.m. ceremony and returns Sunday). Dated here **Fri, Jun 23, 2017**. Reconcile the "twenty-fourth" to the 23rd (or move the ceremony to Saturday).
+
+15. **Jay's birthday: date vs weekday (Ch20).** Ch20 S1 states "July 14th fell on a Saturday this year"; in 2017 July 14 is a **Friday**. The date (the 14th) is treated as canonical and flagged; the "Saturday" claim would only hold in 2018.
+
+16. **"A year" said early (Ch16, Ch19).** Characters call Jay's tenure "a year" / "nearly a year" as early as May–July 2017, when he is only at 9–11 months. His actual one-year mark is the Aug 3 review (Ch20 S5). Loose usage, not a real conflict.
+
+17. **Retreat and early-May dating are soft.** The retreat is fixed only as a three-day May weekend (dated May 19–21) with the Calder Wetherby visit and shopping run "two weeks before"; the concert ("next Friday") and the heat-wave/June scenes are reasoned from those cues rather than hard-dated.
