@@ -76,7 +76,7 @@ later step), with the `source/raw/chat-drafts/` copy preserved as the original.
 **Bookkeeping:** because chapter 48+ are ahead of the Novelcrafter export, a new
 chapter is a divergence worth logging. Add a one-line note to
 `EDITS-FROM-NOVELCRAFTER.md` ("Chapter NN — entirely new, not in export") and
-keep the chapter-count line in `claude.md`'s status up to date.
+keep the chapter-count line in `CLAUDE.md`'s status up to date.
 
 ---
 
