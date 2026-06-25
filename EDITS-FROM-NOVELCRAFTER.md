@@ -1,10 +1,17 @@
 # Edits since the Novelcrafter export
 
-Running log of how the working manuscript has diverged from the last
-Novelcrafter import. Purpose: if Novelcrafter is ever resubscribed and a fresh
-export is pulled, this is the list of manual changes to re-apply on top — or
-the evidence for deciding the working copy has drifted far enough that
-re-importing isn't worth it.
+> **Frozen 2026-06-25 — no longer hand-maintained.** This repo is now the
+> source of truth; the Novelcrafter export is legacy. Divergence is no longer
+> logged by hand — git history records every change, and the *complete, current*
+> divergence can be regenerated on demand from the frozen export (see
+> "Regenerating" below). This file is kept only as a historical snapshot of the
+> early divergence; it is not appended to going forward.
+
+Snapshot of how the working manuscript had diverged from the last Novelcrafter
+import, as of the freeze date. If Novelcrafter is ever resubscribed, the best
+course is **not** this log but a fresh `tools/diff_export.py` run against the
+frozen export, which lists exactly which chapters changed so only those need
+re-importing.
 
 ## Baseline
 
@@ -50,8 +57,16 @@ latest run, **3 chapters changed + 1 new chapter**:
   early–mid November (`572ee36`), Friday-dinner fix (`a894e48`), market-plan
   fix (`bd85510`). A re-import would not contain this chapter; preserve it.
 
-> Note: chapters 1–45 (excluding 33) are unchanged from the export at the prose
-> level — only the structural reformatting above applies.
+### Chapter 14 — scene-title typo fix
+- **"Quaterly reports" → "Quarterly reports"** (Scene 1 heading). A misspelling
+  carried in from the export, corrected in the working copy. The export keeps
+  the typo, so `reformat_chapters.py` now reports this title as diverging — that
+  warning is expected and advisory.
+- Also carries a deliberate `Bonus?` author note at the top of Scene 1 (kept on
+  request; not in the export).
+
+> Note: chapters 1–45 (excluding 14 and 33) are unchanged from the export at the
+> prose level — only the structural reformatting above applies.
 
 ## Regenerating / verifying
 
@@ -63,7 +78,8 @@ python3 tools/diff_export.py --out guidelines/divergence-from-export.md
 ```
 
 It normalises away the cosmetic differences (scene-break style, smart quotes,
-dashes) and lists every changed/added/removed paragraph per chapter, so it
-catches edits even if they were never written up here. **When you make a
-deliberate edit to existing (pre-ch48) prose, add a line to this file** and
-re-run the diff to confirm it shows up.
+dashes) and lists every changed/added/removed paragraph per chapter. **This is
+the canonical way to see divergence** — it catches every edit regardless of
+whether anything was written up here, which is exactly why hand-logging was
+retired. No need to update this file when you edit prose; git history and this
+command already have it covered.

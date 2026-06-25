@@ -1,6 +1,32 @@
 # Manuscript Sources & Sync State
 
-*Last verified: 2026-06-24. Refresh this section whenever the sources move.*
+*Last verified: 2026-06-25. Refresh this section whenever the sources move.*
+
+The novel was originally written in **Novelcrafter**; this repo is a newer home
+that the workflow is being moved into (see `CLAUDE.md` → "How this repo came to
+be"). The `source/raw/` exports are the Novelcrafter output, and the newest one
+is the frozen baseline below.
+
+## Source of truth (policy)
+
+**This repo — specifically `chapters/book*/*.md` — is the source of truth.** The
+Novelcrafter export is **legacy**: a frozen anchor we diff against, not an
+authority the working copy has to match. Going forward the manuscript is free to
+diverge from it.
+
+Because of that, **divergence is no longer hand-logged.** Git history records
+every edit, and `tools/diff_export.py` regenerates the *complete, current*
+divergence from the frozen export on demand — together they're strictly better
+than a hand-maintained ledger. `EDITS-FROM-NOVELCRAFTER.md` is now a frozen
+historical snapshot, not a living log.
+
+**The one rule:** never delete or edit
+`source/raw/2026-06-23-novelcrafter-export/` — it's the anchor that makes
+on-demand diffing (and any future re-import) possible.
+
+**If you ever return to Novelcrafter:** run `tools/diff_export.py` to see which
+chapters changed since the export, then re-import only those chapters' markdown.
+A point-in-time computed diff beats any running log.
 
 ## What the source files are
 
@@ -34,23 +60,27 @@ Verified by diffing `chapters/*.md` directly against the export (normalising
 quotes/dashes/whitespace). **43 of 47 chapters are identical to the export.**
 The only divergences:
 
-- **ch14** — carries a stray `Bonus?` draft note at the top of Scene 1
-  (a deliberate author reminder, kept on request; not in the export/`.txt`).
+- **ch14** — Scene 1 title typo fixed ("Quaterly"→"Quarterly"; the export keeps
+  the typo, so `reformat_chapters.py` flags this title as diverging — expected,
+  advisory). Also carries a deliberate `Bonus?` draft note at the top of Scene 1
+  (an author reminder, kept on request; not in the export/`.txt`).
 - **ch33** — Dan Mercer rename (intentional, logged).
 - **ch46** — islands-arc copy-edit, ~16 blocks (intentional, logged).
 - **ch47** — copy-edit + added Scene 5 "Homecoming", ~12 blocks (intentional, logged).
 - **ch48** — entirely new chapter, not in the export (intentional).
 
 Scene structure is fully intact: every chapter's scene count and titles match
-the export (ch47 has the extra "Homecoming"; ch48's five titles are original).
-**No scene titles are missing.**
+the export (ch47 has the extra "Homecoming"; ch48's five titles are original;
+ch14's Scene 1 title was intentionally corrected). **No scene titles are
+missing.**
 
 ## Formatting/sync cleanup done 2026-06-24
 
 - Reformatted ch12–48 `.md` to the canonical `#`/`## Scene K:` + blank-line
   layout chapter 1 uses (they had degraded: lost markdown headers, scene titles
   on bare lines, no paragraph separators). Structure only — no prose changed.
-  Tool: `tools/reformat_chapters.py` (idempotent, validates against the export).
+  Tool: `tools/reformat_chapters.py` (idempotent; its scene-title check against
+  the export is now advisory — intentional divergences like ch14 will warn).
 - **ch15** — removed a stray `Freefall` line (an arc-divider that had leaked
   onto the end of the file during the original extraction).
 - **ch20** — restored a final paragraph that the `.md` had dropped ("Ian
@@ -61,7 +91,8 @@ the export (ch47 has the extra "Homecoming"; ch48's five titles are original).
 ## How to re-verify
 
 ```bash
-# Drift of book*.txt vs the export (human summary in EDITS-FROM-NOVELCRAFTER.md):
+# Complete, current divergence of book*.txt vs the frozen export — this is the
+# canonical way to see how far the manuscript has drifted (no hand log needed):
 python3 tools/diff_export.py --out guidelines/divergence-from-export.md
 # Re-normalise chapter markdown (dry run lists anything off-format):
 python3 tools/reformat_chapters.py

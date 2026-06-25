@@ -182,7 +182,7 @@ Ela pressed the pear chip into Jay's grip and refused to take it back. "Eat it a
 
 "A sad houseplant," Luc added.
 
-Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him impossible. 
+Jay ate the pear chip and admitted under interrogation that it was excellent, and the kitchen declared the matter closed and him impossible.
 
 At half past five, Jay checked his watch, then looked at Ian's office door. He typed half a sentence into the regulator file, deleted it, checked his watch again, and looked at the door again. By a quarter to six he had abandoned the file entirely and was tidying his desk. At ten to six he gave up on the tidying too and simply sat there, watching the door.
 
@@ -392,7 +392,7 @@ They drifted through the building all day on that exact engine. Breakfast was ex
 
 "This amuse-bouche is smug," Jay said.
 
-"It's celeriac." 
+"It's celeriac."
 
 "It's smug celeriac. It knows it's in a flagship hotel. The island would have just given me bread and been proud of it."
 
