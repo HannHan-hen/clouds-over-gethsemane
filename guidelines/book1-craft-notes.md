@@ -221,17 +221,109 @@ have noticed — would keep the rising weight visible rather than narrated.
 
 ---
 
-## Jay (to revisit — separate pass)
+## Jay — the anxious one who shows up
 
-Jay's progression is largely satisfying: slowly, month by month, a little more confident.
-Two threads flagged here for the dedicated Jay pass, not addressed now:
+### What the book is trying to do (intent)
 
-- **How Jay perceives Ian's coldness.** The intended arc: no baseline → reads Ian as merely
-  rigid/professional → over time notices he is treated *colder than others* → it begins to
-  bother him. This perception curve is a key device for the mirror and deserves a deliberate
-  pass to make sure the noticing is paced and earned.
-- **Career progression.** How Jay's role and competence visibly grow still has work; worth a
-  focused look at pacing and the markers of his advancement.
+- Jay is **anxious, and shows up anyway.** He's nervous a lot, so he has decided he's a
+  coward — but the nervousness never actually stops him doing the thing (every social event,
+  the dive, returning to work after a mistake, facing the gala world again after Cruver).
+- He believes leaving his first and previous jobs was cowardice. It was **clear judgment** —
+  removing himself, promptly, from abusive situations. The reader should always see this even
+  when Jay can't. (His twisted self-image, mirroring Ian's.)
+- He **seeks shelter.** After harassment, a safe place is the thing he wants above all.
+- He *tries* to be reasonable, but his eagerness for the new job is **palpable and a little
+  unwise**: *I finally found a safe place!* — decided about people he does not yet know. His
+  imagination runs wild. This is the engine of the whole curve.
+- Because the expectations are inflated, **every early stumble hurts disproportionately** —
+  each one crushes a fantasy. But the place is *genuinely good* — good work, good people —
+  just not the ideal he imagined.
+- The shape is the **classic new-situation adjustment curve**: a steep early **peak**
+  (euphoria) → a steep **valley** (disillusion when the fantasy breaks) → a slow climb into
+  **realistic, durable improvement** — the place was good all along, just real instead of
+  ideal.
+- He is **young and inexperienced, not stupid.** A classic blunder, to be rendered with
+  affection.
+
+### What's working (keep)
+
+- **The adjustment curve is the spine, and it's clearly drawn.** Peak: Ch1–3 ("stumbled into
+  a dream," "It was paradise," "couldn't have engineered a better situation if he'd tried,"
+  and the team's amused "he's practically glowing"). Valley: Ch4–5, the joke-hire crash
+  ("rather be the clown than someone's prey," "a comfortable prison," "success felt
+  indistinguishable from survival"). Climb: Ch6 onward, recalibrating to a place that's
+  good-but-real. Matches the intent precisely.
+- **"Shows up regardless" is consistent.** Fear, then do it anyway — every social event, the
+  dive, returning after the filing mistake, walking back into the gala world after Cruver.
+- **The judgment-not-cowardice corrective reaches the reader** without Jay seeing it: Ian's PI
+  report (Ch6 S3) reframes the "abrupt departures" as escaping harassment that HR ignored. The
+  gap between Jay's self-verdict and the truth is visible.
+- **"Seeks shelter" is well-motifed:** the fortress/sanctuary framing in Ch1, the
+  apartment-as-refuge, the chosen solitude.
+- **The inflated-expectation comedy lands gently** — narration and the team's bemused
+  commentary let the reader find his runaway hopes endearing rather than pathetic.
+
+### Where it needs work (revision targets)
+
+1. **Damp the amplitude of his swings across the year.** "*Slowly* turns into realistic
+   improvement" implies the peaks and valleys should *shrink* as he matures. His
+   **recovery-time** clearly shortens (the filing mistake, Ch13, is fixed in a day by Luc's hot
+   chocolate — good growth), but the **crash-depth doesn't damp much**: that same month-7
+   stumble still bottoms out at "maybe I wasn't cut out for this... nothing more than a joke
+   hire," re-opening the Arc-1 core wound at nearly full intensity. By Arc 3 a stumble should
+   *sting* without fully re-litigating "I don't belong." Letting the later valleys be
+   **shallower** (even as recovery stays quick) is the single clearest lever for the maturing
+   curve.
+
+2. **Make the climb out of the big valley more self-driven.** The valley (Ch4–5) is
+   *self-inflicted* — his own inflated expectations break — but the climb out (Ch6) leans
+   heavily on others administering it: Leo's explanatory drive, Ian's appearance at Murphy's.
+   Jay does some reframing himself (Ch6 S4, Ch7), yet the initial unsticking is largely handed
+   to him and by Monday he's at "cautious optimism." For a *realistic* recovery, let Jay do
+   more of the cognitive work — reasoning his own way back over more than a weekend — so the
+   improvement feels earned beat by beat rather than switched on by other people's gestures.
+
+3. **Let a few recognitions actually land.** Jay deflects nearly all praise (thematically
+   correct — he undervalues himself). But because he never lets recognition *count*, the reader
+   can lose the felt sense of his competence climbing. Let two or three acknowledgements
+   register on him for a beat — even if he quickly discounts them — so the growth reads as
+   *progress*, not just steady deflection.
+
+### Thread: how Jay perceives Ian's coldness
+
+Intended arc: no baseline → reads Ian as plain rigid professionalism → over time notices he's
+treated *colder than others* → it bothers him.
+
+- **Present and effective in the valley.** Jay perceives the differential coldness clearly once
+  it appears — Ch4 S2 ("the difference was reserved for Jay alone"), Ch5 S1 (Ian warm with
+  everyone, fifteen cold seconds for him). The hurt is well rendered.
+- **The "only with time" gradualness is compressed.** In practice the noticing is *gated by the
+  Falconridge rebuke* (Ch4): before it he's too euphoric to see anything, then suddenly sees it
+  all at once. To deliver the slow-noticing you want, **seed a few earlier micro-observations**
+  — Jay half-catching that Ian runs a shade warmer with Amy or Luc, brushing it off, filing it
+  away — so the Ch4 realization feels *accumulated* rather than switched on.
+- **Mind the resolution.** Once Ian thaws (Arc 2+), Jay reads him as kind/reliable and the
+  differential-coldness antenna powers down — fine, but it makes the device essentially an
+  Arc-1 instrument. If you want it to echo, a late half-beat where Jay notices Ian is *warmer
+  with him than with others*, and can't quite account for it, would close the loop and quietly
+  foreshadow.
+
+### Thread: career progression
+
+- **What grows is mastery and scope, not title** — by design: Jay declines the analyst
+  promotion twice (Ch10, Ch20) to stay in the role (and close to Ian). Competence markers are
+  there: the Wentworth insight (Ch3), the compliance audit (Ch5), Hartwell coordination, the
+  company card (Ch11), client meetings (Ch16, Ch20), covering Kim's specialist duties (Ch19–20),
+  Max's "you're doing analyst work for assistant pay."
+- **Risk to watch: the declined promotion can read as self-diminishment.** Given Jay's low
+  self-image, twice refusing to advance sits in tension with the "more capable than he believes"
+  theme — a reader could take it as Jay *staying small* out of fear rather than choosing a role
+  he genuinely values. The text intends the latter (he wants the proximity and the work he's
+  good at). **Make each refusal clearly read as agency and preference, not fear** — otherwise
+  the competence arc and the self-undervaluing blur together.
+- **The growth is currently a bit diffuse/told** ("his work had improved," "he understood the
+  systems now"). Sharper *discrete* beats — a moment where he visibly does something he couldn't
+  have done six months earlier — would make the climb legible. Pairs with work-item #3.
 
 ---
 
