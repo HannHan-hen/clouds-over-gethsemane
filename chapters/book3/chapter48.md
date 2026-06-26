@@ -570,21 +570,21 @@ He lay there in the early dark, and his last clear thought before exhaustion fin
 
 ## Scene 5: Still Time
 
-The doorbell rang at twenty past seven on Thursday morning. Jay was dressed, halfway through his coffee, and fully rehearsed in the role of a man who had recovered from a cold he never had. He opened the door to Ian in his charcoal coat with rain on the shoulders and a paper bag in each arm.
+The doorbell rang at twenty past seven on Thursday morning. Jay was dressed, halfway through his coffee, and fully rehearsed in the role of a man who had recovered from a cold he never had. He opened the door to Ian with rain on the shoulders and a paper bag in each arm.
 
 "You're supposed to be on your way to the office," Jay said.
 
-"I am on my way to the office. This is on the way. How do you feel," Ian said.
+"I am on my way to the office. This is on the way. How do you feel."
 
-"Fine. Completely fine. No fever, no sore throat, no symptoms of any kind. It was nothing, exactly like I said it would be."
+"Fine. No fever, no sore throat, no symptoms of any kind. It was nothing, exactly like I said it would be."
 
 Ian walked past him into the kitchen as if this were the established Thursday protocol and began unpacking the bags onto the counter.
 
-"Soup, the today kind and the freezer kind. Lemons. Ginger. Honey. Paracetamol, in case you were being brave yesterday. Vitamin C, the dissolvable kind, because you won't take tablets. Two teas. And this," Ian said.
+"Soup, the today kind and the freezer kind. Lemons. Ginger. Honey. Paracetamol, in case you were being brave yesterday. Vitamin C. Two teas. And this."
 
-He set a white case on the table and opened it. The thermometer inside was matte, clinical, and cradled in molded foam like surgical equipment.
+He set a white case on the table and opened it. The thermometer inside was matte and cradled in molded foam.
 
-"That is not a thermometer. That is hospital property. Did you rob a clinic on the way here?"
+"That is hospital property. Did you rob a clinic on the way here?"
 
 "It's medical grade. I researched it last night, the reviews were impeccable. Sit."
 
@@ -592,15 +592,13 @@ He set a white case on the table and opened it. The thermometer inside was matte
 
 "Sit," Ian said.
 
-Jay sat on the kitchen chair and submitted to being scanned like a suspicious parcel, and died quietly the entire time. This was the problem now, all of it: Ian in his kitchen at seven in the morning smelling of rain and cologne, Ian filing soup into his refrigerator by date, Ian frowning at a device in absolute seriousness because Jay had sniffled fictitiously two days ago. A week ago this fussing had been warmth. Now the warmth had developed an undertow, and Jay stared hard at the grain of the table and waited for the beep like a verdict.
+Jay sat on the kitchen chair and submitted to being scanned like a suspicious parcel, and died quietly the entire time. This was the problem now, all of it: Ian in his kitchen at seven in the morning, Ian filing soup into his refrigerator, Ian frowning at a device in absolute seriousness because Jay had sniffled fictitiously. A week ago this fussing had been warmth. Now the warmth had developed an undertow, and Jay stared hard at the grain of the table and waited for the beep.
 
 The device beeped.
 
 "Thirty-six point six," Ian said.
 
-He read the number the way an auditor reads a balance sheet that refuses to contain an error, and then, with visible reluctance, accepted reality.
-
-"You sound disappointed," Jay said.
+"You sound disappointed."
 
 "I'm relieved. I'm also aware that these things can develop late. Get your coat, I'll drive you in. And if anything changes during the day, anything at all, you tell me at once. At once, Jay. Not at five o'clock with an apology."
 
@@ -608,62 +606,58 @@ He read the number the way an auditor reads a balance sheet that refuses to cont
 
 The drive to the office took eleven minutes, and Ian spent four of them explaining the soup-reheating sequence.
 
-The day was gray in the absolute sense. Rain came down in fine, tireless sheets, the windows of the thirty-fourth floor showed nothing but wet glass and low cloud, and the city below had dissolved into smudges of headlights. Everyone else complained of the cold. Jay had the opposite problem. He spent the day over-warm and over-aware, conscious of exactly where Ian was at any moment the way one is conscious of a fireplace in a room, and ashamed of the entire metaphor. At ten, Ian took his jacket off in his office, and Jay kept his eyes on his spreadsheet and survived it, which he privately logged as progress. Work got done. Ela asked if he was better and Kim prescribed more ginger, and the Velder addendum advanced, and Ian was steady behind the glass, and the world held its ordinary shape even if Jay no longer quite held his.
+The day was gray. The windows of the thirty-fourth floor showed nothing but wet glass and low clouds. Everyone else complained of the cold. Jay had the opposite problem. He spent the day over-warm and over-aware, conscious of exactly where Ian was at any moment. Work got done. Ela asked if he was better and Kim prescribed more ginger.
 
 On Friday at six, the dinner tradition continued, and this time Jay chose the place.
 
-It stood in the industrial east of the city between a tire warehouse and a print shop, a brick hall with steamed-up windows where everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second. He hung his coat on a peg between two work jackets, ordered in two short sentences, rolled his sleeves when the food arrived, and claimed the crackling off the pork without negotiation, like a man with field experience.
+It stood in the industrial east of the city where everything that left the kitchen had been roasted, and the whole room smelled like it. Jay relaxed the moment they crossed the threshold. Ian, to his credit, did not look out of place for a single second.
 
 "I'll admit something. You look better, and I'm relieved. On Wednesday I had soup logistics half-planned and a contingency involving Dr. Albers," Ian said.
 
-"You built a contingency plan for my cold."
+"You built a contingency plan?"
 
 "It was barely a plan. One page."
 
 "You wrote it down?"
 
-"I structured my thoughts. Eat your potatoes."
+"I structured my thoughts."
 
-They ate, and the windows steamed, and the rain stayed outside where it belonged. Over the last of the beer, Ian developed the studied casualness of a man about to propose something he had been carrying around all day.
+They ate, and the windows steamed. Over the last of the beer, Ian made a proposal.
 
-"There's a small matter, if you have an hour tomorrow. The new treadmill insists on a second user profile and the menu has defeated me twice. It calibrates to weight and stride length, allegedly, and the manual was written by someone who hates readers. Since you'll be the one using it anyway, I thought—" Ian said.
+"There's a small compliance matter I’d like your eyes on, if you have an hour tomorrow. Nothing urgent. The auditors flagged a discrepancy in how we’re logging discretionary client notes against internal review dates. It’s tedious, but you handled the last clean-up better than anyone."
 
-"Yes."
+"Tomorrow?"
 
-"You don't want the rest of the sentence?"
+“If you’re free. I can send the files, but it may be faster to go through them together.”
 
-"The sentence was finished. Yes. What time."
+"Sure. What time?"
 
-"Ten. I'll make breakfast worth getting up for," Ian said.
+"Twelve. I’ll make lunch."
 
-The small matter took eleven minutes on Saturday morning, seven of which were Jay reading the manual out loud in a documentary narrator's tone while Ian held the screen and pressed what he was told. The profile had never required two people. It had arguably not required one. Neither of them mentioned this at any point, and when it was done, Ian said that since Jay was already here, there were leftovers, and there was a bottle that needed drinking, and the rain made the roads a strong argument against going anywhere, and Jay agreed with every clause of it.
+The small matter took eleven minutes and when it was done, Ian said that since Jay was already here, there was a bottle that needed drinking, and the rain made the roads a strong argument against going anywhere. Jay agreed with every clause of it.
 
-The afternoon assembled itself the way their best afternoons always had. They argued about films for ten minutes as a formality and then watched an old mountaineering documentary that Ian narrated with quiet expert corrections, followed by a heist film that Jay had seen four times and defended like family. The wine was open by three. The rain worked the windows. Jay had a blanket he didn't remember acquiring and the deep, specific comfort of being in exactly the right place, and to his enormous quiet relief, the improper things stayed asleep all day. This was the old warmth, the original kind, sofa and wine and Ian's dry commentary, and Jay rested inside it like a man given a day's parole.
+They argued about films for ten minutes and then watched an old mountaineering documentary that Ian picked, followed by a heist film that Jay had seen four times. The wine was open by three. Jay had a blanket he didn't remember acquiring and the deep comfort of being in exactly the right place, and to his enormous relief, the improper things stayed asleep all day. This was the old warmth, the original kind, safe and familiar.
 
 Toward evening he stood at the window with his glass and looked down at the wet street.
 
-"They were hanging the Christmas lights on the avenue this morning. In the rain. I watched a man wrestle a glowing star onto a lamppost for ten minutes, and I felt nothing. It looked like drowned tinsel. I don't feel festive at all this year," Jay said.
+"They were hanging the Christmas lights on the avenue this morning. In the rain. I watched a man wrestle a glowing star onto a lamppost for ten minutes. It looked like drowned tinsel. I don't feel festive at all this year," Jay said.
 
-"It's the end of November. Festivity has a long runway. There's still time," Ian said.
+"It's the end of November. Festivity has a long runway. There's still time."
 
 "We'll have to figure out Christmas at some point. What we're doing. Eventually."
 
-"At some point. Not today."
-
-"Not today."
-
-Christmas had never been in the room before, and it entered now not as a plan but as a distant pressure, like weather announced for next month, and then it left again and the heist film's sequel started and the evening carried on being easy.
+"At some point. It doesn't need to be today."
 
 Jay walked home at eleven through the two streets between their buildings. The rain had thinned to a drizzle. Half the lamppost stars on the avenue were up and unlit, dripping, waiting for December.
 
-The trip was becoming memory now. He could feel it happening: the island sliding from last week into a photo album, the office reclaiming its shape, the alarm clock and the briefings and the Friday dinners knitting back into a life. The gray world had resumed in full. The trouble was what had followed him into it.
+The trip was becoming memory now. He could feel  the island sliding from last week into a photo album, the office reclaiming its place, the alarm clock and the briefings knitting back into a life. The gray world had resumed in full. The trouble was what had followed him into it.
 
-Before the vacation, he had managed. Desire had been buried so deep under work and gratitude and fear and plain denial that he could go weeks without admitting it had a body attached. That arrangement was over. It had ended somewhere between a sauna bench and a dream, and the gray everyday had resumed without it, and now the thoughts came every evening as he lay waiting for sleep, uninvited and unstoppable. They were not specific. They never had been. Shapeless things, shadows of sounds and sensations, warmth without edges, weight without detail.
+Before the vacation, he had managed. Desire had been buried so deep under work and gratitude and fear and plain denial that he could go weeks without admitting it had a body attached. That arrangement was over. It had ended with a sauna bench and a dream, and the gray everyday had resumed without it. Now the thoughts came every evening as he lay waiting for sleep, uninvited and unstoppable. They were not specific. Shapeless things, shadows of sounds and sensations, weight without detail.
 
-But the questions had become scarily specific, and they arrived in order, like items on an agenda he had not approved.
+But he questions had become scarily specific, and they arrived in order.
 
 How would it feel to be kissed by him. To be touched by him. To be taken by him. What did he taste like. What sounds did he make in the dark, a man that controlled, when the control was finally beside the point.
 
-Jay pulled the duvet over his head and felt his face burn against the pillow, thirty-one years old and blushing madly in his own empty bedroom. He had spent two years denying this thing had teeth. He was so tired of denying it.
+Jay pulled the duvet over his head and felt his face burn against the pillow, thirty-one years old and blushing madly in his own empty bedroom. He had spent a year denying this thing had teeth. He was so tired of denying it.
 
 He fell asleep still warm, and didn't fight it at all.
