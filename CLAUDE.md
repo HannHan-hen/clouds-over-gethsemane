@@ -148,9 +148,9 @@ Where to look — and where things belong:
 | Path | What it holds |
 |---|---|
 | `chapters/book{1,2,3}/` | The working manuscript (`.md`), the readable copy we edit. |
-| `summary.md` | Brief chapter-by-chapter overview, condensed from `timeline/` (Book 1 so far; further books added as their timelines are built). |
+| `summary.md` | Brief chapter-by-chapter overview, condensed from `timeline/` (Books 1–2 complete, Book 3 in progress; further chapters added as they land). |
 | `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
-| `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Book 1 complete). |
+| `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters 41–48). |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
 | `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, editing playbook, and generated QA reports. |
 | `tools/` | The check/edit scripts (lint, repetition scan, continuity, reformat). See `tools/README.md`. |
