@@ -126,18 +126,24 @@ each rung *felt*, not just logged.
    (Jul)** — it is sound and believable; the repetition is *the point*, provided the reader
    can see Jay climbing the same hole with new equipment. Two execution checks make that land:
 
-   - **(a) Make the trigger genuinely "an accumulation of small things," not two big blows.**
-     The stated intent is *erosion* — death by a thousand cuts, which is how depression
-     actually works and is far more believable than a single catastrophe. But the current
-     triggers are large and discrete: dropping a whole database table and losing his *entire*
-     cash savings are each a major event, so the spiral reads closer to "two medium
-     hammer-blows plus winter gloom" than "small things piling up." **The fix that also
-     serves character:** route it through Jay's **catastrophizing** (see the faults section)
-     — let the setbacks be objectively *small* (minor slips, a cold word, fatigue, gray
-     weather) that *his anxiety inflates* into ruin. That makes the accumulation land **and**
-     dramatizes the flaw, instead of needing genuinely large disasters to justify the fall.
-     (If the table/savings beats stay, frame them through his amplification — it's his
-     *reaction* that's outsized, which is the believable, on-theme reading.)
+   - **(a) The triggers are the right size — the *disproportion* is the point; keep them.**
+     (This corrects an earlier draft of this note that called the triggers "too big." Wrong.)
+     The setbacks are deliberately *minor-to-moderate and recoverable*: the dropped table is
+     **restored same-day**, and the lost envelope is a couple of months of his *old* salary —
+     painful, but "mope-for-two-weeks-and-write-a-sad-story" material, not "quit your job and
+     lose all sense of worth." That gap — between objectively *survivable* events and Jay's
+     catastrophic, identity-collapsing response — **is the catastrophizing fault doing its
+     work** (see the faults section), and it should read as exactly that. So the note is **not**
+     "make the events bigger to justify the spiral" (that breaks the character) nor "shrink
+     them" (they're right) — it is: **make sure the narration lets the reader feel the
+     disproportion**, so the spiral reads as *Jay's amplification* of small blows a steadier
+     person would shrug off, not as a proportionate reaction to real catastrophe. Real life
+     does deliver absurd little clusters of bad luck; the realism here lives in the oversized
+     *response*, not the magnitude of the events. (The slight comic-implausible "wow, both, in
+     one month?" quality is a feature — that's just how bad-luck runs feel.)
+     - *Optional wishlist:* a **third, smaller** setback would complete the *pattern* the
+       accumulation wants — two beats read as "a pair," three as "a run of bad luck." Nothing
+       to force; flagged in case a fitting small mishap surfaces before the editing pass.
 
    - **(b) Wire the lesson to the payoff explicitly.** The self-recognition is present and
      well-placed: drunk and honest at the retreat (Ch37), Jay names the entire pattern — "I
@@ -147,12 +153,8 @@ each rung *felt*, not just logged.
      strength," Ch40 S5) — but the **connective tissue to the Ch37 insight is implicit.** Make
      it explicit: have Jay consciously *recognize the spiral as it starts* — "this is the
      part where I run; I've learned not to" — so the payoff is felt, not inferred. Without
-     that callback the lesson is invisible and the second crisis just looks like the third
+     that callback the lesson is invisible and the second crisis just looks like a third
      repeat; with it, the repetition becomes growth.
-
-   *(The earlier draft of this note told you to "damp the amplitude / stop re-litigating the
-   worthlessness wound." That was reading the echo as an accident. It's a design — so the note
-   is not "make it smaller" but "make the smallness deliberate and wire the payoff.")*
 
 2. **Make the climb out more self-driven (also a repeat of Book 1 Jay #2).** The recovery is
    once again largely *administered*: Fay names the feeling, the gym crew diagnoses it, Rus
@@ -238,11 +240,14 @@ stop. This is a genuine evolution, and a slightly darker, richer Ian:
    it reads as creepy; the danger is that the text **excuses** it. Right now the apartment
    manipulation costs Ian only private guilt: Jay never learns the full extent, nothing
    breaks, no trust is strained. A fault with no consequence is a fault the story is secretly
-   forgiving. The fix is **consequence**, not restraint: somewhere — perhaps in Book 3 — one of
-   these slips should *land* (be discovered, strain trust, force real amends). Ch29's
-   voluntary half-confession (Ian telling Jay he pushed the agent) is the model: a fault
-   owned at a cost. Keep his **private tally of slip-ups** as a recurring motif, and let him
-   keep *failing* to live up to it — see the faults section for the full treatment.
+   forgiving. The fix is **consequence**, not restraint — but **not in Book 2.** Per the series
+   plan the reckoning lands no earlier than the **end of Book 3**, more likely **Book 4** (where
+   the fault-work belongs). So Book 2's only job is to **establish the fault honestly** — let
+   it accrue weight without the text excusing it — so that when a slip finally *lands* later
+   (discovered, straining trust, forcing real amends) it's been earned. Ch29's voluntary
+   half-confession (Ian telling Jay he pushed the agent) is the in-book model at the small
+   scale: a fault owned at a cost. Keep his **private tally of slip-ups** as a recurring motif,
+   and let him keep *failing* to live up to it — see the faults section for the full treatment.
 
 2. **Let Ian's *false-accusation* wound flare during the Gal crisis (the Book 1 #4 note —
    corrected).** Important factual fix: Gal's false complaint (Ch40) does **not** re-run *Sam*.
@@ -343,10 +348,12 @@ genuine tendencies — not cartoonish, but real, and his to manage:
 - **Keep — and use — the private tally.** Ian *counts his own slip-ups*; that detail is
   exactly right for a conscientious man with a controlling streak, and it should be a
   recurring, load-bearing motif. Let him keep the tally **and keep failing to live up to it.**
-- **Let a fault actually land.** A flaw with no consequence is one the story is quietly
-  excusing (see Ian revision #1). At least once — here or in Book 3 — a slip should be
-  discovered, strain trust, and force real amends. Ch29's voluntary half-confession is the
-  model: a fault owned at a cost.
+- **Let a fault actually land — but later.** A flaw with no consequence is one the story is
+  quietly excusing (see Ian revision #1). A slip *should* eventually be discovered, strain
+  trust, and force real amends — but per the series plan that reckoning belongs to the **end of
+  Book 3 or Book 4**, not here. Book 2's task is only to establish the fault honestly and let
+  it gather weight. Ch29's voluntary half-confession is the small-scale model: a fault owned at
+  a cost.
 - **He's working on it, imperfectly.** The arc is not "secretly perfect"; it's "a good man
   with bad tendencies he actively, incompletely manages, and sometimes still loses to."
 
@@ -406,21 +413,43 @@ which calcifies into passivity, martyrdom, avoidance, and people-pleasing. He is
 himself.* Emphasizing two or three of these (especially #1 and #2) is what converts him from a
 flawless victim into a person.
 
-### The lock and the key (why their faults fit — and why that's the long-arc engine)
+### The lock and the key (why their faults fit — and where it pays off)
 
-The richest structural payoff here: **Ian's controllingness and Jay's passivity dovetail
-perfectly.** Ian *needs* to arrange, provide, and protect; Jay *lets* himself be arranged,
-provided for, and protected. Each fault feeds the other. It *feels* like love — and partly is —
-but it's also **two shortcomings interlocking into a comfortable, quietly unhealthy dynamic**:
-a man who over-controls paired with a man who won't assert himself. The relationship as
-currently shaped runs *on* their faults as much as their virtues.
+The richest structural idea here, and the engine for the whole back half of the series:
+**Ian's controllingness and Jay's passivity dovetail perfectly.** Ian *needs* to arrange,
+provide, and protect; Jay *lets* himself be arranged, provided for, and protected. Each fault
+feeds the other. It *feels* like love — and partly is — but it's also **two shortcomings
+interlocking into a comfortable, quietly unhealthy fit**: a man who over-controls paired with
+a man who won't assert himself. **They'd make a perfect couple — if by "perfect" we mean
+spectacularly dysfunctional.** The relationship as currently shaped runs *on* their faults as
+much as their virtues, and the *easy* path — Ian leads, Jay follows — is the unhealthy one.
 
-That isn't a flaw in the writing — it's a **theme to stay conscious of**, and a built-in engine
-for growth. A genuinely healthy Ian-and-Jay would require *both* to change: Ian to relinquish
-control and let Jay stand on his own, Jay to assert himself and stop disappearing into
-usefulness. Book 2 builds the lock and key; later books have somewhere real to go by loosening
-it. Worth tracking so the dynamic eventually gets *examined* by the story, not merely enjoyed
-by it.
+That's not a flaw in the writing; it's the **theme to stay conscious of.** The thesis to hold:
+a relationship shouldn't be a *battle*, but a good one takes constant work — and **theirs will
+take more work than most**, precisely because their faults lock together so neatly. For them
+to actually work, **both must actively manage the fault, not indulge it:**
+
+- **Jay can't surrender his life to Ian because it's easier.** He will be *tempted* to placate
+  — to cage himself at home so Ian has nothing to be jealous of, to let Ian decide things to
+  avoid friction — and he has to know he *can't*; that the answer isn't to shrink himself but
+  to make **Ian get over himself.**
+- **Ian can't "do what's best for Jay" just because the urge is there.** He will want to fight
+  every battle for Jay and smooth every obstacle from his path — and he has to know he *can't*;
+  that **Jay's agency is not negotiable**, even when surrendering it would be the loving-feeling
+  thing to do.
+
+**Where this pays off — mind the pacing (per the series plan):**
+
+- **Book 2** only *builds* the lock and key, **unexamined.** The dysfunction should mostly sit
+  unremarked-upon-by-the-characters — felt by the reader, enjoyed by the leads, not yet a
+  problem either has named. Don't rush the reckoning forward into it.
+- **Book 3** is for them to **finally become aware of each other's feelings** — and perhaps to
+  make a *decision* about it, at the very end. Still not the place for the fault-work.
+- The **active mutual management of the faults — the real, ongoing work — is a Book 4 arc**
+  (if the series gets there), and **Ian's reckoning lands no earlier than the end of Book 3.**
+  So the "let a fault actually land" notes above are *forward-looking*: Book 2's only job is to
+  establish the faults **honestly**, without the text excusing them, and let them quietly
+  accrue weight for the payoff later.
 
 ---
 
