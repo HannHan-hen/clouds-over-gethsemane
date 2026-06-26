@@ -153,6 +153,7 @@ Where to look — and where things belong:
 | `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters 41–48). |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
 | `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, and editing playbook. |
+| `guidelines/book{1,2,3,4}-craft-notes.md` | Per-book craft/intent companions (what each book is *trying* to do). Books 1–2 are retrospective; Book 3 is half-retrospective, half-**planned** (ch49 onward is intent, not yet written); Book 4 is **concept-only** — a north-star aim, since the book is unwritten and may be far off. Treat the Book 3/4 forward material as provisional plan, not canon. |
 | `guidelines/reports/` | Generated QA reports (lint, echo, style, continuity, scan, divergence) and `EDITS-FROM-NOVELCRAFTER.md`. |
 | `tools/` | The check/edit scripts (lint, repetition scan, continuity, reformat). See `tools/README.md`. |
 | `source/` | Source forms of the manuscript (`book*.txt`, the Novelcrafter export, pristine chat drafts). |
