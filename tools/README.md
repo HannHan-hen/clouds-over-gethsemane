@@ -51,8 +51,8 @@ Phrases already in `guidelines/ai-tics-watchlist.md` are tagged `[known]`.
 ### Usage
 
 ```bash
-# Full report over source/book*.txt -> guidelines/scan-candidates.md
-python3 tools/scan_text.py --out guidelines/scan-candidates.md
+# Full report over source/book*.txt -> guidelines/reports/scan-candidates.md
+python3 tools/scan_text.py --out guidelines/reports/scan-candidates.md
 
 # Print to stdout, only frequent phrases, more rows
 python3 tools/scan_text.py --min-count 20 --top 60
@@ -78,7 +78,7 @@ day. Construction rules marked `(heuristic)` are deliberately loose (expect
 false positives). Advisory — every hit shows the matched text.
 
 ```bash
-python3 tools/lint_guidelines.py --out guidelines/lint-report.md
+python3 tools/lint_guidelines.py --out guidelines/reports/lint-report.md
 ```
 
 ## style_metrics.py
@@ -89,7 +89,7 @@ filter-verb rate, `-ly` adverb rate, body-part rate, dialogue share. Outliers
 (>1 SD worse than the book mean) are marked `!`.
 
 ```bash
-python3 tools/style_metrics.py --out guidelines/style-metrics.md
+python3 tools/style_metrics.py --out guidelines/reports/style-metrics.md
 ```
 
 ## continuity_check.py
@@ -111,7 +111,7 @@ Three advisory continuity checks, keyed off the `### Name` headers in
    are flagged. A roster of discovered names is included for cross-checking.
 
 ```bash
-python3 tools/continuity_check.py --out guidelines/continuity-report.md
+python3 tools/continuity_check.py --out guidelines/reports/continuity-report.md
 ```
 
 ## echo_check.py
@@ -122,7 +122,7 @@ repeats a reader actually snags on, distinct from the phrase scanner. Rarest
 and closest-together first.
 
 ```bash
-python3 tools/echo_check.py --out guidelines/echo-report.md
+python3 tools/echo_check.py --out guidelines/reports/echo-report.md
 ```
 
 ## diff_export.py
@@ -134,10 +134,10 @@ export's `* * *` scene breaks vs the working text's scene titles, smart
 quotes, dashes, part-divider lines) so only real prose changes remain. Lists
 changed/added/removed paragraphs per chapter and flags chapters that exist
 only in the working copy. The human-readable summary lives in
-`EDITS-FROM-NOVELCRAFTER.md` at the repo root.
+`guidelines/reports/EDITS-FROM-NOVELCRAFTER.md`.
 
 ```bash
-python3 tools/diff_export.py --out guidelines/divergence-from-export.md
+python3 tools/diff_export.py --out guidelines/reports/divergence-from-export.md
 ```
 
 ## reformat_chapters.py

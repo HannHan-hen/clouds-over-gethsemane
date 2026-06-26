@@ -71,10 +71,10 @@ latest run, **3 chapters changed + 1 new chapter**:
 ## Regenerating / verifying
 
 The detailed, line-level divergence report is auto-generated at
-`guidelines/divergence-from-export.md`. Refresh it any time:
+`guidelines/reports/divergence-from-export.md`. Refresh it any time:
 
 ```bash
-python3 tools/diff_export.py --out guidelines/divergence-from-export.md
+python3 tools/diff_export.py --out guidelines/reports/divergence-from-export.md
 ```
 
 It normalises away the cosmetic differences (scene-break style, smart quotes,
