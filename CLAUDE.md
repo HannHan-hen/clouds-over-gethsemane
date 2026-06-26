@@ -152,9 +152,9 @@ Where to look — and where things belong:
 | `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
 | `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters 41–48). |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
-| `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, editing playbook, and generated QA reports. |
+| `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, and editing playbook. |
+| `guidelines/reports/` | Generated QA reports (lint, echo, style, continuity, scan, divergence) and `EDITS-FROM-NOVELCRAFTER.md`. |
 | `tools/` | The check/edit scripts (lint, repetition scan, continuity, reformat). See `tools/README.md`. |
 | `source/` | Source forms of the manuscript (`book*.txt`, the Novelcrafter export, pristine chat drafts). |
 | `SOURCES.md` | How the three manuscript forms relate and their current sync state. |
-| `EDITS-FROM-NOVELCRAFTER.md` | Log of where the working copy diverges from the frozen export. |
 | `plans/` | Notes and plans for possible variations/spin-offs. |

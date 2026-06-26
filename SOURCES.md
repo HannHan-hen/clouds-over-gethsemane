@@ -17,7 +17,7 @@ diverge from it.
 Because of that, **divergence is no longer hand-logged.** Git history records
 every edit, and `tools/diff_export.py` regenerates the *complete, current*
 divergence from the frozen export on demand — together they're strictly better
-than a hand-maintained ledger. `EDITS-FROM-NOVELCRAFTER.md` is now a frozen
+than a hand-maintained ledger. `guidelines/reports/EDITS-FROM-NOVELCRAFTER.md` is now a frozen
 historical snapshot, not a living log.
 
 **The one rule:** never delete or edit
@@ -52,7 +52,7 @@ export and are superseded — kept only as historical artifacts.
 - Since that sync: ch33 was edited (Dan Miller→Dan Mercer), ch46–47 were
   copy-edited, ch47 gained a new Scene 5 ("Homecoming"), and ch48 ("Undertow")
   was written fresh. **Chapters 46–48 in the `.md` files are the most recent
-  text and are ahead of the export.** See `EDITS-FROM-NOVELCRAFTER.md`.
+  text and are ahead of the export.** See `guidelines/reports/EDITS-FROM-NOVELCRAFTER.md`.
 
 ## Where the `.md` working copy stands vs the newest export
 
@@ -93,7 +93,7 @@ missing.**
 ```bash
 # Complete, current divergence of book*.txt vs the frozen export — this is the
 # canonical way to see how far the manuscript has drifted (no hand log needed):
-python3 tools/diff_export.py --out guidelines/divergence-from-export.md
+python3 tools/diff_export.py --out guidelines/reports/divergence-from-export.md
 # Re-normalise chapter markdown (dry run lists anything off-format):
 python3 tools/reformat_chapters.py
 ```
