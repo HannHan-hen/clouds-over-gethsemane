@@ -35,8 +35,10 @@ how it's invested and reports back. That single fact explains the "portfolios," 
 
 > **The crucial distinction for your story:** a **CFO** runs *the firm's own* finances —
 > payroll, budgets, the company's books. The people who manage *clients'* portfolios are the
-> **CIO (Chief Investment Officer), portfolio managers, and investment analysts.** Ian does
-> the second job under the first job's title. (See `company-audit.md` §2.)
+> **CIO (Chief Investment Officer), portfolio managers, and investment analysts.** These are two
+> different jobs — and Ian holds **both** (a combined CFO + CIO role, normal at a founder-led
+> boutique). That's why he runs the clockwork accounting *and* the marquee portfolios. (See
+> `company-audit.md` §2.)
 
 ---
 
@@ -46,7 +48,7 @@ Investment firms split into **front / middle / back office** — a standard piec
 
 - **Front office** (makes the money / faces the client):
   - **CIO / Head of Investments** — owns the investment strategy; the buck stops here on *how
-    client money is invested*. **This is Ian's actual job.**
+    client money is invested*. **This is Ian's job — one of his two hats** (see CFO below).
   - **Portfolio Managers (PMs)** — run specific portfolios; make the buy/sell calls. Senior
     analysts like **Amy and Max** read as PMs or senior investment analysts.
   - **Investment / research analysts (buy-side)** — dig into companies, sectors, and data to
@@ -67,7 +69,8 @@ Investment firms split into **front / middle / back office** — a standard piec
     plausible disaster in this seat.
 - **Corporate** (runs the company itself):
   - **CEO / Managing Partner** — runs the business. **Leo** (or his father) sits here.
-  - **CFO** — runs the *firm's own* money. (A real role — just **not** the one Ian is doing.)
+  - **CFO** — runs the *firm's own* money (payroll, budgets, the books, the year-end bonus
+    machine). **Ian's other hat** — he holds this *and* the CIO role (see `company-audit.md` §2).
   - **Founder / Chairman** — **Turner Senior.**
 
 **Buy-side vs sell-side** (you'll hear this constantly): the *buy-side* manages money and
@@ -166,7 +169,7 @@ make Jan/Feb/Mar the worst is **correct**:
   *sell* securities and research.
 - **Front / middle / back office** — revenue roles / risk-and-control roles / operational
   support.
-- **CIO** — Chief Investment Officer; owns investment strategy. *(Ian's real role.)*
+- **CIO** — Chief Investment Officer; owns investment strategy. *(One of Ian's two hats, with CFO.)*
 - **Portfolio Manager (PM)** — runs a portfolio; makes the calls.
 - **Mandate** — the specific job a client hires you for ("manage our pension's equities").
 - **Portfolio** — a client's pool of investments.

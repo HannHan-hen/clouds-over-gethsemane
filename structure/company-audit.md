@@ -38,30 +38,50 @@ business texture correct, and a lot of what you built genuinely works:
 
 ---
 
-## 2. The one structural fix that matters most: **Ian's title**
+## 2. Ian's role: keep "CFO" — just establish he *also* runs investments
 
-**Ian is called the firm's "CFO" but does a Chief Investment Officer's job throughout.** A CFO
-runs the *firm's own* finances (budgets, payroll, the company's books). Ian instead: manages
-*client* portfolios, attends *client* portfolio reviews (Mayfield, Wetherby), personally *lands
-a marquee client* (Hartwell), leads the *investment/analytical* team, and owns *investment
-strategy*. That is the **CIO / Head of Investments / Managing Partner** seat, not the CFO seat.
+My first pass said "retitle CFO → CIO." That was too blunt. The cleaner answer (and the one the
+author's own experience supports — small firms routinely combine these seats) is: **Ian holds a
+combined role. He is the CFO *and* the head of investments (CIO).** Keep the title Jay uses;
+just make explicit that he owns the investment side too.
 
-This is the highest-leverage change in the whole audit because it's a single relabel that makes
-many scenes *click into correctness at once*:
-- A **CIO** landing the Hartwell account personally = a status event ("he hasn't done client
-  acquisition in years"). A CFO doing sales = odd.
-- A **CIO** leading analysts and owning portfolios = his actual day-to-day. A CFO doing that =
-  incoherent.
-- A **CIO's** fiduciary rigidity (legally bound to clients' best interests) even *reinforces*
-  Ian's ethical spine — it's not just temperament, it's the job.
+Why the combination *resolves* the incoherence rather than papering over it:
+- The original problem was only that **a pure CFO wouldn't manage client portfolios, land
+  Hartwell, or lead the analyst team** — yet Ian does all three. The fix isn't to deny he's CFO;
+  it's to add the hat that covers that work. **CFO + CIO** makes every scene correct at once.
+- **The two hats touch different money,** which softens the real-world objection. CFO = the
+  *firm's own* finances (T&A's books, payroll, comp, the firm's audit). CIO = the *clients'*
+  money. He isn't using one hat to grade the other's homework — risk, compliance, and external
+  auditors do that. (At big regulated firms you'd separate these for independence; at a
+  founder-led boutique, multi-hatting principals is normal, *with* compensating controls — which
+  this firm has: a chairman, a CEO, a compliance function, external audit.)
 
-**Recommended:** retitle Ian **Chief Investment Officer** (or "Head of Investments," or
-"Managing Partner / Partner & CIO"). Leo is then **CEO / Managing Partner** and the firm's
-rainmaker (client relations + business development); Turner Senior is **Founder/Chairman**.
-Jay's role description ("the CIO's assistant, client-facing") survives the change untouched.
+Why this is actively *good* for the character and the world:
+- **It explains his workaholism mechanically.** He isn't grinding two jobs — he **architected**
+  the firm's finance/accounting function so well it runs like clockwork, and now *supervises* it,
+  which frees his daily intensity for the investment side (portfolios, the team, marquee clients).
+  Flattering, and true to him: he builds systems so good they run themselves.
+- **It explains the clockwork accounting and the bonus timing.** The year-end bonuses landing
+  *precisely* at New Year — fast, exact, generous, while other firms drag payouts out for weeks —
+  is the visible fingerprint of a CFO who personally runs the money machine and orders it around.
+  Keep this as an Ian detail. (The prose already reaches for it: Book 1 ch9 has Jay marveling the
+  speed "could only be explained by Ian's standards, applied to himself before anyone else.")
+- **It explains his enormous internal influence.** A man who controls *both* the client
+  investments *and* the firm's own finances is the load-bearing column of the company — which
+  dovetails with the "outcast who is in fact hugely influential" idea behind the apartment/
+  mortgage favors (§6 and `book2-audit.md` §3.1).
 
-> If you ever *wanted* to keep "CFO," you'd have to rewrite Ian out of all client-portfolio
-> work — which guts his character. Don't. Retitle instead.
+**Recommended wording, not a retitle:** keep **CFO** as his title, and establish early (a line of
+narration or dialogue) that he also serves as **head of investments / CIO** — i.e., he runs both
+the firm's finances *and* its investment strategy, overseeing a clockwork accounting department on
+one side and the analyst team on the other. Leo is still **CEO / Managing Partner** and rainmaker;
+Turner Senior is **Founder / Chairman**. Nothing about Jay's "the CFO's assistant" framing has to
+change.
+
+> One light caveat for verisimilitude only: a finance-stickler reader knows large firms *separate*
+> these roles for independence. You neutralize that the way real boutiques do — by showing the
+> compensating controls already in your world (compliance, the year-end external audit, the
+> chairman/CEO above him). No plot change needed; just don't imply Ian is *also* his own auditor.
 
 ---
 
@@ -69,7 +89,7 @@ Jay's role description ("the CIO's assistant, client-facing") survives the chang
 
 | Person | Current label | Cleaner label | Notes |
 |---|---|---|---|
-| Ian | CFO | **CIO / Head of Investments** | owns investment strategy, marquee clients, the team |
+| Ian | CFO | **CFO *and* CIO / Head of Investments** | keep the CFO title; also owns investment strategy, marquee clients, the team (combined role, §2) |
 | Leo | owner's son, "client relations" | **CEO / Managing Partner; rainmaker** | wins clients; the social/business-dev engine |
 | Turner Senior | founder | **Founder / Chairman** | — |
 | Amy, Max | "senior analysts" | **senior investment analysts / PMs** | run portfolios; institutional memory |
@@ -96,7 +116,10 @@ quarterly + annual** bonuses aren't a real structure and are the part a finance-
 would snag on. You can keep "absurdly, dreamily generous" while making it legible:
 
 - **Keep:** a very high **base**, and the **large annual bonus in January** (the showpiece —
-  "record year → mind-blowing number"). Both are real and already well-placed.
+  "record year → mind-blowing number"). Both are real and already well-placed. And keep the
+  detail that the bonuses land *precisely* at New Year because **Ian personally orders it** — that
+  speed and exactness is his **CFO hat** at work (he runs the accounting machine), and it's a nice
+  concrete fingerprint of the combined role from §2.
 - **Relabel the "quarterly bonus":** make it a **discretionary profit-share** that pays out
   *when the funds perform* (which they "normally do"). That's real (performance pools) and
   preserves the quarterly cash hits — they just become *earned and variable*, not *guaranteed*.
@@ -230,7 +253,7 @@ for the move.
 
 | # | Item | Sev | Fix |
 |---|---|---|---|
-| 1 | Ian titled "CFO" but does a CIO's job | HIGH | Retitle **CIO / Head of Investments**; Leo = CEO/MP; Turner Sr = Chairman |
+| 1 | Ian titled "CFO" but also does a CIO's job | MED | Keep "CFO"; establish he holds a **combined CFO + CIO / head-of-investments** role; Leo = CEO/MP; Turner Sr = Chairman |
 | 2 | Cruver: convenient mega-crime + reads as justice, not vindictiveness | HIGH | Shrink the crime, enlarge+personalize Ian's response; move the campaign to Book 2 |
 | 3 | Book 1 "gap" after moving the vendetta | — | Keep harassment; Ian *fires Orrey as client* + plant a chilling seed |
 | 4 | Guaranteed monthly/quarterly bonuses unrealistic | MED | High base + big **annual** bonus (Jan) + **discretionary profit-share** for the quarterly hits |
