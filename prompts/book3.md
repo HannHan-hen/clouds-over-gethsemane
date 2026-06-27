@@ -43,5 +43,10 @@ The following morning Jay wakes mortified, remembering fragments of the night an
 
 The rough outline containing the contents of the scene you should write:
 
+Open in Ian’s penthouse before dawn. He has not slept much. He reviews the evidence he has been avoiding: Jay’s stares, blushes, happiness when they are alone, the way he leaned into touch, the things he said while drunk, the intensity of his trust. Ian can no longer dismiss it as admiration or gratitude. Jay has a crush on him.
+The discovery does not make Ian triumphant. It frightens him. Jay’s feelings seem tender, inexperienced, and bound up with safety, admiration, rescue, and belonging. Ian worries that if he acknowledges them too plainly, Jay will panic; if he distances himself, Jay will feel rejected; if he decides to slowly move closer, Jay may think he is supposed to offer more than he truly wants. Ian wants him, but that only makes the situation more dangerous. Both of them wanting each other does not make the power imbalance disappear.
+He decides his role is to stay steady: affectionate enough that Jay feels cherished, restrained enough that Jay feels safe. He will be the mentor, friend, and shelter Jay can love without consequence.
+This can end with Ian arriving at work and seeing Jay brighten the moment he enters. It confirms everything and wounds him at once.
+
 
 Please now write the scene based on the provided outline, with fully fleshed out dialogues. Write each scene in a new artifact with standard formatting.
