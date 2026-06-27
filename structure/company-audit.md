@@ -83,6 +83,36 @@ change.
 > compensating controls already in your world (compliance, the year-end external audit, the
 > chairman/CEO above him). No plot change needed; just don't imply Ian is *also* his own auditor.
 
+### Make the role explicit *through Jay* — and route the client work through Leo
+
+The cleanest way to plant all of this is to let **Jay** notice it, which doubles as characterization
+and patches the last realism gap. A CFO genuinely *doesn't* do much client-facing work — so don't
+hide that the manuscript's CFO does; **lampshade it.** Jay, who studied just enough to have an idea
+of what a CFO is, can remark (early, then again as he learns the firm) that this isn't what he
+expected the job to look like: there are *far* more client reviews, pitches, and relationship calls
+on Ian's calendar than a CFO "should" have.
+
+The in-world answer makes Ian *and* Leo sharper:
+
+- **Most of that client work is technically Leo's department.** Leo is the rainmaker / managing
+  partner — winning and tending clients is *his* remit. But **Leo outsources huge swaths of it to
+  Ian and trusts him implicitly.** So Ian is constantly **picking up Leo's slack**, which is why a
+  "CFO" is buried in client-facing duties.
+- **Leo does the part he's best at — the schmoozing — and offloads the rest.** Leo lives in the
+  social, glad-handing, dinners-and-golf layer of client relations; that's his genuine talent.
+  Everything underneath it (the actual reviews, the numbers, the follow-through Ian considers the
+  *real* work) flows to Ian.
+- **Ian can schmooze — and has, successfully — he just doesn't like it.** Important for not making
+  him a one-note introvert: establish that he's perfectly capable in a room and has carried client
+  charm offensives himself in the past. He simply **prefers the spreadsheet work and is exceptional
+  at it**, so the division of labor suits both men — Leo gets the rooms he loves, Ian gets the
+  models he loves, and the clients get covered.
+
+This three-beat read (Jay's surprise → "it's really Leo's job" → "Ian does it better and Leo lets
+him") is the most efficient way to make the combined role land *on the page* rather than just in
+your notes, and it turns a realism wrinkle (CFO with too much client work) into a piece of the Ian
+& Leo friendship.
+
 ---
 
 ## 3. Org chart, lightly corrected (for your own reference)
@@ -90,7 +120,7 @@ change.
 | Person | Current label | Cleaner label | Notes |
 |---|---|---|---|
 | Ian | CFO | **CFO *and* CIO / Head of Investments** | keep the CFO title; also owns investment strategy, marquee clients, the team (combined role, §2) |
-| Leo | owner's son, "client relations" | **CEO / Managing Partner; rainmaker** | wins clients; the social/business-dev engine |
+| Leo | owner's son, "client relations" | **CEO / Managing Partner; rainmaker** | wins clients; the social/business-dev engine — but **delegates the execution of client work to Ian** (does the schmoozing, offloads the rest) |
 | Turner Senior | founder | **Founder / Chairman** | — |
 | Amy, Max | "senior analysts" | **senior investment analysts / PMs** | run portfolios; institutional memory |
 | Luc | "junior associate" | **investment analyst** | research support |
