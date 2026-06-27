@@ -48,7 +48,7 @@
 
 ### Leo Turner
 **Age:** Mid-30s
-**Position:** CEO of Turner & Associates, son of company founder
+**Position:** Partner & Head of Client Relations / Business Development at Turner & Associates; son of the company founder and heir apparent. Not the CEO — he holds a deliberately loose remit (his father owns the company, so Leo "has a position but not traditional responsibilities"); his real contribution is winning and charming clients (the rainmaker), while the operational substance runs through Ian.
 **Background:** Old money, grew up with Ian as best friend
 
 **Personality:** Charming, confident, easy-going with more flair than typical corporate executives. Perceptive about people's feelings, particularly Ian's. Intervenes in Ian's life with good-natured manipulation. Saved Ian's career after the Sam Connelly scandal by hiring him despite his father's objections.
