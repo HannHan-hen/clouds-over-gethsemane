@@ -24,14 +24,14 @@ Severity: **[HIGH]** reader will snag / breaks canon · **[MED]** fix on the rev
 1. **[HIGH] The half-sibling tangle is now resolvable — and it mostly points at
    `characters.md`, not the prose.** Book 2 settles what Book 1 left ambiguous. See
    §4 (Cross-book) — this **revises** Book 1 audit finding #1.
-2. **[MED] Jay's mother is called two different surnames in one chapter** ("Mrs. Hall"
-   vs "Mrs. Carter," ch40).
-3. **[MED] A stray, unintroduced interviewer name — "Sandra" — appears in ch33.**
-4. **[MED] The apartment/mortgage engineering is the book's biggest plausibility stretch**
-   in its *financial specifics* (a 2%/30-yr mortgage, a half-price flat). The craft notes
-   intend the *control* as a fault; the **mechanics** are what strain belief.
-5. **[MED] The Gal false-accusation arc is the weakest event chain** (already craft-flagged)
+2. **[MED] A stray, unintroduced interviewer name — "Sandra" — appears in ch33.**
+3. **[INTENTIONAL] The apartment/mortgage favors are deliberate worldbuilding** (Ian's
+   hidden influence vs. his outcast self-image). Directionally plausible; only the
+   *magnitude* is idealized. Reframed below — not a flaw.
+4. **[MED] The Gal false-accusation arc is the weakest event chain** (already craft-flagged)
    — and it leaves a thread Book 3 must honor.
+5. **[NOT AN ERROR] The mother's two surnames ("Mrs. Hall" / "Mrs. Carter") are
+   intentional** Leo characterization. Kept here only so a future copy-edit doesn't "fix" it.
 
 ---
 
@@ -47,15 +47,21 @@ protective). New hires land cleanly against `characters.md` (Ray the brilliant m
 Liv the suspiciously-charming senior, Rin the sweet clinger, Gal the dark-mirror antagonist).
 The problems are **factual/continuity**, not characterization.
 
-### 2.1 Jay's mother — surname collision **[MED]**
+### 2.1 Jay's mother — the two surnames are intentional (NOT an error) ✓
 
-In **ch40 S2**, Leo greets her as **"Mrs. Hall"** ("You must be Mrs. Hall. I'm Leo
-Turner."). One scene later, **ch40 S3**, Ian greets her as **"Mrs. Carter"** ("Mrs.
-Carter. It's a pleasure to meet you properly."). `characters.md` is clear: she is **Ira
-Carter (née Hall)** — Hall is her maiden name and *Jay's* surname; she took *Carter* on
-marrying Ted. So **Leo's "Mrs. Hall" is the error** (Ian's "Mrs. Carter" is correct). Fix
-Leo's line. (Minor knock-on: this is the only place the mother is addressed by surname in
-the book, so it's the one spot a reader could be confused about who "Carter" even is.)
+In **ch40 S2**, Leo greets her as **"Mrs. Hall"**; one scene later, **ch40 S3**, Ian greets
+her as **"Mrs. Carter."** She is **Ira Carter (née Hall)** — Hall is her maiden name and
+*Jay's* surname; Carter is her married name. **This is deliberate characterization, per the
+author:** Leo, nonchalant and not always truthful, can't be bothered to learn her married
+name and just calls her by Jay's; Ian, precise and respectful, knows and uses the correct
+one. The contrast does real work in two words and should be **kept**.
+
+The only thing worth a beat: nothing in Leo's line *signals* the intent, so a copy-editor or
+inattentive reader may briefly read it as a slip and "correct" it. The Ian-uses-it-right beat
+one scene later is the safeguard; if you ever want it airtight, a feather-light tell (Jay
+inwardly noting Leo never bothered with "Carter," or Leo waving off the correction) would
+remove all doubt without spelling it out. Flagged only so it isn't mistaken for the bug it
+resembles.
 
 ### 2.2 "Sandra" — a panelist who doesn't exist **[MED]**
 
@@ -111,24 +117,41 @@ Ian's covert arranging and his vindictive streak as *faults to establish honestl
 near-misses to excuse. So several items below are "intended fault, with a plausibility wobble
 in the **specifics**" rather than "this is wrong."
 
-### 3.1 The apartment / mortgage / bank engineering **[MED — biggest stretch]**
+### 3.1 The apartment / mortgage / bank engineering — intentional worldbuilding ✓ (one lever to make it airtight)
 
-Ian secretly **bribes the agent** to settle Jay 12 minutes from his door (ch29), then
-arranges a flat at **roughly half market price** (ch29), a mortgage at **2% over 30 years,
-no early-repayment penalty** at a bank that gives it because **"Mr. Hagen vouched for you
-personally"** (ch30/ch35), plus a **comped parking spot and storage unit** slipped into the
-contract (ch35). Craft notes correctly call the *control* a fault and defer the *reckoning*
-to Book 3/4 — that's a design choice, not a bug.
+Ian secretly **nudges the agent** to settle Jay 12 minutes from his door (ch29), then a flat
+at **roughly half market price** (ch29), a mortgage at **2% over 30 years, no early-repayment
+penalty** because **"Mr. Hagen vouched for you personally"** (ch30/ch35), plus a **comped
+parking spot and storage unit** slipped into the contract (ch35).
 
-The **plausibility** wobble is in the financial mechanics, not the ethics: a 2%/30-yr
-no-penalty mortgage (presumably well under market) granted on a personal vouch, plus a flat
-at half price, reads less like "good connections" and more like **Ian quietly subsidizing
-Jay** — which is a different, larger thing than the text admits, and which a financially
-careful character like Jay would be expected to price out and balk at harder than he does
-("suspiciously cheap," then he signs). Recommend either dialing the terms toward *plausibly*
-favorable (a market-beating-but-real rate; a genuine motivated-seller discount) **or** letting
-Jay explicitly clock that the numbers don't add up to anything but a subsidy — which would
-also *strengthen* the fault the craft notes want on the page.
+**Per the author, this is the point, not an accident:** it shows that Ian — who casts himself
+as a high-society outcast — in fact holds enormous quiet influence. A bank offers
+disadvantageous-to-them terms to get into his good graces; an agent prices to a loss for the
+same reason. That's a deliberate dramatization of the gap between Ian's self-image and his
+real standing, and it dovetails with the craft-notes' "control as a fault." **Keep it.**
+
+On the real-world question behind it — *do institutions and elites actually do this?* The
+**direction is realistic**; only the **magnitude** is idealized:
+- **Relationship/preferential pricing is standard.** Private banking routinely gives
+  influential clients better-than-rack rates, fee waivers, and approvals an ordinary customer
+  wouldn't get, to capture the *whole relationship* (deposits, the client's firm's business,
+  referrals). A mortgage as a deliberate loss-leader to win that is real.
+- **The most plausible engine is Ian's CFO clout, not the family name.** He's disowned, so
+  residual *family* influence is the shakier lever; but a CFO of a prestigious firm personally
+  steers which banks and advisors get real business. Courting him is courting a pipeline.
+- **"Selling at a loss to curry favor"** is the greyer part — in reality it's usually
+  *prioritization* (off-market first-dibs, a unit "priced to move," waived fees, a vouch that
+  makes approval happen) rather than a literal 50% discount. Reciprocal favors among the
+  wealthy are very real; a clean half-price sale is the fictional dial-up.
+
+So: **the world is plausible; the numbers are turned past real levels, which suits a slightly
+idealized setting.** If you ever want it bulletproof *without losing the "Ian is secretly
+powerful" beat*, the single best lever is to let **Jay — a finance person — half-clock that
+the terms only make sense as someone wanting Ian's goodwill.** That converts "suspiciously
+cheap → signs anyway" into "I'm being subsidized by Ian's influence," which (a) removes the
+plot-convenience read, (b) serves the outcast-but-influential theme directly, and (c)
+*strengthens* the control-fault the craft notes want established. The reckoning itself still
+belongs to Book 3/4, as planned.
 
 ### 3.2 The Gal false-accusation arc **[MED — weakest event chain]**
 
@@ -258,9 +281,9 @@ the outlier** to widen.
 |---|---|---|---|---|
 | 1 | Siblings: `characters.md` mislabels Tim "youngest"; manuscript = Tim oldest, Ari youngest | HIGH | B1 ch7/8 + B2 ch25/34/36 vs `characters.md` | Fix `characters.md` to "Tim = oldest"; amends Book 1 audit #1 |
 | 2 | Tim's age can't reach "turns 18 in autumn 2018" if 17 in Dec 2016 | HIGH | B1 ch8 vs B2 ch36 | Lower B1 ch8 "seventeen" → ~"fifteen"; build sibling bible |
-| 3 | Mother: "Mrs. Hall" (Leo) vs "Mrs. Carter" (Ian) same chapter | MED | ch40 S2 vs S3 | She's Carter; fix Leo's line |
+| 3 | Mother: "Mrs. Hall" (Leo) vs "Mrs. Carter" (Ian) — **intentional** Leo characterization | KEEP | ch40 S2 vs S3 | Keep; optional feather-light tell so it doesn't read as a typo |
 | 4 | Stray interviewer "Sandra" | MED | ch33 S2 | Reassign to Liu (or a named panelist) |
-| 5 | Apartment/mortgage mechanics implausibly generous (2%/30yr, half-price) | MED | ch29–30, ch35 | Dial terms to *plausibly* favorable, or let Jay clock the subsidy |
+| 5 | Apartment/mortgage favors — **intentional** (Ian's hidden influence) | KEEP | ch29–30, ch35 | Keep; optional: let Jay half-clock the subsidy to kill the convenience read |
 | 6 | Gal false-accusation: frictionless resolution + dropped thread | MED | ch40 | Honor aftershocks in Book 3 (craft notes concur) |
 | 7 | Comp escalation undercuts Jay's money-anxiety & Book 1 "assistant pay" | MED | ch30, ch33, ch34 | Decide how poor Jay is allowed to still feel |
 | 8 | Floor 34th (B2) confirms B1's 32nd as the typo | LOW | ch26, ch40 | Make 34th canonical; fix B1 ch1/ch3 |
