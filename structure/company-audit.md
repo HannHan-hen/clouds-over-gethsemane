@@ -212,49 +212,83 @@ quietly fixes the "100 staff for 20 clients" optics and the firm's economics (se
 
 ---
 
-## 4. Compensation: keep the generosity, fix the *form*
+## 4. Compensation: the opaque structure is *intentional* — keep it, just name it well
 
-Real finance pay = **high base salary + one big *discretionary annual* bonus** (paid Jan/Feb),
-plus sometimes a **profit-share** in good years. The manuscript's **guaranteed monthly +
-quarterly + annual** bonuses aren't a real structure and are the part a finance-literate reader
-would snag on. You can keep "absurdly, dreamily generous" while making it legible:
+**Revised after author input — this is a deliberate device, not a flaw.** The weird, opaque,
+surprising pay structure exists **on purpose**, to drive Jay's psychological arc with money — and
+that arc is the (semi-autobiographical) emotional point, not an attempt to model real comp. So the
+recommendation flips: **keep the opacity and the surprise.** Below is why it works and the *one*
+low-cost lever to keep a finance-literate reader from misreading it as an author error.
 
-- **Keep:** a very high **base**, and the **large annual bonus in January** (the showpiece —
-  "record year → mind-blowing number"). Both are real and already well-placed. And keep the
-  detail that the bonuses land *precisely* at New Year because **Ian personally orders it** — that
-  speed and exactness is his **CFO hat** at work (he runs the accounting machine), and it's a nice
-  concrete fingerprint of the combined role from §2.
-- **Relabel the "quarterly bonus":** make it a **discretionary profit-share** that pays out
-  *when the funds perform* (which they "normally do"). That's real (performance pools) and
-  preserves the quarterly cash hits — they just become *earned and variable*, not *guaranteed*.
-- **Drop or absorb the "monthly bonus":** simplest is to fold it into a high base (the easiest
-  read: T&A just *pays a lot*). If you love the monthly cadence, frame it as a **13th/14th-month
-  custom** or a monthly profit allocation — but guaranteed monthly bonuses read as invented.
-- **Net effect on Jay's arc:** none of his money beats need to change — first-month shock,
-  $80k year-end, the raise — they just get a coherent label. (One thing to *watch*, flagged in
-  `book2-audit.md`: by Book 2 Jay out-earns Book 1's "analyst work for assistant pay" framing.
-  Decide how poor he's allowed to still *feel*.)
+**What the structure is doing (and why it's good):**
+- Jay starts **financially anxious but not destitute** — a rented studio, a normal life, no cushion,
+  no room to splurge. His move to T&A already **nearly doubles** his pay (a big jump on its own).
+- Then the **first paycheck is bigger than even that promised** — and his relationship with money is
+  *obliterated*. By the second half of Book 1 he genuinely **can't tell what's reasonable anymore**.
+  The opacity is the engine of that disorientation; a *legible* structure would defuse it.
+- Crucially, **the narrative already flags it as unusual** and gives Jay a **~three-month bewilderment**
+  before he accepts it. That's the move that makes it land as *Jay's POV / the firm's eccentricity*
+  rather than authorial ignorance. Keep that framing front and center.
+
+**The only real risk, and the cheap fix:** the single thing a finance reader snags on isn't
+*opacity* or *generosity* — both are true to life (real bonuses are discretionary, surprising, and
+genuinely bewildering to newcomers). It's specifically the word **"bonus" attached to a *guaranteed*
+monthly/quarterly cadence**, which implies a defined entitlement and reads as invented. You said
+you're open to renaming — so rename, and you get to *keep every beat*:
+- Swap "guaranteed monthly/quarterly **bonus**" for **discretionary** language — *profit-share*,
+  *distributions*, *allocations*, a *13th/14th-month custom* (this last fits the unnamed-country
+  setting nicely). "Discretionary" is the magic word: it makes the odd cadence, the surprise, and
+  the opacity all **legible as deliberate firm eccentricity** instead of an author mistake.
+- You don't even have to make it transparent in-world. A deliberately **opaque** scheme that even
+  staff can't fully parse is *more* bewildering for Jay — so the relabel actually **serves the
+  theme** rather than taming it. Lean in: the firm pays a high base plus a stream of discretionary
+  extras whose logic is never fully explained, which is exactly why Jay can't calibrate.
+- **Keep** the New-Year timing fingerprint (Ian personally orders the year-end payout to land
+  *precisely* at New Year — his CFO hat, §2).
+
+**Net:** nothing about Jay's money beats changes — the first-month shock, the year-end windfall, the
+raise, the three-month bewilderment, the obliterated money-sense all stay. The opacity stays. Only
+the *word* changes, from "guaranteed bonus" to "discretionary distribution," which converts "looks
+like the author doesn't know finance" into "this firm's comp is deliberately lavish and opaque, and
+Jay is reeling." (One unrelated thing to still *watch*, from `book2-audit.md`: by Book 2 Jay
+out-earns the Book 1 "analyst work for assistant pay" framing — decide how poor he's allowed to keep
+*feeling*. That's a character question, not a structure one.)
 
 ---
 
-## 5. Crunch intensity: a conscious dial
+## 5. Crunch intensity: *intentional and bounded* — not a recurring norm
 
-"Living in the office in sleeping bags for a week" is **deal-team / audit-busy-season**
-brutality — heavier than a well-systematized asset-management boutique's quarterly reporting
-usually is. You templated it on a "low-brow institution," so it's a deliberate import. Two
-legitimate choices:
+**Revised after author input — this is a one-off disaster, by design, and well-motivated.** The
+"living in the office in sleeping bags" brutality is **not meant to be the firm's normal seasonal
+rhythm.** It's a specific bad stretch with a clear, *character-driven* cause: **Ian expanded the
+client list without expanding headcount.** He knew it was unwise; he did it anyway because he
+**needed a distraction and dislikes hiring**. It blew up for several cycles and was then
+**remedied** (the Ray/Liv hires). That's a genuinely strong arc — keep it exactly as conceived.
 
-- **(a) Keep it** as *this firm's* particular brutal seasonal culture — fine, especially since
-  the later hiring of Ray/Liv visibly *tames* it (a real, satisfying payoff).
-- **(b) Dial it** from "living in the office" to "punishing 12–14h weeks." Slightly more
-  realistic, and it makes the mitigation land even harder (going from "long weeks" to "humane
-  weeks" is a cleaner before/after than "sleeping bags" to "normal").
+Why this is better than my original "dial it down" note:
+- **The cause makes it earn its intensity.** Because the overload is *Ian's deliberate-but-unwise
+  choice* (not just "finance is hard"), the brutality reads as a consequence with an author behind
+  it, and his **aversion to hiring** + **need for distraction** is real characterization (it rhymes
+  with his avoidance elsewhere). The disaster is *his fault*, which is in-theme for the "faults"
+  register.
+- **It's bounded and self-correcting.** A temporary, acknowledged-as-a-mistake overload that gets
+  *fixed* is completely plausible — far more so than "this is just how the firm always runs."
+  Real boutiques absolutely have a brutal stretch when growth outruns headcount; the realism issue
+  only arises if it's framed as *permanent*. It isn't. So there's nothing to soften.
 
-Either works. Just pick on purpose. And consider the free realism upgrade in `finance-primer.md`
-§4: let the quarterly crunch be *both* client reporting **and** earnings-season research — it
-makes the four-times-a-year grind feel earned rather than arbitrary. "Strategy season" is best
-grounded as the **annual strategic asset-allocation / outlook review** (a real ritual), so it
-reads as a firm tradition rather than an industry-wide season that doesn't exist.
+**The one enhancement worth adding (you suggested it):** make the cost *visible* with **team
+grumbling** during the worst cycles — but anchored by **high loyalty**. The team endures it because
+(a) the culture is genuinely good and (b) the comp is absurdly generous, so they'll bear an awful
+stretch for a while *and* it's clear they wouldn't bear it forever. That grumbling-under-loyalty
+texture does three things at once: it signals "this is abnormal" (pre-empting the realism snag),
+it raises the stakes (Ian is spending real goodwill), and it makes the **mitigation land harder** —
+when he finally hires, the relief is earned and the loyalty is vindicated.
+
+> Free texture upgrade (orthogonal, from `finance-primer.md` §4): when the crunch *does* hit, you
+> can let it be *both* client reporting **and** earnings-season research at once, and ground
+> "strategy season" as the firm's **annual strategic asset-allocation / outlook review** (a real
+> ritual). That just makes the *normal* baseline rhythm feel authentic — which in turn makes the
+> abnormal Ian-induced overload stand out as the deviation it's meant to be.
 
 ---
 
@@ -361,8 +395,8 @@ for the move.
 | 1b | `characters.md` calls Leo **"CEO"** — the prose never does (he's the loose-remit owner's son) | MED | Correct to **Partner & Head of Client Relations / BizDev; heir apparent — not CEO**. Turner Senior = Founder/Chairman & active top authority; Ian = the operator (§3) |
 | 2 | Cruver: convenient mega-crime + reads as justice, not vindictiveness | HIGH | Shrink the crime, enlarge+personalize Ian's response; move the campaign to Book 2 |
 | 3 | Book 1 "gap" after moving the vendetta | — | Keep harassment; Ian *fires Orrey as client* + plant a chilling seed |
-| 4 | Guaranteed monthly/quarterly bonuses unrealistic | MED | High base + big **annual** bonus (Jan) + **discretionary profit-share** for the quarterly hits |
-| 5 | Crunch = "sleeping bags for a week" (deal-team brutality) | MED | Keep as firm culture, *or* dial to punishing 12–14h weeks; let Ray/Liv visibly tame it |
+| 4 | Opaque "guaranteed" monthly/quarterly bonuses | LOW (intentional) | **Keep the opacity/surprise — it's a deliberate device for Jay's money arc.** Only rename "guaranteed bonus" → **discretionary** profit-share/distribution/13th-month so it reads as firm eccentricity, not author error |
+| 5 | Crunch = "sleeping bags for a week" | LOW (intentional) | **Keep — it's a bounded one-off:** Ian over-expands clients without hiring (needs distraction, hates hiring), it blows up, then he remedies it. Add **team grumbling held by loyalty + comp** to mark it abnormal |
 | 6 | "Strategy season" presented as a universal season | LOW | Ground it as the firm's **annual strategic asset-allocation/outlook review** |
 | 7 | 100 staff vs ~20 clients optics | LOW | One line: the <20 are the *crown-jewel tier*; smaller teams handle the tail |
 | 8 | Quarterly crunch feels arbitrary | LOW (free upgrade) | Let it be client reporting **+ earnings-season research** at once |

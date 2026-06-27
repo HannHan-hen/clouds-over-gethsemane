@@ -229,3 +229,7 @@ and has been its single largest cause; that Jay's forgiveness is not health but 
 performing itself. The ch49 decision — "faultless," made for Jay without Jay — is the purest
 instance of the very pattern that reckoning indicts. Lay it cleanly now so Book 4 can collect
 it. (Full treatment in `guidelines/book4-craft-notes.md` once drafted.)
+
+Also seeded for Book 4: **Jay's journaling habit** — Book 4 has a planned journal scene (`book4-
+craft-notes.md`), which needs the habit planted lightly across Books 1–3 (~3 touches) during the
+editing pass. Tracked in `structure/planting-queue.md`.
