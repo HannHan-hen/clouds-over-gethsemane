@@ -113,6 +113,15 @@ him") is the most efficient way to make the combined role land *on the page* rat
 your notes, and it turns a realism wrinkle (CFO with too much client work) into a piece of the Ian
 & Leo friendship.
 
+> **You already planted the anchor.** B1 ch06 has Leo tell Jay: *"The CFO's assistant is a
+> client-facing position. You'll accompany Ian to meetings and represent the company."* In a vacuum
+> that's wrong — a back-office CFO's assistant isn't client-facing — but under the combined role it's
+> **correct and supportive**: Ian *is* unusually client-facing, so his assistant is too. Keep the
+> line. (Two grace notes the prose already supplies: it's partly Leo *spinning* a looks-based hire,
+> in character for him; and ch06 later admits Jay's real early client contact was minor — "answering
+> phones… escorting them to conference rooms" — so the slight overstatement is acknowledged, and the
+> claim only fully comes true once Jay starts accompanying Ian, e.g. Garnet Ridge in B2 ch24.)
+
 ---
 
 ## 3. Leo and Turner Senior — pinning down who actually runs the firm
