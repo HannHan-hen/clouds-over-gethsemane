@@ -1,0 +1,141 @@
+# Chapter 49, Scene 1
+
+## Scene 1: The Correct Course
+
+Before dawn, the city had no color.
+
+Ian stood at the glass wall of his office with the lights off behind him and a coffee going cold on the desk. Forty floors below, the avenues lay under a thin glaze of rain, black lanes and dull silver pavements, the first buses moving through them like reluctant machinery. The Christmas stars on the lampposts had not yet been switched on. In the dark they looked like wire frames left behind by a more optimistic civilization.
+
+He had slept three hours. Possibly less. At a quarter past four he had stopped pretending the bed would serve any purpose and come in.
+
+Work had been available. Work was always available. There was the auditor follow-up, the last of the Velder notes, the December personnel schedule, two acquisition models requiring judgment before nine. Ian had opened all of them, arranged them by urgency, and done none of them well.
+
+Instead he had sat in the dark and reviewed evidence.
+
+It was an ugly word for it. Evidence belonged to fraud, litigation, regulatory review. Evidence was what one assembled when the shape of a thing had to be made undeniable in front of people determined not to see it. He had no tribunal here. No opponent. No one to persuade but himself, and he had proved for years that he was a difficult audience.
+
+Still: evidence.
+
+Jay looking at him across the island breakfast table as if the morning had been invented for the two of them alone. Jay on the deck of that ridiculous cruise ship, leaning into Ian's shoulder when the wind rose, not for balance after the first moment but because he had wanted to remain there. Jay's hand in his, accepted day after day with a trust so immediate it had been almost painful. Jay in the hot springs suite, drunk and miserable and honest, asking to be held for the rest of his life. Jay at the restaurant last Friday, saying too much and stopping just before the truth escaped. Jay at five thirty with his eyes on Ian's door, waiting for dinner like a man waiting for permission to breathe.
+
+The blushes were worse. The blushes had been the part Ian had refused most aggressively to understand.
+
+A blush at his hand on Jay's back in the gym. Another when he touched Jay's wrist. A long, helpless silence in the sauna, eyes sliding away and returning despite Jay's obvious effort to behave like a rational adult in a room built specifically to defeat rational adults. The invented cold the next day, so transparent that only Ian's own cowardice had made it convincing. Jay unable to look at him properly at his desk. Jay turning red at the sight of a hand on a document.
+
+Heat and proximity, Ian had told himself.
+
+Gratitude.
+
+Hero worship.
+
+The aftershock of a holiday that had blurred ordinary categories.
+
+He had built explanations the way a failing company built special-purpose vehicles: one thin structure after another to keep the liability off the balance sheet. It had been almost impressive, as exercises in self-deception went. He could have taught a seminar.
+
+The truth sat there now, plain and without drama.
+
+Jay had a crush on him.
+
+The word was small enough to be almost insulting. It belonged to teenagers and summer interns, to people who wrote names in notebook margins and stared too long across cafeterias. It did not fit a thirty-one-year-old man with a mortgage, a terrifying work ethic, and the capacity to reorganize an executive life before breakfast.
+
+And yet the smallness of the word was exactly what frightened Ian.
+
+Not love, then. Not yet. Not in the way Ian used the word after two years of ruinous accumulation, after every ordinary hour had become charged with the fact of Jay's existence. Jay's feeling was brighter than that, younger. Tender in the places where it had no armor. It had grown in a greenhouse of safety, admiration, rescue, belonging. It was tangled through with Ian's protection, Ian's money, Ian's authority, Ian's rooms and cars and keys and impossible habit of solving things before Jay had learned to ask.
+
+That did not make it false.
+
+It made it dangerous.
+
+Ian turned from the window at last. The office was still dark enough that his reflection followed him across the glass: the suit put on too early, the loosened tie he had not bothered to knot properly, the face of a man who had spent the night cross-examining his own happiness.
+
+He sat at his desk and pulled the auditor file closer. The first page contained nothing accusatory. A formatting question. A discrepancy in date logging. Harmless, dull, merciful. He read the same paragraph twice and understood none of it.
+
+If he acknowledged Jay's feelings too plainly, Jay would panic.
+
+Ian could see it with horrible clarity. Jay's face going white. The apology forming before there was anything to apologize for. The old shame rising at once: I made things difficult, I misunderstood, I was inappropriate, I should go. He would make himself small in order to survive the embarrassment. He might even offer to transfer, not because he wanted distance but because his sense of fault would demand punishment.
+
+No.
+
+If Ian pulled away, the damage would be quieter and possibly worse. Jay would not confront him. He would not ask what had changed. He would simply notice every omission: the cancelled dinner, the reclaimed Tuesday, the office door closed a little more often. He would interpret restraint as rejection and rejection as proof that the warmth had been temporary after all. He would smile politely, work flawlessly, and begin disappearing by degrees.
+
+No.
+
+If Ian moved closer—
+
+Ian stopped there and let himself be honest, since dawn had already stripped him of most of his defenses.
+
+He wanted to move closer.
+
+He wanted Jay in ways that no longer had the courtesy to remain abstract. He wanted the first astonished second of a kiss and the moment after, when Jay realized he was allowed to want back. He wanted to put a hand at Jay's waist without pretending it corrected posture or steadied him on wet stone. He wanted the sound Jay might make if all that bright, guilty longing were met instead of managed.
+
+The desire itself was not the danger. Desire could be disciplined. He had been disciplining it for two years with mixed results and no fatalities.
+
+The danger was what Jay might believe he owed.
+
+That was the part Ian could not excuse. Jay had never been mercenary, never calculating, never anything but absurdly sincere, but sincerity did not dissolve a power imbalance. It made the imbalance easier to miss. Jay's entire professional life ran through Ian's judgment. His salary, his title, the apartment he could afford because Ian had promoted him and raised him, the sense of safety he had rebuilt after Cruver and Gal and every smaller humiliation before them. Ian had given him shelter. If Ian reached for more from inside that shelter, what would Jay think refusal cost?
+
+And perhaps the ugliest truth was that Jay might not think of refusal at all.
+
+He might give because giving would feel like gratitude. Because pleasing Ian was already braided through his competence, his pride, his happiness. Because he trusted Ian to know what was best. Because Ian had spent two years becoming the person Jay could follow without fear, and that made any misuse of that trust unforgivable even if Jay never named it misuse.
+
+Ian put both hands flat on the desk.
+
+There was an answer. He hated that there was an answer. He had spent the night trying to find a better one, something clever and surgical, some path that preserved every brightness without risking harm. But the correct course had the graceless simplicity of most correct courses.
+
+He would stay steady.
+
+Not cold. Coldness would punish Jay for feeling something he had not chosen. Not indulgent. Indulgence would ask more of the feeling until it outgrew Jay's ability to stand upright under it. Steady.
+
+Affectionate enough that Jay never mistook restraint for rejection.
+
+Restrained enough that Jay never mistook affection for demand.
+
+He would keep the dinners, the Tuesdays, the small rescues from November. He would let Jay be happy in his presence and not frighten him by naming the happiness too soon. He would answer trust with trustworthiness. He would be mentor, friend, shelter. A man Jay could love without consequence, if that was what this fragile season required.
+
+It was not noble. Ian did not trust noble motives in himself. It was simply the least harmful arrangement available.
+
+The city began to gray rather than blacken. Buildings emerged in layers, concrete and glass and wet stone. Somewhere beyond the river, a strip of dirty pearl opened under the cloud line.
+
+Ian knotted his tie properly, drank the cold coffee because waste was irritating, and began the workday.
+
+By eight twenty, the office had warmed into its ordinary noise. Printers, keyboards, Amy's low voice from the conference room, Max complaining about a pen that had betrayed him. Ian crossed the outer floor with the Velder file under one arm and the morning organized at last into something he could survive.
+
+Jay was at his desk.
+
+He looked up the moment Ian entered.
+
+There it was. Immediate as light. His whole face changed before he had time to govern it: the tiredness lifting, the mouth softening into a smile, the eyes bright with such unguarded pleasure that Ian felt the confirmation like a hand closing around his ribs.
+
+"Good morning," Jay said.
+
+"Good morning," Ian answered.
+
+Nothing more. Nothing dangerous. A greeting in an office before a day full of meetings.
+
+Jay's smile remained for one second longer than professionalism required, radiant and helpless and entirely unaware of what it had done.
+
+Outside the windows, late November had lost its worst weight. The rain had stopped in the night, and the low clouds were breaking into a pale, colorless morning. It was not sun. Not yet. But the city no longer looked like something abandoned.
+
+Jay bent over the calendar, already talking about the auditor call and the moved lunch and the analyst meeting at four. His voice had warmth in it again. The gloom that had followed them back from the island seemed, finally, to have loosened its hold.
+
+Ian stood beside the desk and listened, file in hand, and wanted every impossible thing at once.
+
+This was what he had wanted: Jay safe, Jay happy, Jay brightening because Ian had entered the room.
+
+This was what he could not have.
+
+"Move Velder to eleven thirty," Ian said when Jay finished. His voice was perfectly even. "And leave yourself thirty minutes before the analyst meeting. You skipped lunch yesterday."
+
+Jay looked up again, caught between embarrassment and pleasure. "I didn't skip it. I postponed it until it became dinner."
+
+"That is skipping with paperwork. Thirty minutes."
+
+"Yes, sir."
+
+The old answer, half obedience and half fondness. The smile tucked into the corner of it like contraband.
+
+Ian inclined his head and went into his office before his face could betray him.
+
+Behind the closed door, he stood very still for a moment.
+
+Then he set the file on his desk, switched on the lamp, and became exactly what Jay needed him to be.
