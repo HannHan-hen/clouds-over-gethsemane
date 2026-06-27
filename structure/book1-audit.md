@@ -3,6 +3,15 @@
 A full read-through interrogation of all 20 chapters, checked against
 `characters.md` and `guidelines/book1-craft-notes.md`.
 
+> **⚠ Amended after the Book 2 read (see `book2-audit.md` §4.1).** Finding 2.1 / table
+> row 1 below originally treated Tim's birth order as a *manuscript* self-contradiction.
+> Book 2's data shows the prose is actually **consistent** — Tim is the **oldest**
+> half-sibling, Ari the **youngest** — and the B1 ch19 phrase "the younger brother" means
+> *younger than Jay*, not "youngest sibling" (a misread). The real errors are narrower:
+> **`characters.md` mislabels Tim as "youngest"**, and **Tim's age** (17 in ch08, Dec 2016)
+> is too high to "turn 18 in autumn 2018" as Book 2/Book 3 require. Read 2.1 with that
+> correction; the corrected, consolidated version lives in `book2-audit.md` §4.1.
+
 **Scope / what's excluded.** Per instruction, the **timeline date discrepancies**
 already logged in `timeline/book1-timeline.md` ("drift & flags") are *not*
 relitigated here — gala date, Christmas-party date, July-14-weekday, Ema's

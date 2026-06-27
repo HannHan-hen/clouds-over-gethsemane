@@ -18,4 +18,5 @@ those, see `guidelines/reports/` and `timeline/`.
 
 | File | What it is |
 |---|---|
-| `book1-audit.md` | Full interrogation of Book 1: character fidelity, event plausibility, and a ranked list of the weakest/most inconsistent things. |
+| `book1-audit.md` | Full interrogation of Book 1: character fidelity, event plausibility, and a ranked list of the weakest/most inconsistent things. (Sibling finding amended after the Book 2 read — see its header note.) |
+| `book2-audit.md` | Same treatment for Book 2, plus a **cross-book reconciliation** section (siblings, office floor, employment history) that resolves what Book 1 left ambiguous. |
