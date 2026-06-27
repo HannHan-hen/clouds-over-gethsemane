@@ -147,6 +147,86 @@ cleanly in Book 3 so Book 4 can collect it here.
 
 ---
 
+## The journal scene (a quiet companion to the reckoning)
+
+*A slice-of-life set piece, not a plot device — and a rare, sustained window into Ian's interior,
+which the series otherwise rations.* This is a fully-imagined beat; what follows is the author's
+plan, recorded in their terms.
+
+**The beat.** By Book 4 they stay over constantly, so Ian inevitably *sees* Jay write one evening.
+Jay is sneaky about it; Ian reassures him he won't pry — he knows he has a boundary-crossing streak
+and means to mind it where it matters. Jay is relieved, embarrassed — then thinks it through and
+*gives Ian the journal to read.* The gift is self-effacing: Jay believes Ian has the wrong idea of
+him, "sees charm where only cringe lives," and reasons that since they're sort-of together, Ian
+might as well learn the truth now. Jay hands it over and goes to sleep. Ian reads all night —
+sleepless, through to the **third volume** by the time Jay wakes at six — and ends up both charmed
+and gutted.
+
+**Why it isn't the cliché (the load-bearing craft point): it confirms, it doesn't reveal.** Ian is
+a superb people-reader; he is *not* constructing a person in his head. The journal tells him almost
+nothing new — it *confirms* what he already knew: Jay is genuine, a bit lost, pragmatic. That's the
+whole reason it works as character rather than plot. The standard diary scene runs on discovery; this
+one deliberately refuses discovery, which is what makes it a meditation instead of a twist. (Guard
+the corollary: because there's no new information, the scene must justify itself through *Ian's
+interior movement* — see the levers below — or it reads as a lovely wallow.)
+
+**What he finds, and why each part lands:**
+- **Admiring entries** — reassuring to a man this insecure; some are **erotic**, which quietly
+  settles his slowburn-era fear about whether Jay wants him *that* way. Keep these a flush, not a
+  set piece; mind the tonal turn so it doesn't whiplash against the heartbreak.
+- **Entries where Jay grew small *because of Ian*** — the gut-punch, and it's load-bearing: Ian sees
+  first-hand that his meddling took Jay's agency more often than not, made him feel helpless and
+  inept. This is the **faults / lock-and-key** material made *felt* rather than abstract.
+- **Going back in time** — Jay lost and alone, then college, the struggle — heartbreaking, and again
+  *nothing the reader or Ian didn't already know.* Seeing it confirmed is the point; it hurts
+  precisely because it's not news.
+
+**The gift is peak Jay** — and ties to the worthiness arc. Volunteering the unflattering truth,
+braced to be devalued, and being loved *more* instead, is the series thesis in miniature (same
+engine as the watch: "I don't deserve this"). It's why the scene earns its place rather than
+indulging.
+
+**Comic relief (keep it).** After the sleepless night, Ian takes the journals *to work* and keeps
+reading instead of working, to Jay's great dramatic disapproval — **cancels a meeting because he's
+"acquired vital materials he must review immediately,"** in flawless jargon that obscures the actual
+task, Jay rolling his eyes into the back of his head. The joke characterizes: it's Ian's obsessive
+workaholic total-focus, for once aimed at Jay instead of a portfolio. Don't lose the deadpan-jargon
+line.
+
+**Long-range echo to exploit.** This *completes* Book 1 ch15, where Ian opens a book, finds Jay's
+margin notes, and feels "an unexpected sense of intimacy, as if reading private correspondence."
+Book 4 makes it literal — now it *is* private correspondence, given freely. Lean on it and ch15
+reads as planted three years early.
+
+**Relationship to the reckoning (so they don't collide).** Both beats hinge on Ian confronting how
+he made Jay small — so play them as *different registers of the same wound,* not a repeat:
+- The **journal** is the **private, quiet, early** version: Ian alone, at night, *confirming* the
+  cost to himself. No confession, no confrontation; it's where the guilt first becomes *felt*.
+- The **reckoning** is the **interpersonal, climactic** version: Ian saying it aloud to Jay, and
+  Jay's absolution turning the knife.
+- So the journal should **seed** the reckoning, not pre-empt it — let it plant the guilt that the
+  reckoning later forces into the open. (Sequencing follows from the open question of where the
+  reckoning falls; if the reckoning is late, the journal sits comfortably earlier as slice-of-life.)
+
+**Two editor's levers.**
+1. **Render reactions, not the corpus.** A whole-night read becomes an info-dump if you transcribe
+   the journal. Pick ~3–4 killer excerpts (one admiring, one blushy-erotic, one "I grew small," one
+   childhood/college heartbreak) and gesture at the rest through Ian's face. The reader needs Ian,
+   not the archive.
+2. **Give Ian one degree of internal turn.** Since the value isn't information, the scene earns
+   itself through *movement* — something shifts in him, however slight (a resolve to meddle less; a
+   more frightened tenderness; guilt crystallizing toward the reckoning). One degree, not a
+   transformation.
+
+**Setup required — plant the habit early (editing-pass task).** For "Ian sees Jay write one day" to
+land, Jay's journaling must already exist on the page; right now the only handwriting references are
+*work* notes. The plan is to plant it **lightly, starting from Book 1** — roughly **three light
+touches across Books 1–3**, no more (a stack glimpsed on a shelf; him writing once and going quiet
+about it; a passing line). There's plenty of room and it must stay non-load-bearing. Logged in
+`structure/planting-queue.md` so the editing pass actually does it.
+
+---
+
 ## Tone guardrail (carried from every prior book)
 
 The concept's intensity — "burn himself on the pyre," "nearly unmans him," "to the point of
