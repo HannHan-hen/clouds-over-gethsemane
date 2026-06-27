@@ -54,9 +54,9 @@ Investment firms split into **front / middle / back office** — a standard piec
   - **Investment / research analysts (buy-side)** — dig into companies, sectors, and data to
     feed the PMs. **Luc**, and later **Rin/Gal**, are juniors here.
   - **Client / relationship managers, business development** — win and keep clients. **Leo**
-    (charming, "handles client relations," lands the big fish) is essentially **Head of
-    Business Development / Client Relations** as well as a principal. **Ela** ("client
-    communications") is relationship management.
+    (charming, "handles client relations," lands the big fish) is **Head of Business Development /
+    Client Relations** and a partner/heir — *not* the CEO (a `characters.md` mislabel; see
+    `company-audit.md` §3). **Ela** ("client communications") is relationship management.
 - **Middle office** (controls the risk):
   - **Risk** — measures how much danger is in the portfolios. **Zoe** ("portfolio risk
     assessments").
@@ -68,7 +68,9 @@ Investment firms split into **front / middle / back office** — a standard piec
     specialist, database management") — and note the *dropped table* in Book 2 is a real,
     plausible disaster in this seat.
 - **Corporate** (runs the company itself):
-  - **CEO / Managing Partner** — runs the business. **Leo** (or his father) sits here.
+  - **CEO / Managing Partner** — runs the business. At T&A this is effectively **Turner Senior**
+    (founder/chairman, still the active top authority) — *not* Leo. There's no separate modern
+    "CEO"; Ian is the day-to-day operator (see `company-audit.md` §3).
   - **CFO** — runs the *firm's own* money (payroll, budgets, the books, the year-end bonus
     machine). **Ian's other hat** — he holds this *and* the CIO role (see `company-audit.md` §2).
   - **Founder / Chairman** — **Turner Senior.**

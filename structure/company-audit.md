@@ -115,13 +115,78 @@ your notes, and it turns a realism wrinkle (CFO with too much client work) into 
 
 ---
 
-## 3. Org chart, lightly corrected (for your own reference)
+## 3. Leo and Turner Senior — pinning down who actually runs the firm
 
-| Person | Current label | Cleaner label | Notes |
+### The discrepancy to fix first: Leo is *not* the CEO
+
+`characters.md` lists Leo's position as **"CEO of Turner & Associates."** **The manuscript never
+once does** — and in fact contradicts it. "CEO" appears in the prose only for *other* firms (Garnet
+Ridge's Mac Cartwright, B2 ch22/24). Every time the books place Leo, he's the **owner's son with a
+deliberately loose remit**:
+
+- **B1 ch03 (the load-bearing line):** *"His father owns the company, so Leo has a position but not
+  traditional responsibilities. He consults on special projects, handles client relationships, but
+  he's not a regular employee like the rest of us."*
+- **B1 ch16:** Ian rarely attends client meetings; *"that responsibility typically fell to Leo or
+  the dedicated client relations team. Leo possessed the natural charm and social grace that made
+  him perfectly suited for client schmoozing."*
+- **B2 ch32 / ch35:** Leo is *"practically the company owner"* / *"the son of the owner."* He
+  personally interviewed Jay — he hires on a whim, because he can.
+
+So "CEO" is a **characters.md error to correct**, not a fact to honor. It also matters for
+*characterization*: Leo's whole texture — the charming, un-serious heir who hired Jay as a lark and
+calls him a "joke hire" — depends on his *not* being a grinding chief executive. Making him CEO
+would quietly undercut the man.
+
+### What Leo actually is
+
+A **partner / principal by birthright — the rainmaker and heir apparent.** His authority is real
+(he can hire, spend company money, give Jay a company card, plan firm events) but it flows from
+*being the owner's son and a partner*, not from an operational title. His one genuine, non-grind
+contribution is **winning and charming clients** (he lands Hartwell; he *enjoys* the schmoozing).
+Everything underneath that he offloads — chiefly to Ian. Cleanest in-world title: **Partner & Head
+of Client Relations / Business Development** (heir apparent), *not* CEO.
+
+### Then who *does* run it? Turner Senior — and, functionally, Ian
+
+The prose is equally clear that **Turner Senior is still the active top authority**, not a retired
+figurehead:
+
+- In his seventies but *"commanded attention… an aura of authority"* (B1 ch07); board members
+  defer to him.
+- **He, not Leo, makes the firm-level calls.** When Ian wants Orrey dropped, he sends a **risk memo
+  to Turner Senior**, who signs off and orders the termination (B1 ch13). The buck stops with the
+  founder. *(Note: this is also the legitimate lever in the Cruver redesign, §6 — Ian doesn't act
+  unilaterally; he routes it through the chairman.)*
+
+So the realistic structure is a **founder-run boutique**: Turner Senior presides (**Founder /
+Chairman**, still effectively the managing principal); Leo is the **rainmaker-heir partner**; and
+**Ian is the indispensable operator** who actually runs the machine day to day (combined CFO + CIO,
+§2, plus much of the operational load Leo hands him). A separate modern "CEO" seat doesn't need to
+exist — and the prose is better without one, because *"Ian is the load-bearing column"* is the
+whole point.
+
+### Making it explicit on the page (the Leo version of §2's Jay-noticing trick)
+
+Same efficient move as Ian's role: let the structure surface through Jay's observation, since it
+doubles as Leo-characterization.
+
+- Early, Jay can register the **gap between Leo's status and Leo's effort** — he's "practically the
+  owner," yet his actual day is lunches, galas, and charm, while the substance runs through Ian.
+  Luc's B1 ch03 explainer already does exactly this; lean on it.
+- Later, Jay clocks the **trust mechanism**: Leo offloads enormous responsibility onto Ian and
+  *never worries about it*, because Ian is better at it and Leo would rather be in the rooms he
+  enjoys. That's not laziness so much as a clean division — Leo gets the schmoozing, Ian gets the
+  spreadsheets, Turner Senior keeps the final word — and it reframes "joke hire" Leo as someone
+  shrewd enough to know exactly what he's good at and what to delegate.
+
+### The corrected org chart (for reference)
+
+| Person | Current / characters.md label | Cleaner label | Notes |
 |---|---|---|---|
-| Ian | CFO | **CFO *and* CIO / Head of Investments** | keep the CFO title; also owns investment strategy, marquee clients, the team (combined role, §2) |
-| Leo | owner's son, "client relations" | **CEO / Managing Partner; rainmaker** | wins clients; the social/business-dev engine — but **delegates the execution of client work to Ian** (does the schmoozing, offloads the rest) |
-| Turner Senior | founder | **Founder / Chairman** | — |
+| Ian | CFO | **CFO *and* CIO / Head of Investments** | keep the CFO title; also owns investment strategy, marquee clients, the team (combined role, §2) — and absorbs Leo's operational/client load |
+| Leo | "CEO" (chars.md); owner's son, "client relations" | **Partner & Head of Client Relations / BizDev; heir apparent** | **not CEO.** Rainmaker; does the schmoozing, **delegates execution to Ian**; hires/spends by birthright |
+| Turner Senior | founder | **Founder / Chairman — still the active top authority** | makes firm-level calls (signs off the Orrey termination, B1 ch13); board defers to him |
 | Amy, Max | "senior analysts" | **senior investment analysts / PMs** | run portfolios; institutional memory |
 | Luc | "junior associate" | **investment analyst** | research support |
 | Zoe | "portfolio risk assessments" | **risk analyst** | middle office |
@@ -283,7 +348,8 @@ for the move.
 
 | # | Item | Sev | Fix |
 |---|---|---|---|
-| 1 | Ian titled "CFO" but also does a CIO's job | MED | Keep "CFO"; establish he holds a **combined CFO + CIO / head-of-investments** role; Leo = CEO/MP; Turner Sr = Chairman |
+| 1 | Ian titled "CFO" but also does a CIO's job | MED | Keep "CFO"; establish he holds a **combined CFO + CIO / head-of-investments** role, and absorbs Leo's client/ops load (§2, §3) |
+| 1b | `characters.md` calls Leo **"CEO"** — the prose never does (he's the loose-remit owner's son) | MED | Correct to **Partner & Head of Client Relations / BizDev; heir apparent — not CEO**. Turner Senior = Founder/Chairman & active top authority; Ian = the operator (§3) |
 | 2 | Cruver: convenient mega-crime + reads as justice, not vindictiveness | HIGH | Shrink the crime, enlarge+personalize Ian's response; move the campaign to Book 2 |
 | 3 | Book 1 "gap" after moving the vendetta | — | Keep harassment; Ian *fires Orrey as client* + plant a chilling seed |
 | 4 | Guaranteed monthly/quarterly bonuses unrealistic | MED | High base + big **annual** bonus (Jan) + **discretionary profit-share** for the quarterly hits |

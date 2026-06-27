@@ -20,5 +20,5 @@ those, see `guidelines/reports/` and `timeline/`.
 |---|---|
 | `book1-audit.md` | Full interrogation of Book 1: character fidelity, event plausibility, and a ranked list of the weakest/most inconsistent things. (Sibling finding amended after the Book 2 read — see its header note.) |
 | `book2-audit.md` | Same treatment for Book 2, plus a **cross-book reconciliation** section (siblings, office floor, employment history) that resolves what Book 1 left ambiguous. |
-| `company-audit.md` | The firm itself — Turner & Associates. What works, what to fix (Ian's title, bonus structure, crunch intensity, economics), and a full **redesign of the Cruver/Orrey situation** (vindictive-but-realistic, relocated toward Book 2, no fabrication). |
+| `company-audit.md` | The firm itself — Turner & Associates. What works, what to fix (Ian's combined CFO+CIO role, **Leo's and Turner Senior's roles**, bonus structure, crunch intensity, economics), and a full **redesign of the Cruver/Orrey situation** (vindictive-but-realistic, relocated toward Book 2, no fabrication). |
 | `finance-primer.md` | Real-world reference: what an investment firm actually does, the org chart, how the money works, the **annual cycle/seasons**, and a glossary. Groundwork for `company-audit.md`. |
