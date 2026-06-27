@@ -295,7 +295,8 @@ Milestone: The Palm House (Ian's wordless rescue)
 Start Date: Friday, November 23, 2018 (est.)  
 Day: Friday  
 Duration: 1 day
-The team teases the newly-spoiled "food critic." Over a gilded Friday dinner Jay nearly says "I miss being yours," and swallows it. Ian reframes the post-vacation gloom as "an engineering problem, not a moral failing" — beauty travels; "we came home with a Friday and a Saturday." He invites Jay to lunch the next day.
+
+The team teases the newly spoiled food critic. Over a gilded Friday dinner Jay nearly says I miss being yours, and swallows it. Ian reframes the post-vacation gloom as "an engineering problem, not a moral failing" — beauty travels; "we came home with a Friday and a Saturday." He invites Jay to lunch the next day.
 
 ### Scene 3: Climate Adjustment
 Start Date: Saturday, November 24, 2018 (est.)  
