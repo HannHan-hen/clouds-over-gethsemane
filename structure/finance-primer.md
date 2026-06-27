@@ -201,13 +201,16 @@ The setting is a deliberately rosy "what if a finance boutique were a genuinely 
 to work" — a low-key, insider version of the old "Google was a dream job" idea. That's a valid
 fantasy; just know the three dials you've turned past real life, all defensible as *choices*:
 
-1. **Comp cadence** — real comp is *high base + one big discretionary annual bonus*, not
-   guaranteed monthly/quarterly bonuses. (Keep the generosity; relabel the form — `company-
-   audit.md` §4.)
+1. **Comp cadence** — real comp is *high base + discretionary bonuses*, not *guaranteed*
+   monthly/quarterly ones. But the opaque, surprising structure here is a **deliberate device** for
+   Jay's money arc, and the narrative already flags it as unusual — so *keep it*. The only tweak is
+   to rename "guaranteed bonus" → *discretionary* profit-share/distribution, which makes the
+   weirdness read as firm eccentricity, not author error. (See `company-audit.md` §4.)
 2. **Crunch intensity** — "living in the office in sleeping bags for a week" is *deal-team /
-   audit-busy-season* brutality, heavier than a well-run asset-management boutique's quarterly
-   reporting usually is. Fine as this firm's particular culture; even better if the later
-   hiring of Ray/Liv visibly *tames* it (which it does).
+   audit-busy-season* brutality. But it's **intentional and bounded**: a one-off disaster caused by
+   Ian over-expanding clients without hiring, then remedied (Ray/Liv). Not the firm's normal rhythm,
+   so it doesn't need softening — just mark it as abnormal via team grumbling held by loyalty + comp.
+   (See `company-audit.md` §5.)
 3. **Perks** — car service, lavish events, premium everything: real at the top, dialed up here.
    Already established as deliberate.
 
