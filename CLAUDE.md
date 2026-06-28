@@ -151,6 +151,7 @@ Where to look — and where things belong:
 | `summary.md` | Brief chapter-by-chapter overview, condensed from `timeline/` (Books 1–2 complete, Book 3 in progress; further chapters added as they land). |
 | `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
 | `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters 41–48). |
+| `timeline/real-world-reference.md` | Real-world template to match against: the setting (Maincross = Frankfurt), real German weather by season (2016–), and the major holiday dates (Easter/Christmas). A lean-on reference, not canon. |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
 | `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, and editing playbook. |
 | `guidelines/book{1,2,3,4}-craft-notes.md` | Per-book craft/intent companions (what each book is *trying* to do). Books 1–2 are retrospective; Book 3 is half-retrospective, half-**planned** (ch49 onward is intent, not yet written); Book 4 is **concept-only** — a north-star aim, since the book is unwritten and may be far off. Treat the Book 3/4 forward material as provisional plan, not canon. |

@@ -662,7 +662,8 @@ Jay and Ian retreat to the bar and bond over their shared philistine bafflement;
 Start Date: early-to-mid June 2017 (est.)  
 Day: early June  
 Duration: ~2 weeks  
-A brutal heat wave drives Jay to the air-conditioned office every evening alongside Ian; he keeps up his gym sessions, takes driving lessons for the trip home, and starts browsing apartment listings.
+A brutal heat wave drives Jay to the air-conditioned office every evening alongside Ian; he keeps up his gym sessions, takes driving lessons for the trip home, and starts browsing apartment listings.  
+Real-world note: corroborated — June 2017 brought a record Western-European heatwave (upper 30s °C in Germany, peaking 23–24 June). Play it as a real, record-breaking summer. See `timeline/real-world-reference.md`.
 
 ---
 
