@@ -62,7 +62,7 @@ By half past seven he was in the lobby of the Northlight Financial Center. He to
 
 Jay was already at his desk. He was always early. He had a coffee going and looked at his screen with a frown of concentration that meant he was halfway into some spreadsheet.
 
-He looked up the moment Ian entered, and everything in him changed. The guard he kept against the whole world lowered, and a real and helpless smile appeared, immediate as light. Ian felt the confirmation like a hand closing around his ribs.
+He looked up the moment Ian entered, and everything in him changed. The guard he kept against the whole world lowered, and a real and helpless smile appeared. It was the last of the evidence.
 
 "Good morning. You're in early," Jay said.
 
