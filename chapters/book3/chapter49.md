@@ -70,8 +70,6 @@ He looked up the moment Ian entered, and everything in him changed. The guard he
 
 Nothing more. Nothing dangerous. A greeting in an office before a day full of meetings.
 
-Jay's smile remained, radiant and entirely unaware of what it had done.
-
-Jay bent over the calendar, already talking about the auditor call and the analyst meeting at four. The gloom that had followed them back from the island seemed, finally, to have loosened its hold.
+Jay's smile remained, radiant and entirely unaware of what it had done. He bent over the calendar, already talking about the auditor call and the analyst meeting at four. The gloom that had followed them back from the island seemed, finally, to have loosened its hold.
 
 Ian stood beside the desk and listened, and wanted every impossible thing at once.
