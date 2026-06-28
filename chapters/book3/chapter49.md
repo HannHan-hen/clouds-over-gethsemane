@@ -10,7 +10,7 @@ The evidence was impossible to dismiss any longer.
 
 Jay looking at him across the island breakfast table as if the morning had been invented for the two of them alone. Jay on the deck of that ridiculous cruise ship, pressed against Ian's shoulder, not for balance but because he had wanted to remain there. Jay's hand in his, accepted day after day. Jay in the hot springs suite, drunk and miserable, asking to be held. Jay at five thirty with his eyes on Ian's door.
 
-A blush at his hand on Jay's back in the gym. Another when he touched Jay's wrist. A long, helpless silence in the sauna, eyes sliding away and returning despite Jay's obvious effort to behave like a rational adult. The invented cold the next day, so transparent that only Ian's own cowardice had made it convincing. Jay unable to look at him properly at his desk. Jay turning red at the sight of a hand on a document.
+Then there were the blushes. Jay blushed easily and about many things, that had always been true, but Ian had learned the difference between the blush that came from embarrassment and a different kind. A blush at his hand on Jay's back in the gym. Another when he touched Jay's wrist. A blush followed by a long silence in the sauna, eyes sliding away and returning despite Jay's obvious effort to behave like a rational adult. The invented cold the next day, so transparent that only Ian's own cowardice had made it convincing. Jay unable to look at him properly at his desk. Jay turning red at the sight of a hand on a document.
 
 Heat and proximity, Ian had told himself. Gratitude. Hero worship. The aftershock of a holiday.
 
