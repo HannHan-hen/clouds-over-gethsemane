@@ -21,6 +21,7 @@ the audits are the **why**.
 | Status | Item | Where (approx.) | For / why | Touch |
 |---|---|---|---|---|
 | ☐ | **Jay's journaling habit** | ~3 touches across Books 1–3 | Book 4 journal scene | very light |
+| ☐ | **"You are strong, I am weak" motif** (Ian reinforces the hierarchy via kindness) | woven, Books 1–3 | Late-B3 strong/weak scene + B4 reckoning | light, recurring |
 | ☐ | **Cruver "chilling seed"** (Ian isn't finished) | Book 1, after the gala harassment + Orrey termination (B1 ch13) | Relocate the vindictive campaign to Book 2 | light |
 | ☐ | **Discretionary-bonus relabel** | Book 1 first-pay scenes; B2 raise/contract (ch33) | Keep opacity, lose "author error" read | light wording, several spots |
 | ☐ | **Crown-jewel tier line** | One line, early Book 1 | Fix "100 staff / ~20 clients" optics + economics | one line |
@@ -47,6 +48,23 @@ it; a **passing line** beside the existing "my idea of leisure is reading at hom
 with the interior-Jay through-line (beautiful hand B1 ch01/ch11/ch15; post-it "trademark" ch11;
 reading B2 ch25/ch26/ch35) and pays off Ian's B1 ch15 "private correspondence" beat. **Restraint is
 the point.** *Done when:* ~3 light references exist across Books 1–3, none load-bearing.
+
+### ☐ "You are strong, I am weak" motif — Ian reinforcing the hierarchy
+*Ref: `guidelines/book3-craft-notes.md` "Threads to carry" (the strong/weak through-line) and the
+late-B3 "strong / weak conversation" beat.*
+
+A series-spanning motif that pays off in a late-Book-3 scene and travels into the Book 4 reckoning:
+Jay reads the relationship as strong/weak, worthy/lesser, and **Ian reinforces it at every turn while
+meaning to be kind** — protecting, deciding-for, providing, sparing Jay the hard thing. For the
+late-B3 conversation and the B4 reckoning to land as the *sum* of a pattern (not a late invention),
+the pattern must be legibly *there* across Books 1–3. Most of the bricks already exist (the apartment,
+the bonus opacity, the unilateral kindnesses) — this item is about making the **strong/weak reading
+of them** faintly visible, mostly from *Jay's* side: a beat where he frames an Ian kindness as proof
+of his own lower place, gratefully, without resentment. Keep it **light and recurring**, never
+spelled out, never named by either character — the device is that neither sees it. Coheres with the
+worthlessness wound (B2) and the "at best a pet" through-line. *Done when:* a reader can feel Jay
+ranking himself below Ian, and Ian's kindnesses feeding it, as a consistent quiet pattern — without
+the text ever stating it.
 
 ### ☐ Cruver "chilling seed" — Ian isn't finished
 *Ref: `company-audit.md` §6 (the Cruver redesign).*

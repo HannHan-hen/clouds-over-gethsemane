@@ -145,6 +145,14 @@ This is the harvest of the Book 3 **guiltless decision**: ch49's "faultless," ma
 without-Jay choice is the purest instance of the very pattern the reckoning indicts. Lay it
 cleanly in Book 3 so Book 4 can collect it here.
 
+It is also the payoff of the series-spanning **"you are strong, I am weak" motif** (Book 3 notes,
+"Threads to carry"): Jay ranking himself below Ian, and Ian reinforcing it through kindness, all
+the way back to Book 1. The late-Book-3 **strong/weak conversation** voices it between them for the
+first time; here the reckoning *names the harm in it.* The same self-erasure Jay performs settledly
+in that conversation — "I am the lesser one, of course" — is what, in the reckoning, finally guts
+Ian when it arrives as *absolution he cannot want.* Book 3 builds the motif; this scene is where it
+is indicted. Keep the through-line continuous so the reckoning reads as a reckoning, not a reveal.
+
 ---
 
 ## The journal scene (a quiet companion to the reckoning)

@@ -152,14 +152,21 @@ yearning is palpable. This is the engine swap made flesh in a single image: the 
 reach, the refusal active, the surface holding. Keep the temperature *tender*, not hard — this
 is the most loving Ian has ever been, which is the tragedy, not a coldness.
 
-### The candidate beat: the power-imbalance conversation — two men talking past each other — **(plan)**
+### The "strong / weak" conversation — two men talking past each other — **(plan)**
 
-*Added at the author's steer.* The imbalance should be **voiced aloud at least once** before
-any coming-together — partly to satisfy the reader who needs the elephant named, partly because
-the *way* it gets named is itself the cleanest dramatization of the book's wound. The trap to
-avoid is the honest-clearing-the-air scene where naming the problem dissolves it. This beat does
-the opposite: the two **never actually meet.** They appear to have one conversation and are in
-fact having two, and they leave it *more* apart and *more* wrong, each comforted.
+*Added at the author's steer.* This is a **late-Book-3 scene** (near the threshold ending), and
+it is the **crystallization of a motif that runs the whole series**, not a standalone beat — see
+*"The 'you are strong, I am weak' through-line"* under Threads below. By the time it's spoken, the
+reader has watched Ian reinforce the hierarchy at every turn for three books; here it finally gets
+said *out loud, between them*, and that is why placing it near the end lands hardest — it is the
+sum of everything that came before, and the door into Book 4.
+
+The imbalance should be **voiced aloud at least once** before any coming-together — partly to
+satisfy the reader who needs the elephant named, partly because the *way* it gets named is itself
+the cleanest dramatization of the book's wound. The trap to avoid is the honest-clearing-the-air
+scene where naming the problem dissolves it. This beat does the opposite: the two **never actually
+meet.** They appear to have one conversation and are in fact having two, and they leave it *more*
+apart and *more* wrong, each comforted.
 
 The mechanism:
 
@@ -212,9 +219,12 @@ Execution cautions:
    two execution rules above: neither character should name "condescension" or "pet." The reader
    sees two people loving each other past each other; the men see a hard, honest, kindly talk.
    The gap is the whole beat.
-4. **Placement is open** (somewhere ch49→end, plausibly *after* Ian's decision so he is already
-   holding the line when Jay hands him the excuse). The author is still deciding where it sits and
-   whether it's one scene or a thread; logged here so the device isn't lost.
+4. **Placement: late Book 3, near the threshold ending** (author's steer), *after* Ian's decision
+   so he is already holding the line when Jay hands him the excuse. It is the spoken-aloud payoff of
+   the running strong/weak motif, so it wants the accumulated weight of the whole book behind it —
+   not an early airing. It can also crack toward the *choice* that ends the book (per "Where Book 3
+   ends"): Jay's self-ranking is exactly the thing Ian's decision feeds on, so this conversation is a
+   natural last tightening of the held breath before the cliff into Book 4.
 
 ---
 
@@ -262,6 +272,21 @@ forward; the power of the ending is the threshold itself.
 
 ## Threads to carry, honor, or retire
 
+- **The "you are strong, I am weak" through-line.** *(Author's steer — a series-spanning motif, not
+  just a Book 3 item.)* Jay frames the relationship as strong/weak, high/low, worthy/lesser — and
+  **Ian reinforces it at every turn**, almost always while *trying to be kind*: protecting, deciding,
+  providing, sparing Jay the hard thing. Every unilateral kindness (the apartment, the bonus, the
+  guiltless decision) is also a brick in the hierarchy Jay already believes in. The two read the same
+  acts oppositely — Ian as love, Jay as confirmation of his place — and neither names it. This is the
+  connective tissue under three established threads (the worthlessness wound, "at best a pet," the
+  guiltless decision); calling it out as *one motif* keeps it deliberate rather than incidental.
+  - **It crystallizes in the late-Book-3 strong/weak conversation** (Ian's-arc model beat above),
+    where it finally gets voiced between them — and it **travels into Book 4**, where the same dynamic
+    is what the reckoning indicts (Jay can't fault Ian; his forgiveness is the wound performing
+    itself). Book 3 should *build and reinforce* it; Book 4 *works* it. Do not resolve it in Book 3.
+  - **Reinforcement is a planting-pass job too** — Ian's hierarchy-reinforcing kindnesses want to read
+    as a consistent pattern across already-written chapters, not a late invention. Tracked in
+    `structure/planting-queue.md`.
 - **The false-accusation wound = the concrete teeth for the power-imbalance danger.** Ian's
   fear "for Jay" needs to be more than abstract hand-wringing, and the teeth already exist:
   Ian survived a false misconduct accusation once (the post-scandal Turner incident), and the
