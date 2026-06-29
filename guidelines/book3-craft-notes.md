@@ -152,6 +152,80 @@ yearning is palpable. This is the engine swap made flesh in a single image: the 
 reach, the refusal active, the surface holding. Keep the temperature *tender*, not hard — this
 is the most loving Ian has ever been, which is the tragedy, not a coldness.
 
+### The "strong / weak" conversation — two men talking past each other — **(plan)**
+
+*Added at the author's steer.* This is a **late-Book-3 scene** (near the threshold ending), and
+it is the **crystallization of a motif that runs the whole series**, not a standalone beat — see
+*"The 'you are strong, I am weak' through-line"* under Threads below. By the time it's spoken, the
+reader has watched Ian reinforce the hierarchy at every turn for three books; here it finally gets
+said *out loud, between them*, and that is why placing it near the end lands hardest — it is the
+sum of everything that came before, and the door into Book 4.
+
+The imbalance should be **voiced aloud at least once** before any coming-together — partly to
+satisfy the reader who needs the elephant named, partly because the *way* it gets named is itself
+the cleanest dramatization of the book's wound. The trap to avoid is the honest-clearing-the-air
+scene where naming the problem dissolves it. This beat does the opposite: the two **never actually
+meet.** They appear to have one conversation and are in fact having two, and they leave it *more*
+apart and *more* wrong, each comforted.
+
+The mechanism:
+
+- **Ian opens on ethics.** He raises the imbalance the way he holds it internally — that he is
+  Jay's boss, that the difference in *power* makes any romantic move inherently compromised,
+  coercive in structure even if not in intent. His register is the guiltless-decision register:
+  grave, principled, protective.
+- **Jay agrees wholeheartedly — and converts it to class.** He takes the point instantly and
+  warmly, but he hears a *different* imbalance: not power, **station.** Getting with Ian would
+  be a *misalliance.* He is of lower social standing; of course he never seriously imagined it
+  was a real possibility. He says this without bitterness — as settled fact, even with a kind of
+  gratitude that Ian would be gracious enough to raise it.
+- **Ian tries to correct the frame and cannot.** He explains, succinctly, that he means the
+  *structural* problem — the power he holds over Jay, the thing that would cost Jay and not him —
+  *not* anything about Jay's worth. And Jay **solemnly nods as though that were the same thing.**
+  No matter how Ian re-spins it, it lands in Jay as confirmation: *yes, exactly, I am not your
+  equal.* Not equal — **inferior.** If he were more driven, had reached further, he might stand
+  at Ian's level and have some *right* to it; he hasn't, so he doesn't. He files Ian's ethics as
+  good manners about their stations.
+
+Why this is the wound made flesh, and not just a sad misunderstanding:
+
+- **Ian's nobility becomes indistinguishable from condescension — and Jay is *grateful* for the
+  condescension.** Ian is being as principled and self-denying as he knows how; Jay receives it
+  as a great man being decent to a lesser one, and **thinks more of Ian for it.** That is the
+  "at best, a pet" verdict arriving from the inside — Jay handing Ian the pedestal, Ian unable
+  to refuse it without insulting Jay further. The harder Ian tries to flatten the hierarchy, the
+  more reverent Jay gets.
+- **It externalizes the engine without spending it.** The imbalance gets said out loud, yet
+  nothing is resolved and no one is freed — Ian's decision is *reinforced* (now he has heard Jay
+  rank himself below the line), and Jay's unworthiness belief is *reinforced* (Ian, he thinks,
+  has all but confirmed it). The held breath tightens; it does not release. This is how you name
+  the elephant without letting the naming defuse the book.
+- **It is the straightest possible seed for the Book 4 reckoning.** The Book 4 horror is Ian
+  realizing he hates how the world shrinks Jay and is its single largest cause, and that Jay's
+  forgiveness is the wound performing itself. Here is that pattern in miniature and in advance:
+  Ian watches Jay shrink *himself*, in real time, in response to Ian's own kindness, and is
+  helpless to stop it — and may not even fully register the horror of it yet. Lay it cleanly.
+
+Execution cautions:
+
+1. **Jay is sincere, never bitter, never fishing.** The beat dies the instant he sounds like he
+   wants to be argued out of it. He means every word; the self-ranking is comfortable to him,
+   almost peaceful. The pathos is in how *settled* it is.
+2. **Ian means his ethics for real — don't let him be secretly relieved.** He is genuinely trying
+   to say *you are not lesser*, and genuinely failing to be heard. If the prose lets him quietly
+   accept Jay's framing because it is convenient, the fault disappears. Keep him frustrated,
+   tender, and unable to land the correction.
+3. **The horror lands structurally, on the reader, not on either man in the moment.** Per the
+   two execution rules above: neither character should name "condescension" or "pet." The reader
+   sees two people loving each other past each other; the men see a hard, honest, kindly talk.
+   The gap is the whole beat.
+4. **Placement: late Book 3, near the threshold ending** (author's steer), *after* Ian's decision
+   so he is already holding the line when Jay hands him the excuse. It is the spoken-aloud payoff of
+   the running strong/weak motif, so it wants the accumulated weight of the whole book behind it —
+   not an early airing. It can also crack toward the *choice* that ends the book (per "Where Book 3
+   ends"): Jay's self-ranking is exactly the thing Ian's decision feeds on, so this conversation is a
+   natural last tightening of the held breath before the cliff into Book 4.
+
 ---
 
 ## Jay's arc, ch49→end — the late realization — **(plan)**
@@ -198,6 +272,21 @@ forward; the power of the ending is the threshold itself.
 
 ## Threads to carry, honor, or retire
 
+- **The "you are strong, I am weak" through-line.** *(Author's steer — a series-spanning motif, not
+  just a Book 3 item.)* Jay frames the relationship as strong/weak, high/low, worthy/lesser — and
+  **Ian reinforces it at every turn**, almost always while *trying to be kind*: protecting, deciding,
+  providing, sparing Jay the hard thing. Every unilateral kindness (the apartment, the bonus, the
+  guiltless decision) is also a brick in the hierarchy Jay already believes in. The two read the same
+  acts oppositely — Ian as love, Jay as confirmation of his place — and neither names it. This is the
+  connective tissue under three established threads (the worthlessness wound, "at best a pet," the
+  guiltless decision); calling it out as *one motif* keeps it deliberate rather than incidental.
+  - **It crystallizes in the late-Book-3 strong/weak conversation** (Ian's-arc model beat above),
+    where it finally gets voiced between them — and it **travels into Book 4**, where the same dynamic
+    is what the reckoning indicts (Jay can't fault Ian; his forgiveness is the wound performing
+    itself). Book 3 should *build and reinforce* it; Book 4 *works* it. Do not resolve it in Book 3.
+  - **Reinforcement is a planting-pass job too** — Ian's hierarchy-reinforcing kindnesses want to read
+    as a consistent pattern across already-written chapters, not a late invention. Tracked in
+    `structure/planting-queue.md`.
 - **The false-accusation wound = the concrete teeth for the power-imbalance danger.** Ian's
   fear "for Jay" needs to be more than abstract hand-wringing, and the teeth already exist:
   Ian survived a false misconduct accusation once (the post-scandal Turner incident), and the
