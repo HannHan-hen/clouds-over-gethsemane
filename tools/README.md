@@ -170,6 +170,36 @@ python3 tools/reformat_chapters.py            # dry run: list files that differ
 python3 tools/reformat_chapters.py --write    # rewrite in place
 ```
 
+## build_timeline_csv.py
+
+Flattens the `timeline/*.md` files into one browsable spreadsheet,
+`timeline/timeline-events.csv` — one row per scene — for filtering and charting
+in Excel/Sheets. Unlike the QA tools above it reads `timeline/`, not the prose,
+and writes a fixed path (no `--out`).
+
+```bash
+python3 tools/build_timeline_csv.py
+```
+
+Two source layers, joined on `(Book, Chapter, Scene)`:
+
+- **Facts** — `book{1,2,3}-timeline.md`: dates, what-happens, milestones. Always
+  present; these define the rows.
+- **Metadata** (optional) — `book{n}-scene-metadata.md`: the interpretive layer
+  the timeline deliberately omits — `POV, Central theme, Themes, Mood, Weather,
+  Setting, Keywords, Tension, Purpose`. Higher-level `Book` / `Arc` / `Chapter`
+  themes are written **once** there and broadcast down onto every scene row.
+  A book with no metadata file just gets blank interpretive columns (currently
+  only Book 3 is seeded).
+
+The metadata file is hierarchical (`## Book`, `## Arc N: chapters X-Y`,
+`## Chapter N`, `### Scene N`) and keys must match the timeline headers exactly.
+The builder prints a `!` warning when a metadata scene has no timeline match (or
+a metadata-covered scene has none) — which catches scene renumbering before the
+join silently rots. Controlled vocabularies for the counting columns
+(`Central theme`, `Tension`) live in a legend comment at the top of the
+metadata file; keep them disciplined or the charts turn to noise.
+
 ## textlib.py
 
 Shared library — not a CLI. Single source of truth for manuscript-format
