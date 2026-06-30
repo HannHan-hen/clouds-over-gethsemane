@@ -64,6 +64,11 @@ enforces live in **`guidelines/guidelines.md`** (with the fuller AI-tic list in
 
 ## The story so far
 
+_The live writing position — newest chapter and the last few commits — is injected
+at session start by `.claude/hooks/session-start.sh`, not hard-coded here, since it
+drifts every time we draft. The notes below describe each book's shape, not its
+exact length._
+
 **Clouds Over Gethsemane** is a slowburn BL (Boys' Love) romance set in
 high-stakes finance. It follows the gradual development of feelings between
 **Ian Hagen**, a brilliant but emotionally guarded CFO, and **Jay Hall**, his
@@ -81,7 +86,7 @@ moments rather than dramatic declarations.
   domestic closeness: revealed pasts, a job-search crisis Jay resolves by
   staying, and Ian destroying a predator's career to protect him. Their bond is
   unbreakable; neither names it.
-- **Book 3** (in progress, 8 ch) — Ian's 40th birthday, new traditions, a
+- **Book 3** (in progress) — Ian's 40th birthday, new traditions, a
   hot-springs retreat and a ten-day island vacation where a "fake couple"
   pretense dissolves the line between game and truth. Both are deeper in love
   than ever and still haven't confessed.
@@ -150,7 +155,7 @@ Where to look — and where things belong:
 | `chapters/book{1,2,3}/` | The working manuscript (`.md`), the readable copy we edit. |
 | `summary.md` | Brief chapter-by-chapter overview, condensed from `timeline/` (Books 1–2 complete, Book 3 in progress; further chapters added as they land). |
 | `characters.md` | Full character reference — leads, supporting cast, family, walk-ons. |
-| `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters 41–48). |
+| `timeline/` | Detailed scene-by-scene, dated chronology — the source of truth the summaries condense (Books 1–2 complete; Book 3 covers the written chapters from 41 onward). |
 | `timeline/real-world-reference.md` | Real-world template to match against: the setting (Maincross = Frankfurt), real German weather by season (2016–), and the major holiday dates (Easter/Christmas). A lean-on reference, not canon. |
 | `WORKFLOW.md` | The chapter pipeline: intake, format, and the editing passes. |
 | `guidelines/` | Writing rules (`guidelines.md`), AI-tic watchlist, and editing playbook. |
