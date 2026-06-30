@@ -49,7 +49,7 @@ FIELD_RE = re.compile(r"^(Start Date|Day|Duration|Milestone|Note):\s*(.*)$")
 # --- Metadata layer -------------------------------------------------------
 
 # Per-scene interpretive fields, in CSV column order.
-META_SCENE_FIELDS = ["POV", "Central theme", "Themes", "Mood", "Weather",
+META_SCENE_FIELDS = ["POV", "Central theme", "Motifs", "Mood", "Weather",
                      "Setting", "Keywords", "Tension", "Purpose"]
 # Broadcast-down fields (written once per level, copied onto every scene).
 META_BROADCAST_FIELDS = ["Chapter theme", "Arc theme", "Book theme"]

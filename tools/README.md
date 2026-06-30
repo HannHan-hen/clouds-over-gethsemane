@@ -186,7 +186,7 @@ Two source layers, joined on `(Book, Chapter, Scene)`:
 - **Facts** — `book{1,2,3}-timeline.md`: dates, what-happens, milestones. Always
   present; these define the rows.
 - **Metadata** (optional) — `book{n}-scene-metadata.md`: the interpretive layer
-  the timeline deliberately omits — `POV, Central theme, Themes, Mood, Weather,
+  the timeline deliberately omits — `POV, Central theme, Motifs, Mood, Weather,
   Setting, Keywords, Tension, Purpose`. Higher-level `Book` / `Arc` / `Chapter`
   themes are written **once** there and broadcast down onto every scene row.
   A book with no metadata file just gets blank interpretive columns (currently
@@ -194,11 +194,13 @@ Two source layers, joined on `(Book, Chapter, Scene)`:
 
 The metadata file is hierarchical (`## Book`, `## Arc N: chapters X-Y`,
 `## Chapter N`, `### Scene N`) and keys must match the timeline headers exactly.
-The builder prints a `!` warning when a metadata scene has no timeline match (or
-a metadata-covered scene has none) — which catches scene renumbering before the
-join silently rots. Controlled vocabularies for the counting columns
-(`Central theme`, `Tension`) live in a legend comment at the top of the
-metadata file; keep them disciplined or the charts turn to noise.
+Arcs are fixed 5-chapter blocks (4 per 20-chapter book). The builder prints a
+`!` warning when a metadata scene has no timeline match (or a metadata-covered
+scene has none) — which catches scene renumbering before the join silently rots.
+Controlled vocabularies for the single-value columns (`Central theme`, `Mood`,
+`Setting`, `Tension`) live in a legend comment at the top of the metadata file;
+keep them disciplined or the charts and filters turn to noise. `Motifs` is the
+one free-form, multi-value column (evocative tags, pipe-separated).
 
 ## textlib.py
 
