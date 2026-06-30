@@ -1,85 +1,59 @@
-## Scene 2: The Annual Schism
+## Scene 2: Short Days
 
-The storage boxes came up from the thirty-third floor on the second Monday of December, and the thirty-fourth divided itself into two nations before lunch.
+The team tree went up the second week of December, and this year Jay ran it instead of being run by it.
 
-The first nation was Amy's. Amy did not decorate so much as art-direct. She had a colour scheme this year — white and champagne and a single restrained note of deep green — and a roll of wired ribbon she guarded like a state secret, and a conviction that a tree was a composition and not a landfill.
+He had the boxes open and the lights claimed before Max could mount a campaign, and when Rin and Tia hovered at the edge of the whole production holding tinsel like something that might bite, it was Jay who waved them in. Lift side tasteful, he told them, that's Amy's, defer to Amy. Kitchen side, whatever Max wants, you can't win, don't try. The middle's negotiable and I'm the one who rules on the middle. He said it the way you recite a thing you've stopped having to think about, and the two of them took their tinsel into the fray believing, correctly, that he had them.
 
-The second nation was Max's. Max believed a tree should contain, at minimum, one singing reindeer, a string of chili-pepper lights left over from somebody's stag weekend, a felt gnome whose hat had gone gray with age, and the Thing. The Thing was a lump of fused glass in no identifiable color that Kim produced from the bottom of a box every December with the reverence of a man unwrapping a relic.
+The first glass bird came out of the box, and Ray's chair was empty.
 
-"It's historically important," Kim said, holding it to the light.
+It had been full a minute before. No one had seen him go; no one ever did. Rin turned, half a question already forming, and Jay headed it off without looking up from the branch he was untangling. "Leave him. He surfaces in January. Hand me the long string." And that was that — Ray's annual vanishing absorbed into the day like weather, the empty chair left in peace, Rin redirected to a more useful grief. Jay had done it without a thought. After two of these he knew exactly which traditions you enforced and which ones you let a man escape, and he protected Ray's escape the way he protected everything on this floor, quietly, as if it were his to look after, because by now it was.
 
-"It's a cataract," Amy said.
+Ian watched it through the glass and felt nothing he would once have felt.
 
-"It was on the first tree. The very first one. It has tenure. You can't fire it, it predates all of us except you."
+A year ago the sight of Jay handing his good humor out to a whole roomful of people would have cost him something small and mean and carefully hidden. That account was closed. He knew how the evening went now. The floor emptied at six. The little tree in the corner of his office waited in its box. Jay would come in and shut the door on all of this and make the next hour theirs, not because anyone arranged it, but because that was simply where the day ran downhill to, every December, reliably. Ian no longer had to engineer the reasons. He could stand at the glass and watch Jay belong to the room and feel only the steady certainty of a man who knew where he stood, which was first, and was content to wait for it.
 
-"I will pay you not to hang it."
+---
 
-"It hangs in the front. It always hangs in the front."
+At six the floor emptied, and Jay came in without a pretext, because they had stopped needing them.
 
-Into this, every year, walked Jay — and this year he walked into it as the man who ran it.
+He brought the small box with the green ribbon, the private one, and set it on Ian's desk and started on the office tree the way he started on anything that was just for the two of them, talking, untangling, ruling out last year's colours on principle. Ian hung the gold monstrosity he'd carried off the staff tree in open defiance of the brief. Jay hung the glass fox. The room was dark beyond the lamp and the building had gone quiet around them, and the little tree filled up with the ornaments the floor never saw.
 
-He had the floor plan of the thing in his head by now. He set Luc and Max to the lights first, because the lights went on before anyone was allowed an opinion about anything, that was the rule, that was the treaty. He gave Amy the client-facing side, the side the lift doors opened onto, where champagne ribbon could do diplomacy. He gave Max the kitchen side, where the gnome and the chili peppers could riot in private. The contested territory was the middle, the corner you saw from neither the lift nor the kitchen, and the middle was where Jay brokered, ornament by ornament, like a man dividing a country down a river.
+It was somewhere near the end, the last paper star going on, that Jay's words came out faster than usual and slightly out of order.
 
-"Tia. Rin. Come here, you're new, you need the briefing," he said, and the two of them came over holding tinsel like people who had been handed a live animal.
+"Come to mine for Christmas. The actual day. I know it's small, the flat, it's nothing like yours, and I'm not half the cook you are, but I want to do it properly. Have you over." He kept his eyes on the star, then made himself bring them up. "If you're free. You're probably not. Forget that part. Just — come to mine."
 
-"There's a briefing," Tia said.
+There was nerve in it, the old nerve, the same one he'd carried his whole life, braced to be told no. But under the nerve was something newer that hadn't been there last December, a flat determination to ask out loud and let it cost what it cost, because he had decided somewhere this autumn that he was allowed to want this, and wanting it, he was going to say so.
 
-"There's a treaty. Lights are neutral, everyone does the lights. The lift side is tasteful, that's Amy's, you defer to Amy or you'll lose. The kitchen side is whatever Max wants, don't fight it, you cannot win and you will only get a gnome named after you. The middle is negotiable. You put one tasteful thing up, then one ridiculous thing, and you keep them in balance, and if you feel strongly about a piece you bring it to me and I'll rule on it. I am the middle. I am Switzerland."
+"Yes," Ian said. "I'd like that. Thank you."
 
-"What happens if we just hang things wherever," Rin said.
+It came out level, almost offhand, and he couldn't have made it otherwise if he'd tried, because the size of what was underneath it would not have fit in the room. He had spent half the week on this exact question against his own better judgment — running the bleak version where Jay didn't ask and the twenty-fifth came and Ian spent it provisioned and alone, declining Leo out of a preference he could no longer name. He'd made himself stop. He'd told himself not to count on it, and then he had counted on it anyway, because he knew Jay, knew how December turned the heat up under everything Jay felt, knew he had been bolder all month, asking for things. He had been nearly certain the question was coming. Being right about it steadied nothing and warmed everything; the relief simply arrived under the calm and stayed there, where Jay couldn't see it.
 
-"Then it's anarchy and Amy stops speaking to Max until the new year. It happened. We don't talk about the year it happened."
+"Just like that?" Jay said. "I had a whole second half. I had reasons ready."
 
-Tia looked at the half-strung tree with the flat assessment of a woman who had planned actual operations. "This is more structured than my last deployment."
+"Keep them. You'll need them for something. My only term is the wine — I bring it, you don't argue."
 
-"It has to be. There are feelings involved."
+"I wasn't going to argue about the wine." The nerve had gone out of his face and left the plain pleasure underneath, almost too much to look at directly. "I really thought you'd have plans."
 
-Amy, threading ribbon, said over her shoulder that Liv had texted — the youngest had a fever and the school had sent him home, so she was out for the duration and sent her love and one instruction, which was that nobody let Max near the topper. Somebody promised to guard the topper. The afternoon acquired the small ordinary weight of someone missing for an ordinary reason, a child sick at home, a desk left dark, and went on.
+"My plans were to be talked into yours."
 
-It went on without Ray, because Ray had ceased to exist.
+They turned off the office lights and left the small tree glowing in the dark for nobody, because it was theirs and could glow for nobody if they liked. In the lift Jay talked the whole way down about menus he wasn't qualified to attempt, and Ian answered every question and held behind the answers the single fixed fact of where he would be on the twenty-fifth — in a small warm flat two streets from his own, across a table from the person he wanted and would not reach for, and glad of it, completely glad, which was the only part that could still frighten him.
 
-He had been at his desk when the first box opened. By the time the first ornament came out of it — a glass bird, Amy's, handled like a newborn — his chair was empty and pushed in and his screen was locked. No one had seen him go. He had simply performed his annual disappearance, the one Ian privately admired, between one bauble and the next.
+---
 
-"Where's Ray," Rin said, twenty minutes later, with the particular alarm of a man who tracked Ray's location the way other people tracked weather.
+The party was the Thursday after, and a Thursday told you everything.
 
-"Gone to ground," Luc said.
+A gala got a Saturday and fireworks; the year-end thing got the big meeting room with the partition folded back, the same canapés every firm in the building ate, and a team with about ninety minutes of celebration left in it after a week of closing the year. Nobody minded. By December a party you could leave by nine wasn't a disappointment, it was a mercy. Max declared the tarts a war crime and ate eleven. Amy slipped out at half eight, finally able to report that Liv's youngest was over the fever. Rin tracked Ray, who had come under some threat from Leo, and stood near him glowing with the triumph of a man who had befriended a cat.
 
-"He can't have left, his coat's still here."
+The company gift came round near the end, an envelope per head with the last of the wine, and Jay had his hopes pinned on it for reasons he was not subtle with himself about. Last year it had been a spa voucher, a day with robes and a pool, and the sauna voucher from Rus had since taught him precisely how a thing like that worked — how a gift you had to use was a door, how *it'd be a waste otherwise* was a complete and bulletproof reason to take Ian somewhere warm and quiet and call it nothing. If the firm handed him another one, he'd have his excuse ready-made, the asking done for him.
 
-"Then he's in the building somewhere, being elsewhere. Leave him be. He surfaces in January."
+He opened the envelope. It was a cash card.
 
-The rumor took the rest of the hour to assemble itself. Someone had heard the far men's room lock. Someone else swore the light was on in there with no sound coming out. By three o'clock it was established office fact that Ray Shore was sitting fully clothed in a locked stall on the far side of the floor, waiting out the tinsel like a man waiting out shelling, and that this was, for Ray, completely reasonable, and that Rin should absolutely not go and knock on the door, Rin, leave him, he is having a nice time, his version of a nice time, leave him.
+A generous one, a genuinely useful one, the better gift by every sensible measure. Jay was disappointed for about ten seconds — not over the money, over the door that hadn't opened, the excuse that wasn't coming.
 
-Through all of it Ian stayed in his office, or appeared to. The glass wall gave him the whole floor, and he watched Jay cross it and re-cross it — to Amy, to resolve a question of ribbon; to the kitchen, to award Max a victory that cost nothing; to the middle, to hold court over a contested snowman; to the two newest people, to teach them a foolish ritual as if it mattered, because to Jay it did, and because to the team it had come to matter that Jay thought so.
+And then, somewhere in the eleventh second, he decided he'd buy the thing himself.
 
-A year ago the sight would have cost Ian something. A year ago he had stood at this same glass and felt the small mean arithmetic of a man watching the person he wanted give his warmth out to a roomful of other people, none of whom had to ration it. He had hated the feeling and hidden it and called it nothing.
+The spa day existed whether or not the firm handed it to him. He had money and a card in his hand and nothing on earth stopping him from booking it and saying, *I got us this, come on, it'd be a shame to waste it* — the exact flimsy line Ian always used, turned around. He knew what it was, and he turned it over with his eyes open, the way he hadn't let himself look at anything for two years: a quiet pool, the two of them, an afternoon with no work between them, two names on one reservation at a place built for exactly that. It was not what colleagues bought each other. Anyone who saw the booking would read it one way and one way only.
 
-It was gone now. He watched Jay hand his good humor around the floor and felt no debt accruing anywhere, because he knew exactly how the evening went. The floor emptied at six. The small tree in the corner of his office waited in its box for the one pair of hands he wanted on it. Whatever Jay spent out there he would more than make back in here, tonight, without ever knowing there had been an account. Ian could afford to be generous with the part of Jay that belonged to the room, now that he had quietly decided the rest of it belonged to no one, himself least of all. There was no competition left to lose. He found he could enjoy the show.
+He was going to buy it anyway. The thing in him that had run for two years on fear and gratitude and the certainty that wanting wasn't allowed had burned out sometime around the island and hadn't come back on. He still didn't think it could go anywhere — the old sum still gave the old answer, that a man like him didn't get to have this. But the hopelessness no longer reached all the way down to his hands, and his hands wanted to do this. After the new year, when the bookings opened, he'd find the quiet one and hand it over and watch Ian fail to find a reason to say no.
 
-He joined it twice, briefly, and only for the largest ornaments.
-
-The first time, he came out, took the single biggest gold bauble in the entire collection — a thing the size of a grapefruit, vulgar, magnificent — out of Max's hands, and hung it at the very top of the client side, higher than any of them could reach without the step, where it would catch the light from the lift doors and be the first thing every visitor saw.
-
-"That's not the scheme," Amy said.
-
-"It's the scheme now. It's a statement of confidence. We had a good year." He returned to his office.
-
-The second time, an hour later, he emerged without a word, hung the second-biggest bauble directly beside the first, considered the pair with the seriousness of a man approving a quarterly result, and went back in. The floor watched this happen and decided, collectively and silently, not to remark on it, the way you don't remark on a cat doing something it would be embarrassed to be caught at.
-
-"Does he know he does that," Tia said quietly.
-
-"He thinks he's above it," Luc said. "He is extremely not above it. Watch — he'll do the star."
-
-By six the lights were on and the schism had resolved into its usual armed peace: a tasteful nation facing the clients, a riotous nation facing the kettle, and a demilitarized middle that Jay had negotiated into something almost charming. Kim's Thing hung in the front, because it always hung in the front, and Amy had stopped seeing it, the way you stop seeing anything you've lost a war to enough times. The team pulled on coats, argued about Friday, and trickled toward the lift in twos and threes.
-
-"You staying?" Luc asked Jay, halfway into his scarf.
-
-"For a bit. There's the office tree still." Jay glanced toward the glass, where the desk lamp was on and Ian had not moved to leave. "We do a small one in there. We have done, the last couple of years."
-
-"Right." Luc looked at him a second longer than the answer needed, then decided, visibly, to say nothing about it, and to be glad about it instead. "Don't let him put all the big ones at the top."
-
-"He's going to put all the big ones at the top."
-
-"Yeah." Luc grinned and went. "Night, Switzerland."
-
-The lift took the last of them down. The floor went quiet and dim, the new tree glowing in the corner, Kim's relic catching the light in the front exactly as promised. Jay stood alone in the hush a second, then picked up the last small box — the one that had never gone out to the floor, the one with a green ribbon on it that wasn't from any storage shelf — and carried it in to where Ian was waiting with his sleeves already going up his forearms.
+Across the room Ian caught his look and raised an eyebrow at the envelope — *good?* Jay lifted it in answer, *good*, and gave away nothing else, and walked the two cold streets home with the whole bright plan turning over in him, and for once the cold didn't touch him at all.
