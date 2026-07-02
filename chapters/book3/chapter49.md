@@ -14,7 +14,7 @@ Then there were the blushes. Jay blushed easily and about many things, that had 
 
 Heat and proximity, Ian had told himself. Gratitude. Hero worship. The aftershock of a holiday.
 
-The holiday itself was the entry he could not reconcile. He had never intended to go near the line—he had meant only to look at it from a permissible distance. But the opportunities kept presenting themselves, and he took each one, and each one left him a step nearer, until one morning his hand was pressed flat against the line and he discovered it was not a wall. It bent like a string under the finger, farther than he would have believed and without one sound of protest, and he was, after all, good with strings. He played this one with care, making sure every push would land well before he made it. Every one landed. Jay practically melted under his fingers, met each near-transgression with joy that beamed until it nearly blinded, and Ian had wanted to make him happy so much that in the end each new push barely needed justifying at all.
+The holiday itself was the entry he could not reconcile. He had never intended to go near the line—he had meant only to look at it from a permissible distance. But the opportunities kept presenting themselves, and he took each one, and each one left him a step nearer, until one morning his hand was pressed flat against the line and he discovered it was not a wall. It bent like a string under the finger, farther than he would have believed and without one sound of protest, and he was, after all, good with strings. He played this one masterfully, making sure every push would land well before he made it. Every one landed. Jay practically melted under his fingers, met each near-transgression with joy that beamed until it nearly blinded, and Ian had wanted to make him happy so much that in the end each new push barely needed justifying at all.
 
 He had built explanations for Jay's reactions as if he were a failing company building special-purpose vehicles, one thin structure after another to keep the liability off the balance sheet. It had been almost impressive, as exercises in self-deception went. He could have taught a seminar.
 
@@ -52,7 +52,7 @@ Beyond even that lay the part Ian knew too well. A CFO and his assistant. He und
 
 There was only one course left. Ian had spent the night trying to find a better one, something clever, some path that allowed him in without risking harm, but the correct course was to hold the line exactly where it stood.
 
-He would be warm. He would be generous. He would go on giving Jay every good thing he could give—attention, care, the dinners and the runs and the long honest talks, all of it. He would let Jay feel cherished but he would never tip it over the edge. He would stay restrained enough that Jay always felt safe, never cornered, never asked for anything he could not freely refuse.
+He would be warm. He would be generous. He would go on giving Jay every good thing he could give—attention, tenderness, the dinners and the runs and the long honest talks, all of it. He would let Jay feel cherished but he would never tip it over the edge. He would stay restrained enough that Jay always felt safe, never cornered, never asked for anything he could not freely refuse.
 
 He would answer trust with trustworthiness. He would be a mentor and a friend. A man Jay could love without consequence.
 
