@@ -14,7 +14,9 @@ Then there were the blushes. Jay blushed easily and about many things, that had 
 
 Heat and proximity, Ian had told himself. Gratitude. Hero worship. The aftershock of a holiday.
 
-He had built explanations as if he were a failing company building special-purpose vehicles, one thin structure after another to keep the liability off the balance sheet. It had been almost impressive, as exercises in self-deception went. He could have taught a seminar.
+The holiday itself was the entry he could not reconcile. He had never intended to go near the line—he had meant only to look at it from a permissible distance. But the opportunities kept presenting themselves, and he took each one, and each one left him a step nearer, until one morning his hand was pressed flat against the line and he discovered it was not a wall. It bent like a string under the finger, farther than he would have believed and without one sound of protest, and he was, after all, good with strings. He played this one with care, making sure every push would land well before he made it. Every one landed. Jay practically melted under his fingers, met each near-transgression with joy that beamed until it nearly blinded, and Ian had wanted to make him happy so much that in the end each new push barely needed justifying at all.
+
+He had built explanations for Jay's reactions as if he were a failing company building special-purpose vehicles, one thin structure after another to keep the liability off the balance sheet. It had been almost impressive, as exercises in self-deception went. He could have taught a seminar.
 
 The conclusion had been obvious for some time. Jay had feelings for him, and they were already deep. Ian had met the eyes of men who wanted him. He knew what it looked like.
 
@@ -40,7 +42,7 @@ He wanted the first astonished second of a kiss and the moment after, when Jay r
 
 The danger was what Jay might believe he owed.
 
-That was the part Ian could not excuse. Jay had never been mercenary, never calculating, never anything but absurdly sincere, but sincerity did not erase the ledger between them. The power imbalance did not change because both of them wanted it. It made it easier to miss. Jay's entire professional life ran through Ian's judgment. Ian had given him shelter. If he reached for more from inside that shelter, what would Jay think refusal cost?
+That was the part Ian could not excuse. Jay had never been mercenary, never calculating, never anything but absurdly sincere, but sincerity did not erase the ledger between them. The power imbalance did not change because both of them wanted it. It made it easier to miss. Jay's entire professional life ran through Ian's judgment. Ian had given him shelter. If he reached for more from inside that shelter—and the island had shown how easily the reaching could be dressed as care—what would Jay think refusal cost?
 
 And perhaps the ugliest part was that Jay might not think of refusal at all.
 
