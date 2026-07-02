@@ -34,7 +34,7 @@ If he pulled back instead, put distance between them to keep Jay safe, the damag
 
 If Ian moved closer by degrees and let the friendship warm slowly into something more...
 
-He stopped there and let himself be honest, since dawn had already stripped him of most of his defenses.
+He stopped there and was honest with himself, since dawn had already stripped him of most of his defenses.
 
 He wanted to move closer.
 
